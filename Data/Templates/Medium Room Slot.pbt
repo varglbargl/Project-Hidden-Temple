@@ -182,6 +182,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -268,6 +274,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -358,6 +370,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -393,11 +411,11 @@ Assets {
         Name: "Whitebox Wall 01 Doorway 01"
         Transform {
           Location {
-            X: 1
-            Y: -399.999969
+            X: -1
+            Y: 400
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -444,6 +462,12 @@ Assets {
               G: 0.285000026
               B: 0.242710814
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -534,6 +558,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -619,6 +649,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -709,6 +745,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -744,7 +786,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 3200
+            X: 3201
             Y: -1199.99939
           }
           Rotation {
@@ -797,6 +839,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -832,7 +880,7 @@ Assets {
         Name: "Whitebox Wall 01 Doorway 01"
         Transform {
           Location {
-            X: 3200
+            X: 3201
             Y: -400
           }
           Rotation {
@@ -885,6 +933,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -920,7 +974,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 3200
+            X: 3201
             Y: 399.999512
           }
           Rotation {
@@ -971,6 +1025,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -1644,6 +1704,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1730,6 +1796,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -1820,6 +1892,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1906,6 +1984,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -2285,6 +2369,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2372,6 +2462,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -2463,6 +2559,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2550,6 +2652,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -2641,6 +2749,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2676,7 +2790,7 @@ Assets {
         Name: "Whitebox Wall 01 Doorway 01"
         Transform {
           Location {
-            X: 3200
+            X: 3201
             Y: -400
             Z: 600
           }
@@ -2730,6 +2844,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2765,7 +2885,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 3200
+            X: 3201
             Y: 399.999512
             Z: 600
           }
@@ -2819,6 +2939,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2854,7 +2980,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 3200
+            X: 3201
             Y: -1199.99939
             Z: 600
           }
@@ -2906,6 +3032,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -2997,6 +3129,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -3084,6 +3222,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -3175,6 +3319,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -3261,6 +3411,12 @@ Assets {
               G: 0.401000023
               B: 0.308839142
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -3352,6 +3508,12 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -3388,11 +3550,11 @@ Assets {
         Transform {
           Location {
             X: -1
-            Y: -400
+            Y: 400.000122
             Z: 600
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -3439,6 +3601,12 @@ Assets {
               G: 0.285000026
               B: 0.242710814
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner2:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }

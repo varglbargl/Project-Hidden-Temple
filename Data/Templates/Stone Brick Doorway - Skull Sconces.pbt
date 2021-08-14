@@ -433,6 +433,17 @@ Assets {
           }
         }
         ParentId: 12645645151077920185
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.254
+              G: 0.199084789
+              B: 0.054239545
+              A: 1
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -766,6 +777,17 @@ Assets {
           }
         }
         ParentId: 13925807450198522316
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.254
+              G: 0.199084789
+              B: 0.054239545
+              A: 1
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

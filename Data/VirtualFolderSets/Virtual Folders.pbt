@@ -1,5 +1,5 @@
 Assets {
-  Id: 10845672705904989893
+  Id: 4740355793131436925
   Name: "Virtual Folders"
   PlatformAssetType: 30
   SerializationVersion: 95
@@ -44,6 +44,10 @@ Assets {
     }
     Folders {
       VirtualFolderPath: "Room Slots"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Puzzle Rooms"
       PlatformAssetType: 5
     }
   }

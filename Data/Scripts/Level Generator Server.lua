@@ -11,6 +11,7 @@ for _, roomSlot in ipairs(platformingRoomSlots) do
   local size = roomSlot:GetCustomProperty("Size")
   local roomSlotPos = roomSlot:GetWorldPosition()
   local roomSlotRot = roomSlot:GetWorldRotation()
+  local roomSlotScale = roomSlot:GetWorldScale()
 
   local roomToSpawn = nil
 
@@ -22,6 +23,6 @@ for _, roomSlot in ipairs(platformingRoomSlots) do
     roomToSpawn = LARGE_PLATFORMING_ROOM_TABLE[math.random(1, #LARGE_PLATFORMING_ROOM_TABLE)]
   end
 
-  local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot})
+  local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot, scale = roomSlotScale})
   table.insert(spawnedPlatformingRooms, spawedRoom)
 end

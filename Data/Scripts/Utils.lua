@@ -131,15 +131,20 @@ function Utils.playSoundEffect(audio, location, params)
   sfx.isTransient = true
   sfx.volume = params.volume or 1
   sfx.pitch = params.pitch or 0
+  sfx.fadeInTime = params.fadeInTime or 0
+  sfx.fadeOutTime = params.fadeOutTime or 0
+  sfx.startTime = params.startTime or 0
+  sfx.stopTime = params.stopTime or 0
+  sfx.isAutoRepeatEnabled = params.isAutoRepeatEnabled or params.loop or false
 
   if location then
     sfx:SetWorldPosition(location)
     sfx.radius = params.radius or 1000
     sfx.falloff = params.falloff or 5000
   else
-    sfx.isAttenuationEnabled = params.isAttenuationEnabled or false
-    sfx.isOcclusionEnabled = params.isOcclusionEnabled or false
-    sfx.isSpatializationEnabled = params.isSpatializationEnabled or false
+    sfx.isAttenuationEnabled = params.isAttenuationEnabled or params.attenuation or false
+    sfx.isOcclusionEnabled = params.isOcclusionEnabled or params.occlusion or false
+    sfx.isSpatializationEnabled = params.isSpatializationEnabled or params.spatialization or false
   end
 
   sfx:Play()

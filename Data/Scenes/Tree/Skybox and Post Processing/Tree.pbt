@@ -1,6 +1,59 @@
 Name: "Skybox and Post Processing"
 RootId: 2398503651436977104
 Objects {
+  Id: 12974528479536971970
+  Name: "Ambient Occlusion Post Process"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2398503651436977104
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Intensity"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Radius"
+      Float: 600
+    }
+    Overrides {
+      Name: "bp:Blend Weight"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Unbounded"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9354654774360822870
+    }
+    TeamSettings {
+    }
+  }
+}
+Objects {
   Id: 11782348471040589729
   Name: "Lensflare Post Process"
   Transform {
@@ -15,6 +68,21 @@ Objects {
     }
   }
   ParentId: 2398503651436977104
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Intensity"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Tint"
+      Color {
+        R: 0.75
+        G: 1
+        B: 0.900000036
+        A: 1
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -144,24 +212,24 @@ Objects {
     }
     Overrides {
       Name: "bp:Light Absorption Amount"
-      Float: 0.5
+      Float: 0.75
     }
     Overrides {
       Name: "bp:Albedo"
       Color {
-        R: 0.125
-        G: 0.25
-        B: 0.24006623
+        R: 0.25
+        G: 0.5
+        B: 0.480132461
         A: 1
       }
     }
     Overrides {
       Name: "bp:Beam View Direction"
-      Float: 0.95
+      Float: 0.65
     }
     Overrides {
       Name: "bp:Fog Density"
-      Float: 100
+      Float: 50
     }
     Overrides {
       Name: "bp:View Distance"
@@ -269,7 +337,7 @@ Objects {
     }
     Overrides {
       Name: "bp:Blend Amount"
-      Float: 0
+      Float: 0.25
     }
     Overrides {
       Name: "bp:Occlusion Tint"
@@ -297,6 +365,14 @@ Objects {
     Overrides {
       Name: "bp:Occlusion Exponent"
       Float: 1
+    }
+    Overrides {
+      Name: "bp:Cast Shadows"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Cast Volumetric Shadows"
+      Bool: false
     }
   }
   Collidable_v2 {

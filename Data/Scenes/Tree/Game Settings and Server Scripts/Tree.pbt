@@ -116,7 +116,6 @@ Objects {
       FlipOnMultiJump: true
       CanMoveUp: true
       CanMoveDown: true
-      IsMountEnabled: true
       MaxHitpoints: 100
     }
   }
@@ -126,8 +125,7 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -1600
-      Z: 115
+      Z: 150
     }
     Rotation {
     }
@@ -257,6 +255,48 @@ Objects {
       }
       PlayerInteractDistance: 500
       PlayerInteractAngleDeg: 50
+    }
+  }
+}
+Objects {
+  Id: 10144073527391840135
+  Name: "Sprint"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2460791136951327307
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8797142716281303237
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Sprint"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9713146756228470614
     }
   }
 }

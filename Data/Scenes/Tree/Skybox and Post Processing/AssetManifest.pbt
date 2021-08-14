@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9354654774360822870
+  Name: "Ambient Occlusion Post Process"
+  PlatformAssetType: 20
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_post_process_ao"
+  }
+}
+Assets {
   Id: 8258029249780464074
   Name: "AutoExposure Post Process"
   PlatformAssetType: 20

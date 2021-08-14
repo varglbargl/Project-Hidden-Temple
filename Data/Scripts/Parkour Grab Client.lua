@@ -28,8 +28,6 @@ function grabLedge(player)
   -- handler params: Player_player, MovementMode_newMovementMode, MovementMode_previousMovementMode
   letGoEvent = player.movementModeChangedEvent:Connect(function(thisPlayer, newMode, oldMode)
 
-    print(oldMode, newMode)
-
     if oldMode == MovementMode.NONE then
       leftHand:Deactivate()
       rightHand:Deactivate()

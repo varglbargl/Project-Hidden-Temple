@@ -18,6 +18,15 @@ Assets {
         ParentId: 4781671109827199097
         ChildIds: 16274366633834145559
         ChildIds: 5378009338483427821
+        ChildIds: 18236912926798394236
+        ChildIds: 188503810327707709
+        ChildIds: 15752350362070484762
+        ChildIds: 9946559861054965837
+        ChildIds: 1239426071907500649
+        ChildIds: 9019750738784230555
+        ChildIds: 5858917587702064525
+        ChildIds: 11498233374142780014
+        ChildIds: 16403917227445305363
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -55,6 +64,11 @@ Assets {
         ChildIds: 5761859219133802022
         ChildIds: 18155417935017911124
         ChildIds: 5272077455182420674
+        ChildIds: 15364127316713922842
+        ChildIds: 4902502904990809872
+        ChildIds: 12118299814897676195
+        ChildIds: 5936386272896645595
+        ChildIds: 7086115369237357041
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -101,6 +115,9 @@ Assets {
         ChildIds: 1806478600914584484
         ChildIds: 18017593177529129294
         ChildIds: 18019998116571369076
+        ChildIds: 4709973956667751961
+        ChildIds: 8216322061713053470
+        ChildIds: 3335339769633636741
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -2279,6 +2296,227 @@ Assets {
         }
       }
       Objects {
+        Id: 4709973956667751961
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1000
+            Y: 800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.6
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5761859219133802022
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8216322061713053470
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1000
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.6
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5761859219133802022
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3335339769633636741
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1000
+            Y: -800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.6
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5761859219133802022
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 18155417935017911124
         Name: "Celiling"
         Transform {
@@ -3562,6 +3800,17 @@ Assets {
           }
         }
         ParentId: 10174029925467231068
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.254
+              G: 0.199084789
+              B: 0.054239545
+              A: 1
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -3755,6 +4004,17 @@ Assets {
           }
         }
         ParentId: 8436749429699800403
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.254
+              G: 0.199084789
+              B: 0.054239545
+              A: 1
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -5747,6 +6007,17 @@ Assets {
           }
         }
         ParentId: 12826808162398587005
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.254
+              G: 0.199084789
+              B: 0.054239545
+              A: 1
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -5940,6 +6211,17 @@ Assets {
           }
         }
         ParentId: 334428969533883538
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.254
+              G: 0.199084789
+              B: 0.054239545
+              A: 1
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9542,6 +9824,296 @@ Assets {
         }
       }
       Objects {
+        Id: 15364127316713922842
+        Name: "Portcullis"
+        Transform {
+          Location {
+            X: 1400
+            Y: -1350
+            Z: 300
+          }
+          Rotation {
+            Roll: 89.9999924
+          }
+          Scale {
+            X: 0.6
+            Y: 1
+            Z: 1.1
+          }
+        }
+        ParentId: 16274366633834145559
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4542959667302136808
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4902502904990809872
+        Name: "Portcullis"
+        Transform {
+          Location {
+            X: 1400
+            Y: 950
+            Z: 300
+          }
+          Rotation {
+            Roll: -90
+          }
+          Scale {
+            X: 0.6
+            Y: 1
+            Z: 1.1
+          }
+        }
+        ParentId: 16274366633834145559
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4542959667302136808
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12118299814897676195
+        Name: "Fantasy Castle Pillar 02 - Mid"
+        Transform {
+          Location {
+            X: 1400
+            Y: -200
+            Z: 300
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.1
+            Y: 1.1
+            Z: 1.4
+          }
+        }
+        ParentId: 16274366633834145559
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 10914354925542967262
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5936386272896645595
+        Name: "Fantasy Castle Pillar 01 Top"
+        Transform {
+          Location {
+            X: 700
+            Y: 150
+            Z: -9.99995
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2.2
+            Y: 1.7
+            Z: 1.1
+          }
+        }
+        ParentId: 16274366633834145559
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 13304908840312358092
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7086115369237357041
+        Name: "Fantasy Castle Pillar 01 Top"
+        Transform {
+          Location {
+            X: 700
+            Y: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2.2
+            Y: 1.7
+            Z: 0.6
+          }
+        }
+        ParentId: 16274366633834145559
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 13304908840312358092
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 5378009338483427821
         Name: "ClientContext"
         Transform {
@@ -10016,6 +10588,2461 @@ Assets {
           }
         }
       }
+      Objects {
+        Id: 18236912926798394236
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 705
+            Y: -400
+            Z: 355
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 14966744503171265110
+        ChildIds: 10474317019963582774
+        ChildIds: 5575283072029907225
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 14966744503171265110
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18236912926798394236
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 10474317019963582774
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 10474317019963582774
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18236912926798394236
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 5575283072029907225
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18236912926798394236
+        ChildIds: 4650826978107324139
+        ChildIds: 8715180424104929247
+        ChildIds: 2393270405961096190
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 4650826978107324139
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5575283072029907225
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 10474317019963582774
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 8715180424104929247
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5575283072029907225
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 2393270405961096190
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5575283072029907225
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 188503810327707709
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 900
+            Y: -580
+            Z: 355
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 3476702274802516247
+        ChildIds: 7986864893450639991
+        ChildIds: 12886020032445770328
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 3476702274802516247
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 188503810327707709
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 7986864893450639991
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 7986864893450639991
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 188503810327707709
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 12886020032445770328
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 188503810327707709
+        ChildIds: 13763065223597245866
+        ChildIds: 9762043621558604958
+        ChildIds: 16050176346209134783
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 13763065223597245866
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12886020032445770328
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 7986864893450639991
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 9762043621558604958
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12886020032445770328
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 16050176346209134783
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12886020032445770328
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 15752350362070484762
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 900
+            Y: -220
+            Z: 355
+          }
+          Rotation {
+            Yaw: -179.999969
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 16733579934604494384
+        ChildIds: 13173362385462287696
+        ChildIds: 7697341109381262719
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 16733579934604494384
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15752350362070484762
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 13173362385462287696
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 13173362385462287696
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15752350362070484762
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 7697341109381262719
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15752350362070484762
+        ChildIds: 7423654983336903309
+        ChildIds: 6881389134465684409
+        ChildIds: 485133529055571864
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 7423654983336903309
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7697341109381262719
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 13173362385462287696
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 6881389134465684409
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7697341109381262719
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 485133529055571864
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7697341109381262719
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 9946559861054965837
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 1095
+            Y: -400
+            Z: 355
+          }
+          Rotation {
+            Yaw: 89.9999847
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 13306815309615106407
+        ChildIds: 16592385844826526215
+        ChildIds: 4197533779441246760
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 13306815309615106407
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9946559861054965837
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 16592385844826526215
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 16592385844826526215
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9946559861054965837
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 4197533779441246760
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9946559861054965837
+        ChildIds: 4005053220781608410
+        ChildIds: 1147655643359698158
+        ChildIds: 6208592588625092815
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 4005053220781608410
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4197533779441246760
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 16592385844826526215
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 1147655643359698158
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4197533779441246760
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 6208592588625092815
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4197533779441246760
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 1239426071907500649
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 899.999878
+            Y: 530
+            Z: 645
+          }
+          Rotation {
+            Yaw: -179.999969
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 2562928657775854403
+        ChildIds: 9041516148715837475
+        ChildIds: 11635813484938979340
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 2562928657775854403
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1239426071907500649
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 9041516148715837475
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 9041516148715837475
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1239426071907500649
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 11635813484938979340
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1239426071907500649
+        ChildIds: 12443123217324328958
+        ChildIds: 10725145176082077386
+        ChildIds: 14777240684938111723
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 12443123217324328958
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11635813484938979340
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 9041516148715837475
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 10725145176082077386
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11635813484938979340
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 14777240684938111723
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11635813484938979340
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 9019750738784230555
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 1095
+            Y: 350
+            Z: 645
+          }
+          Rotation {
+            Yaw: 89.9999847
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 5732694168137670065
+        ChildIds: 1253742290841683665
+        ChildIds: 14800361400443500286
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5732694168137670065
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9019750738784230555
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 1253742290841683665
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 1253742290841683665
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9019750738784230555
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 14800361400443500286
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9019750738784230555
+        ChildIds: 13884912471474624780
+        ChildIds: 17926747945113700408
+        ChildIds: 11604803086388114457
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 13884912471474624780
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14800361400443500286
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 1253742290841683665
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 17926747945113700408
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14800361400443500286
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 11604803086388114457
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14800361400443500286
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 5858917587702064525
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 900
+            Y: 170
+            Z: 645
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 7200420150049547431
+        ChildIds: 4397121802917707719
+        ChildIds: 16214906186630057960
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 7200420150049547431
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5858917587702064525
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 4397121802917707719
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 4397121802917707719
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5858917587702064525
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 16214906186630057960
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5858917587702064525
+        ChildIds: 17064850719404384282
+        ChildIds: 15324345755083174190
+        ChildIds: 10191386398981688591
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 17064850719404384282
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16214906186630057960
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 4397121802917707719
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 15324345755083174190
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16214906186630057960
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 10191386398981688591
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16214906186630057960
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 11498233374142780014
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 705
+            Y: 350
+            Z: 645
+          }
+          Rotation {
+            Yaw: -89.9999847
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 12480573179012830020
+        ChildIds: 17571733135075280932
+        ChildIds: 3447518229286172683
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 12480573179012830020
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11498233374142780014
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 17571733135075280932
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 17571733135075280932
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11498233374142780014
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 3447518229286172683
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11498233374142780014
+        ChildIds: 2453449716700911609
+        ChildIds: 1906680232793343693
+        ChildIds: 4877947307978029804
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 2453449716700911609
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3447518229286172683
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 17571733135075280932
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 1906680232793343693
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3447518229286172683
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 4877947307978029804
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3447518229286172683
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 16403917227445305363
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: 1395
+            Y: -45
+            Z: 620
+          }
+          Rotation {
+            Yaw: -89.9999847
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 15061271585791426873
+        ChildIds: 10370896812319185497
+        ChildIds: 6048209005528132214
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 15061271585791426873
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 11
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16403917227445305363
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 10370896812319185497
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 10370896812319185497
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 20.4000053
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16403917227445305363
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6048209005528132214
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16403917227445305363
+        ChildIds: 6790269487416739204
+        ChildIds: 7368564134397580464
+        ChildIds: 4577476503209633937
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 6790269487416739204
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6048209005528132214
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 10370896812319185497
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 7368564134397580464
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6048209005528132214
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 4577476503209633937
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6048209005528132214
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
     }
     Assets {
       Id: 7207757223016895409
@@ -10231,6 +13258,33 @@ Assets {
       PrimaryAsset {
         AssetType: "DecalBlueprintAssetRef"
         AssetId: "bp_decal_stain_top_001"
+      }
+    }
+    Assets {
+      Id: 4542959667302136808
+      Name: "Portcullis"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_portcullis_001"
+      }
+    }
+    Assets {
+      Id: 10914354925542967262
+      Name: "Fantasy Castle Pillar 02 - Mid"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_ts_fan_cas_pillar_002_mid"
+      }
+    }
+    Assets {
+      Id: 13304908840312358092
+      Name: "Fantasy Castle Pillar 01 Top"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_ts_fan_cas_pillar_001_top"
       }
     }
     Assets {
