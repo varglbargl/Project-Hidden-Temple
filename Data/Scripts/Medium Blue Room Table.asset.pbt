@@ -1,13 +1,13 @@
 Assets {
-  Id: 13776755987868830603
-  Name: "Small Platforming Room Table"
+  Id: 14472956469097285040
+  Name: "Medium Blue Room Table"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
       Overrides {
         Name: "cs:ExampleRoom"
         AssetReference {
-          Id: 7484763592513252755
+          Id: 4772396681212708579
         }
       }
     }

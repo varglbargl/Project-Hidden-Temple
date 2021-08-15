@@ -1185,5 +1185,5 @@ Assets {
   }
   SerializationVersion: 95
   DirectlyPublished: true
-  VirtualFolderPath: "Game Utilities"
+  VirtualFolderPath: "Game Components"
 }

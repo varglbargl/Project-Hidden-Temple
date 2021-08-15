@@ -44,7 +44,7 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 11
+            X: 1
             Y: 1
             Z: 1
           }
@@ -277,5 +277,5 @@ Assets {
   }
   SerializationVersion: 95
   DirectlyPublished: true
-  VirtualFolderPath: "Game Utilities"
+  VirtualFolderPath: "Game Components"
 }

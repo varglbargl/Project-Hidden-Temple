@@ -34,7 +34,7 @@ Objects {
 }
 Objects {
   Id: 14942283276819918009
-  Name: "Platforming Room Slots"
+  Name: "Room Slots"
   Transform {
     Location {
     }
@@ -61,6 +61,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Platforming Room Slots"
+    FilePartitionName: "Room Slots"
   }
 }

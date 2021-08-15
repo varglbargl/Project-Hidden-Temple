@@ -41,8 +41,8 @@ Assets {
         Name: "Fantasy Castle Wall 01 - Doorway 02"
         Transform {
           Location {
-            X: 4.76837158e-07
-            Y: -1
+            X: 1
+            Y: -0.999999642
           }
           Rotation {
             Yaw: -6.83018879e-06
@@ -958,5 +958,4 @@ Assets {
   }
   SerializationVersion: 95
   VirtualFolderPath: "Tileset"
-  VirtualFolderPath: "Walls"
 }

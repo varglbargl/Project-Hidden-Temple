@@ -1,63 +1,48 @@
 Assets {
-  Id: 8481417515541518942
-  Name: "Cobblestone Floor - Basic"
+  Id: 1546243647241143864
+  Name: "Hanging Vines"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 14135500536414441149
+      RootId: 11026836485182111831
       Objects {
-        Id: 14135500536414441149
-        Name: "Cobblestone Floor - Basic"
+        Id: 11026836485182111831
+        Name: "Curtains Straight"
         Transform {
           Scale {
-            X: 1
-            Y: 1
+            X: 6.20000029
+            Y: 0.500000119
             Z: 1
           }
         }
-        ParentId: 15804772536980518840
+        ParentId: 4781671109827199097
         UnregisteredParameters {
           Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
+            Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 9919644819108266555
+              Id: 15089487538220634502
             }
           }
           Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 17590704869240401704
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.644907057
-              G: 0.681000054
-              B: 0.520858
-              A: 1
-            }
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 6
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         CoreMesh {
           MeshAsset {
-            Id: 7207757223016895409
+            Id: 10410624715350118267
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -74,21 +59,21 @@ Assets {
       }
     }
     Assets {
-      Id: 7207757223016895409
-      Name: "Whitebox Floor 01 8m x 8m"
+      Id: 10410624715350118267
+      Name: "Curtains Straight"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_ts_gen_whitebox_floor_001_8x8"
+        AssetId: "sm_curtain_02"
       }
     }
     Assets {
-      Id: 17590704869240401704
-      Name: "Bricks Cobblestone Floor 01"
+      Id: 15089487538220634502
+      Name: "Jungle Vine (end)"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_brick_cobblestone_floor_001"
+        AssetId: "mi_liana-vine_end_001_uv"
       }
     }
     PrimaryAssetId {

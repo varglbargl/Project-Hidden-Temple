@@ -328,7 +328,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Light {
-          Intensity: 1
+          Intensity: 3
           Color {
             R: 1
             G: 0.840000033
@@ -342,7 +342,7 @@ Assets {
           Light {
             Temperature: 6500
             LocalLight {
-              AttenuationRadius: 1000
+              AttenuationRadius: 1200
               PointLight {
                 SourceRadius: 20
                 SoftSourceRadius: 20

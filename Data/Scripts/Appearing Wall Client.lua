@@ -41,7 +41,7 @@ function onBeginOverlap(thisTrigger, other)
     fadeTask = Task.Spawn(function() fadeColor(VISIBLE_COLOR) end)
 
     if not Object.IsValid(sfx) then
-      sfx = Utils.playSoundEffect(APPARATE_SFX, trigger:GetWorldPosition(), {volume = 0.5, fadeInTime = 0.25, occlusion = false, loop = true})
+      sfx = Utils.playSoundEffect(APPARATE_SFX, trigger:GetWorldPosition(), {fadeInTime = 0.25, occlusion = false, loop = true})
     end
 	end
 end

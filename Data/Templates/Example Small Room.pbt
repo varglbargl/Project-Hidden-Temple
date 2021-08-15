@@ -7319,5 +7319,5 @@ Assets {
     }
   }
   SerializationVersion: 95
-  VirtualFolderPath: "Platforming Rooms"
+  VirtualFolderPath: "Blue Rooms"
 }

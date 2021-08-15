@@ -1504,5 +1504,4 @@ Assets {
   }
   SerializationVersion: 95
   VirtualFolderPath: "Tileset"
-  VirtualFolderPath: "Floors"
 }

@@ -1,5 +1,15 @@
 local GRAB_TRIGGER = script:GetCustomProperty("GrabTrigger"):WaitForObject()
 
+function letGo(player)
+  player.serverUserData["Climbing"] = false
+
+  Events.Broadcast("StoppedClimbing", player)
+
+  player.isMovementEnabled = true
+  player:SetVelocity(Vector3.UP * 1000)
+  player:DisableRagdoll()
+end
+
 function grabLedge(player)
   if not Object.IsValid(player) then return end
 
@@ -11,19 +21,22 @@ function grabLedge(player)
   player:EnableRagdoll("right_hip", 0.5)
 
   local jumpEvent = nil
+  local knockedOffEvent = nil
 
   jumpEvent = player.bindingPressedEvent:Connect(function(thisPlayer, keyCode)
     if thisPlayer == player and thisPlayer.serverUserData["Climbing"] == true and keyCode == "ability_extra_17" then
-      thisPlayer.serverUserData["Climbing"] = false
-
-      Events.Broadcast("StoppedClimbing", thisPlayer)
-
-      thisPlayer.isMovementEnabled = true
-      thisPlayer:SetVelocity(Vector3.UP * 1000)
-      thisPlayer:DisableRagdoll()
+      letGo(player)
 
       jumpEvent:Disconnect()
+      knockedOffEvent:Disconnect()
     end
+  end)
+
+  knockedOffEvent = Events.Connect("StopClimbing", function(thisPlayer)
+    letGo(player)
+
+    jumpEvent:Disconnect()
+    knockedOffEvent:Disconnect()
   end)
 end
 

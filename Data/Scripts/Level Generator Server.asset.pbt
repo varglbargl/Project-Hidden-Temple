@@ -22,6 +22,12 @@ Assets {
           Id: 17454988403983291545
         }
       }
+      Overrides {
+        Name: "cs:PuzzleRoomTable"
+        AssetReference {
+          Id: 18362191824432434059
+        }
+      }
     }
   }
   SerializationVersion: 95

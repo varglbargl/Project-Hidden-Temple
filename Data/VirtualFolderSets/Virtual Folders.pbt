@@ -1,15 +1,11 @@
 Assets {
-  Id: 4740355793131436925
+  Id: 4016244414411035819
   Name: "Virtual Folders"
   PlatformAssetType: 30
   SerializationVersion: 95
   VirtualFolderSetAsset {
     Folders {
       VirtualFolderPath: "Props"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Game Utilities"
       PlatformAssetType: 5
     }
     Folders {
@@ -21,22 +17,8 @@ Assets {
       PlatformAssetType: 5
     }
     Folders {
-      VirtualFolderPath: "Tileset"
-      VirtualFolderPath: "Walls"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Tileset"
-      VirtualFolderPath: "Floors"
-      PlatformAssetType: 5
-    }
-    Folders {
       VirtualFolderPath: "Item Tables"
       PlatformAssetType: 3
-    }
-    Folders {
-      VirtualFolderPath: "Platforming Rooms"
-      PlatformAssetType: 5
     }
     Folders {
       VirtualFolderPath: "Utilities"
@@ -47,7 +29,15 @@ Assets {
       PlatformAssetType: 5
     }
     Folders {
-      VirtualFolderPath: "Puzzle Rooms"
+      VirtualFolderPath: "Game Components"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Blue Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Red Rooms"
       PlatformAssetType: 5
     }
   }
