@@ -247,6 +247,10 @@ Assets {
             Name: "cs:Force"
             Float: 850
           }
+          Overrides {
+            Name: "cs:KillPlayer"
+            Bool: true
+          }
         }
         WantsNetworking: true
         Collidable_v2 {

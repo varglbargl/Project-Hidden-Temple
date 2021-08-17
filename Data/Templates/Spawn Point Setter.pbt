@@ -38,14 +38,14 @@ Assets {
         Name: "Trigger"
         Transform {
           Location {
-            Z: 100
+            Z: 150
           }
           Rotation {
           }
           Scale {
-            X: 1.99999988
-            Y: 1.99999988
-            Z: 1.99999988
+            X: 2
+            Y: 3
+            Z: 3
           }
         }
         ParentId: 3017003455874663382
@@ -60,7 +60,7 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
+          Value: "mc:eindicatorvisibility:alwaysvisible"
         }
         Trigger {
           TeamSettings {

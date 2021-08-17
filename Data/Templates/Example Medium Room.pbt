@@ -18,6 +18,8 @@ Assets {
         ParentId: 4781671109827199097
         ChildIds: 16274366633834145559
         ChildIds: 5378009338483427821
+        ChildIds: 8536866727459581031
+        ChildIds: 16509385270791104948
         ChildIds: 18236912926798394236
         ChildIds: 188503810327707709
         ChildIds: 15752350362070484762
@@ -10695,6 +10697,230 @@ Assets {
         }
       }
       Objects {
+        Id: 8536866727459581031
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 3050
+            Y: -11
+            Z: 25
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 5949312739004712390
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5949312739004712390
+        Name: "Trigger"
+        Transform {
+          Location {
+            Z: 150
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 8536866727459581031
+        ChildIds: 16262104594410901549
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 16262104594410901549
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5949312739004712390
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
+        Id: 16509385270791104948
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 150
+            Y: -11
+            Z: 25
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15136977327027696209
+        ChildIds: 13975831871788974101
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 13975831871788974101
+        Name: "Trigger"
+        Transform {
+          Location {
+            Z: 150
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 16509385270791104948
+        ChildIds: 8271578250058765822
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 8271578250058765822
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13975831871788974101
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
         Id: 18236912926798394236
         Name: "Parkour Ledge"
         Transform {
@@ -13153,7 +13379,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2574.40869
+            X: 2589
             Y: 372.694824
             Z: 355
           }
@@ -13426,7 +13652,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2379.40869
+            X: 2392
             Y: 552.694702
             Z: 355
           }
@@ -13699,7 +13925,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2379.40869
+            X: 2395
             Y: 192.694702
             Z: 355
           }
@@ -13971,7 +14197,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2184.40869
+            X: 2200
             Y: 372.694458
             Z: 355
           }
@@ -14244,7 +14470,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2379.40918
+            X: 2395.00049
             Y: -557.305298
             Z: 645
           }
@@ -14516,7 +14742,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2184.40918
+            X: 2200.00049
             Y: -377.305298
             Z: 645
           }
@@ -14789,7 +15015,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2379.40869
+            X: 2395
             Y: -197.305298
             Z: 645
           }
@@ -15062,7 +15288,7 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 2574.40869
+            X: 2590
             Y: -377.305054
             Z: 645
           }
