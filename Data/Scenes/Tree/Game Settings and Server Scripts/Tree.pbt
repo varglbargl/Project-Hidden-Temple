@@ -1,6 +1,39 @@
 Name: "Game Settings and Server Scripts"
 RootId: 2460791136951327307
 Objects {
+  Id: 5402579305841120550
+  Name: "Player Respawn Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2460791136951327307
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 7181877701682370511
+    }
+  }
+}
+Objects {
   Id: 6702881884211015873
   Name: "Level Generator Server"
   Transform {
@@ -17,7 +50,7 @@ Objects {
   ParentId: 2460791136951327307
   UnregisteredParameters {
     Overrides {
-      Name: "cs:PlatformingRoomSlots"
+      Name: "cs:RoomSlots"
       ObjectReference {
         SelfId: 14942283276819918009
       }
@@ -121,8 +154,49 @@ Objects {
   }
 }
 Objects {
+  Id: 1478145067699077432
+  Name: "Spawn Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2460791136951327307
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Settings {
+    IsDefault: true
+    RespawnSettings {
+      RespawnDelay: 9999999
+      RespawnMode_v2 {
+        Value: "mc:erespawnmode:atclosestspawnpoint"
+      }
+      StartSpawned: true
+      SpawnMode {
+        Value: "mc:espawnmode:random"
+      }
+    }
+  }
+}
+Objects {
   Id: 16813558807825262224
-  Name: "Spawn Point"
+  Name: "Player Start"
   Transform {
     Location {
       Z: 150

@@ -5,27 +5,32 @@ Assets {
   TextAsset {
     CustomParameters {
       Overrides {
-        Name: "cs:SmallPlatformingRoomTable"
+        Name: "cs:SmallBlueRoomTable"
         AssetReference {
           Id: 13776755987868830603
         }
       }
       Overrides {
-        Name: "cs:MediumPlatformingRoomTable"
+        Name: "cs:MediumBlueRoomTable"
         AssetReference {
           Id: 14472956469097285040
         }
       }
       Overrides {
-        Name: "cs:LargePlatformingRoomTable"
+        Name: "cs:LargeBlueRoomTable"
         AssetReference {
           Id: 17454988403983291545
         }
       }
       Overrides {
-        Name: "cs:PuzzleRoomTable"
+        Name: "cs:RedRoomTable"
         AssetReference {
           Id: 18362191824432434059
+        }
+      }
+      Overrides {
+        Name: "cs:RoomSlots"
+        ObjectReference {
         }
       }
     }

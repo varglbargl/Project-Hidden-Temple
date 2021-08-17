@@ -7,7 +7,7 @@ Assets {
       RootId: 10469489541370138339
       Objects {
         Id: 10469489541370138339
-        Name: "Small Room Slot"
+        Name: "Small Blue Room Slot"
         Transform {
           Scale {
             X: 1
@@ -391,8 +391,8 @@ Assets {
         Name: "Whitebox Wall 01 Doorway 01"
         Transform {
           Location {
-            X: 0.999969482
-            Y: 400.000305
+            X: -1
+            Y: 400.000031
           }
           Rotation {
             Yaw: -90

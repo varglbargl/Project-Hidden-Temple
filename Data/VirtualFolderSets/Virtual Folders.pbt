@@ -1,5 +1,5 @@
 Assets {
-  Id: 15408079528020430338
+  Id: 12485213818372769665
   Name: "Virtual Folders"
   PlatformAssetType: 30
   SerializationVersion: 95
@@ -39,6 +39,45 @@ Assets {
     Folders {
       VirtualFolderPath: "Red Rooms"
       PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      PlatformAssetType: 3
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      VirtualFolderPath: "Modules"
+      PlatformAssetType: 3
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      VirtualFolderPath: "Dependencies"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      VirtualFolderPath: "Examples"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      VirtualFolderPath: "Components"
+      PlatformAssetType: 3
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      VirtualFolderPath: "Examples"
+      PlatformAssetType: 3
+    }
+    Folders {
+      VirtualFolderPath: "Interaction System"
+      VirtualFolderPath: "Components"
+      VirtualFolderPath: "Template"
+      PlatformAssetType: 3
     }
   }
 }

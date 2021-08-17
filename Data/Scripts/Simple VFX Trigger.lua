@@ -1,11 +1,11 @@
-local TRIGGER = script:GetCustomProperty("Trigger")
+local TRIGGER = script:GetCustomProperty("Trigger"):WaitForObject(0.1)
 local VFX_TEMPLATE = script:GetCustomProperty("VFXTemplate")
 
 local trigger = nil
 local vfx = nil
 
-if TRIGGER then
-  trigger = TRIGGER:WaitForObject()
+if TRIGGER and TRIGGER:IsA("Trigger") then
+  trigger = TRIGGER
 else
   trigger = script.parent
 end

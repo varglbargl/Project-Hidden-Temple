@@ -13,6 +13,10 @@ Assets {
         ObjectReference {
         }
       }
+      Overrides {
+        Name: "cs:KillPlayer"
+        Bool: false
+      }
     }
   }
   SerializationVersion: 95

@@ -7,7 +7,7 @@ Assets {
       RootId: 6346983418086804471
       Objects {
         Id: 6346983418086804471
-        Name: "Puzzle Room Slot"
+        Name: "Red Room Slot"
         Transform {
           Scale {
             X: 1
@@ -80,7 +80,8 @@ Assets {
         Name: "Pyramid - 4-Sided Truncated Hollow Thin"
         Transform {
           Location {
-            X: 4024.99805
+            X: 4024.99512
+            Y: 5.078502e-05
             Z: 600.000488
           }
           Rotation {
@@ -88,7 +89,7 @@ Assets {
           }
           Scale {
             X: 50
-            Y: 50
+            Y: 68
             Z: 80
           }
         }

@@ -1,11 +1,11 @@
-local SMALL_PLATFORMING_ROOM_TABLE = require(script:GetCustomProperty("SmallPlatformingRoomTable"))
-local MEDIUM_PLATFORMING_ROOM_TABLE = require(script:GetCustomProperty("MediumPlatformingRoomTable"))
-local LARGE_PLATFORMING_ROOM_TABLE = require(script:GetCustomProperty("LargePlatformingRoomTable"))
-local PUZZLE_ROOM_TABLE = require(script:GetCustomProperty("PuzzleRoomTable"))
+local SMALL_BLUE_ROOM_TABLE = require(script:GetCustomProperty("SmallBlueRoomTable"))
+local MEDIUM_BLUE_ROOM_TABLE = require(script:GetCustomProperty("MediumBlueRoomTable"))
+local LARGE_BLUE_ROOM_TABLE = require(script:GetCustomProperty("LargeBlueRoomTable"))
+local RED_ROOM_TABLE = require(script:GetCustomProperty("RedRoomTable"))
 
-local PLATFORMING_ROOM_SLOTS = script:GetCustomProperty("PlatformingRoomSlots"):WaitForObject()
+local ROOM_SLOTS = script:GetCustomProperty("RoomSlots"):WaitForObject()
 
-local platformingRoomSlots = PLATFORMING_ROOM_SLOTS:GetChildren()
+local platformingRoomSlots = ROOM_SLOTS:GetChildren()
 local spawnedPlatformingRooms = {}
 
 for _, roomSlot in ipairs(platformingRoomSlots) do
@@ -17,13 +17,13 @@ for _, roomSlot in ipairs(platformingRoomSlots) do
   local roomToSpawn = nil
 
   if roomType == "Small" then
-    roomToSpawn = SMALL_PLATFORMING_ROOM_TABLE[math.random(1, #SMALL_PLATFORMING_ROOM_TABLE)]
+    roomToSpawn = SMALL_BLUE_ROOM_TABLE[math.random(1, #SMALL_BLUE_ROOM_TABLE)]
   elseif roomType == "Medium" then
-    roomToSpawn = MEDIUM_PLATFORMING_ROOM_TABLE[math.random(1, #MEDIUM_PLATFORMING_ROOM_TABLE)]
+    roomToSpawn = MEDIUM_BLUE_ROOM_TABLE[math.random(1, #MEDIUM_BLUE_ROOM_TABLE)]
   elseif roomType == "Large" then
-    roomToSpawn = LARGE_PLATFORMING_ROOM_TABLE[math.random(1, #LARGE_PLATFORMING_ROOM_TABLE)]
+    roomToSpawn = LARGE_BLUE_ROOM_TABLE[math.random(1, #LARGE_BLUE_ROOM_TABLE)]
   elseif roomType == "Puzzle" then
-    roomToSpawn = PUZZLE_ROOM_TABLE[math.random(1, #PUZZLE_ROOM_TABLE)]
+    roomToSpawn = RED_ROOM_TABLE[math.random(1, #RED_ROOM_TABLE)]
   end
 
   local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot, scale = roomSlotScale})

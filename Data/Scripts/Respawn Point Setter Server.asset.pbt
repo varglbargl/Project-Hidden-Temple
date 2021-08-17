@@ -1,6 +1,6 @@
 Assets {
-  Id: 2948096604494063244
-  Name: "InitGlobals"
+  Id: 10706408344051191147
+  Name: "Respawn Point Setter Server"
   PlatformAssetType: 3
   TextAsset {
   }

@@ -1,5 +1,6 @@
 local FORCE = script:GetCustomProperty("Force")
 local PHYSICS_BUMPER = script:GetCustomProperty("PhysicsBumper")
+local KILL_PLAYER = script:GetCustomProperty("KillPlayer")
 
 local physicsBumper = nil
 
@@ -23,6 +24,14 @@ function onBeginOverlap(whichTrigger, other)
     Task.Wait()
 
     other:SetVelocity(other:GetVelocity() + bumpVector * FORCE + Vector3.UP * 250)
+
+    if KILL_PLAYER then
+      Task.Wait(0.05)
+
+      if Object.IsValid(other) then
+        other:Die()
+      end
+    end
 	end
 end
 
