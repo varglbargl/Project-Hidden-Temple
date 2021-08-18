@@ -10,6 +10,12 @@ Assets {
           Id: 4772396681212708579
         }
       }
+      Overrides {
+        Name: "cs:InvisibleBridgeMediumRoom"
+        AssetReference {
+          Id: 18071817129401883471
+        }
+      }
     }
   }
   SerializationVersion: 95

@@ -454,6 +454,10 @@ Assets {
             Name: "bp:Omni-Directional Caustics"
             Bool: true
           }
+          Overrides {
+            Name: "bp:Caustics"
+            Bool: false
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
