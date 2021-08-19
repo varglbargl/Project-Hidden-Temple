@@ -1,13 +1,13 @@
 Assets {
-  Id: 4402666491527902022
-  Name: "Rock Impact VFX"
+  Id: 1150507085165330217
+  Name: "Collapsting Platform Collapse VFX"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 12359737908857489434
+      RootId: 10588420714757736336
       Objects {
-        Id: 12359737908857489434
-        Name: "Rock Impact VFX"
+        Id: 10588420714757736336
+        Name: "Collapsting Platform Collapse VFX"
         Transform {
           Scale {
             X: 1
@@ -16,10 +16,10 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 10061646236813050882
-        ChildIds: 10668545244500664929
-        ChildIds: 314050797886038383
-        Lifespan: 1.5
+        ChildIds: 8068915988845673995
+        ChildIds: 3461134917529074294
+        ChildIds: 15797500717580587727
+        Lifespan: 4.5
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -37,8 +37,8 @@ Assets {
         }
       }
       Objects {
-        Id: 10061646236813050882
-        Name: "Single Rock Ground Impact 01 SFX"
+        Id: 8068915988845673995
+        Name: "Heavy Ground Rocky Debris Impact 01 SFX"
         Transform {
           Location {
           }
@@ -50,7 +50,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12359737908857489434
+        ParentId: 10588420714757736336
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -65,7 +65,7 @@ Assets {
         }
         AudioInstance {
           AudioAsset {
-            Id: 13931123835454298169
+            Id: 6803016543835015622
           }
           AutoPlay: true
           Volume: 0.75
@@ -76,7 +76,109 @@ Assets {
         }
       }
       Objects {
-        Id: 10668545244500664929
+        Id: 3461134917529074294
+        Name: "Falling Dust VFX"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2.5
+            Y: 2.5
+            Z: 2.5
+          }
+        }
+        ParentId: 10588420714757736336
+        ChildIds: 11673531264556552847
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.05
+              G: 0.0414125
+              B: 0.03855
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Volume Type"
+            Enum {
+              Value: "mc:evfxvolumetype:3"
+            }
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 2
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 15385031673882608763
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 11673531264556552847
+        Name: "Simple Stop Parent After"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3461134917529074294
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Secs"
+            Float: 2
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10775330392126350052
+          }
+        }
+      }
+      Objects {
+        Id: 15797500717580587727
         Name: "Explosion Kit Rock Burst VFX"
         Transform {
           Location {
@@ -89,15 +191,28 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12359737908857489434
+        ParentId: 10588420714757736336
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Initial Velocity Multiplier"
+            Name: "bp:Particle Scale"
             Float: 1
           }
           Overrides {
             Name: "bp:Density"
-            Float: 2
+            Float: 3
+          }
+          Overrides {
+            Name: "bp:Life"
+            Float: 3
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.151000008
+              G: 0.145774052
+              B: 0.139222011
+              A: 1
+            }
           }
           Overrides {
             Name: "bp:Burst Velocity Min"
@@ -109,15 +224,11 @@ Assets {
           }
           Overrides {
             Name: "bp:Burst Angle Max"
-            Float: 180
+            Float: 90
           }
           Overrides {
-            Name: "bp:Local Space"
-            Bool: false
-          }
-          Overrides {
-            Name: "bp:Gravity"
-            Float: -20
+            Name: "bp:Initial Velocity Multiplier"
+            Float: 0
           }
         }
         Collidable_v2 {
@@ -146,74 +257,23 @@ Assets {
           Value: "mc:eproxyrelevance:medium"
         }
       }
-      Objects {
-        Id: 314050797886038383
-        Name: "Smoke Puff Radial VFX"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12359737908857489434
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Color"
-            Color {
-              R: 0.713000059
-              G: 0.533217072
-              B: 0.449903
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Density"
-            Float: 0.5
-          }
-          Overrides {
-            Name: "bp:Particle Scale Multiplier"
-            Float: 0.5
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 6496803118560833225
-          }
-          TeamSettings {
-          }
-          Vfx {
-            AutoPlay: true
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
-      }
     }
     Assets {
-      Id: 13931123835454298169
-      Name: "Single Rock Ground Impact 01 SFX"
+      Id: 6803016543835015622
+      Name: "Heavy Ground Rocky Debris Impact 01 SFX"
       PlatformAssetType: 7
       PrimaryAsset {
         AssetType: "AudioAssetRef"
-        AssetId: "sfx_single_rock_ground_impact_01_Cue_ref"
+        AssetId: "sfx_heavy_ground_rocky_debris_impact_01a_Cue_ref"
+      }
+    }
+    Assets {
+      Id: 15385031673882608763
+      Name: "Falling Dust VFX"
+      PlatformAssetType: 8
+      PrimaryAsset {
+        AssetType: "VfxBlueprintAssetRef"
+        AssetId: "fxbp_falling_dust"
       }
     }
     Assets {
@@ -223,15 +283,6 @@ Assets {
       PrimaryAsset {
         AssetType: "VfxBlueprintAssetRef"
         AssetId: "fxbp_mil_dirt_impact_explosikit_debris"
-      }
-    }
-    Assets {
-      Id: 6496803118560833225
-      Name: "Smoke Puff Radial VFX"
-      PlatformAssetType: 8
-      PrimaryAsset {
-        AssetType: "VfxBlueprintAssetRef"
-        AssetId: "fxbp_smoke_puff_radial"
       }
     }
     PrimaryAssetId {

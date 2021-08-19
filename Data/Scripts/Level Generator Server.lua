@@ -26,6 +26,6 @@ for _, roomSlot in ipairs(platformingRoomSlots) do
     roomToSpawn = RED_ROOM_TABLE[math.random(1, #RED_ROOM_TABLE)]
   end
 
-  local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot, scale = roomSlotScale})
+  local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot, scale = Vector3.New(1, 1 - (math.random(0, 1) * 2), 1)})
   table.insert(spawnedPlatformingRooms, spawedRoom)
 end

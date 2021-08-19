@@ -23,7 +23,7 @@ function onBeginOverlap(whichTrigger, other)
 
     Task.Wait()
 
-    other:SetVelocity(other:GetVelocity() + bumpVector * FORCE + Vector3.UP * 250)
+    other:SetVelocity(bumpVector * FORCE + Vector3.UP * 250)
 
     if KILL_PLAYER then
       Task.Wait(0.05)

@@ -7,7 +7,7 @@ Assets {
       RootId: 7585885934283402001
       Objects {
         Id: 7585885934283402001
-        Name: "Gold Mine Wall - Pipe"
+        Name: "Gold Mine Wall - Lantern"
         Transform {
           Scale {
             X: 1
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 16273416948258391970
         ChildIds: 4965280626974922428
         ChildIds: 557061789651692646
         ChildIds: 3793975883404116812
@@ -31,6 +31,8 @@ Assets {
         ChildIds: 12497660430833035026
         ChildIds: 5785399466482619047
         ChildIds: 10494262900000537986
+        ChildIds: 3266184598794155855
+        ChildIds: 3579328771690066114
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -52,6 +54,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            Y: -1
           }
           Rotation {
           }
@@ -110,8 +113,8 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 422.263672
-            Y: 67.7709656
+            X: 410
+            Y: 67.7709961
             Z: -30
           }
           Rotation {
@@ -226,9 +229,9 @@ Assets {
         Name: "Hanging Vines"
         Transform {
           Location {
-            X: 388.727051
-            Y: 23.2698059
-            Z: 348.370117
+            X: 388.708252
+            Y: 29.4933834
+            Z: 296.151062
           }
           Rotation {
           }
@@ -285,11 +288,12 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 115
-            Y: 45.4819946
+            X: 114.999985
+            Y: 25.9999104
             Z: 25
           }
           Rotation {
+            Roll: 90
           }
           Scale {
             X: 0.531984568
@@ -340,12 +344,14 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 594.848145
-            Y: 68.5670471
+            X: 594.804199
+            Y: 17.999567
             Z: 25
           }
           Rotation {
-            Yaw: 136.084213
+            Pitch: -43.915741
+            Yaw: 180
+            Roll: -90
           }
           Scale {
             X: 0.756083131
@@ -396,9 +402,9 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: 211.533203
-            Y: 22
-            Z: 166
+            X: 211.532928
+            Y: 21.9999847
+            Z: 164.999939
           }
           Rotation {
             Pitch: 90
@@ -1449,6 +1455,129 @@ Assets {
           }
         }
       }
+      Objects {
+        Id: 3266184598794155855
+        Name: "Urban Pipe Elbow 01"
+        Transform {
+          Location {
+            X: 211.515106
+            Y: 32.9998322
+            Z: 3
+          }
+          Rotation {
+            Pitch: 90
+            Yaw: -90
+          }
+          Scale {
+            X: 1.2
+            Y: 1.2
+            Z: 1.2
+          }
+        }
+        ParentId: 7585885934283402001
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 1425671561205502187
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 4
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 4
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5381367210591412322
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3579328771690066114
+        Name: "Urban Pipe Flange 01"
+        Transform {
+          Location {
+            X: 211.532089
+            Y: 23.0002441
+            Z: 2.99993896
+          }
+          Rotation {
+            Pitch: 90
+            Yaw: -7.12503052
+            Roll: 82.874939
+          }
+          Scale {
+            X: 0.900000036
+            Y: 0.900000036
+            Z: 1
+          }
+        }
+        ParentId: 7585885934283402001
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 3879215600444848280
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4429360912145563014
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
     }
     Assets {
       Id: 13072369037111211217
@@ -1673,6 +1802,15 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_metal_gold_002"
+      }
+    }
+    Assets {
+      Id: 4429360912145563014
+      Name: "Urban Pipe Flange 02"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_prop_urb_pipes_acc_flange_002_ref"
       }
     }
     PrimaryAssetId {

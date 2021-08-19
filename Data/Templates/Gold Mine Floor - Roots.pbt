@@ -594,8 +594,8 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 406.012695
-            Y: -662.348572
+            X: 430
+            Y: -680
             Z: -49.5258789
           }
           Rotation {
@@ -655,8 +655,8 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 452.713623
-            Y: -156.738647
+            X: 425
+            Y: -156.738525
             Z: -53.5805664
           }
           Rotation {

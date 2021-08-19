@@ -15,12 +15,11 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 16273416948258391970
         ChildIds: 5561463435471057417
         ChildIds: 2735253169774354590
         ChildIds: 13435888324113611503
         ChildIds: 11760998765467437037
-        ChildIds: 13612471347606307156
         ChildIds: 5779653878138896042
         ChildIds: 6106610580145693251
         ChildIds: 17726284742547559656
@@ -28,6 +27,8 @@ Assets {
         ChildIds: 2179440401339589449
         ChildIds: 7037728149001289812
         ChildIds: 659160681741487068
+        ChildIds: 3575747720552762184
+        ChildIds: 17684531726916756656
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -49,7 +50,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            Y: -9.99999905
+            Y: -10
           }
           Rotation {
             Yaw: 180
@@ -134,9 +135,9 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -199.999634
-            Y: -13.0385742
-            Z: -25.5030518
+            X: -201.764816
+            Y: -26.3996582
+            Z: -25.924696
           }
           Rotation {
             Pitch: 88.106987
@@ -146,7 +147,7 @@ Assets {
           Scale {
             X: 0.7
             Y: 1
-            Z: 1
+            Z: 0.7
           }
         }
         ParentId: 6450094712097233352
@@ -195,11 +196,12 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -800
-            Y: -20
+            X: -799.998779
+            Y: -14.4006348
             Z: 530
           }
           Rotation {
+            Yaw: -0.638427734
           }
           Scale {
             X: 1
@@ -253,13 +255,14 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: -709.996826
-            Y: -69.999939
-            Z: 20
+            X: -770.069275
+            Y: -15.9525146
+            Z: 55.6126633
           }
           Rotation {
-            Pitch: 10
-            Roll: 10
+            Pitch: -2.04876709
+            Yaw: -9.7902832
+            Roll: -91.7047119
           }
           Scale {
             X: 0.7
@@ -306,56 +309,13 @@ Assets {
         }
       }
       Objects {
-        Id: 13612471347606307156
-        Name: "Decal Dirt Patch"
-        Transform {
-          Location {
-            X: -169.945801
-            Y: -102.843567
-            Z: 25.2539062
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 0.01
-          }
-        }
-        ParentId: 6450094712097233352
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 14964967653464214432
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
         Id: 5779653878138896042
         Name: "Hanging Vines"
         Transform {
           Location {
-            X: -411.272949
-            Y: -114.56424
-            Z: 348.370117
+            X: -411.26062
+            Y: -54.9994812
+            Z: 306
           }
           Rotation {
           }
@@ -412,9 +372,9 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -599.998596
-            Y: -13.0385742
-            Z: -25.5030518
+            X: -601.486938
+            Y: -24.418457
+            Z: -25.8677845
           }
           Rotation {
             Pitch: 88.1063766
@@ -424,7 +384,7 @@ Assets {
           Scale {
             X: 0.7
             Y: 1
-            Z: 1
+            Z: 0.8
           }
         }
         ParentId: 6450094712097233352
@@ -560,9 +520,8 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: -769.976
-            Y: -9.99993896
-            Z: 10
+            X: -799.999207
+            Y: -9.99981689
           }
           Rotation {
             Roll: 90
@@ -646,9 +605,9 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: -94.170166
-            Y: -61.5251389
-            Z: 73.6660156
+            X: -49.9243622
+            Y: -61.5251579
+            Z: 29.660202
           }
           Rotation {
             Pitch: 16.9001541
@@ -1368,6 +1327,98 @@ Assets {
           }
         }
       }
+      Objects {
+        Id: 3575747720552762184
+        Name: "Decal Dirt Patch"
+        Transform {
+          Location {
+            X: -21.3699665
+            Y: -24.9999352
+            Z: 266.981
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 179.999985
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.5279392
+            Y: 1.35724795
+            Z: 0.100000076
+          }
+        }
+        ParentId: 6450094712097233352
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 14964967653464214432
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 17684531726916756656
+        Name: "Decal Dirt Patch"
+        Transform {
+          Location {
+            X: -790.642334
+            Y: -24.999939
+            Z: 266.981
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 179.999969
+            Roll: 89.9999542
+          }
+          Scale {
+            X: 0.5279392
+            Y: 1.35724795
+            Z: 0.100000076
+          }
+        }
+        ParentId: 6450094712097233352
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 14964967653464214432
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
     }
     Assets {
       Id: 16076924560798306934
@@ -1421,15 +1472,6 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_rocks_small_002"
-      }
-    }
-    Assets {
-      Id: 14964967653464214432
-      Name: "Decal Dirt Patch"
-      PlatformAssetType: 14
-      PrimaryAsset {
-        AssetType: "DecalBlueprintAssetRef"
-        AssetId: "bp_decal_dirt_patch_001"
       }
     }
     Assets {
@@ -1583,6 +1625,15 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_metal_iron_002"
+      }
+    }
+    Assets {
+      Id: 14964967653464214432
+      Name: "Decal Dirt Patch"
+      PlatformAssetType: 14
+      PrimaryAsset {
+        AssetType: "DecalBlueprintAssetRef"
+        AssetId: "bp_decal_dirt_patch_001"
       }
     }
     PrimaryAssetId {

@@ -1,13 +1,13 @@
 Assets {
-  Id: 10402633967285527006
-  Name: "Two-Way Telepoter"
+  Id: 14917342582873736582
+  Name: "Jellyshroom"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 2814604066906555613
+      RootId: 8635504081326361454
       Objects {
-        Id: 2814604066906555613
-        Name: "Two-Way Telepoter"
+        Id: 8635504081326361454
+        Name: "Jellyshroom"
         Transform {
           Scale {
             X: 1
@@ -16,9 +16,77 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 2675931490312632831
-        ChildIds: 6747854609673384814
-        ChildIds: 14562313294328634623
+        ChildIds: 6023478262259723430
+        ChildIds: 14754943250165894409
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 6023478262259723430
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8635504081326361454
+        ChildIds: 3891654578275038204
+        ChildIds: 10644365891205293866
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 3891654578275038204
+        Name: "NewFolder"
+        Transform {
+          Location {
+            Z: -10
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6023478262259723430
+        ChildIds: 7661336078087885443
+        ChildIds: 4122647751987078110
+        ChildIds: 11606872225505695685
+        ChildIds: 15952828376936468933
+        ChildIds: 1080583804482679785
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -36,8 +104,326 @@ Assets {
         }
       }
       Objects {
-        Id: 2675931490312632831
-        Name: "Teleporter Server"
+        Id: 7661336078087885443
+        Name: "Dust Motes Volume VFX"
+        Transform {
+          Location {
+            Z: 75.56604
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.8
+            Y: 1.8
+            Z: 0.6
+          }
+        }
+        ParentId: 3891654578275038204
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.189999938
+              G: 1
+              B: 0.919000089
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Curl Offset"
+            Vector {
+              X: 10
+              Y: 7
+              Z: 5
+            }
+          }
+          Overrides {
+            Name: "bp:Curl Speed"
+            Vector {
+              X: 0.5
+              Y: 0.1
+              Z: 0.2
+            }
+          }
+          Overrides {
+            Name: "bp:Particle Scale Multiplier"
+            Float: 0.75
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Wind Speed"
+            Vector {
+            }
+          }
+          Overrides {
+            Name: "bp:Gravity"
+            Float: -0.1
+          }
+          Overrides {
+            Name: "bp:Life"
+            Float: 4
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 1
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 1565420669897413203
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 4122647751987078110
+        Name: "Simple Swing Parent"
+        Transform {
+          Location {
+            Z: -14.43396
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3891654578275038204
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Wavelength"
+            Float: 0.25
+          }
+          Overrides {
+            Name: "cs:MinAmplitude"
+            Float: 0
+          }
+          Overrides {
+            Name: "cs:MaxAmplitude"
+            Float: 2
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4774256623264947271
+          }
+        }
+      }
+      Objects {
+        Id: 11606872225505695685
+        Name: "Teardrop - Truncated"
+        Transform {
+          Location {
+            Z: -14.43396
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 0.805536568
+          }
+        }
+        ParentId: 3891654578275038204
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 69844939897041847
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              G: 1
+              B: 0.933333397
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12631099074368817868
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15952828376936468933
+        Name: "Coral Table 01"
+        Transform {
+          Location {
+            X: -0.627685547
+            Y: -0.258575439
+            Z: 91.9591064
+          }
+          Rotation {
+            Pitch: 1.03298414
+            Yaw: -51.5758057
+            Roll: 178.733261
+          }
+          Scale {
+            X: 0.769605577
+            Y: 0.769605637
+            Z: 1.77864838
+          }
+        }
+        ParentId: 3891654578275038204
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 3001586577837027788
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7054676361656468100
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1080583804482679785
+        Name: "Point Light"
+        Transform {
+          Location {
+            X: -0.610595703
+            Y: -5.02590942
+            Z: 60
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3891654578275038204
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Light {
+          Intensity: 2
+          Color {
+            R: 0.24999994
+            G: 1
+            B: 0.762500048
+            A: 1
+          }
+          VolumetricIntensity: 5
+          TeamSettings {
+          }
+          Light {
+            Temperature: 6500
+            LocalLight {
+              AttenuationRadius: 200
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+                UseFallOffExponent: true
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+        }
+      }
+      Objects {
+        Id: 10644365891205293866
+        Name: "Simple VFX Trigger"
         Transform {
           Location {
           }
@@ -49,18 +435,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2814604066906555613
+        ParentId: 6023478262259723430
         UnregisteredParameters {
           Overrides {
-            Name: "cs:TriggerA"
+            Name: "cs:Trigger"
             ObjectReference {
-              SubObjectId: 7468465806459377336
+              SubObjectId: 14754943250165894409
             }
           }
           Overrides {
-            Name: "cs:TriggerB"
-            ObjectReference {
-              SubObjectId: 996299929593671944
+            Name: "cs:VFXTemplate"
+            AssetReference {
+              Id: 4243895573009973615
             }
           }
         }
@@ -78,225 +464,27 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4594234468904208718
+            Id: 17592175945540610035
           }
         }
       }
       Objects {
-        Id: 6747854609673384814
-        Name: "Telepad A"
+        Id: 14754943250165894409
+        Name: "Trigger"
         Transform {
           Location {
-            Y: -200
-            Z: 20
+            Z: 40
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2.00538468
+            Y: 2.00538468
+            Z: 2.00538468
           }
         }
-        ParentId: 2814604066906555613
-        ChildIds: 4634521197991385724
-        ChildIds: 4489215918209221982
-        ChildIds: 1937678515565409632
-        ChildIds: 7468465806459377336
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 4634521197991385724
-        Name: "Decal Elven Symbols"
-        Transform {
-          Location {
-            X: 5
-            Z: 30
-          }
-          Rotation {
-            Pitch: 0.0524217
-            Yaw: -83.3126755
-            Roll: -1.66752734e-09
-          }
-          Scale {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        ParentId: 6747854609673384814
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Emissive Boost"
-            Float: 3
-          }
-          Overrides {
-            Name: "bp:Color Emissive"
-            Color {
-              G: 0.649999857
-              B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 6921272637309445267
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
-        Id: 4489215918209221982
-        Name: "Point Light"
-        Transform {
-          Location {
-            Z: 15
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6747854609673384814
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 3
-          Color {
-            G: 0.649999857
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            Temperature: 6500
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 1937678515565409632
-        Name: "Japanese Stone Lantern Housing Medium 01"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3
-            Y: 3
-            Z: 0.6
-          }
-        }
-        ParentId: 6747854609673384814
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10279267693390860760
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7468465806459377336
-        Name: "Trigger A"
-        Transform {
-          Location {
-            Z: 150
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6747854609673384814
+        ParentId: 8635504081326361454
+        ChildIds: 12191634451684359596
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -310,24 +498,21 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Trigger {
-          Interactable: true
-          InteractionLabel: "Use Teleporter"
           TeamSettings {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
           TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
+            Value: "mc:etriggershape:sphere"
           }
         }
       }
       Objects {
-        Id: 14562313294328634623
-        Name: "Telepad B"
+        Id: 12191634451684359596
+        Name: "Bump Zone Server"
         Transform {
           Location {
-            Y: 200
-            Z: 20
+            Z: -266.046631
           }
           Rotation {
           }
@@ -337,63 +522,15 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2814604066906555613
-        ChildIds: 5490305362595810904
-        ChildIds: 4575474737137653251
-        ChildIds: 15036634871829701685
-        ChildIds: 996299929593671944
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 5490305362595810904
-        Name: "Decal Elven Symbols"
-        Transform {
-          Location {
-            X: 5
-            Z: 30
-          }
-          Rotation {
-            Pitch: 0.0524217
-            Yaw: -83.3126755
-            Roll: -1.66752734e-09
-          }
-          Scale {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        ParentId: 14562313294328634623
+        ParentId: 14754943250165894409
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Emissive Boost"
-            Float: 3
+            Name: "cs:KillPlayer"
+            Bool: false
           }
           Overrides {
-            Name: "bp:Color Emissive"
-            Color {
-              G: 0.649999857
-              B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 2
+            Name: "cs:Force"
+            Float: 1500
           }
         }
         Collidable_v2 {
@@ -408,175 +545,47 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 6921272637309445267
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
-        Id: 4575474737137653251
-        Name: "Point Light"
-        Transform {
-          Location {
-            Z: 15
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14562313294328634623
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 3
-          Color {
-            G: 0.649999857
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            Temperature: 6500
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 15036634871829701685
-        Name: "Japanese Stone Lantern Housing Medium 01"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3
-            Y: 3
-            Z: 0.6
-          }
-        }
-        ParentId: 14562313294328634623
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10279267693390860760
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 996299929593671944
-        Name: "Trigger B"
-        Transform {
-          Location {
-            Z: 150
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14562313294328634623
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Use Teleporter"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
+        Script {
+          ScriptAsset {
+            Id: 8137025574885759575
           }
         }
       }
     }
     Assets {
-      Id: 6921272637309445267
-      Name: "Decal Elven Symbols"
-      PlatformAssetType: 14
+      Id: 1565420669897413203
+      Name: "Dust Motes Volume VFX"
+      PlatformAssetType: 8
       PrimaryAsset {
-        AssetType: "DecalBlueprintAssetRef"
-        AssetId: "bp_decal_elven_symbols_001"
+        AssetType: "VfxBlueprintAssetRef"
+        AssetId: "fxbp_dust_motes"
       }
     }
     Assets {
-      Id: 10279267693390860760
-      Name: "Japanese Stone Lantern Housing Medium 01"
+      Id: 12631099074368817868
+      Name: "Teardrop - Truncated"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_prop_jpn_lantern_stone_medium_housing_001_ref"
+        AssetId: "sm_truncated_teardrop_001"
+      }
+    }
+    Assets {
+      Id: 69844939897041847
+      Name: "Emissive Glow Opaque"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "fxma_opaque_emissive"
+      }
+    }
+    Assets {
+      Id: 7054676361656468100
+      Name: "Coral Table 01"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_coral_table_01"
       }
     }
     PrimaryAssetId {

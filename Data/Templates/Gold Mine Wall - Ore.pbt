@@ -49,9 +49,10 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: 1.78813934e-07
+            Y: -1
           }
           Rotation {
-            Yaw: -179.999985
           }
           Scale {
             X: 1
@@ -108,14 +109,14 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -385.177246
-            Y: -13.0386353
+            X: 385.177246
+            Y: 13.0386963
             Z: -25.5030518
           }
           Rotation {
-            Pitch: 88.106987
-            Yaw: -112.167389
-            Roll: 165.362717
+            Pitch: 88.106163
+            Yaw: 67.8320694
+            Roll: 165.362228
           }
           Scale {
             X: 0.7
@@ -169,11 +170,12 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -800
-            Y: -20
+            X: 800
+            Y: 20.0002441
             Z: 530
           }
           Rotation {
+            Yaw: 180
           }
           Scale {
             X: 1
@@ -227,19 +229,19 @@ Assets {
         Name: "Horn"
         Transform {
           Location {
-            X: -534.085938
-            Y: -81.7826843
-            Z: 586.335693
+            X: 579.96
+            Y: 21.3306885
+            Z: 597.100708
           }
           Rotation {
-            Pitch: 19.7356663
-            Yaw: -142.809952
-            Roll: 175.9189
+            Pitch: 34.5060577
+            Yaw: 4.23120308
+            Roll: 82.6704
           }
           Scale {
-            X: 0.3751643
-            Y: 0.418919265
-            Z: 0.437781155
+            X: 0.375165433
+            Y: 0.418918818
+            Z: 0.368662924
           }
         }
         ParentId: 12011457809051632297
@@ -306,14 +308,14 @@ Assets {
         Name: "Helix - 0.5"
         Transform {
           Location {
-            X: -461.175781
-            Y: -25.0000305
+            X: 507.048462
+            Y: 25.0000916
             Z: 593.402344
           }
           Rotation {
-            Pitch: 46.0803871
-            Yaw: 104.977348
-            Roll: 110.376
+            Pitch: 46.0803642
+            Yaw: -75.0226746
+            Roll: 110.375931
           }
           Scale {
             X: 1.05328047
@@ -385,14 +387,14 @@ Assets {
         Name: "Helix - 0.5"
         Transform {
           Location {
-            X: -384.723389
-            Y: -43.5950928
-            Z: 592.334534
+            X: 430.597168
+            Y: 43.5953064
+            Z: 592.334473
           }
           Rotation {
-            Pitch: 79.9577255
-            Yaw: 83.9653931
-            Roll: 83.8732758
+            Pitch: 79.9576874
+            Yaw: -96.034668
+            Roll: 83.8733215
           }
           Scale {
             X: 1.24795043
@@ -464,14 +466,14 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: -608.278809
-            Y: -82.3874817
-            Z: 128.130493
+            X: 604.991821
+            Y: 134.404297
+            Z: 89.3097534
           }
           Rotation {
-            Pitch: 21.4513206
-            Yaw: -13.4104309
-            Roll: -33.1009521
+            Pitch: 21.4511776
+            Yaw: 166.588913
+            Roll: -41.3753052
           }
           Scale {
             X: 0.347997129
@@ -522,13 +524,13 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: -538.662354
-            Y: -123.265991
+            X: 538.662354
+            Y: 123.266113
             Z: 137.36792
           }
           Rotation {
-            Pitch: 47.4344254
-            Yaw: 97.8842621
+            Pitch: 47.4343872
+            Yaw: -82.1156921
             Roll: 16
           }
           Scale {
@@ -580,14 +582,14 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -552.323486
-            Y: -92.4868469
+            X: 552.323486
+            Y: 92.4870605
             Z: 85.6915283
           }
           Rotation {
-            Pitch: 23.748745
-            Yaw: -135.57869
-            Roll: -22.3394775
+            Pitch: 23.7487297
+            Yaw: 44.4212418
+            Roll: -22.3393555
           }
           Scale {
             X: 0.529982567
@@ -659,11 +661,12 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: -273.587646
-            Y: -52.7301941
+            X: 273.587646
+            Y: 52.7302246
             Z: 25
           }
           Rotation {
+            Yaw: 180
           }
           Scale {
             X: 0.531984568
@@ -714,11 +717,12 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: -169.945801
-            Y: -102.843567
+            X: 169.94574
+            Y: 102.843506
             Z: 25.2539062
           }
           Rotation {
+            Yaw: 180
           }
           Scale {
             X: 1
@@ -757,11 +761,12 @@ Assets {
         Name: "Hanging Vines"
         Transform {
           Location {
-            X: -411.272949
-            Y: -114.56424
-            Z: 348.370117
+            X: 411.270874
+            Y: 38.3289185
+            Z: 308
           }
           Rotation {
+            Yaw: 180
           }
           Scale {
             X: 6.20000029

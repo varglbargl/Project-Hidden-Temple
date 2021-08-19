@@ -15,9 +15,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 16273416948258391970
         ChildIds: 3246933582131151543
         ChildIds: 3764487912483627783
+        ChildIds: 17409352107352417724
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -98,14 +99,14 @@ Assets {
         Transform {
           Location {
             X: 400.457275
-            Y: -738.55127
+            Y: -750
             Z: -70
           }
           Rotation {
             Yaw: 88.9040222
           }
           Scale {
-            X: 0.824677348
+            X: 0.95
             Y: 1
             Z: 1
           }
@@ -151,6 +152,50 @@ Assets {
           }
         }
       }
+      Objects {
+        Id: 17409352107352417724
+        Name: "Decal Dirt Patch"
+        Transform {
+          Location {
+            X: 668.682129
+            Y: -188.749802
+            Z: 26
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 0.01
+          }
+        }
+        ParentId: 14575809002132888382
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 14964967653464214432
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
     }
     Assets {
       Id: 7207757223016895409
@@ -168,6 +213,15 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_large_beam_6m"
+      }
+    }
+    Assets {
+      Id: 14964967653464214432
+      Name: "Decal Dirt Patch"
+      PlatformAssetType: 14
+      PrimaryAsset {
+        AssetType: "DecalBlueprintAssetRef"
+        AssetId: "bp_decal_dirt_patch_001"
       }
     }
     PrimaryAssetId {

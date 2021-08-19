@@ -13,7 +13,7 @@ function onBeginOverlap(thisTrigger, other)
 
   SPIKES:MoveTo(Vector3.UP * 250, 0.1, true)
 
-  other:SetVelocity(Vector3.UP * 1500)
+  other:SetVelocity(Vector3.UP * 500)
 
   Task.Wait(0.05)
 
@@ -23,7 +23,7 @@ function onBeginOverlap(thisTrigger, other)
 
   active = false
 
-  World.SpawnAsset(KILL_TRAP_VFX, {position = (thisTrigger:GetWorldPosition() + other:GetWorldPosition()) / 2})
+  World.SpawnAsset(KILL_TRAP_VFX, {position = other:GetWorldPosition()})
   Utils.playSoundEffect(SPIKE_SFX, TRIGGER:GetWorldPosition())
 
   Task.Wait(1)

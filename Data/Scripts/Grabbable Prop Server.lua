@@ -5,6 +5,7 @@ local DESTROY_VFX = script:GetCustomProperty("DestroyVFX")
 local throwableProp = script:FindAncestorByType("Weapon")
 local throwEvent = nil
 
+throwableProp.parent:SetWorldScale(Vector3.ONE)
 COLLISION_OBJECT.serverUserData["CollisionObject"] = COLLISION_OBJECT
 
 function onTargetImpacted(thisWeapon, other, hitResult)

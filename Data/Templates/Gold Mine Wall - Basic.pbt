@@ -7,7 +7,7 @@ Assets {
       RootId: 14340013525856030827
       Objects {
         Id: 14340013525856030827
-        Name: "Gold Mine Wall - Ore"
+        Name: "Gold Mine Wall - Basic"
         Transform {
           Scale {
             X: 1
@@ -15,12 +15,11 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 16273416948258391970
         ChildIds: 2775023735383488395
         ChildIds: 16918822252479557692
         ChildIds: 10102962892238945593
         ChildIds: 17141414603018933023
-        ChildIds: 13468115140349391976
         ChildIds: 13093076856572572021
         ChildIds: 7675187976406200587
         Collidable_v2 {
@@ -44,9 +43,10 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -5.96046448e-08
+            Y: -1
           }
           Rotation {
-            Yaw: -179.999985
           }
           Scale {
             X: 1
@@ -103,14 +103,14 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -414.234741
-            Y: -13.0386353
+            X: 414.234741
+            Y: 15.0386963
             Z: -25.5030518
           }
           Rotation {
             Pitch: 86.1982
-            Yaw: -159.115
-            Roll: 103.830307
+            Yaw: 20.8847694
+            Roll: 103.830109
           }
           Scale {
             X: 0.7
@@ -164,12 +164,13 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -800
-            Y: -20
+            X: 800
+            Y: 22.0001221
             Z: 538.315308
           }
           Rotation {
             Pitch: -0.535186768
+            Yaw: 180
           }
           Scale {
             X: 1
@@ -223,12 +224,14 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: -448.991699
-            Y: -52.7301941
+            X: 448.991638
+            Y: 28.0001526
             Z: 25
           }
           Rotation {
-            Yaw: 62.7452507
+            Pitch: 62.7452507
+            Yaw: 180
+            Roll: -90
           }
           Scale {
             X: 0.531984568
@@ -275,61 +278,16 @@ Assets {
         }
       }
       Objects {
-        Id: 13468115140349391976
-        Name: "Decal Dirt Patch"
-        Transform {
-          Location {
-            X: -478.446533
-            Y: -102.843567
-            Z: 25.2539062
-          }
-          Rotation {
-            Yaw: 120.839287
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 0.01
-          }
-        }
-        ParentId: 14340013525856030827
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 14964967653464214432
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
         Id: 13093076856572572021
         Name: "Decal Stains Bottom 01"
         Transform {
           Location {
-            X: -404.894165
-            Y: -41.6954651
+            X: 404.894165
+            Y: 43.6955566
             Z: 228.516296
           }
           Rotation {
-            Yaw: -179.999954
-            Roll: 89.9999619
+            Roll: 90
           }
           Scale {
             X: 0.800830066
@@ -379,14 +337,14 @@ Assets {
         Name: "Urban Fence Bracket - Connecting"
         Transform {
           Location {
-            X: -419.191162
-            Y: -69.0343933
+            X: 419.190033
+            Y: 71.0529785
             Z: 536.771667
           }
           Rotation {
-            Pitch: 87.0106812
-            Yaw: 103.626816
-            Roll: 103.644341
+            Pitch: 82.939415
+            Yaw: -84.2952271
+            Roll: 95.7455063
           }
           Scale {
             X: 1
@@ -493,15 +451,6 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_rocks_small_002"
-      }
-    }
-    Assets {
-      Id: 14964967653464214432
-      Name: "Decal Dirt Patch"
-      PlatformAssetType: 14
-      PrimaryAsset {
-        AssetType: "DecalBlueprintAssetRef"
-        AssetId: "bp_decal_dirt_patch_001"
       }
     }
     Assets {
