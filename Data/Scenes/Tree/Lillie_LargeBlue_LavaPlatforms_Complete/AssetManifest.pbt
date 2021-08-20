@@ -17,15 +17,6 @@ Assets {
   }
 }
 Assets {
-  Id: 12791286674791271890
-  Name: "Bone Human Ribcage Half"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_ribhalf_01_ref"
-  }
-}
-Assets {
   Id: 11940368670334958820
   Name: "Bone Human Jaw 01"
   PlatformAssetType: 1
@@ -41,15 +32,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_sphere_001"
-  }
-}
-Assets {
-  Id: 10509662677288852146
-  Name: "Bone Human Ulna 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_ulna_01_ref"
   }
 }
 Assets {

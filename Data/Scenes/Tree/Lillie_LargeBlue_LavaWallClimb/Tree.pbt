@@ -1,6 +1,188 @@
 Name: "Lillie_LargeBlue_LavaWallClimb"
 RootId: 8027144947608957966
 Objects {
+  Id: 3164460263748591311
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 1200
+      Y: -1200
+      Z: 3000
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8027144947608957966
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 17832894251264633469
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 867859608511094159
+  Name: "Lava Tile"
+  Transform {
+    Location {
+      X: -5800
+      Y: 33600
+      Z: -2000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8027144947608957966
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8855604877023104061
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lava Tile"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 400
+            Y: 400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10588780745851551074
+    }
+  }
+}
+Objects {
+  Id: 2951648849849469682
+  Name: "Lava Tile"
+  Transform {
+    Location {
+      X: -5800
+      Y: 32800
+      Z: -2000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8027144947608957966
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8855604877023104061
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lava Tile"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 400
+            Y: -400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10588780745851551074
+    }
+  }
+}
+Objects {
   Id: 1366800211572815051
   Name: "Stone Brick Balcony"
   Transform {
@@ -1969,59 +2151,6 @@ Objects {
   }
 }
 Objects {
-  Id: 874562669236093212
-  Name: "Climbable Ladder"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8027144947608957966
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 8885695570493759589
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Climbable Ladder"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1149.99951
-            Z: 800
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.75
-            Y: 0.75
-            Z: 0.75
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8638228199455460828
-    }
-  }
-}
-Objects {
   Id: 11644084488686292235
   Name: "Cobblestone Floor - Basic"
   Transform {
@@ -2531,54 +2660,6 @@ Objects {
   }
 }
 Objects {
-  Id: 17497662828820031502
-  Name: "Tree Sakura Hero Bare 02"
-  Transform {
-    Location {
-      X: 15199.9971
-      Y: 1800
-      Z: 6400
-    }
-    Rotation {
-      Yaw: -1.02452805e-05
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8027144947608957966
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11232864892255764824
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
   Id: 11115312613957252514
   Name: "Lava Tile"
   Transform {
@@ -2743,7 +2824,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -1.02452805e-05
           }
         }
         Overrides {

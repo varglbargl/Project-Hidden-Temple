@@ -35,15 +35,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11232864892255764824
-  Name: "Tree Sakura Hero Bare 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_sakura_hero_02_bare_ref"
-  }
-}
-Assets {
   Id: 7405585834121208146
   Name: "Invisible"
   PlatformAssetType: 2
