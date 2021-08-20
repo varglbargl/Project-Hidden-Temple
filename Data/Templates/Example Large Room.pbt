@@ -43,8 +43,6 @@ Assets {
         Name: "StaticContext"
         Transform {
           Location {
-            X: 200
-            Y: 200
           }
           Rotation {
           }
@@ -99,6 +97,103 @@ Assets {
         ChildIds: 12336328905946715132
         ChildIds: 10852259047839579064
         ChildIds: 9460450722347545357
+        ChildIds: 8153463629230589939
+        ChildIds: 13041418071284536031
+        ChildIds: 8821830572683065161
+        ChildIds: 7418875215728562032
+        ChildIds: 6507032610002986137
+        ChildIds: 15631993487924210922
+        ChildIds: 16865770693458590748
+        ChildIds: 612582222108756879
+        ChildIds: 10347419478568412711
+        ChildIds: 9656823453320265394
+        ChildIds: 18225372320094635053
+        ChildIds: 3505996671836406303
+        ChildIds: 11752405683736462436
+        ChildIds: 7822340081599915904
+        ChildIds: 3767841994968632493
+        ChildIds: 2358802136983431242
+        ChildIds: 624213986806775045
+        ChildIds: 13278620696354112664
+        ChildIds: 14836201485007994509
+        ChildIds: 5214269933991593489
+        ChildIds: 11293012493853631086
+        ChildIds: 1486379394182901480
+        ChildIds: 7987478725734217882
+        ChildIds: 16081580482256717988
+        ChildIds: 1341402829333118512
+        ChildIds: 8461043155960825210
+        ChildIds: 3046940025874885406
+        ChildIds: 12165957376942477980
+        ChildIds: 8819045695287462052
+        ChildIds: 6258820195786594711
+        ChildIds: 18405962784615265390
+        ChildIds: 5016794339597063895
+        ChildIds: 7913159607064259715
+        ChildIds: 13955923061603382861
+        ChildIds: 15218039783423079994
+        ChildIds: 13048383831233489104
+        ChildIds: 159446235107476796
+        ChildIds: 16203161614063168364
+        ChildIds: 8177851563517208951
+        ChildIds: 7996837334030013705
+        ChildIds: 10182988261814308442
+        ChildIds: 15806614701746809888
+        ChildIds: 14324641630815265566
+        ChildIds: 779736559348410763
+        ChildIds: 2534104160188633618
+        ChildIds: 4648739602834832537
+        ChildIds: 15619566647578424764
+        ChildIds: 14426728361795009
+        ChildIds: 6679514154410750573
+        ChildIds: 5954910125734953113
+        ChildIds: 5050970235230839606
+        ChildIds: 6759698074200419281
+        ChildIds: 6832821735086106555
+        ChildIds: 15971738572601190253
+        ChildIds: 12771928605482364811
+        ChildIds: 13032163422665254446
+        ChildIds: 12979269139390422385
+        ChildIds: 539632757210635758
+        ChildIds: 6652920325004666412
+        ChildIds: 9400822117518359824
+        ChildIds: 9763036330212051660
+        ChildIds: 13468629637993090599
+        ChildIds: 14174602984686058230
+        ChildIds: 7287613293490194679
+        ChildIds: 6433562779235007362
+        ChildIds: 7912201106770240398
+        ChildIds: 5202911879138222387
+        ChildIds: 15307816555485756840
+        ChildIds: 5264052304407218909
+        ChildIds: 7148369564135862980
+        ChildIds: 16400436029219073379
+        ChildIds: 8385760928352071048
+        ChildIds: 4367574852004378021
+        ChildIds: 9270291470237201333
+        ChildIds: 14452108183576270349
+        ChildIds: 15698293227332466051
+        ChildIds: 10193686639248817847
+        ChildIds: 17709179996686428955
+        ChildIds: 6649003034807891460
+        ChildIds: 9005027643776328288
+        ChildIds: 17550947646909731501
+        ChildIds: 7101079576786350970
+        ChildIds: 12041983884820178191
+        ChildIds: 197539999848006887
+        ChildIds: 8462444952134949363
+        ChildIds: 8300250182201305300
+        ChildIds: 15716973445056831391
+        ChildIds: 490589642158072537
+        ChildIds: 6672801240382008179
+        ChildIds: 15852647537120539525
+        ChildIds: 7292184226451910269
+        ChildIds: 6692120703588498505
+        ChildIds: 6874860608496870112
+        ChildIds: 9988664083245402358
+        ChildIds: 6105300229592004795
+        ChildIds: 14376302074996629498
+        ChildIds: 17494154786279399656
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -121,8 +216,8 @@ Assets {
         Name: "Floor"
         Transform {
           Location {
-            X: 200
-            Y: 200
+            X: 400
+            Y: 2000
             Z: -600
           }
           Rotation {
@@ -149,6 +244,30 @@ Assets {
         ChildIds: 12705913631498588524
         ChildIds: 17481722456528560264
         ChildIds: 3211874157667229732
+        ChildIds: 4550154774820806600
+        ChildIds: 5845403554139308033
+        ChildIds: 11619555737114087234
+        ChildIds: 9354754794782395910
+        ChildIds: 3141319116709634021
+        ChildIds: 715901058985584095
+        ChildIds: 15022520124309920091
+        ChildIds: 17558855770942860367
+        ChildIds: 975006666328852121
+        ChildIds: 10720452514065203509
+        ChildIds: 5501889454593200221
+        ChildIds: 1488270521236145109
+        ChildIds: 3645177718953110944
+        ChildIds: 2775942264723952243
+        ChildIds: 18163763974959567220
+        ChildIds: 14233234390712816006
+        ChildIds: 18209163800656660230
+        ChildIds: 15010661148787253939
+        ChildIds: 17099981485882351577
+        ChildIds: 576366962781890287
+        ChildIds: 15070748645150578773
+        ChildIds: 16263531195133930825
+        ChildIds: 12937425596591974529
+        ChildIds: 2638951028871863143
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -2123,6 +2242,7 @@ Assets {
         Transform {
           Location {
             X: -400
+            Y: -1600
             Z: 600
           }
           Rotation {
@@ -2196,7 +2316,7 @@ Assets {
         Transform {
           Location {
             X: 50
-            Y: -800
+            Y: -2400
           }
           Rotation {
           }
@@ -2269,6 +2389,7 @@ Assets {
         Transform {
           Location {
             X: -400
+            Y: -1600
           }
           Rotation {
           }
@@ -2341,6 +2462,7 @@ Assets {
         Transform {
           Location {
             X: 400
+            Y: -1600
           }
           Rotation {
           }
@@ -2413,6 +2535,7 @@ Assets {
         Transform {
           Location {
             X: 1200
+            Y: -1600
           }
           Rotation {
           }
@@ -2484,7 +2607,7 @@ Assets {
         Name: "Fantasy Castle Stairs 01 - U"
         Transform {
           Location {
-            X: 50
+            X: 3200
             Y: -800
             Z: -600
           }
@@ -2554,12 +2677,1778 @@ Assets {
         }
       }
       Objects {
+        Id: 4550154774820806600
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: 800
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5845403554139308033
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11619555737114087234
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -800
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9354754794782395910
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: 800
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3141319116709634021
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 715901058985584095
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: -800
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15022520124309920091
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: -400
+            Y: -1600
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17558855770942860367
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 400
+            Y: -1600
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 975006666328852121
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1200
+            Y: -1600
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10720452514065203509
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -1600
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5501889454593200221
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: -1600
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1488270521236145109
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: -400
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3645177718953110944
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 400
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2775942264723952243
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1200
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18163763974959567220
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14233234390712816006
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18209163800656660230
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -800
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15010661148787253939
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -1600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17099981485882351577
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -1600
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 576366962781890287
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -800
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15070748645150578773
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16263531195133930825
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12937425596591974529
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2638951028871863143
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9194920201333340372
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 13336586701225794475
         Name: "Celiling"
         Transform {
           Location {
-            X: 200
-            Y: 200
+            X: 400
+            Y: 2000
             Z: 1200
           }
           Rotation {
@@ -2580,6 +4469,22 @@ Assets {
         ChildIds: 12520561996601137065
         ChildIds: 7235432127890742219
         ChildIds: 15365523886799418174
+        ChildIds: 18263928952710350794
+        ChildIds: 10954971198429920042
+        ChildIds: 1151738274990951770
+        ChildIds: 10734180659863345674
+        ChildIds: 11392887046819510639
+        ChildIds: 7552695190927110737
+        ChildIds: 9068531571534546560
+        ChildIds: 2333580490306502195
+        ChildIds: 2485504232585698466
+        ChildIds: 6623618486579734980
+        ChildIds: 15961632962001003194
+        ChildIds: 15529823281968291642
+        ChildIds: 5354931431565698719
+        ChildIds: 6298781344259857769
+        ChildIds: 16117472611597867657
+        ChildIds: 12492171785509437735
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -3260,12 +5165,1193 @@ Assets {
         }
       }
       Objects {
+        Id: 18263928952710350794
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: -400
+            Y: -1600
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10954971198429920042
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 400
+            Y: -1600
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1151738274990951770
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1200
+            Y: -1600
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10734180659863345674
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: -400
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11392887046819510639
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 400
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7552695190927110737
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 1200
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9068531571534546560
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: 800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2333580490306502195
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2485504232585698466
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6623618486579734980
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -1600
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15961632962001003194
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2000
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15529823281968291642
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: 800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5354931431565698719
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6298781344259857769
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: -800
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16117472611597867657
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: -1600
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12492171785509437735
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            X: 2800
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13336586701225794475
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 17590704869240401704
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:color"
+            Color {
+              R: 0.644907057
+              G: 0.681000054
+              B: 0.520858
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 5040371337432364811
         Name: "Walls"
         Transform {
           Location {
-            X: -200
-            Y: -600
+            Y: 1200
           }
           Rotation {
           }
@@ -3336,6 +6422,46 @@ Assets {
         ChildIds: 3781842735275781334
         ChildIds: 296389366591011348
         ChildIds: 5229619794251576080
+        ChildIds: 16299721466222839374
+        ChildIds: 16905222895116550417
+        ChildIds: 12950700847105661982
+        ChildIds: 15215686935227966501
+        ChildIds: 4221740305267879548
+        ChildIds: 7572656800140676297
+        ChildIds: 7802944833992504791
+        ChildIds: 280391373391550897
+        ChildIds: 2064652923442197046
+        ChildIds: 10310591132901785138
+        ChildIds: 13168911821552282065
+        ChildIds: 17903100139818535028
+        ChildIds: 1458415336551671554
+        ChildIds: 16140110657443407831
+        ChildIds: 12881162570668036238
+        ChildIds: 9987765532271470806
+        ChildIds: 7782430629983978882
+        ChildIds: 17530724149578998418
+        ChildIds: 15616689909132544724
+        ChildIds: 5590081154993988498
+        ChildIds: 10381654834547256887
+        ChildIds: 15546506869576009116
+        ChildIds: 2786130083010421886
+        ChildIds: 581990316243596794
+        ChildIds: 507381334905019810
+        ChildIds: 14875898764211910871
+        ChildIds: 10961762233123673391
+        ChildIds: 11791289438740351595
+        ChildIds: 856020434508803573
+        ChildIds: 20656102822375936
+        ChildIds: 11292992326713072453
+        ChildIds: 1524045524920244790
+        ChildIds: 4371114011038318337
+        ChildIds: 16628293862079593082
+        ChildIds: 5472716310149008689
+        ChildIds: 16963096395750568013
+        ChildIds: 10441334271484378643
+        ChildIds: 10157294774710822861
+        ChildIds: 17087665928582137948
+        ChildIds: 14133632561543531463
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -3357,10 +6483,10 @@ Assets {
         Name: "Stone Brick Doorway - Skull Sconces"
         Transform {
           Location {
-            Y: 800
+            Y: -800
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -3956,7 +7082,7 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 800
+            X: 1600
             Y: 1600
           }
           Rotation {
@@ -4205,10 +7331,9 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1599.99976
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -4390,6 +7515,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: -1600
           }
           Rotation {
             Yaw: -90
@@ -4574,7 +7700,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: -2400
           }
           Rotation {
           }
@@ -4759,7 +7885,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: -800
+            Y: -2400
           }
           Rotation {
           }
@@ -5006,7 +8132,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: -800
           }
           Rotation {
@@ -5192,7 +8318,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: 800
           }
           Rotation {
@@ -5378,7 +8504,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 1600
+            X: 2400
             Y: 1600
           }
           Rotation {
@@ -5564,7 +8690,7 @@ Assets {
         Name: "Stone Brick Doorway - Skull Sconces"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Z: 600
           }
           Rotation {
@@ -6165,7 +9291,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -800
+            Y: -2400
           }
           Rotation {
           }
@@ -6412,7 +9538,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 3200
             Y: 1600
           }
           Rotation {
@@ -6848,7 +9974,6 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1599.99976
             Z: 600
           }
           Rotation {
@@ -7034,6 +10159,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: -1600
             Z: 600
           }
           Rotation {
@@ -7219,7 +10345,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: -2400
             Z: 600
           }
           Rotation {
@@ -7404,8 +10530,8 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 800
-            Y: -800
+            X: 1600
+            Y: -2400
             Z: 600
           }
           Rotation {
@@ -7653,8 +10779,8 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
-            Y: -800
+            X: 4000
+            Y: -1600
             Z: 600
           }
           Rotation {
@@ -7840,7 +10966,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: 800
             Z: 600
           }
@@ -8214,8 +11340,8 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 1600
-            Y: -800
+            X: 3200
+            Y: -2400
             Z: 600
           }
           Rotation {
@@ -8463,7 +11589,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 3200
             Y: 1600
             Z: 600
           }
@@ -8650,7 +11776,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: -800
             Z: 600
           }
           Rotation {
@@ -8836,7 +11962,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: 800
             Z: -600
           }
@@ -9023,7 +12149,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 1600
+            X: 3200
             Y: 1600
             Z: -600
           }
@@ -9210,8 +12336,8 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 1600
-            Y: -800
+            X: 3200
+            Y: -2400
             Z: -600
           }
           Rotation {
@@ -9459,7 +12585,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: 1600
             Z: -600
           }
@@ -9646,7 +12772,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: -800
             Z: -600
           }
           Rotation {
@@ -9832,8 +12958,8 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
-            Y: -800
+            X: 4000
+            Y: -1600
             Z: -600
           }
           Rotation {
@@ -10019,8 +13145,8 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 800
-            Y: -800
+            X: 2400
+            Y: -2400
             Z: -600
           }
           Rotation {
@@ -10268,7 +13394,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: -2400
             Z: -600
           }
           Rotation {
@@ -10453,6 +13579,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: -1600
             Z: -600
           }
           Rotation {
@@ -10638,7 +13765,6 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1599.99976
             Z: -600
           }
           Rotation {
@@ -10824,7 +13950,7 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 800
+            X: 2400
             Y: 1600
             Z: -600
           }
@@ -11074,7 +14200,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
           }
           Rotation {
             Yaw: 89.9999619
@@ -11259,8 +14385,8 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 800
-            Y: -800
+            X: 2400
+            Y: -2400
             Z: 1200
           }
           Rotation {
@@ -11508,7 +14634,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: -2400
             Z: 1200
           }
           Rotation {
@@ -11693,6 +14819,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: -1600
             Z: 1200
           }
           Rotation {
@@ -11878,7 +15005,6 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1599.99976
             Z: 1200
           }
           Rotation {
@@ -12314,7 +15440,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: -800
             Z: 1200
           }
@@ -12501,7 +15627,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: 800
             Z: 1200
           }
@@ -12876,7 +16002,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -800
+            Y: -2400
             Z: 1200
           }
           Rotation {
@@ -13124,7 +16250,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: -800
             Z: 1200
           }
           Rotation {
@@ -13310,7 +16436,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Z: 1200
           }
           Rotation {
@@ -13683,7 +16809,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Z: -600
           }
           Rotation {
@@ -13869,7 +16995,6 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1599.99976
             Z: -1200
           }
           Rotation {
@@ -14305,6 +17430,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: -1600
             Z: -1200
           }
           Rotation {
@@ -14490,7 +17616,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: -2400
             Z: -1200
           }
           Rotation {
@@ -14675,8 +17801,8 @@ Assets {
         Name: "Stone Brick Wall - Ivy Top"
         Transform {
           Location {
-            X: 800
-            Y: -800
+            X: 2400
+            Y: -2400
             Z: -1200
           }
           Rotation {
@@ -14924,7 +18050,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: -800
             Z: -1200
           }
@@ -15111,7 +18237,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: -800
             Z: -1200
           }
           Rotation {
@@ -15485,7 +18611,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -800
+            Y: -2400
             Z: -1200
           }
           Rotation {
@@ -15920,7 +19046,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Y: 800
             Z: -1200
           }
@@ -16107,7 +19233,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            X: 2400
+            X: 4000
             Z: -1200
           }
           Rotation {
@@ -16289,12 +19415,8220 @@ Assets {
         }
       }
       Objects {
+        Id: 16299721466222839374
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 800
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 11399967583761721894
+        ChildIds: 17563674471410945085
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 11399967583761721894
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16299721466222839374
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17563674471410945085
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 16299721466222839374
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 16905222895116550417
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 800
+            Y: -2400
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 9251200902144939945
+        ChildIds: 14526907348242031575
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9251200902144939945
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16905222895116550417
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14526907348242031575
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 16905222895116550417
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 12950700847105661982
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 2400
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 16829951535367807283
+        ChildIds: 16089583750439635573
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 16829951535367807283
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12950700847105661982
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16089583750439635573
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 12950700847105661982
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 15215686935227966501
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 3200
+            Y: -2400
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 271612306460314487
+        ChildIds: 1977198992041787832
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 271612306460314487
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15215686935227966501
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1977198992041787832
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 15215686935227966501
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 4221740305267879548
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 3200
+            Y: -2400
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 8378578948165056231
+        ChildIds: 14162348877712110062
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 8378578948165056231
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4221740305267879548
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14162348877712110062
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 4221740305267879548
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 7572656800140676297
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 3200
+            Y: -2400
+            Z: -1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 16523565043156948128
+        ChildIds: 11113762202006897860
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 16523565043156948128
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7572656800140676297
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11113762202006897860
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 7572656800140676297
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 7802944833992504791
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 800
+            Y: -2400
+            Z: -1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 12011320777444726655
+        ChildIds: 578670941815170929
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 12011320777444726655
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7802944833992504791
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 578670941815170929
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 7802944833992504791
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 280391373391550897
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 800
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 1006434273451648459
+        ChildIds: 6694392551162793335
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 1006434273451648459
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 280391373391550897
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6694392551162793335
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 280391373391550897
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 2064652923442197046
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 1600
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 9903038003604029661
+        ChildIds: 16058411822929722550
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9903038003604029661
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 2064652923442197046
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16058411822929722550
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 2064652923442197046
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 10310591132901785138
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 2400
+            Y: -2400
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 7842152326646214526
+        ChildIds: 3406830391583174317
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 7842152326646214526
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10310591132901785138
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3406830391583174317
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 10310591132901785138
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 13168911821552282065
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 800
+            Z: 1200
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 4330410818502055228
+        ChildIds: 15823861481714442341
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 4330410818502055228
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13168911821552282065
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15823861481714442341
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 13168911821552282065
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 17903100139818535028
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 800
+            Z: 600
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 100305063318157718
+        ChildIds: 15267108009790042228
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 100305063318157718
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17903100139818535028
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15267108009790042228
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 17903100139818535028
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 1458415336551671554
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 800
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 13022964260249700476
+        ChildIds: 5249218635765908424
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 13022964260249700476
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1458415336551671554
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5249218635765908424
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 1458415336551671554
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 16140110657443407831
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 800
+            Z: -600
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 2191839156332221639
+        ChildIds: 8735605740549332506
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 2191839156332221639
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16140110657443407831
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8735605740549332506
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 16140110657443407831
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 12881162570668036238
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 800
+            Z: -1200
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 16313547353133129646
+        ChildIds: 17122729661806630050
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 16313547353133129646
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12881162570668036238
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17122729661806630050
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 12881162570668036238
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 9987765532271470806
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 1600
+            Z: 1200
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 328517034228697186
+        ChildIds: 6929500011442791219
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 328517034228697186
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9987765532271470806
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6929500011442791219
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 9987765532271470806
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 7782430629983978882
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 1600
+            Z: 600
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 3430519570729725394
+        ChildIds: 14002019579031231076
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 3430519570729725394
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7782430629983978882
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14002019579031231076
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 7782430629983978882
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 17530724149578998418
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 1600
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 684795946559332295
+        ChildIds: 2112549734960869637
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 684795946559332295
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17530724149578998418
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2112549734960869637
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 17530724149578998418
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 15616689909132544724
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 1600
+            Z: -600
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 9869611224248160927
+        ChildIds: 14413354862793638884
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9869611224248160927
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15616689909132544724
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14413354862793638884
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 15616689909132544724
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 5590081154993988498
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            Y: 1600
+            Z: -1200
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 12336498395420812281
+        ChildIds: 3789582887556146161
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 12336498395420812281
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5590081154993988498
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3789582887556146161
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 5590081154993988498
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 10381654834547256887
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: -2400
+            Z: -600
+          }
+          Rotation {
+            Yaw: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 5879095855086609180
+        ChildIds: 2197426791524957251
+        ChildIds: 2308219658977132943
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5879095855086609180
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10381654834547256887
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2197426791524957251
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 10381654834547256887
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2308219658977132943
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 10381654834547256887
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 15546506869576009116
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: -800
+            Z: -600
+          }
+          Rotation {
+            Yaw: 89.9999847
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 9948411377805417702
+        ChildIds: 1989987164485195011
+        ChildIds: 938517714186159274
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9948411377805417702
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15546506869576009116
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1989987164485195011
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 15546506869576009116
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 938517714186159274
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 15546506869576009116
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 2786130083010421886
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: -1600
+            Z: -1200
+          }
+          Rotation {
+            Yaw: 89.9999619
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 5718560483354958648
+        ChildIds: 16097546743248328928
+        ChildIds: 6385438059327103660
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5718560483354958648
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 2786130083010421886
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16097546743248328928
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 2786130083010421886
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6385438059327103660
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 2786130083010421886
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 581990316243596794
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: -1600
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 1782888713747804044
+        ChildIds: 10507668807643702158
+        ChildIds: 6139231718047725905
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 1782888713747804044
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 581990316243596794
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10507668807643702158
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 581990316243596794
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6139231718047725905
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 581990316243596794
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 507381334905019810
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: -800
+            Z: 600
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 8701018902199724671
+        ChildIds: 4763045356518301877
+        ChildIds: 13348122118165729294
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 8701018902199724671
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 507381334905019810
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4763045356518301877
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 507381334905019810
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13348122118165729294
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 507381334905019810
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 14875898764211910871
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 4000
+            Y: -1600
+            Z: 1200
+          }
+          Rotation {
+            Yaw: 89.9999619
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 15867777302628057202
+        ChildIds: 3399720292911538581
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 15867777302628057202
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14875898764211910871
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3399720292911538581
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 14875898764211910871
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 10961762233123673391
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 4000
+            Y: -2400
+            Z: 1200
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 17996676184409219267
+        ChildIds: 1607565224977230983
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 17996676184409219267
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10961762233123673391
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1607565224977230983
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 10961762233123673391
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 11791289438740351595
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 4000
+            Y: -2400
+            Z: 600
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 9505135260521252034
+        ChildIds: 13044081191427158568
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9505135260521252034
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11791289438740351595
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13044081191427158568
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 11791289438740351595
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 856020434508803573
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 4000
+            Y: -2400
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 5419920148715267868
+        ChildIds: 2977697411804376688
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5419920148715267868
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 856020434508803573
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2977697411804376688
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 856020434508803573
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 20656102822375936
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 4000
+            Y: -2400
+            Z: -1200
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 7000333205437721365
+        ChildIds: 9949671994501363943
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 7000333205437721365
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 20656102822375936
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9949671994501363943
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 20656102822375936
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 11292992326713072453
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 2400
+            Y: 1600
+            Z: 600
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 15208566841786848844
+        ChildIds: 13548625475439152075
+        ChildIds: 15933678940984058005
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 15208566841786848844
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11292992326713072453
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13548625475439152075
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 11292992326713072453
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15933678940984058005
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 11292992326713072453
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 1524045524920244790
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: 1600
+            Z: 600
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 9936818255953811184
+        ChildIds: 8436549995103799321
+        ChildIds: 5200940573480580398
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9936818255953811184
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1524045524920244790
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8436549995103799321
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 1524045524920244790
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5200940573480580398
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 1524045524920244790
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 4371114011038318337
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: 1600
+            Z: 1200
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 5404720114142306055
+        ChildIds: 15940054098517258163
+        ChildIds: 9306518489010842690
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5404720114142306055
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4371114011038318337
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15940054098517258163
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 4371114011038318337
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9306518489010842690
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 4371114011038318337
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 16628293862079593082
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 3200
+            Y: 1600
+            Z: 1200
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 5155358028598073811
+        ChildIds: 9717079844358313419
+        ChildIds: 9926449473818837012
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5155358028598073811
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16628293862079593082
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9717079844358313419
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 16628293862079593082
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9926449473818837012
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 16628293862079593082
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 5472716310149008689
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 4000
+            Y: 1600
+          }
+          Rotation {
+            Yaw: -179.999969
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 14284197468952566536
+        ChildIds: 12581885594052557557
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 14284197468952566536
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5472716310149008689
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12581885594052557557
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 5472716310149008689
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 16963096395750568013
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 800
+            Y: 1600
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 14026501721571172554
+        ChildIds: 17377663297266425789
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 14026501721571172554
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16963096395750568013
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17377663297266425789
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 16963096395750568013
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 10441334271484378643
+        Name: "Stone Brick Wall - Basic"
+        Transform {
+          Location {
+            X: 800
+            Y: 1600
+            Z: -600
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 2834901165142630185
+        ChildIds: 1695108894599802338
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 2834901165142630185
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10441334271484378643
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1695108894599802338
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 10441334271484378643
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.6
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 10157294774710822861
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 1600
+            Y: 1600
+            Z: -600
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 13898223286993699450
+        ChildIds: 6354343457251667010
+        ChildIds: 2282573713251811372
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 13898223286993699450
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10157294774710822861
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6354343457251667010
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 10157294774710822861
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2282573713251811372
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 10157294774710822861
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 17087665928582137948
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 3200
+            Y: 1600
+            Z: -1200
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 18405151037547047182
+        ChildIds: 18222922424133758502
+        ChildIds: 12177762521100696387
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 18405151037547047182
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17087665928582137948
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18222922424133758502
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 17087665928582137948
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12177762521100696387
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 17087665928582137948
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 14133632561543531463
+        Name: "Stone Brick Wall - Ivy Top"
+        Transform {
+          Location {
+            X: 4000
+            Y: 1600
+            Z: -1200
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5040371337432364811
+        ChildIds: 8468531649705512896
+        ChildIds: 8296636136017532126
+        ChildIds: 11586304228799575841
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 8468531649705512896
+        Name: "Fantasy Castle Wall 01"
+        Transform {
+          Location {
+            X: -7.15255737e-07
+            Y: -1
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14133632561543531463
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_TrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimInner:id"
+            AssetReference {
+              Id: 7405585834121208146
+            }
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:color"
+            Color {
+              R: 0.197505012
+              G: 0.285000026
+              B: 0.242710814
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Building_LowerTrimOuter:color"
+            Color {
+              R: 0.313236
+              G: 0.452000022
+              B: 0.384930819
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_TrimOuter:color"
+            Color {
+              R: 0.365671664
+              G: 0.401000023
+              B: 0.308839142
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4927017302746496390
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8296636136017532126
+        Name: "Ivy 05"
+        Transform {
+          Location {
+            X: 400.000031
+            Y: 24.9994698
+            Z: 525
+          }
+          Rotation {
+            Pitch: -1.36603776e-05
+            Yaw: -4.09811219e-05
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
+          }
+        }
+        ParentId: 14133632561543531463
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:color"
+            Color {
+              R: 0.296222508
+              G: 0.525000036
+              B: 0.121274978
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5343845557754087301
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11586304228799575841
+        Name: "Decal Stains Top 01"
+        Transform {
+          Location {
+            X: 375.000031
+            Y: 24.9994869
+            Z: 257.899414
+          }
+          Rotation {
+            Yaw: 4.60593456e-12
+            Roll: 89.9999619
+          }
+          Scale {
+            X: 0.8
+            Y: 1.73482525
+            Z: 0.05
+          }
+        }
+        ParentId: 14133632561543531463
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 0.075
+              G: 0.06875
+              B: 0.0375
+              A: 0.8
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 17843778551727303402
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
         Id: 6305164709746280330
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 225.817261
-            Y: -595
+            X: 425.817383
+            Y: -395
             Z: -100
           }
           Rotation {
@@ -16351,8 +27685,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 215.912231
-            Y: -600
+            X: 415.912109
+            Y: -400
             Z: -250
           }
           Rotation {
@@ -16410,8 +27744,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 233.326904
-            Y: -600
+            X: 433.327148
+            Y: -400
             Z: -400
           }
           Rotation {
@@ -16468,8 +27802,8 @@ Assets {
         Name: "Square Column Base 02"
         Transform {
           Location {
-            X: 235.242676
-            Y: -600
+            X: 435.242676
+            Y: -400
             Z: -580
           }
           Rotation {
@@ -16526,8 +27860,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 225.381592
-            Y: 175
+            X: 425.381836
+            Y: 375
             Z: -100
           }
           Rotation {
@@ -16584,8 +27918,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 235
-            Y: 180
+            X: 435
+            Y: 380
             Z: -250
           }
           Rotation {
@@ -16642,12 +27976,12 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 230
-            Y: 175
+            X: 430
+            Y: 375
             Z: -400
           }
           Rotation {
-            Yaw: 7.4674139
+            Yaw: 7.46742249
           }
           Scale {
             X: 1.5
@@ -16701,8 +28035,8 @@ Assets {
         Name: "Square Column Base 02"
         Transform {
           Location {
-            X: 235
-            Y: 175
+            X: 435
+            Y: 375
             Z: -580
           }
           Rotation {
@@ -16759,7 +28093,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 1365
+            X: 1565
+            Y: 200
             Z: -100
           }
           Rotation {
@@ -16816,8 +28151,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 1375
-            Y: -410
+            X: 1575
+            Y: -210
             Z: -100
           }
           Rotation {
@@ -16874,8 +28209,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 1375
-            Y: 5
+            X: 1575
+            Y: 205
             Z: -250
           }
           Rotation {
@@ -16933,8 +28268,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 1375
-            Y: -400
+            X: 1575
+            Y: -200
             Z: -250
           }
           Rotation {
@@ -16991,7 +28326,8 @@ Assets {
         Name: "Square Column Base 02"
         Transform {
           Location {
-            X: 1375
+            X: 1575
+            Y: 200
             Z: -580
           }
           Rotation {
@@ -17048,8 +28384,8 @@ Assets {
         Name: "Square Column Base 02"
         Transform {
           Location {
-            X: 1375
-            Y: -400
+            X: 1575
+            Y: -200
             Z: -580
           }
           Rotation {
@@ -17106,14 +28442,14 @@ Assets {
         Name: "Ivy 04"
         Transform {
           Location {
-            X: 1315
-            Y: -390
+            X: 1515
+            Y: -190
             Z: -80
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: 89.9999695
-            Roll: 89.9999695
+            Yaw: 89.9999619
+            Roll: 89.9999619
           }
           Scale {
             X: 1
@@ -17176,8 +28512,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 1360
-            Y: -400
+            X: 1560
+            Y: -200
             Z: -400
           }
           Rotation {
@@ -17234,7 +28570,8 @@ Assets {
         Name: "Square Column Segment"
         Transform {
           Location {
-            X: 1370
+            X: 1570
+            Y: 200
             Z: -400
           }
           Rotation {
@@ -17291,8 +28628,7 @@ Assets {
         Name: "Stone Arch (doorway) 001"
         Transform {
           Location {
-            X: 1375
-            Y: -200
+            X: 1575
             Z: -580
           }
           Rotation {
@@ -17349,7 +28685,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1365
+            X: 1565
+            Y: 200
             Z: -40
           }
           Rotation {
@@ -17396,11 +28733,12 @@ Assets {
         Name: "Fantasy Castle Stairs 01 - Bannister"
         Transform {
           Location {
-            X: 1375
+            X: 1575
+            Y: 200
             Z: 20
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -17443,12 +28781,12 @@ Assets {
         Name: "Fantasy Castle Stairs 01 - Straight"
         Transform {
           Location {
-            X: 1375
-            Y: -400
+            X: 1575
+            Y: -200
             Z: 20
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -17491,13 +28829,13 @@ Assets {
         Name: "Sphere - Half Thick"
         Transform {
           Location {
-            X: 225
-            Y: 175
+            X: 425
+            Y: 375
             Z: 245
           }
           Rotation {
-            Yaw: -179.999985
-            Roll: -179.999985
+            Yaw: -179.999969
+            Roll: -179.999969
           }
           Scale {
             X: 1.30000007
@@ -17548,13 +28886,13 @@ Assets {
         Name: "Sphere - Half Thick"
         Transform {
           Location {
-            X: 225
-            Y: -595
+            X: 425
+            Y: -395
             Z: 245
           }
           Rotation {
-            Yaw: -179.999985
-            Roll: -179.999985
+            Yaw: -179.999969
+            Roll: -179.999969
           }
           Scale {
             X: 1.30000007
@@ -17605,12 +28943,12 @@ Assets {
         Name: "Branches Cluster Big"
         Transform {
           Location {
-            X: 232.693237
-            Y: -595
+            X: 432.693359
+            Y: -395
             Z: 225
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 0.1
@@ -17653,12 +28991,12 @@ Assets {
         Name: "Branches Cluster Big"
         Transform {
           Location {
-            X: 232.693237
-            Y: 175
+            X: 432.693359
+            Y: 375
             Z: 225
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 0.1
@@ -17701,12 +29039,12 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 2200
-            Y: 200
+            X: 2400
+            Y: 1200
             Z: -637.638916
           }
           Rotation {
-            Yaw: 180
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -17751,12 +29089,12 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1800
-            Y: 200
+            X: 2400
+            Y: 800
             Z: -637.638916
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -17801,8 +29139,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1400
-            Y: 200
+            X: 1600
+            Y: 400
             Z: -637.638916
           }
           Rotation {
@@ -17851,8 +29189,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1000
-            Y: 200
+            X: 1200
+            Y: 400
             Z: -637.638916
           }
           Rotation {
@@ -17901,8 +29239,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 600
-            Y: 200
+            X: 800
+            Y: 400
             Z: -637.638916
           }
           Rotation {
@@ -17951,8 +29289,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 200
-            Y: 200
+            X: 400
+            Y: 400
             Z: -637.638916
           }
           Rotation {
@@ -18001,12 +29339,12 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 2200
-            Y: -600
+            X: 2400
+            Y: -400
             Z: -637.638916
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -18051,8 +29389,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1800
-            Y: -600
+            X: 2000
+            Y: -400
             Z: -637.638916
           }
           Rotation {
@@ -18101,8 +29439,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1400
-            Y: -600
+            X: 1600
+            Y: -400
             Z: -637.638916
           }
           Rotation {
@@ -18151,8 +29489,8 @@ Assets {
         Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
         Transform {
           Location {
-            X: 1000
-            Y: -600
+            X: 1200
+            Y: -400
             Z: -637.638916
           }
           Rotation {
@@ -18201,8 +29539,8 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Post"
         Transform {
           Location {
-            X: 224.809448
-            Y: 175.590576
+            X: 424.80957
+            Y: 375.59082
           }
           Rotation {
           }
@@ -18247,8 +29585,7 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Straight"
         Transform {
           Location {
-            X: -200
-            Y: 180
+            Y: 380
           }
           Rotation {
           }
@@ -18293,8 +29630,8 @@ Assets {
         Name: "Fantasy Castle Pillar 01 Base"
         Transform {
           Location {
-            X: 1400
-            Y: 200
+            X: 1600
+            Y: 400
             Z: -1180
           }
           Rotation {
@@ -18340,8 +29677,8 @@ Assets {
         Name: "Fantasy Castle Pillar 01 Base"
         Transform {
           Location {
-            X: 1400
-            Y: -600
+            X: 1600
+            Y: -400
             Z: -1180
           }
           Rotation {
@@ -18387,8 +29724,8 @@ Assets {
         Name: "Fantasy Castle Pillar 01 Base"
         Transform {
           Location {
-            X: 200
-            Y: -600
+            X: 400
+            Y: -400
             Z: -1180
           }
           Rotation {
@@ -18434,8 +29771,8 @@ Assets {
         Name: "Fantasy Castle Pillar 01 Base"
         Transform {
           Location {
-            X: 200
-            Y: 200
+            X: 425
+            Y: 400
             Z: -1180
           }
           Rotation {
@@ -18462,6 +29799,5293 @@ Assets {
         CoreMesh {
           MeshAsset {
             Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8153463629230589939
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999985
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13041418071284536031
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2000
+            Y: 400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999985
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8821830572683065161
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 1600
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7418875215728562032
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 2000
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6507032610002986137
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2800
+            Y: 2000
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999985
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15631993487924210922
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: 2000
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999985
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16865770693458590748
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3600
+            Y: 2000
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 612582222108756879
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 4000
+            Y: 2000
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10347419478568412711
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 4000
+            Y: 1200
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9656823453320265394
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 400
+            Y: -400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18225372320094635053
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2800
+            Y: -400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3505996671836406303
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: -400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11752405683736462436
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: 89.9999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7822340081599915904
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: -400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: 89.9999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3767841994968632493
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: 800
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: 89.9999771
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2358802136983431242
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: 400
+            Z: -637.638916
+          }
+          Rotation {
+            Yaw: 89.9999771
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 624213986806775045
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 2400
+            Y: 400
+            Z: -1180
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.7
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13278620696354112664
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 2400
+            Y: -400
+            Z: -1180
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14836201485007994509
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 3200
+            Y: -400
+            Z: -1180
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.7
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5214269933991593489
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 3200
+            Y: 400
+            Z: -1180
+          }
+          Rotation {
+            Yaw: 89.9999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11293012493853631086
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 4000
+            Y: 2000
+            Z: 550
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1486379394182901480
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3600
+            Y: 2000
+            Z: 550
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7987478725734217882
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: 2000
+            Z: 550
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16081580482256717988
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2800
+            Y: 2000
+            Z: 550
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1341402829333118512
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 2000
+            Z: 550
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8461043155960825210
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 1600
+            Z: 550
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3046940025874885406
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 1200
+            Z: 550
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12165957376942477980
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 800
+            Z: 550
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8819045695287462052
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 4000
+            Y: 1200
+            Z: 550
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6258820195786594711
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3600
+            Y: 1200
+            Z: 550
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18405962784615265390
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: 400
+            Z: 550
+          }
+          Rotation {
+            Yaw: 89.9999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5016794339597063895
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: 800
+            Z: 550
+          }
+          Rotation {
+            Yaw: 89.9999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7913159607064259715
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Y: -400
+            Z: 550
+          }
+          Rotation {
+            Yaw: 89.9999771
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13955923061603382861
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 3200
+            Z: 550
+          }
+          Rotation {
+            Yaw: 89.9999771
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15218039783423079994
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: 400
+            Z: 550
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13048383831233489104
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Z: 550
+          }
+          Rotation {
+            Yaw: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7206924528838974132
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 159446235107476796
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2400
+            Y: -400
+            Z: 550
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16203161614063168364
+        Name: "Fantasy Castle Stairs Spiral Trim 01 - 4m"
+        Transform {
+          Location {
+            X: 2800
+            Y: -400
+            Z: 550
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16956732760613111471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8177851563517208951
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 2400
+            Y: 1200
+            Z: -1180
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.7
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7996837334030013705
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 2400
+            Y: 2000
+            Z: -1180
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.7
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10182988261814308442
+        Name: "Fantasy Castle Pillar 01 Base"
+        Transform {
+          Location {
+            X: 3200
+            Y: 2000
+            Z: -1180
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.7
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158294784205042370
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 14452616722762075696
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15806614701746809888
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2420
+            Y: 375
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46743965
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14324641630815265566
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2425
+            Y: 380
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 779736559348410763
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 375
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2534104160188633618
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 2425
+            Y: 375
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4648739602834832537
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2420
+            Y: 375
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46745586
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15619566647578424764
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2425
+            Y: 380
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14426728361795009
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 375
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6679514154410750573
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 375
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5954910125734953113
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 2425
+            Y: 1175
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5050970235230839606
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2420
+            Y: 1175
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46745586
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6759698074200419281
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2425
+            Y: 1180
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6832821735086106555
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 1175
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15971738572601190253
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2420
+            Y: 1175
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46747208
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12771928605482364811
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2425
+            Y: 1180
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13032163422665254446
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 1175
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12979269139390422385
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 1175
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 539632757210635758
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 2425
+            Y: 2000
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6652920325004666412
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2420
+            Y: 2000
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46747208
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9400822117518359824
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2425
+            Y: 2005
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9763036330212051660
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 2000
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13468629637993090599
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2420
+            Y: 2000
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46748734
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14174602984686058230
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2425
+            Y: 2005
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7287613293490194679
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 2000
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6433562779235007362
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2415.38184
+            Y: 2000
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7912201106770240398
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: 2000
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5202911879138222387
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3179.61816
+            Y: 2000
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46748734
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15307816555485756840
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: 2005
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5264052304407218909
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: 2000
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7148369564135862980
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3179.61816
+            Y: 2000
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46750164
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16400436029219073379
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: 2005
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8385760928352071048
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: 2000
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4367574852004378021
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: 2000
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9270291470237201333
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: 1175
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14452108183576270349
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3179.61816
+            Y: 1175
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46750164
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15698293227332466051
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: 1180
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10193686639248817847
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: 1175
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17709179996686428955
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3179.61816
+            Y: 1175
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46751642
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6649003034807891460
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: 1180
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9005027643776328288
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: 1175
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17550947646909731501
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: 1175
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7101079576786350970
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: -400
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12041983884820178191
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3179.61816
+            Y: -400
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46751642
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 197539999848006887
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: -395
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8462444952134949363
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: -400
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8300250182201305300
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3179.61816
+            Y: -400
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46753311
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15716973445056831391
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3184.61816
+            Y: -395
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 490589642158072537
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: -400
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6672801240382008179
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 3175
+            Y: -400
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15852647537120539525
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2404.61816
+            Y: -400
+            Z: -400
+          }
+          Rotation {
+            Yaw: 7.46753311
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7292184226451910269
+        Name: "Square Column Base 02"
+        Transform {
+          Location {
+            X: 2409.61816
+            Y: -400
+            Z: -580
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.10000014
+            Y: 1.10000014
+            Z: 1.10000014
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4107996315016670415
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6692120703588498505
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2409.61816
+            Y: -395
+            Z: -250
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6874860608496870112
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2400
+            Y: -400
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9988664083245402358
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2404.61816
+            Y: -400
+            Z: 50
+          }
+          Rotation {
+            Yaw: 7.46754789
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 6105300229592004795
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2409.61816
+            Y: -395
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14376302074996629498
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2400
+            Y: -400
+            Z: 350
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17494154786279399656
+        Name: "Square Column Segment"
+        Transform {
+          Location {
+            X: 2400
+            Y: -400
+            Z: 500
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+        ParentId: 1158294784205042370
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.8
+              G: 0.8
+              B: 0.8
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15604865941917422076
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -18524,9 +35148,9 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: 78.6613159
-            Y: -303.000031
-            Z: 298.471802
+            X: 78.6611328
+            Y: 1297
+            Z: 298.47168
           }
           Rotation {
           }
@@ -18583,9 +35207,9 @@ Assets {
         Name: "Candle Flame VFX"
         Transform {
           Location {
-            X: 80.3256226
-            Y: -303.181122
-            Z: 298.783813
+            X: 80.3256836
+            Y: 1296.81885
+            Z: 298.783691
           }
           Rotation {
           }
@@ -18632,9 +35256,9 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: 78.6618652
-            Y: 297
-            Z: 298.471802
+            X: 78.6621094
+            Y: 1897
+            Z: 298.47168
           }
           Rotation {
           }
@@ -18692,8 +35316,8 @@ Assets {
         Transform {
           Location {
             X: 80.3261719
-            Y: 296.81369
-            Z: 298.783813
+            Y: 1896.81348
+            Z: 298.783691
           }
           Rotation {
           }
@@ -18740,8 +35364,8 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: 2321.66504
-            Y: 303
+            X: 3921
+            Y: 1903
             Z: 898.688
           }
           Rotation {
@@ -18799,8 +35423,8 @@ Assets {
         Name: "Candle Flame VFX"
         Transform {
           Location {
-            X: 2320.00098
-            Y: 303.181152
+            X: 3919.33594
+            Y: 1903.18115
             Z: 899
           }
           Rotation {
@@ -18848,8 +35472,8 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: 2321.66455
-            Y: -297
+            X: 3921
+            Y: 1303
             Z: 898.688
           }
           Rotation {
@@ -18907,8 +35531,8 @@ Assets {
         Name: "Candle Flame VFX"
         Transform {
           Location {
-            X: 2320
-            Y: -296.813721
+            X: 3919.33496
+            Y: 1303.18652
             Z: 899
           }
           Rotation {
@@ -18956,7 +35580,7 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: 422.693237
+            X: 422.693359
             Y: -400
             Z: 265
           }
@@ -19015,7 +35639,7 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: 422.693237
+            X: 422.693359
             Y: 375
             Z: 265
           }
@@ -19074,7 +35698,7 @@ Assets {
         Name: "Torch Fire VFX"
         Transform {
           Location {
-            X: 422.693237
+            X: 422.693359
             Y: -400
             Z: 235
           }
@@ -19124,7 +35748,7 @@ Assets {
         Name: "Torch Fire VFX"
         Transform {
           Location {
-            X: 422.693237
+            X: 422.693359
             Y: 375
             Z: 235
           }
@@ -20531,7 +37155,8 @@ Assets {
         Name: "Spawn Point Setter"
         Transform {
           Location {
-            X: 2300
+            X: 3850
+            Y: 1600
             Z: 625
           }
           Rotation {
