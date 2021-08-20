@@ -79,5 +79,14 @@ Assets {
       VirtualFolderPath: "Template"
       PlatformAssetType: 3
     }
+    Folders {
+      VirtualFolderPath: "Props"
+      VirtualFolderPath: "Treasure"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Tresure Rooms"
+      PlatformAssetType: 5
+    }
   }
 }

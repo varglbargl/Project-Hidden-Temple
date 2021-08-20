@@ -33,6 +33,14 @@ Assets {
         ChildIds: 3923614610111920194
         ChildIds: 8105296934390014788
         ChildIds: 231026895716148743
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:ExitLocation"
+            ObjectReference {
+              SubObjectId: 9278110783150963717
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -65,6 +73,7 @@ Assets {
           }
         }
         ParentId: 5477427207655775094
+        ChildIds: 9278110783150963717
         ChildIds: 4460678029651182883
         ChildIds: 10316539765222212016
         ChildIds: 7974220379455760681
@@ -184,6 +193,39 @@ Assets {
         }
         NetworkContext {
           Type: RuntimeStatic
+        }
+      }
+      Objects {
+        Id: 9278110783150963717
+        Name: "Exit Location"
+        Transform {
+          Location {
+            X: 2400
+            Z: 2400
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3222209057145952334
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsFilePartition: true
         }
       }
       Objects {
@@ -3953,11 +3995,10 @@ Assets {
         Transform {
           Location {
             X: 2399.99902
-            Y: 0.000122070312
             Z: 1800
           }
           Rotation {
-            Yaw: 90
+            Yaw: 89.9999847
           }
           Scale {
             X: 1
