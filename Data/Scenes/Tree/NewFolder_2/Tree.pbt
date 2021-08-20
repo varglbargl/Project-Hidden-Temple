@@ -1,7 +1,7 @@
-Name: "NewFolder"
-RootId: 9329566793959794761
+Name: "NewFolder_2"
+RootId: 11007368632151849049
 Objects {
-  Id: 1162083079712786782
+  Id: 9979328062014851664
   Name: "Level Geo"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9329566793959794761
+  ParentId: 11007368632151849049
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29,11 +29,11 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Level Geo_1"
+    FilePartitionName: "Level Geo_2"
   }
 }
 Objects {
-  Id: 16977632040707443194
+  Id: 2310416674523524585
   Name: "Room Slots"
   Transform {
     Location {
@@ -46,7 +46,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9329566793959794761
+  ParentId: 11007368632151849049
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -61,11 +61,11 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Room Slots_1"
+    FilePartitionName: "Room Slots_2"
   }
 }
 Objects {
-  Id: 2627046859695105091
+  Id: 15390276173460172181
   Name: "Level Generator Server"
   Transform {
     Location {
@@ -78,12 +78,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9329566793959794761
+  ParentId: 11007368632151849049
   UnregisteredParameters {
     Overrides {
       Name: "cs:RoomSlots"
       ObjectReference {
-        SelfId: 16977632040707443194
+        SelfId: 2310416674523524585
       }
     }
   }

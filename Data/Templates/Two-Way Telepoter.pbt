@@ -88,6 +88,7 @@ Assets {
         Transform {
           Location {
             Y: -200
+            Z: 20
           }
           Rotation {
           }
@@ -326,6 +327,7 @@ Assets {
         Transform {
           Location {
             Y: 200
+            Z: 20
           }
           Rotation {
           }

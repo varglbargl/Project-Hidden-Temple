@@ -29,6 +29,18 @@ Assets {
         }
       }
       Overrides {
+        Name: "cs:TreasureRoomTable"
+        AssetReference {
+          Id: 18008723133461153615
+        }
+      }
+      Overrides {
+        Name: "cs:TreasureTable"
+        AssetReference {
+          Id: 17330505504393873381
+        }
+      }
+      Overrides {
         Name: "cs:RoomSlots"
         ObjectReference {
         }
