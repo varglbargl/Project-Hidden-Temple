@@ -38,6 +38,8 @@ function startCollapsing(triggerId)
 end
 
 function uncollapse(triggerId)
+  if not collapsed or triggerId ~= COLLAPSE_TRIGGER.id then return end
+
   for i, bit in ipairs(physicsBits) do
     bit.isSimulatingDebrisPhysics = false
     bit:SetWorldTransform(bit.clientUserData["InitialTransform"])
