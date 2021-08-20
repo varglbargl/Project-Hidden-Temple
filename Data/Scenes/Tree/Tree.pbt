@@ -18,6 +18,7 @@ Objects {
   ChildIds: 646684474469564253
   ChildIds: 13748145341755746227
   ChildIds: 16273416948258391970
+  ChildIds: 16504211465765874710
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,6 +31,41 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 16504211465765874710
+  Name: "BackWall"
+  Transform {
+    Location {
+      X: 9800
+      Y: 34800
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BackWall"
   }
 }
 Objects {

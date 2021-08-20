@@ -1,0 +1,90 @@
+Assets {
+  Id: 17832894251264633469
+  Name: "Cliff 03"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "cliff_003"
+  }
+}
+Assets {
+  Id: 17421287752667252927
+  Name: "Fantasy Castle Ceiling 01 - Vault 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_ceiling_001_vault_02"
+  }
+}
+Assets {
+  Id: 16956732760613111471
+  Name: "Fantasy Castle Bannister 01 - Straight"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_straight"
+  }
+}
+Assets {
+  Id: 13072369037111211217
+  Name: "Whitebox Wall 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_gen_whitebox_wall_001"
+  }
+}
+Assets {
+  Id: 11232864892255764824
+  Name: "Tree Sakura Hero Bare 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_sakura_hero_02_bare_ref"
+  }
+}
+Assets {
+  Id: 7405585834121208146
+  Name: "Invisible"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_invisible_001"
+  }
+}
+Assets {
+  Id: 7207757223016895409
+  Name: "Whitebox Floor 01 8m x 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_gen_whitebox_floor_001_8x8"
+  }
+}
+Assets {
+  Id: 5357777918645578075
+  Name: "Bricks Stone Floor Large 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_floor_large_001"
+  }
+}
+Assets {
+  Id: 4679114171005356007
+  Name: "Bone Human Skull 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_01_ref"
+  }
+}
+Assets {
+  Id: 897429753597555270
+  Name: "Fantasy Castle Bannister 01 - Post"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_post"
+  }
+}
