@@ -4,9 +4,9 @@ Assets {
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 6346983418086804471
+      RootId: 3221403433096016298
       Objects {
-        Id: 6346983418086804471
+        Id: 3221403433096016298
         Name: "Red Room Slot"
         Transform {
           Scale {
@@ -16,12 +16,46 @@ Assets {
           }
         }
         ParentId: 14942283276819918009
-        ChildIds: 7661237205335253181
+        ChildIds: 6346983418086804471
         UnregisteredParameters {
           Overrides {
             Name: "cs:Type"
             String: "Puzzle"
           }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 6346983418086804471
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3221403433096016298
+        ChildIds: 7661237205335253181
+        UnregisteredParameters {
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
