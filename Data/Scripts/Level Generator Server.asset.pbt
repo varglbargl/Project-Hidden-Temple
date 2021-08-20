@@ -11,12 +11,6 @@ Assets {
         }
       }
       Overrides {
-        Name: "cs:MediumBlueRoomTable"
-        AssetReference {
-          Id: 14472956469097285040
-        }
-      }
-      Overrides {
         Name: "cs:LargeBlueRoomTable"
         AssetReference {
           Id: 17454988403983291545

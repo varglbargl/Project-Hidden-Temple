@@ -1,5 +1,4 @@
 local SMALL_BLUE_ROOM_TABLE = require(script:GetCustomProperty("SmallBlueRoomTable"))
-local MEDIUM_BLUE_ROOM_TABLE = require(script:GetCustomProperty("MediumBlueRoomTable"))
 local LARGE_BLUE_ROOM_TABLE = require(script:GetCustomProperty("LargeBlueRoomTable"))
 local RED_ROOM_TABLE = require(script:GetCustomProperty("RedRoomTable"))
 local TREASURE_ROOM_TABLE = require(script:GetCustomProperty("TreasureRoomTable"))
@@ -31,8 +30,6 @@ for _, roomSlot in ipairs(roomSlots) do
 
   if roomType == "Small" then
     roomToSpawn = SMALL_BLUE_ROOM_TABLE[math.random(1, #SMALL_BLUE_ROOM_TABLE)]
-  elseif roomType == "Medium" then
-    roomToSpawn = MEDIUM_BLUE_ROOM_TABLE[math.random(1, #MEDIUM_BLUE_ROOM_TABLE)]
   elseif roomType == "Large" then
     roomToSpawn = LARGE_BLUE_ROOM_TABLE[math.random(1, #LARGE_BLUE_ROOM_TABLE)]
   elseif roomType == "Puzzle" then
