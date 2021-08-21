@@ -901,9 +901,9 @@ Assets {
         Name: "Stone Wall End 6m"
         Transform {
           Location {
-            X: 1030
-            Y: 360
-            Z: 345
+            X: 1576.24609
+            Y: 359.999512
+            Z: 297.209717
           }
           Rotation {
             Pitch: 90
@@ -950,9 +950,9 @@ Assets {
         Name: "Fantasy Castle Pillar 01 Mid"
         Transform {
           Location {
-            X: 1100
-            Y: 1200
-            Z: 1054.55042
+            X: 1646.24609
+            Y: 1199.99951
+            Z: 1021.78
           }
           Rotation {
             Roll: -90
@@ -998,8 +998,9 @@ Assets {
         Name: "Fantasy Castle Pillar 01 Mid"
         Transform {
           Location {
-            X: 1100
-            Z: 1054.55042
+            X: 1646.24609
+            Y: -0.00048828125
+            Z: 1021.78
           }
           Rotation {
             Roll: -90
@@ -1045,9 +1046,9 @@ Assets {
         Name: "Stone Wall End 6m"
         Transform {
           Location {
-            X: 1065
-            Y: 350
-            Z: 855
+            X: 1611.24609
+            Y: 349.999512
+            Z: 807.209717
           }
           Rotation {
             Pitch: 90
@@ -1095,9 +1096,9 @@ Assets {
         Name: "Stone Wall End 6m"
         Transform {
           Location {
-            X: 1060
-            Y: -1140
-            Z: 855
+            X: 1606.24609
+            Y: -1140.00049
+            Z: 807.209717
           }
           Rotation {
             Pitch: 90
@@ -1144,9 +1145,9 @@ Assets {
         Name: "Stone Wall End 6m"
         Transform {
           Location {
-            X: 1050
-            Y: -400
-            Z: 625
+            X: 1596.24609
+            Y: -400.000488
+            Z: 577.209717
           }
           Rotation {
             Pitch: 90
@@ -1194,9 +1195,9 @@ Assets {
         Name: "Stone Wall End 6m"
         Transform {
           Location {
-            X: 1030
-            Y: -360
-            Z: 345
+            X: 1576.24609
+            Y: -360.000488
+            Z: 297.209717
           }
           Rotation {
             Pitch: 90
@@ -1243,9 +1244,9 @@ Assets {
         Name: "Stone Wall End 6m"
         Transform {
           Location {
-            X: 1030
-            Y: -1080
-            Z: 345
+            X: 1576.24609
+            Y: -1080.00049
+            Z: 297.209717
           }
           Rotation {
             Pitch: 90
@@ -1293,14 +1294,14 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: 1659.22656
-            Y: -1193.38184
-            Z: 1075.65137
+            X: 1719.29492
+            Y: -1409.84326
+            Z: 1010.47852
           }
           Rotation {
-            Pitch: -3.05032349
-            Yaw: 8.43487453
-            Roll: -16.5102844
+            Pitch: 8.53098106
+            Yaw: 9.82659054
+            Roll: 6.88604164
           }
           Scale {
             X: 2.50399899
@@ -1474,9 +1475,9 @@ Assets {
         Name: "Rock Block 02"
         Transform {
           Location {
-            X: 1515.11279
-            Y: -0.000122070312
-            Z: 451.455078
+            X: 2061.35889
+            Y: -0.00048828125
+            Z: 403.664795
           }
           Rotation {
             Yaw: 89.9999695
@@ -2952,8 +2953,8 @@ Assets {
         Name: "Decal Stone Cracks Variants 01"
         Transform {
           Location {
-            X: 295.926758
-            Y: -641.928101
+            X: 227.248047
+            Y: -864.046875
             Z: 25
           }
           Rotation {
@@ -4594,9 +4595,9 @@ Assets {
         Name: "Decal Sci-fi Details 01"
         Transform {
           Location {
-            X: 1013.70801
+            X: 1605.82568
             Y: -15
-            Z: 476
+            Z: 427.511963
           }
           Rotation {
             Pitch: 6.83018879e-06
@@ -4655,8 +4656,8 @@ Assets {
         Name: "Decal Sci-fi Details 01"
         Transform {
           Location {
-            X: 1013.70801
-            Z: 556
+            X: 1605.82568
+            Z: 507.511963
           }
           Rotation {
             Pitch: 3.4150944e-05
@@ -5274,15 +5275,16 @@ Assets {
         Transform {
           Location {
             X: 1391.46
-            Y: -1617.57764
-            Z: 557.580078
+            Y: -1556.97119
+            Z: 436.888672
           }
           Rotation {
+            Roll: -25.3604431
           }
           Scale {
             X: 5.20007467
-            Y: 5.20007467
-            Z: 5.20007467
+            Y: 3.92093706
+            Z: 6.990242
           }
         }
         ParentId: 3222209057145952334
@@ -5331,14 +5333,14 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: 863.595703
-            Y: -1195.68579
+            X: 775.28418
+            Y: -1143.98096
             Z: 25.2539062
           }
           Rotation {
             Pitch: 4.40756845
             Yaw: 9.81097126
-            Roll: -23.9618969
+            Roll: -23.9618835
           }
           Scale {
             X: 1.91611087
@@ -5381,8 +5383,8 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: 552.517578
-            Y: -912.233643
+            X: 487.540039
+            Y: -883.430176
             Z: 25.2539062
           }
           Rotation {
@@ -5562,11 +5564,12 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: 111.924805
-            Y: 680.743042
+            X: 140.203613
+            Y: 680.743164
             Z: 25.2539062
           }
           Rotation {
+            Pitch: -9.90878296
           }
           Scale {
             X: 1
@@ -5819,18 +5822,18 @@ Assets {
         Transform {
           Location {
             X: 1506.56641
-            Y: 1565.85156
-            Z: 744.989746
+            Y: 1603.41553
+            Z: 594.564453
           }
           Rotation {
-            Pitch: -5.29007
+            Pitch: -5.29006958
             Yaw: 75.3910599
             Roll: 42.6725922
           }
           Scale {
-            X: 3.4718976
-            Y: 5.88375044
-            Z: 3.47190499
+            X: -2.98302889
+            Y: 5.88374805
+            Z: 3.47191644
           }
         }
         ParentId: 3222209057145952334
@@ -5885,14 +5888,14 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: 1103.61523
-            Y: 1320.48035
-            Z: 335.899902
+            X: 1162.60205
+            Y: 1080.14014
+            Z: 205.546875
           }
           Rotation {
-            Pitch: -72.8647919
-            Yaw: -6.18777752
-            Roll: 8.53357124
+            Pitch: -72.8639526
+            Yaw: 78.1933517
+            Roll: 8.53426266
           }
           Scale {
             X: 1
@@ -10208,8 +10211,9 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 989.123047
-            Z: 361.473633
+            X: 1535.36914
+            Y: -0.00048828125
+            Z: 313.68335
           }
           Rotation {
             Yaw: -90
@@ -10480,9 +10484,9 @@ Assets {
         Name: "Spiky Log Trap"
         Transform {
           Location {
-            X: 1015
-            Y: -15
-            Z: 480
+            X: 1561.24609
+            Y: -15.0004883
+            Z: 432.209717
           }
           Rotation {
           }
@@ -12223,8 +12227,9 @@ Assets {
         Name: "Spiky Log Trap"
         Transform {
           Location {
-            X: 1015
-            Z: 560
+            X: 1561.24609
+            Y: -0.00048828125
+            Z: 512.209717
           }
           Rotation {
           }
@@ -13949,9 +13954,9 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 1015.00293
-            Y: -10.0085449
-            Z: 643.677246
+            X: 1561.24902
+            Y: -10.0092773
+            Z: 595.886963
           }
           Rotation {
             Yaw: -90
@@ -14222,9 +14227,9 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 1020.82227
-            Y: 738.012695
-            Z: 870.141602
+            X: 1567.06836
+            Y: 738.012207
+            Z: 822.351318
           }
           Rotation {
             Yaw: -90
@@ -14495,9 +14500,9 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 1020.82227
-            Y: -750.290283
-            Z: 870.141602
+            X: 1567.06836
+            Y: -750.290527
+            Z: 822.351318
           }
           Rotation {
             Yaw: -90
@@ -14768,9 +14773,9 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: 1061
-            Y: -10.0085449
-            Z: 1070
+            X: 1607.24609
+            Y: -10.0092773
+            Z: 1022.20972
           }
           Rotation {
             Yaw: -90
@@ -14849,6 +14854,7 @@ Assets {
         Name: "Grab Trigger"
         Transform {
           Location {
+            Z: 15.0200195
           }
           Rotation {
           }
@@ -15111,7 +15117,7 @@ Assets {
           Overrides {
             Name: "cs:PhysicsProp"
             AssetReference {
-              Id: 1616946973911821079
+              Id: 11939323781892388844
             }
           }
           Overrides {
@@ -15921,7 +15927,7 @@ Assets {
           Overrides {
             Name: "cs:PhysicsProp"
             AssetReference {
-              Id: 1616946973911821079
+              Id: 11939323781892388844
             }
           }
           Overrides {

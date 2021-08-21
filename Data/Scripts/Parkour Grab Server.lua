@@ -49,7 +49,7 @@ function onBeginOverlap(thisTrigger, other)
       if not thisTrigger:IsOverlapping(other) then return end
     end
 
-    if Object.IsValid(other) and not other.isGrounded then
+    if Object.IsValid(other) and not other.isGrounded and not other.isDead then
       Task.Wait()
       grabLedge(other)
     end
