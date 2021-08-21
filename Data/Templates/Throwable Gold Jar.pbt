@@ -7,7 +7,7 @@ Assets {
       RootId: 5729178633839147222
       Objects {
         Id: 5729178633839147222
-        Name: "Throwable Jar"
+        Name: "Throwable Gold Jar"
         Transform {
           Scale {
             X: 1
@@ -19,6 +19,7 @@ Assets {
         ChildIds: 13643529380431599076
         ChildIds: 8537743282056205444
         ChildIds: 2368732921334775746
+        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

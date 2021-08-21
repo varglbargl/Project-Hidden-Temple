@@ -4,51 +4,59 @@ local CRASH_VFX = script:GetCustomProperty("CrashVFX")
 
 local matilda = script.parent
 
-function canSeePlayer(player)
-  if (script:GetWorldPosition() - player:GetWorldPosition()).z > 100 then return false end
-
-  local hitResult = World.Raycast(script:GetWorldPosition(), player:GetWorldPosition())
-
-  if hitResult and Object.IsValid(hitResult.other) and hitResult.other == player then
-    return true
-  else
-    return false
-  end
-end
-
 function Tick()
-  for _, player in ipairs(Game.GetPlayers()) do
-    if canSeePlayer(player) then
-      -- print("I SEE YOU!")
+  local sightPos = script:GetWorldPosition()
+
+  for _, player in ipairs(Game.FindPlayersInCylinder(matilda:GetWorldPosition(), 5000)) do
+    local playerPos = player:GetWorldPosition()
+
+    if not player.isDead and math.abs((sightPos - playerPos).z) < 100 then
+
       local fromVector = Utils.groundBelowPoint(matilda:GetWorldPosition())
-      local toVector = Utils.groundBelowPoint(player:GetWorldPosition())
+      local toVector = Utils.groundBelowPoint(playerPos)
       local chargePath = toVector - fromVector
-      local chargeDistance = chargePath.sizeSquared
+      local chargeDistance = chargePath.size
 
       if chargeDistance > 50 then
         local chargeDirection = chargePath:GetNormalized()
-        local finalVector = World.Raycast(script:GetWorldPosition(), script:GetWorldPosition() + chargeDirection * 10000, {ignorePlayers = true})
 
-        if finalVector then
-          local chargePastVector = finalVector:GetImpactPosition()
+        local sightResult = World.Raycast(sightPos, sightPos + chargeDirection * 5000)
+        local sightPastVector = sightPos + chargeDirection * 5000
+        local finalVector = nil
 
-          finalVector = Vector3.New(chargePastVector.x, chargePastVector.y, toVector.z)
-          chargeDistance = (chargePastVector - fromVector).size
-        else
-          finalVector = toVector
+        -- if sightResult then
+        --   CoreDebug.DrawLine(sightPos, sightResult:GetImpactPosition(), {duration = 5, color = Color.GREEN, thickness = 2})
+        --   print(sightResult.other)
+        -- else
+        --   CoreDebug.DrawLine(sightPos, sightPos + chargeDirection * 5000, {duration = 5, color = Color.RED, thickness = 2})
+        -- end
+
+        if sightResult and sightResult.other == player then
+          local chargePastResult = World.Raycast(sightPos, sightPastVector, {ignorePlayers = true})
+
+          if chargePastResult then
+            local chargePastVector = chargePastResult:GetImpactPosition()
+
+            finalVector = Vector3.New(chargePastVector.x, chargePastVector.y, toVector.z)
+            chargeDistance = (chargePastVector - fromVector).size
+
+            matilda:MoveTo(finalVector, chargeDistance / 800)
+            matilda:LookAt(finalVector)
+            matilda:SetWorldRotation(Rotation.New(0, 0, matilda:GetWorldRotation().z))
+
+            Task.Wait(chargeDistance / 800 - 0.1)
+            if not Object.IsValid(matilda) then return end
+
+            matilda:StopMove()
+
+            if CRASH_VFX then
+              World.SpawnAsset(CRASH_VFX, {position = finalVector + Vector3.UP * 75})
+            end
+          end
+
+          break
         end
-
-        matilda:MoveTo(finalVector, chargeDistance / 800)
-        matilda:LookAt(finalVector)
-        matilda:SetWorldRotation(Rotation.New(0, 0, matilda:GetWorldRotation().z))
-        Task.Wait(chargeDistance / 800 - 0.1)
-        matilda:StopMove()
-        World.SpawnAsset(CRASH_VFX, {position = finalVector + Vector3.UP * 75})
       end
-
-      break
-    else
-      -- print("Must have been nothing...")
     end
   end
 
