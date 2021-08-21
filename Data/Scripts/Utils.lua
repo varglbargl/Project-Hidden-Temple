@@ -124,7 +124,11 @@ end
 function Utils.playSoundEffect(audio, location, params)
   if not audio then return end
 
-  params = params or {}
+  if type(location) == "table" and not location:IsA("Vector3") then
+    params = location
+  else
+    params = params or {}
+  end
 
   local sfx = World.SpawnAsset(audio)
 

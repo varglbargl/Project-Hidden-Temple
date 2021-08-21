@@ -1,6 +1,67 @@
 Name: "Level Geo"
 RootId: 9782066360429591230
 Objects {
+  Id: 12377055911015401396
+  Name: "Matlida the Mintotaur"
+  Transform {
+    Location {
+      X: -1493
+      Y: -34
+      Z: -575
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9782066360429591230
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1276559960087338130
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Matlida the Mintotaur"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1493
+            Y: -34
+            Z: -575
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10157508213151445309
+    }
+  }
+}
+Objects {
   Id: 1392169670870826490
   Name: "Stone Brick Wall - Basic"
   Transform {
