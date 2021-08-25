@@ -1,20 +1,75 @@
-Name: "Vanessa\'s Stuff"
-RootId: 16273416948258391970
+Name: "Umbrella Holder"
+RootId: 2396752841902036931
 Objects {
-  Id: 5376929470292970714
-  Name: "World Geo"
+  Id: 2426323712720598909
+  Name: "Crowbar"
   Transform {
     Location {
+      X: -1.90393066
+      Y: -3.09033203
+      Z: 33.243042
     }
     Rotation {
+      Yaw: 135
+      Roll: 11.9772434
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 1.1
+      Y: 1.1
+      Z: 1.1
     }
   }
-  ParentId: 16273416948258391970
+  ParentId: 2396752841902036931
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2966431757696621015
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10249890926870869101
+  Name: "NewFolder"
+  Transform {
+    Location {
+      X: -18.541748
+      Y: 17.2666016
+      Z: 131.629715
+    }
+    Rotation {
+      Pitch: 2.86833787
+      Yaw: -150.367828
+      Roll: -14.5898914
+    }
+    Scale {
+      X: 0.844321549
+      Y: 0.844321549
+      Z: 0.844321549
+    }
+  }
+  ParentId: 2396752841902036931
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29,16 +84,22 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "World Geo"
+    FilePartitionName: "NewFolder"
   }
 }
 Objects {
-  Id: 2460791136951327307
-  Name: "Game Settings and Server Scripts"
+  Id: 7157752543834095587
+  Name: "NewFolder"
   Transform {
     Location {
+      X: 15.1541748
+      Y: -32.5679932
+      Z: 152.687683
     }
     Rotation {
+      Pitch: -13.7806301
+      Yaw: -105.617058
+      Roll: -162.817352
     }
     Scale {
       X: 1
@@ -46,7 +107,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16273416948258391970
+  ParentId: 2396752841902036931
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -61,26 +122,29 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Game Settings and Server Scripts"
+    FilePartitionName: "NewFolder_1"
   }
 }
 Objects {
-  Id: 9501029242626707890
-  Name: "Client Scripts and UI"
+  Id: 11048453378507500215
+  Name: "Porcelain Vase 03"
   Transform {
     Location {
+      X: -0.543212891
+      Y: -2.25756836
     }
     Rotation {
+      Yaw: 26.3396645
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 1.30000007
+      Y: 1.30000007
+      Z: 0.900000036
     }
   }
-  ParentId: 16273416948258391970
+  ParentId: 2396752841902036931
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -91,16 +155,34 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  NetworkContext {
+  CoreMesh {
+    MeshAsset {
+      Id: 16512715306936807292
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
   }
 }
 Objects {
-  Id: 15474652366928244300
-  Name: "Client Assets"
+  Id: 15960137462554383160
+  Name: "NewFolder"
   Transform {
     Location {
+      X: 5.83557129
+      Y: 20.6491699
+      Z: 183.746094
     }
     Rotation {
+      Roll: -172.604233
     }
     Scale {
       X: 1
@@ -108,39 +190,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16273416948258391970
-  ChildIds: 3567959178173361743
-  ChildIds: 2398503651436977104
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  NetworkContext {
-  }
-}
-Objects {
-  Id: 2398503651436977104
-  Name: "Skybox and Post Processing"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15474652366928244300
+  ParentId: 2396752841902036931
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -155,58 +205,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Skybox and Post Processing"
-  }
-}
-Objects {
-  Id: 3567959178173361743
-  Name: "Third Person Camera"
-  Transform {
-    Location {
-      Z: 500
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15474652366928244300
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:alwaysvisible"
-  }
-  Camera {
-    UseAsDefault: true
-    AttachToLocalPlayer: true
-    InitialDistance: 400
-    IsDistanceAdjustable: true
-    MinDistance: 100
-    MaxDistance: 1200
-    PositionOffset {
-      Y: 60
-    }
-    RotationOffset {
-    }
-    FieldOfView: 90
-    ViewWidth: 1200
-    RotationMode {
-      Value: "mc:erotationmode:lookangle"
-    }
-    MinPitch: -89
-    MaxPitch: 89
-    DoesPositionOffsetSpring: true
+    FilePartitionName: "NewFolder_3"
   }
 }

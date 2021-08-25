@@ -1,2 +1,2 @@
 MaxPlayers: 4
-MainScene: "Main"
+MainScene: "Lobby"

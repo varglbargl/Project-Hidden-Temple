@@ -655,13 +655,13 @@ Assets {
         Name: "Urban Pipe Coupling 04"
         Transform {
           Location {
-            X: 211.533203
+            X: 211.533142
             Y: 65
             Z: 165
           }
           Rotation {
             Pitch: 15.5333242
-            Roll: -89.9999771
+            Roll: -89.9999695
           }
           Scale {
             X: 1.2
@@ -768,9 +768,9 @@ Assets {
         Name: "Urban Pipe Wrap 01"
         Transform {
           Location {
-            X: 211.533203
-            Y: 87
-            Z: 84
+            X: 212
+            Y: 86.9999695
+            Z: 80
           }
           Rotation {
             Yaw: 150.53334

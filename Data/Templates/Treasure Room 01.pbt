@@ -12592,6 +12592,5 @@ Assets {
     }
   }
   SerializationVersion: 97
-  VirtualFolderPath: "Tileset"
   VirtualFolderPath: "Tresure Rooms"
 }

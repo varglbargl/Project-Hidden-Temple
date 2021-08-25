@@ -1,13 +1,13 @@
 Assets {
   Id: 10157508213151445309
-  Name: "Matlida the Mintotaur"
+  Name: "Matilda the Mintotaur"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 1276559960087338130
       Objects {
         Id: 1276559960087338130
-        Name: "Matlida the Mintotaur"
+        Name: "Matilda the Mintotaur"
         Transform {
           Scale {
             X: 1
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 17349343768554587678
         ChildIds: 17225304629971066940
         ChildIds: 14251683739447202196
         ChildIds: 17651901195191197268
@@ -42,14 +42,14 @@ Assets {
         Name: "Collision"
         Transform {
           Location {
-            Z: 110
+            Z: 135
           }
           Rotation {
           }
           Scale {
-            X: 0.75
-            Y: 0.75
-            Z: 1
+            X: 1
+            Y: 1
+            Z: 1.25
           }
         }
         ParentId: 1276559960087338130
@@ -88,15 +88,15 @@ Assets {
         Name: "Trigger"
         Transform {
           Location {
-            Z: 110
+            Z: 137.5
           }
           Rotation {
-            Yaw: 45
+            Yaw: 44.9999962
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 2.5
+            X: 1.25
+            Y: 1.25
+            Z: 3
           }
         }
         ParentId: 1276559960087338130
@@ -129,14 +129,14 @@ Assets {
         Name: "Bump Zone Server"
         Transform {
           Location {
-            Z: -50
+            Z: -52.0833359
           }
           Rotation {
           }
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: 1.04166675
           }
         }
         ParentId: 14251683739447202196
@@ -170,8 +170,8 @@ Assets {
         Name: "Matilda the Minotaur Server"
         Transform {
           Location {
-            X: 20
-            Z: 120
+            X: 60
+            Z: 100
           }
           Rotation {
           }
@@ -206,14 +206,14 @@ Assets {
         Name: "ClientContext"
         Transform {
           Location {
-            Z: 109
+            Z: 136.25
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.25
+            Y: 1.25
+            Z: 1.25
           }
         }
         ParentId: 1276559960087338130
@@ -316,9 +316,9 @@ Assets {
           }
           AutoPlay: true
           Repeat: true
-          Pitch: -20000
-          Volume: 0.1
-          Falloff: 300
+          Pitch: -2000
+          Volume: 0.2
+          Falloff: 350
           Radius: 50
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
@@ -6454,6 +6454,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 95
+  SerializationVersion: 97
   VirtualFolderPath: "NPCs"
 }
