@@ -1183,7 +1183,7 @@ Assets {
   Marketplace {
     Description: "the music player i use\r\n\r\nprivate cc"
   }
-  SerializationVersion: 95
+  SerializationVersion: 97
   DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

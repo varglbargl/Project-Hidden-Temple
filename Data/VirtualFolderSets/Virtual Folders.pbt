@@ -1,8 +1,8 @@
 Assets {
-  Id: 15920486218107592752
+  Id: 11237267171393895703
   Name: "Virtual Folders"
   PlatformAssetType: 30
-  SerializationVersion: 95
+  SerializationVersion: 97
   VirtualFolderSetAsset {
     Folders {
       VirtualFolderPath: "Props"

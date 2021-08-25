@@ -10,7 +10,7 @@ function Tick()
   for _, player in ipairs(Game.FindPlayersInCylinder(matilda:GetWorldPosition(), 5000)) do
     local playerPos = player:GetWorldPosition()
 
-    if not player.isDead and math.abs((sightPos - playerPos).z) < 100 then
+    if not player.isDead and math.abs((sightPos - playerPos).z) < 150 then
 
       local fromVector = Utils.groundBelowPoint(matilda:GetWorldPosition())
       local toVector = Utils.groundBelowPoint(playerPos)

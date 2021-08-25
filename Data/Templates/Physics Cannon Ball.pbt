@@ -43,6 +43,9 @@ Assets {
             IsEnemyCollisionEnabled: true
           }
           Radius: 25
+          DamageSettings {
+            StartImmortal: true
+          }
         }
       }
       Objects {
@@ -299,6 +302,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 95
+  SerializationVersion: 97
   VirtualFolderPath: "Game Components"
 }

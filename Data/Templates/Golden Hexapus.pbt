@@ -16,6 +16,8 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
+        ChildIds: 16243061453412459455
+        ChildIds: 8640986733305221512
         ChildIds: 16574163131163991925
         ChildIds: 6378765533757904982
         WantsNetworking: true
@@ -33,6 +35,171 @@ Assets {
         }
         Folder {
           IsGroup: true
+        }
+      }
+      Objects {
+        Id: 16243061453412459455
+        Name: "Callout Sparkle"
+        Transform {
+          Location {
+            Z: 25
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.75
+            Y: 0.75
+            Z: 0.75
+          }
+        }
+        ParentId: 6582880278575458474
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 0.25
+          }
+          Overrides {
+            Name: "bp:Wind Speed"
+            Vector {
+            }
+          }
+          Overrides {
+            Name: "bp:Initial Velocity"
+            Vector {
+            }
+          }
+          Overrides {
+            Name: "bp:Gravity"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "bp:Curl Speed"
+            Vector {
+              Z: 0.75
+            }
+          }
+          Overrides {
+            Name: "bp:Curl Offset"
+            Vector {
+              X: 5
+            }
+          }
+          Overrides {
+            Name: "bp:Curl Variance"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Particle Scale Multiplier"
+            Float: 20
+          }
+          Overrides {
+            Name: "bp:Life"
+            Float: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 604043960701835534
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 8640986733305221512
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6582880278575458474
+        ChildIds: 13408762834295655334
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 13408762834295655334
+        Name: "Get Treasure Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8640986733305221512
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 18208312515984452375
+          }
         }
       }
       Objects {
@@ -723,6 +890,15 @@ Assets {
       }
     }
     Assets {
+      Id: 604043960701835534
+      Name: "Callout Sparkle"
+      PlatformAssetType: 8
+      PrimaryAsset {
+        AssetType: "VfxBlueprintAssetRef"
+        AssetId: "fxbp_sparkles_volume_vfx"
+      }
+    }
+    Assets {
       Id: 2301961655283333269
       Name: "Magic Dark Beam Breathy Loop 01 SFX"
       PlatformAssetType: 7
@@ -799,7 +975,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 95
+  SerializationVersion: 97
   VirtualFolderPath: "Props"
   VirtualFolderPath: "Treasure"
 }
