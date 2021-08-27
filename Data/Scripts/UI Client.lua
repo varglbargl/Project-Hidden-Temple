@@ -5,6 +5,7 @@ local MONEY_AMOUNT = script:GetCustomProperty("MoneyAmount"):WaitForObject()
 local ADDED_MONEY = script:GetCustomProperty("AddedMoney"):WaitForObject()
 local MONEY_SFX = script:GetCustomProperty("MoneySFX"):WaitForObject()
 local START_BUTTON = script:GetCustomProperty("StartButton"):WaitForObject()
+local START_MENU_CAMERA = script:GetCustomProperty("StartMenuCamera"):WaitForObject(0.1)
 
 local clientPlayer = Game.GetLocalPlayer()
 local myMoney = nil
@@ -13,6 +14,13 @@ local countMoneyTask = nil
 
 ADDED_MONEY.text = ""
 MONEY_AMOUNT.y = -110
+
+if START_MENU_CAMERA then
+  clientPlayer:SetOverrideCamera(START_MENU_CAMERA)
+end
+
+UI.SetCanCursorInteractWithUI(true)
+UI.SetCursorVisible(true)
 
 function initGameUI()
   myMoney = clientPlayer:GetResource("Money")
@@ -25,6 +33,8 @@ function initGameUI()
   clientPlayer.resourceChangedEvent:Connect(onResourceChanged)
 
   START_BUTTON.visibility = Visibility.FORCE_OFF
+
+  clientPlayer:ClearOverrideCamera()
 
   Utils.throttleToServer("PlayerStart")
 end
@@ -62,8 +72,5 @@ function onResourceChanged(player, resourceName, newAmount)
     addMoney(newAmount)
   end
 end
-
-UI.SetCanCursorInteractWithUI(true)
-UI.SetCursorVisible(true)
 
 START_BUTTON.clickedEvent:Connect(initGameUI)

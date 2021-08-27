@@ -11,6 +11,10 @@ Assets {
         }
       }
       Overrides {
+        Name: "cs:CollapseTime"
+        Float: 1.5
+      }
+      Overrides {
         Name: "cs:PlatformCollision"
         ObjectReference {
         }

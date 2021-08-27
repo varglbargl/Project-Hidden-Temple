@@ -1,13 +1,4 @@
 Assets {
-  Id: 13311918237383185847
-  Name: "Londrina Solid Black"
-  PlatformAssetType: 28
-  PrimaryAsset {
-    AssetType: "FontAssetRef"
-    AssetId: "LondrinaSolidBlack_ref"
-  }
-}
-Assets {
   Id: 12598587725932938797
   Name: "Germania One"
   PlatformAssetType: 28
@@ -32,5 +23,14 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "BackgroundNoOutline_019"
+  }
+}
+Assets {
+  Id: 4546426645344071837
+  Name: "Pirata One"
+  PlatformAssetType: 28
+  PrimaryAsset {
+    AssetType: "FontAssetRef"
+    AssetId: "PirataOneRegular_ref"
   }
 }

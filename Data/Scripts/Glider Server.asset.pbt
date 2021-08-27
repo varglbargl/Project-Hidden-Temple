@@ -1,6 +1,6 @@
 Assets {
-  Id: 178674352215168141
-  Name: "Lightning Flash Client"
+  Id: 7202748079351827853
+  Name: "Glider Server"
   PlatformAssetType: 3
   TextAsset {
   }

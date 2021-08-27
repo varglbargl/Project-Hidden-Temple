@@ -8,24 +8,31 @@ local physicsBits = PHYSICS_BITS:GetChildren()
 local collapsed = false
 
 for i, bit in ipairs(physicsBits) do
-  bit.clientUserData["InitialTransform"] = bit:GetWorldTransform()
+  bit.clientUserData["InitialTransform"] = bit:GetTransform()
 end
 
-function startCollapsing(triggerId)
-  if collapsed or triggerId ~= COLLAPSE_TRIGGER.id then return end
-
-  if START_COLLAPSING_VFX then
-    World.SpawnAsset(START_COLLAPSING_VFX, {position = COLLAPSE_TRIGGER:GetWorldPosition()})
-  end
-
-  collapsed = true
-
+function shiftBits()
   for i, bit in ipairs(physicsBits) do
     bit:SetPosition(bit:GetPosition() + Vector3.UP * math.random(-8, 0))
     bit:SetRotation(bit:GetRotation() + Rotation.New(math.random(-5, 5), math.random(-5, 5), math.random(-5, 5)))
   end
 
-  Task.Wait(1)
+  if START_COLLAPSING_VFX then
+    World.SpawnAsset(START_COLLAPSING_VFX, {position = COLLAPSE_TRIGGER:GetWorldPosition()})
+  end
+end
+
+function startCollapsing(triggerId, collapseTime)
+  if collapsed or triggerId ~= COLLAPSE_TRIGGER.id then return end
+
+  collapsed = true
+
+  shiftBits()
+  Task.Wait(collapseTime / 3)
+  shiftBits()
+  Task.Wait(collapseTime / 3)
+  shiftBits()
+  Task.Wait(collapseTime / 3)
 
   for i, bit in ipairs(physicsBits) do
     bit.isSimulatingDebrisPhysics = true
@@ -42,7 +49,7 @@ function uncollapse(triggerId)
 
   for i, bit in ipairs(physicsBits) do
     bit.isSimulatingDebrisPhysics = false
-    bit:SetWorldTransform(bit.clientUserData["InitialTransform"])
+    bit:SetTransform(bit.clientUserData["InitialTransform"])
   end
 
   collapsed = false
