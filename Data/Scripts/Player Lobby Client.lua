@@ -22,5 +22,4 @@ function Tick()
       LIGHTNING.visibility = Visibility.FORCE_OFF
     end
   end
-
 end

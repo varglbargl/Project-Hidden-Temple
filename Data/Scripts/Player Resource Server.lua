@@ -1,6 +1,7 @@
 function savePlayerStorage(player)
   local playerData = {
-    money = player:GetResource("Money")
+    money = player:GetResource("Money"),
+    recentTreasure = player.serverUserData["RecentTreasure"]
   }
 
   return Storage.SetPlayerData(player, playerData)
@@ -20,12 +21,30 @@ function onPlayerJoined(player)
   else
     player:SetResource("Money", 0)
   end
+
+  if savedPlayerData.recentTreasure then
+    Events.Broadcast("InitTreasures", player, player.serverUserData["RecentTreasure"])
+  else
+    player.serverUserData["RecentTreasure"] = {}
+  end
 end
 
 function onPlayerLeft(player)
 	print("player left: " .. player.name)
 
   savePlayerStorage(player)
+end
+
+function onPlayerGotTreasure(player, treasureName)
+  for _, ownedTreasure in ipairs(player.serverUserData["RecentTreasure"]) do
+    if ownedTreasure == treasureName then return end
+  end
+
+  if #player.serverUserData["RecentTreasure"] > 2 then
+    table.remove(player.serverUserData["RecentTreasure"], 1)
+  end
+
+  table.insert(player.serverUserData["RecentTreasure"], treasureName)
 end
 
 -- on player joined/left functions need to be defined before calling event:Connect()

@@ -40,7 +40,7 @@ readyCheckMark.visibility = Visibility.FORCE_OFF
 function showSinglePlayerPanel()
   UI.SetCanCursorInteractWithUI(true)
   UI.SetCursorVisible(true)
-  isMenuOpen = true
+  isMenuOpen = "single"
   LEVEL_SELECT_PANEL.visibility = Visibility.INHERIT
   SINGLE_PLAYER_TRIGGER.collision = Collision.FORCE_OFF
   PLAYERS_READY.visibility = Visibility.FORCE_OFF
@@ -54,13 +54,14 @@ function showSinglePlayerPanel()
     embarkEvent = nil
   end
 
+  EMBARK_BUTTON.isInteractable = true
   embarkEvent = EMBARK_BUTTON.clickedEvent:Connect(singlePlayerEmbark)
 end
 
 function showMultiplayerPanel()
   UI.SetCanCursorInteractWithUI(true)
   UI.SetCursorVisible(true)
-  isMenuOpen = true
+  isMenuOpen = "multi"
   LEVEL_SELECT_PANEL.visibility = Visibility.INHERIT
   MULTIPLAYER_TRIGGER.collision = Collision.FORCE_OFF
   PLAYERS_READY.visibility = Visibility.INHERIT
@@ -72,6 +73,12 @@ function showMultiplayerPanel()
   if embarkEvent then
     embarkEvent:Disconnect()
     embarkEvent = nil
+  end
+
+  if playersReady == #Game.GetPlayers() then
+    EMBARK_BUTTON.isInteractable = true
+  else
+    EMBARK_BUTTON.isInteractable = false
   end
 
   embarkEvent = EMBARK_BUTTON.clickedEvent:Connect(multiplayerEmbark)
@@ -115,7 +122,7 @@ function updatePlayersReady(howMany)
 
   if playersReady == totalPlayers then
     EMBARK_BUTTON.isInteractable = true
-  else
+  elseif isMenuOpen == "multi" then
     EMBARK_BUTTON.isInteractable = false
   end
 end

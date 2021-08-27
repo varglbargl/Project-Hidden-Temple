@@ -23,7 +23,7 @@ Assets {
       Overrides {
         Name: "cs:CollapseVFX"
         AssetReference {
-          Id: 841534158063459245
+          Id: 1150507085165330217
         }
       }
     }

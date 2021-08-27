@@ -132,7 +132,12 @@ function Utils.playSoundEffect(audio, location, params)
 
   local sfx = World.SpawnAsset(audio)
 
-  sfx.isTransient = true
+  if params.isTransient == false or params.transient == false then
+    sfx.isTransient = false
+  else
+    sfx.isTransient = true
+  end
+
   sfx.volume = params.volume or 1
   sfx.pitch = params.pitch or 0
   sfx.fadeInTime = params.fadeInTime or 0

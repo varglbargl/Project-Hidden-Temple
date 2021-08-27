@@ -10,6 +10,7 @@ function getYeLoot(thisTrigger, player)
     thisPlayer:AddResource("Money", 500)
   end
 
+  Events.Broadcast("AddRecentTreasure", player, treasure.name)
   Utils.throttleToAllPlayers("GotTreasure", player.name, treasure.name)
 
   treasure.collision = Collision.FORCE_OFF

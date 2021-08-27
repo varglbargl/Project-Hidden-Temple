@@ -108,6 +108,39 @@ Objects {
   }
 }
 Objects {
+  Id: 18110711490882570554
+  Name: "Player Lobby Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2460791136951327307
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 15703659448271571220
+    }
+  }
+}
+Objects {
   Id: 4924137863666803698
   Name: "Game Settings"
   Transform {
@@ -131,6 +164,16 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Game Settings"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
         }
       }
     }

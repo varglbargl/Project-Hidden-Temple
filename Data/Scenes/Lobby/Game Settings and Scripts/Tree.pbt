@@ -34,7 +34,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
-    SpawnKey: "Door"
+    SpawnKey: "Start"
     SpawnEffectsTemplate {
       Id: 14672173053290844747
     }
@@ -73,7 +73,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
-    SpawnKey: "Door"
+    SpawnKey: "Start"
     SpawnEffectsTemplate {
       Id: 14672173053290844747
     }
@@ -113,7 +113,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
-    SpawnKey: "Door"
+    SpawnKey: "Start"
     SpawnEffectsTemplate {
       Id: 14672173053290844747
     }
@@ -153,7 +153,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
-    SpawnKey: "Door"
+    SpawnKey: "Start"
     SpawnEffectsTemplate {
       Id: 14672173053290844747
     }
@@ -193,7 +193,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
-    SpawnKey: "Door"
+    SpawnKey: "Start"
     SpawnEffectsTemplate {
       Id: 14672173053290844747
     }
@@ -262,6 +262,39 @@ Objects {
   Script {
     ScriptAsset {
       Id: 15703659448271571220
+    }
+  }
+}
+Objects {
+  Id: 7706874623848782617
+  Name: "Player Respawn Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4616486078644751084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 7181877701682370511
     }
   }
 }

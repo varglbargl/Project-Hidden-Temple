@@ -1,5 +1,9 @@
 local RESPAWN_VFX = script:GetCustomProperty("RespawnVFX")
 
+function onPlayerSpawned(player)
+  player.serverUserData["SpawnPoint"] = player:GetWorldTransform()
+end
+
 function onPlayerDied(player)
   Task.Wait(1.5)
   if not Object.IsValid(player) then return end
@@ -10,8 +14,7 @@ function onPlayerDied(player)
 end
 
 function onPlayerJoined(player)
-  player.serverUserData["SpawnPoint"] = player:GetWorldTransform()
-
+  player.spawnedEvent:Connect(onPlayerSpawned)
   player.diedEvent:Connect(onPlayerDied)
 end
 

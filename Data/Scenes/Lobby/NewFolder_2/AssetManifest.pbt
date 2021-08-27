@@ -1,27 +1,36 @@
 Assets {
-  Id: 12095835209017042614
-  Name: "Cube"
+  Id: 13888119501670323283
+  Name: "Fantasy Sword Blade 04"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_002"
+    AssetId: "sm_weap_fan_blade_sword_004_ref"
   }
 }
 Assets {
-  Id: 5659932141245990864
-  Name: "Carpet Tile Stairs 01"
+  Id: 9544913535066953067
+  Name: "Fantasy Sword Guard 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_carpet_stairs_001"
+    AssetId: "sm_weap_fan_guard_sword_002"
   }
 }
 Assets {
-  Id: 2397189581664968778
-  Name: "Carpet Tile 01"
+  Id: 6954370053071083141
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
+  }
+}
+Assets {
+  Id: 3682206342183528038
+  Name: "Fantasy Sword Grip 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_carpet_tile_001"
+    AssetId: "sm_weap_fan_grip_sword_001"
   }
 }

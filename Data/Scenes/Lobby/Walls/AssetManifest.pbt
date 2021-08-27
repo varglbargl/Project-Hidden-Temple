@@ -62,6 +62,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13425786293211876696
+  Name: "Arch"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_arch_001"
+  }
+}
+Assets {
   Id: 13072369037111211217
   Name: "Whitebox Wall 01"
   PlatformAssetType: 1

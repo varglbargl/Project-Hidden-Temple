@@ -160,7 +160,7 @@ Objects {
 }
 Objects {
   Id: 9537111528111485354
-  Name: "Ready Button"
+  Name: "Start Button"
   Transform {
     Location {
     }
@@ -299,7 +299,7 @@ Objects {
     UseParentWidth: true
     UseParentHeight: true
     Text {
-      Label: "READY"
+      Label: "Start"
       Color {
         R: 1
         G: 1
@@ -312,7 +312,7 @@ Objects {
       }
       AutoWrapText: true
       Font {
-        Id: 13311918237383185847
+        Id: 4546426645344071837
       }
       VerticalJustification {
         Value: "mc:everticaljustification:top"
@@ -647,9 +647,15 @@ Objects {
       }
     }
     Overrides {
-      Name: "cs:ReadyButton"
+      Name: "cs:StartButton"
       ObjectReference {
         SelfId: 9537111528111485354
+      }
+    }
+    Overrides {
+      Name: "cs:StartMenuCamera"
+      ObjectReference {
+        SelfId: 12727995402574190219
       }
     }
   }
@@ -688,6 +694,7 @@ Objects {
   ParentId: 16273416948258391970
   ChildIds: 3567959178173361743
   ChildIds: 2398503651436977104
+  ChildIds: 13473270990518643644
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -701,6 +708,41 @@ Objects {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
   NetworkContext {
+  }
+}
+Objects {
+  Id: 13473270990518643644
+  Name: "Start Menu Camera Container"
+  Transform {
+    Location {
+      X: -1540
+      Y: 30
+      Z: -570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15474652366928244300
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Start Menu Camera Container"
   }
 }
 Objects {

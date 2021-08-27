@@ -375,7 +375,6 @@ Assets {
             RespawnMode_v2 {
               Value: "mc:erespawnmode:atclosestspawnpoint"
             }
-            StartSpawned: true
             SpawnMode {
               Value: "mc:espawnmode:random"
             }
