@@ -1,6 +1,45 @@
 Name: "Game Settings and Server Scripts"
 RootId: 2460791136951327307
 Objects {
+  Id: 12690481894170309495
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: -1580
+      Y: -80
+      Z: -450
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2460791136951327307
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnKey: "Start"
+    SpawnEffectsTemplate {
+      Id: 841534158063459245
+    }
+  }
+}
+Objects {
   Id: 5402579305841120550
   Name: "Player Respawn Server"
   Transform {
@@ -137,6 +176,39 @@ Objects {
   Script {
     ScriptAsset {
       Id: 15703659448271571220
+    }
+  }
+}
+Objects {
+  Id: 1638130782668336357
+  Name: "Game State Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2460791136951327307
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 16593041586045354109
     }
   }
 }

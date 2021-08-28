@@ -13,6 +13,18 @@ function onSinglePlayerEmbark(player, levelName)
 end
 
 function onMultiplayerEmbark(player, levelName)
+  -- if player.isInParty then
+  --   local partyInfo = player:GetPartyInfo()
+
+  --   if partyInfo.isPlayAsParty then
+  --     local partyLeader = Game.FindPlayer(partyInfo.partyLeaderId)
+
+  --     if Object.IsValid(partyLeader) then
+  --       partyLeader:TransferToScene(levelName)
+  --     end
+  --   end
+  -- end
+
   Game.TransferAllPlayersToScene(levelName)
 end
 

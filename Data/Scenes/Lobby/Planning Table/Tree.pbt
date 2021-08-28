@@ -139,7 +139,7 @@ Objects {
   Name: "Kunai Blade"
   Transform {
     Location {
-      X: -131.89296
+      X: -673.892944
       Y: -7.67321777
       Z: 143.505615
     }
@@ -197,7 +197,7 @@ Objects {
   Name: "Kunai Handle"
   Transform {
     Location {
-      X: -131.326187
+      X: -673.326172
       Y: -7.97412109
       Z: 142.619354
     }
@@ -301,7 +301,7 @@ Objects {
   Name: "UI Container"
   Transform {
     Location {
-      X: -102.511795
+      X: -696.51178
       Y: -2.18225098
       Z: 121.877014
     }
@@ -436,8 +436,8 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: 89.0124359
-      Y: -188.639587
+      X: 32.488205
+      Y: -179.876221
       Z: 0.000152587891
     }
     Rotation {
@@ -505,7 +505,7 @@ Objects {
   Name: "Office Pen 01"
   Transform {
     Location {
-      X: 2.48820496
+      X: -104.511795
       Y: -79.3936768
       Z: 121.763428
     }
@@ -561,7 +561,7 @@ Objects {
   Name: "Fantasy Book Open 01"
   Transform {
     Location {
-      X: 64.2988
+      X: -42.7011871
       Y: -66.0089111
       Z: 122.877014
     }

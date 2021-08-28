@@ -1,36 +1,27 @@
 Assets {
-  Id: 13888119501670323283
-  Name: "Fantasy Sword Blade 04"
+  Id: 17693745648978331786
+  Name: "Gear - generic large two-spoked"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_weap_fan_blade_sword_004_ref"
+    AssetId: "sm_gen_gear_001_spoke2x"
   }
 }
 Assets {
-  Id: 9544913535066953067
-  Name: "Fantasy Sword Guard 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_weap_fan_guard_sword_002"
-  }
-}
-Assets {
-  Id: 6954370053071083141
-  Name: "Metal Iron 01"
+  Id: 9501471890628041237
+  Name: "Metal Gold 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_001"
+    AssetId: "mi_metal_gold_001"
   }
 }
 Assets {
-  Id: 3682206342183528038
-  Name: "Fantasy Sword Grip 01"
+  Id: 6020912316856289484
+  Name: "Gear - generic small"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_weap_fan_grip_sword_001"
+    AssetId: "sm_gen_gear_small_001_thin-hole"
   }
 }

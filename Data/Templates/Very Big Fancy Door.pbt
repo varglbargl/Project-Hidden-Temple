@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 2041221388090840929
         ChildIds: 15073486038750932729
         ChildIds: 5527270687578662249
         ChildIds: 2289823752352984658
@@ -24,7 +24,6 @@ Assets {
         ChildIds: 8958854764048552567
         ChildIds: 8941192149002528370
         ChildIds: 5036317952219173327
-        ChildIds: 15646920785159993976
         ChildIds: 1901577767089272512
         ChildIds: 4899752123596564341
         ChildIds: 12946199881912227638
@@ -34,7 +33,6 @@ Assets {
         ChildIds: 16340789443752196430
         ChildIds: 12590362114513891707
         ChildIds: 5883492745903279657
-        ChildIds: 10379211801849796863
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1980,126 +1978,20 @@ Assets {
         }
       }
       Objects {
-        Id: 15646920785159993976
-        Name: "Whitebox Wall 01 Doorway 01 Frame"
-        Transform {
-          Location {
-            X: -77
-            Y: -240
-            Z: 710
-          }
-          Rotation {
-            Yaw: 89.9999542
-          }
-          Scale {
-            X: 0.6
-            Y: 1
-            Z: -0.6
-          }
-        }
-        ParentId: 13780242828775993956
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 12446131267530965574
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:utile"
-            Float: 4
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:vtile"
-            Float: 4
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:color"
-            Color {
-              R: 0.5
-              G: 0.3
-              B: 0.25
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 4096729604259603915
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.5
-              G: 0.3
-              B: 0.25
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11450825845132636086
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          DisableDistanceFieldLighting: true
-          DisableReceiveDecals: true
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 1901577767089272512
         Name: "Whitebox Wall 01 Doorway 01 Frame"
         Transform {
           Location {
             X: -27
-            Z: -25
+            Z: 29.6908607
           }
           Rotation {
             Yaw: -90
           }
           Scale {
-            X: 1.9
-            Y: 1.30000007
-            Z: 2
+            X: 2.33364415
+            Y: -1.19643247
+            Z: 2.34160113
           }
         }
         ParentId: 13780242828775993956
@@ -2154,6 +2046,29 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 4096729604259603915
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.35
+              G: 0.210000008
+              B: 0.175
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 4
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2169,7 +2084,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 5754562299227578214
+            Id: 6645541369262067888
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2190,18 +2105,19 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -17
-            Y: -180
-            Z: 699
+            X: -24.0634155
+            Y: -242.233536
+            Z: 767.653076
           }
           Rotation {
             Pitch: 90
-            Roll: 90.0000076
+            Yaw: 90
+            Roll: 179.999985
           }
           Scale {
-            X: 0.3
-            Y: 0.2
-            Z: 0.6
+            X: 0.403722435
+            Y: 0.26914829
+            Z: 0.80744487
           }
         }
         ParentId: 13780242828775993956
@@ -2268,18 +2184,18 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -17
-            Y: 180
-            Z: 699
+            X: -24.0634155
+            Y: 242.233505
+            Z: 767.653076
           }
           Rotation {
             Pitch: 90
             Roll: -90
           }
           Scale {
-            X: 0.3
-            Y: 0.2
-            Z: 0.6
+            X: 0.403722435
+            Y: 0.26914829
+            Z: 0.80744487
           }
         }
         ParentId: 13780242828775993956
@@ -2346,16 +2262,17 @@ Assets {
         Name: "Japanese Stone Lantern Housing Small 01"
         Transform {
           Location {
-            X: -27
-            Z: 714
+            X: -28.4693623
+            Y: -1.90734863e-05
+            Z: 791.489624
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
-            X: 1.4
-            Y: 0.5
-            Z: 1.4
+            X: 1.88403785
+            Y: 0.726813376
+            Z: 1.88403797
           }
         }
         ParentId: 13780242828775993956
@@ -2441,16 +2358,17 @@ Assets {
         Name: "Japanese Stone Lantern Housing Small 01"
         Transform {
           Location {
-            X: -30
-            Z: 755
+            X: -32.5065918
+            Y: -2.28881836e-05
+            Z: 846.665039
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
-            X: 0.4
-            Y: 0.2
-            Z: 0.4
+            X: 0.53829658
+            Y: 0.26914829
+            Z: 0.53829658
           }
         }
         ParentId: 13780242828775993956
@@ -2779,112 +2697,6 @@ Assets {
           Value: "mc:eproxyrelevance:medium"
         }
       }
-      Objects {
-        Id: 10379211801849796863
-        Name: "Whitebox Wall 01 Doorway 01 Frame"
-        Transform {
-          Location {
-            X: -77
-            Y: -240
-            Z: 36
-          }
-          Rotation {
-            Yaw: 89.9999542
-          }
-          Scale {
-            X: 0.62
-            Y: 1
-            Z: -0.3
-          }
-        }
-        ParentId: 13780242828775993956
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 12446131267530965574
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:utile"
-            Float: 4
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:vtile"
-            Float: 4
-          }
-          Overrides {
-            Name: "ma:Building_WallInner:color"
-            Color {
-              R: 0.5
-              G: 0.3
-              B: 0.25
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 4096729604259603915
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.45
-              G: 0.18
-              B: 0.1125
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11450825845132636086
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          DisableDistanceFieldLighting: true
-          DisableReceiveDecals: true
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
     }
     Assets {
       Id: 5469617673551445743
@@ -3004,21 +2816,12 @@ Assets {
       }
     }
     Assets {
-      Id: 11450825845132636086
-      Name: "Trim Large Brick 8m"
+      Id: 6645541369262067888
+      Name: "Main Street Window Frame 02"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_trim_brick_6m_001"
-      }
-    }
-    Assets {
-      Id: 5754562299227578214
-      Name: "Craftsman Part - Doorway"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_urb_sub_craftsman_part_doorway_001"
+        AssetId: "sm_ts_urb_dtn_mst_part_windowframe_002_ref"
       }
     }
     Assets {

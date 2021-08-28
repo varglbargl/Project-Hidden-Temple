@@ -340,6 +340,7 @@ Assets {
         ChildIds: 8728050897400903766
         ChildIds: 14698713353924957910
         ChildIds: 332256757745470170
+        ChildIds: 1564362985965801040
         ChildIds: 16114961138266434864
         ChildIds: 12103745540835876792
         ChildIds: 5614193284381597490
@@ -1711,6 +1712,275 @@ Assets {
         }
       }
       Objects {
+        Id: 1564362985965801040
+        Name: "Parkour Ledge"
+        Transform {
+          Location {
+            X: -5.7890625
+            Y: 84.8924561
+            Z: 648.341125
+          }
+          Rotation {
+            Roll: 17.7962055
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18309481271635303911
+        ChildIds: 1165186926238471079
+        ChildIds: 11384796909129627815
+        ChildIds: 14141151644476387183
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 1165186926238471079
+        Name: "Parkour Grab Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1564362985965801040
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 11384796909129627815
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 16063876018927086700
+          }
+        }
+      }
+      Objects {
+        Id: 11384796909129627815
+        Name: "Grab Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.5
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1564362985965801040
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 14141151644476387183
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1564362985965801040
+        ChildIds: 15264114601913429733
+        ChildIds: 6702800886843017891
+        ChildIds: 4875998839271443359
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 15264114601913429733
+        Name: "Parkour Grab Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14141151644476387183
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:GrabTrigger"
+            ObjectReference {
+              SubObjectId: 11384796909129627815
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4866986712181821758
+          }
+        }
+      }
+      Objects {
+        Id: 6702800886843017891
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: 25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14141151644476387183
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:lefthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
+        Id: 4875998839271443359
+        Name: "IK Anchor"
+        Transform {
+          Location {
+            X: -25
+            Z: -10
+          }
+          Rotation {
+            Pitch: 90
+            Roll: 180
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14141151644476387183
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        IKAnchor {
+          AimOffset {
+          }
+          IKAnchorType {
+            Value: "mc:eikanchortype:righthand"
+          }
+          BlendWeight: 1
+        }
+      }
+      Objects {
         Id: 16114961138266434864
         Name: "Craftsman Porch Fence Railing 01"
         Transform {
@@ -2480,6 +2750,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2533,6 +2804,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2586,6 +2858,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2608,7 +2881,7 @@ Assets {
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: 0.999
           }
         }
         ParentId: 17785558215133807862
@@ -2646,6 +2919,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2701,6 +2975,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2756,6 +3031,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2811,6 +3087,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -2826,7 +3103,7 @@ Assets {
           Location {
             X: 3.43311367e-05
             Y: 47.9983978
-            Z: 883.998535
+            Z: 881.425842
           }
           Rotation {
             Yaw: 180
@@ -2834,7 +3111,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 17785558215133807862
@@ -2977,6 +3254,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3030,6 +3308,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3083,6 +3362,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3143,6 +3423,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3198,6 +3479,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3253,6 +3535,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3308,6 +3591,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3323,7 +3607,7 @@ Assets {
           Location {
             X: 3.43313113e-05
             Y: 47.998642
-            Z: 883.998779
+            Z: 881.426086
           }
           Rotation {
             Yaw: 180
@@ -3331,7 +3615,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 18221801405830561251
@@ -3474,6 +3758,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3527,6 +3812,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3580,6 +3866,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3640,6 +3927,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3695,6 +3983,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3750,6 +4039,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3805,6 +4095,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -3820,7 +4111,7 @@ Assets {
           Location {
             X: 3.43316606e-05
             Y: 47.9991302
-            Z: 883.999207
+            Z: 881.426514
           }
           Rotation {
             Yaw: 180
@@ -3828,7 +4119,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 11188585804424078170
@@ -3971,6 +4262,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4024,6 +4316,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4077,6 +4370,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4099,7 +4393,7 @@ Assets {
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: 0.999
           }
         }
         ParentId: 9146038328132381918
@@ -4137,6 +4431,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4192,6 +4487,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4247,6 +4543,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4302,6 +4599,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4317,7 +4615,7 @@ Assets {
           Location {
             X: 3.43314859e-05
             Y: 47.9988861
-            Z: 883.998962
+            Z: 881.42627
           }
           Rotation {
             Yaw: 180
@@ -4325,7 +4623,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 9146038328132381918
@@ -4468,6 +4766,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4521,6 +4820,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4574,6 +4874,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4634,6 +4935,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4689,6 +4991,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4744,6 +5047,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4799,6 +5103,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -4814,7 +5119,7 @@ Assets {
           Location {
             X: 3.43319225e-05
             Y: 47.9994965
-            Z: 883.999573
+            Z: 881.42688
           }
           Rotation {
             Yaw: 180
@@ -4822,7 +5127,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 9694314363808993159
@@ -4965,6 +5270,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5018,6 +5324,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5071,6 +5378,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5093,7 +5401,7 @@ Assets {
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: 0.999
           }
         }
         ParentId: 10220166808421500447
@@ -5131,6 +5439,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5186,6 +5495,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5241,6 +5551,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5296,6 +5607,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5311,7 +5623,7 @@ Assets {
           Location {
             X: 3.43317479e-05
             Y: 47.9992523
-            Z: 883.99939
+            Z: 881.426697
           }
           Rotation {
             Yaw: 180
@@ -5319,7 +5631,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 10220166808421500447
@@ -5462,6 +5774,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5515,6 +5828,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5568,6 +5882,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5590,7 +5905,7 @@ Assets {
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: 0.999
           }
         }
         ParentId: 13565744986942226657
@@ -5628,6 +5943,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5683,6 +5999,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5738,6 +6055,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5793,6 +6111,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -5808,7 +6127,7 @@ Assets {
           Location {
             X: 3.43320971e-05
             Y: 47.9997406
-            Z: 883.999817
+            Z: 881.427124
           }
           Rotation {
             Yaw: 180
@@ -5816,7 +6135,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 13565744986942226657
@@ -5959,6 +6278,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -6012,6 +6332,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -6065,6 +6386,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -6125,6 +6447,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -6180,6 +6503,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -6235,6 +6559,7 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -6305,7 +6630,7 @@ Assets {
           Location {
             X: 3.43322718e-05
             Y: 47.9999847
-            Z: 884
+            Z: 881.427307
           }
           Rotation {
             Yaw: 180
@@ -6313,7 +6638,7 @@ Assets {
           Scale {
             X: 1
             Y: 0.5
-            Z: 1
+            Z: 1.10198104
           }
         }
         ParentId: 10020357102428229792
@@ -6543,6 +6868,7 @@ Assets {
         ChildIds: 4348318687114194973
         ChildIds: 17561070970091753338
         ChildIds: 15730887719678724000
+        ChildIds: 8455284659014641424
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9282,9 +9608,9 @@ Assets {
             Z: 590.860352
           }
           Rotation {
-            Pitch: -0.0144048678
+            Pitch: -0.0144042969
             Yaw: 89.3904495
-            Roll: -1.39556897
+            Roll: -1.39556885
           }
           Scale {
             X: 1.00000012
@@ -9920,9 +10246,9 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail2:color"
             Color {
-              R: 0.0171106737
-              G: 0.00983999856
-              B: 0.041
+              R: 0.0335999914
+              G: 0.0424666256
+              B: 0.14
               A: 1
             }
           }
@@ -16273,6 +16599,76 @@ Assets {
         CoreMesh {
           MeshAsset {
             Id: 14116967166774385300
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8455284659014641424
+        Name: "Fantasy Book 01"
+        Transform {
+          Location {
+            X: 294.639832
+            Y: 1.30786133
+            Z: 591.283569
+          }
+          Rotation {
+            Pitch: -0.0144042969
+            Yaw: 89.3904266
+            Roll: -1.8923645
+          }
+          Scale {
+            X: 0.999999225
+            Y: 1.2703743
+            Z: 1.05719244
+          }
+        }
+        ParentId: 6964253501762636882
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.0186419319
+              G: 0.146674126
+              B: 0.717
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_Detail2:color"
+            Color {
+              R: 1.1
+              G: 1.018875
+              B: 0.9053
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15809322107992476673
           }
           Teams {
             IsTeamCollisionEnabled: true

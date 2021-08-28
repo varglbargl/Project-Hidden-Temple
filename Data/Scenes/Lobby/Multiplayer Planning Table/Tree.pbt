@@ -381,18 +381,18 @@ Objects {
   Name: "UI Container"
   Transform {
     Location {
-      X: 45
-      Y: -5
+      X: 493
+      Y: 25.4863281
       Z: 121.877029
     }
     Rotation {
       Pitch: 90
-      Roll: -157.786377
+      Roll: 121.199371
     }
     Scale {
-      X: 0.2
-      Y: 0.2
-      Z: 0.2
+      X: 0.0970877185
+      Y: 0.0970877185
+      Z: 0.0970877185
     }
   }
   ParentId: 16900062933444909095
@@ -478,12 +478,12 @@ Objects {
     }
     Image {
       Brush {
-        Id: 10278801252313196242
+        Id: 16823719499815718957
       }
       Color {
-        R: 1
-        G: 1
-        B: 1
+        R: 0.72300005
+        G: 0.587654412
+        B: 0.497424
         A: 1
       }
       TeamSettings {

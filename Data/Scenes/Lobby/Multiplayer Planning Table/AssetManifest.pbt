@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16823719499815718957
+  Name: "Fantasy Scroll 009"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Equip_Scroll_009"
+  }
+}
+Assets {
   Id: 14141712329222041180
   Name: "Office Pen 01"
   PlatformAssetType: 1
@@ -50,15 +59,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_jpn_table_001_ref"
-  }
-}
-Assets {
-  Id: 10278801252313196242
-  Name: "Fantasy Map 001"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Fantasy_Equip_Map_001"
   }
 }
 Assets {
