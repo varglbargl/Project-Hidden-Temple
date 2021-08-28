@@ -1,10 +1,64 @@
 Assets {
+  Id: 18045522745443426933
+  Name: "Main Street Window Detail 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_urb_dtn_mst_part_window_detail_001_ref"
+  }
+}
+Assets {
+  Id: 18033297229984528543
+  Name: "Wood Planks"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_planks_dark_001_uv"
+  }
+}
+Assets {
+  Id: 17693745648978331786
+  Name: "Gear - generic large two-spoked"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gen_gear_001_spoke2x"
+  }
+}
+Assets {
+  Id: 17393148087112701979
+  Name: "Humanoid 1 Rig"
+  PlatformAssetType: 25
+  PrimaryAsset {
+    AssetType: "SkeletonAssetRef"
+    AssetId: "npc_gal_wireframe_001_ref"
+  }
+}
+Assets {
+  Id: 17035938977884836872
+  Name: "Manticore Logo"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_logo_manticore_01"
+  }
+}
+Assets {
   Id: 16910278292812118833
   Name: "Sun Light"
   PlatformAssetType: 6
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "CORESKY_SunLight"
+  }
+}
+Assets {
+  Id: 16627373825341169367
+  Name: "Mecha - Armor - Helm 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_veh_jpn_mecha_armor_helm_002_ref"
   }
 }
 Assets {
@@ -53,6 +107,24 @@ Assets {
   }
 }
 Assets {
+  Id: 15042601144786818910
+  Name: "Shield 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_shield_004"
+  }
+}
+Assets {
+  Id: 14360998166931460595
+  Name: "Decal Spray Manticore 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_spray_manticore_001"
+  }
+}
+Assets {
   Id: 14321179348205592444
   Name: "Icon Checkmark"
   PlatformAssetType: 9
@@ -71,12 +143,30 @@ Assets {
   }
 }
 Assets {
+  Id: 14212988502358508072
+  Name: "Metal Basic Steel"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "steel_001"
+  }
+}
+Assets {
   Id: 14077945805147147789
   Name: "Container - Square Thin 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_container_square_thin_ref"
+  }
+}
+Assets {
+  Id: 13997351046620043218
+  Name: "Long Banner Manticore"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_banner_001"
   }
 }
 Assets {
@@ -98,12 +188,30 @@ Assets {
   }
 }
 Assets {
+  Id: 13730760372140141532
+  Name: "Fantasy Book 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fan_book_002_ref"
+  }
+}
+Assets {
   Id: 13571313298713186772
   Name: "Cube - Bottom-Aligned"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_001"
+  }
+}
+Assets {
+  Id: 13564667279161392078
+  Name: "Japanese Stone Lantern Pedestal Small 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_lantern_stone_small_pedestal_001_ref"
   }
 }
 Assets {
@@ -125,12 +233,30 @@ Assets {
   }
 }
 Assets {
+  Id: 12632251234297570874
+  Name: "Urban Pipe Cap 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_cap_003_ref"
+  }
+}
+Assets {
   Id: 12598587725932938797
   Name: "Germania One"
   PlatformAssetType: 28
   PrimaryAsset {
     AssetType: "FontAssetRef"
     AssetId: "GermaniaOneRegular_ref"
+  }
+}
+Assets {
+  Id: 12446131267530965574
+  Name: "Wood Raw"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_raw_001_uv"
   }
 }
 Assets {
@@ -179,12 +305,39 @@ Assets {
   }
 }
 Assets {
+  Id: 10850769815684373087
+  Name: "Plane 1m - Two Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_1m_002"
+  }
+}
+Assets {
   Id: 10044772761336440122
   Name: "Fire Volume VFX"
   PlatformAssetType: 8
   PrimaryAsset {
     AssetType: "VfxBlueprintAssetRef"
     AssetId: "fxbp_fire_volume_vfx"
+  }
+}
+Assets {
+  Id: 9805942287566312257
+  Name: "Glass 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_glass_refrac_001"
+  }
+}
+Assets {
+  Id: 9501471890628041237
+  Name: "Metal Gold 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_gold_001"
   }
 }
 Assets {
@@ -206,6 +359,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9243070650073005170
+  Name: "Humanoid 1 Sonia"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_head_sport_001_ref"
+  }
+}
+Assets {
   Id: 9168964345019580429
   Name: "Container - Rectangle Thin 01"
   PlatformAssetType: 1
@@ -215,12 +377,30 @@ Assets {
   }
 }
 Assets {
+  Id: 9132574115108666769
+  Name: "Japanese Common Chest Base 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_chest_small_base_001_ref"
+  }
+}
+Assets {
   Id: 8931798658527367295
   Name: "Japanese Stone Lantern Pedestal Large 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_jpn_lantern_stone_large_pedestal_001_ref"
+  }
+}
+Assets {
+  Id: 8602351077402592663
+  Name: "Japanese Stone Lantern Housing Large 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_lantern_stone_large_housing_001_ref"
   }
 }
 Assets {
@@ -260,6 +440,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7844837304244399601
+  Name: "Humanoid 1 Viper Armor"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_upper_scifi_001_ref"
+  }
+}
+Assets {
   Id: 7661664947299460862
   Name: "Japanese Stone Lantern Roof Large 01"
   PlatformAssetType: 1
@@ -275,6 +464,33 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_fan_parchment_001_uv"
+  }
+}
+Assets {
+  Id: 7540056073807749771
+  Name: "Fantasy Book Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fan_book_pile_001_ref"
+  }
+}
+Assets {
+  Id: 7516257627012008757
+  Name: "Pipe - Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half-pipe_001"
+  }
+}
+Assets {
+  Id: 7439091226172476284
+  Name: "Urban Pipe Valve 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_valve_001_ref"
   }
 }
 Assets {
@@ -305,12 +521,39 @@ Assets {
   }
 }
 Assets {
+  Id: 7309016787881178164
+  Name: "Magic Glass"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxmi_magic_glass"
+  }
+}
+Assets {
   Id: 7043833864309739883
   Name: "Icon Close"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "Icon_Close"
+  }
+}
+Assets {
+  Id: 6954370053071083141
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
+  }
+}
+Assets {
+  Id: 6753491216021993641
+  Name: "Japanese Chest Hinge 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_chest_med_hinge_001"
   }
 }
 Assets {
@@ -350,6 +593,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5259558535274679851
+  Name: "Mecha - Armor - Helm 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_veh_jpn_mecha_armor_helm_001_ref"
+  }
+}
+Assets {
   Id: 5229599079983356808
   Name: "Japanese Stone Lantern Pedestal Medium 01"
   PlatformAssetType: 1
@@ -365,6 +617,24 @@ Assets {
   PrimaryAsset {
     AssetType: "AudioAssetRef"
     AssetId: "sfx_paper_book_open_close_page_heavy_02a_Cue_ref"
+  }
+}
+Assets {
+  Id: 5092665937078544436
+  Name: "Metal Grates 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_scf_grates_004_uv"
+  }
+}
+Assets {
+  Id: 4949046684914789731
+  Name: "Humanoid 1 Yasmine Hair"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_hair_basic_007_ref"
   }
 }
 Assets {
@@ -404,6 +674,24 @@ Assets {
   }
 }
 Assets {
+  Id: 4154160619770615777
+  Name: "Sci-fi Cargo Crate 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_scf_crate_cargo_002"
+  }
+}
+Assets {
+  Id: 3930716009593949522
+  Name: "Mecha - Armor - Helm 01 - Fin 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_veh_jpn_mecha_armor_helm_001_fin_001_ref"
+  }
+}
+Assets {
   Id: 3594741075929586138
   Name: "Ring - Thick"
   PlatformAssetType: 1
@@ -422,12 +710,48 @@ Assets {
   }
 }
 Assets {
+  Id: 3331953469136151669
+  Name: "Frame Large Straight - Neon 1 Sided Ending"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_Neon3_Ender_1s"
+  }
+}
+Assets {
   Id: 2958757589482561269
   Name: "Energy Tube Glow"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "Energy_Tube_Glow"
+  }
+}
+Assets {
+  Id: 2870906878820740500
+  Name: "Capsule"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_capsule_001"
+  }
+}
+Assets {
+  Id: 2858784811658955895
+  Name: "Pipe - Quarter Wedge Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_quarter_pipe_wedge_002"
+  }
+}
+Assets {
+  Id: 2561297505778815319
+  Name: "Shield 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_shield_003"
   }
 }
 Assets {
@@ -458,12 +782,30 @@ Assets {
   }
 }
 Assets {
+  Id: 1915461248412394696
+  Name: "Invisible"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_invisible_001"
+  }
+}
+Assets {
   Id: 1690711772448681241
   Name: "Gem - Diamond 6-Sided Polished"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_diamond_6_sided_polished_001"
+  }
+}
+Assets {
+  Id: 1679745791041877462
+  Name: "Humanoid 1 Hockey Gear Pants"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_lower_sport_001a_ref"
   }
 }
 Assets {
@@ -500,6 +842,33 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_hq_test_001"
+  }
+}
+Assets {
+  Id: 697130077529532955
+  Name: "Metal Painted Basic 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_painted_metal_basic_001"
+  }
+}
+Assets {
+  Id: 189212190271993885
+  Name: "Fantasy Shield Strap 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_shield_strap_001"
+  }
+}
+Assets {
+  Id: 74322620699988143
+  Name: "Barrier Caution Light 2"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_barrier_caution_002"
   }
 }
 Assets {

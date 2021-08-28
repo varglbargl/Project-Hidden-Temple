@@ -1,11 +1,10 @@
 Name: "NewFolder_2"
-RootId: 7157752543834095587
+RootId: 15282701299690970998
 Objects {
-  Id: 14635502802149929893
-  Name: "Fantasy Sword Blade 04"
+  Id: 3311220920753083750
+  Name: "Simple Rotate Parent"
   Transform {
     Location {
-      Z: 32
     }
     Rotation {
     }
@@ -15,66 +14,72 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7157752543834095587
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13888119501670323283
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 186392241501735116
-  Name: "Fantasy Sword Guard 02"
-  Transform {
-    Location {
-      Z: 29
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7157752543834095587
+  ParentId: 15282701299690970998
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_Trim:id"
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: 2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 3708538015720396724
+  Name: "Gear - generic large two-spoked"
+  Transform {
+    Location {
+      Y: -1.20362854
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.199990675
+      Y: 0.343830913
+      Z: 0.199990675
+    }
+  }
+  ParentId: 15282701299690970998
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 6954370053071083141
+        Id: 9501471890628041237
       }
     }
     Overrides {
-      Name: "ma:Shared_Trim:utile"
-      Float: 12
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
     }
     Overrides {
-      Name: "ma:Shared_Trim:vtile"
-      Float: 12
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 0.69375
+        B: 0.12499994
+        A: 1
+      }
     }
   }
   Collidable_v2 {
@@ -91,7 +96,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9544913535066953067
+      Id: 6020912316856289484
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -107,20 +112,42 @@ Objects {
   }
 }
 Objects {
-  Id: 3405074320540830858
-  Name: "Fantasy Sword Grip 01"
+  Id: 14842376590625430334
+  Name: "Gear - generic large two-spoked"
   Transform {
     Location {
+      Y: 1.20362854
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.199990675
+      Y: 0.199990675
+      Z: 0.199990675
     }
   }
-  ParentId: 7157752543834095587
+  ParentId: 15282701299690970998
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 0.69375
+        B: 0.12499994
+        A: 1
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -135,7 +162,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3682206342183528038
+      Id: 17693745648978331786
     }
     Teams {
       IsTeamCollisionEnabled: true

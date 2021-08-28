@@ -16,6 +16,7 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
+        ChildIds: 503059414447772557
         ChildIds: 6506726646171636350
         ChildIds: 4113702657274911112
         UnregisteredParameters {
@@ -23,6 +24,12 @@ Assets {
             Name: "cs:TreasureLocation"
             ObjectReference {
               SubObjectId: 11528438391384283840
+            }
+          }
+          Overrides {
+            Name: "cs:CombinationSymbol"
+            ObjectReference {
+              SubObjectId: 503059414447772557
             }
           }
         }
@@ -41,6 +48,71 @@ Assets {
         }
         Folder {
           IsGroup: true
+        }
+      }
+      Objects {
+        Id: 503059414447772557
+        Name: "Combination Symbol"
+        Transform {
+          Location {
+            X: 1618.57959
+            Y: -280.590576
+            Z: 72.4189453
+          }
+          Rotation {
+            Yaw: 44.7062759
+            Roll: 66.401619
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 7437241572506582406
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              R: 0.405999959
+              G: 1
+              B: 0.762400091
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 0
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
         }
       }
       Objects {
@@ -160,6 +232,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
+          FilePartitionName: "Treasure Location"
         }
       }
       Objects {
@@ -3149,6 +3222,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
+          FilePartitionName: "Skeleton"
         }
       }
       Objects {
@@ -12134,6 +12208,15 @@ Assets {
             Id: 12829206983758675477
           }
         }
+      }
+    }
+    Assets {
+      Id: 6921272637309445267
+      Name: "Decal Elven Symbols"
+      PlatformAssetType: 14
+      PrimaryAsset {
+        AssetType: "DecalBlueprintAssetRef"
+        AssetId: "bp_decal_elven_symbols_001"
       }
     }
     Assets {

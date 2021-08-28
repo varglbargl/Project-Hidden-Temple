@@ -1,31 +1,39 @@
 Name: "NewFolder_4"
-RootId: 17523720205501487623
+RootId: 12044543044177042524
 Objects {
-  Id: 2426283426464623064
-  Name: "Craftsman Part - Inside Lower Trim 01"
+  Id: 1194344336064686222
+  Name: "Gear - generic large solid"
   Transform {
     Location {
-      X: 201
-      Y: 2
-      Z: 903
+      Z: -1
     }
     Rotation {
-      Pitch: -44.9998932
+      Roll: 90
     }
     Scale {
-      X: -0.7
-      Y: 0.4
-      Z: 0.4
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
     }
   }
-  ParentId: 17523720205501487623
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
+        R: 1
+        G: 0.69375
+        B: 0.12499994
         A: 1
       }
     }
@@ -44,7 +52,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 2394093889171046429
+      Id: 10099318447560165816
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -60,32 +68,31 @@ Objects {
   }
 }
 Objects {
-  Id: 6913736253631265718
-  Name: "Craftsman Part - Inside Lower Trim 01"
+  Id: 14708603647341291685
+  Name: "Japanese Stone Lantern Roof Large 01"
   Transform {
     Location {
-      X: 201
-      Y: 2
-      Z: 678
+      X: -1.21179199
+      Y: 1.68157959
+      Z: 25.9390106
     }
     Rotation {
-      Pitch: -44.9998932
+      Pitch: 5.64433146
+      Yaw: 29.2284374
+      Roll: -170.069672
     }
     Scale {
-      X: -0.7
-      Y: 0.4
-      Z: 0.4
+      X: 0.11228852
+      Y: 0.11228919
+      Z: -0.035556227
     }
   }
-  ParentId: 17523720205501487623
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
       }
     }
   }
@@ -103,7 +110,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 2394093889171046429
+      Id: 7661664947299460862
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -119,32 +126,31 @@ Objects {
   }
 }
 Objects {
-  Id: 18016920391530144139
-  Name: "Craftsman Part - Inside Lower Trim 01"
+  Id: 2893763743479911296
+  Name: "Japanese Stone Lantern Roof Large 01"
   Transform {
     Location {
-      X: 201
-      Y: 2
-      Z: 450
+      X: -1.21179199
+      Y: 1.68157959
+      Z: 25.9389648
     }
     Rotation {
-      Pitch: -44.9998932
+      Pitch: 9.84781361
+      Yaw: -0.791442871
+      Roll: -174.211533
     }
     Scale {
-      X: -0.7
-      Y: 0.4
-      Z: 0.4
+      X: 0.11228852
+      Y: 0.11228919
+      Z: -0.035556227
     }
   }
-  ParentId: 17523720205501487623
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
       }
     }
   }
@@ -162,7 +168,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 2394093889171046429
+      Id: 7661664947299460862
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -178,32 +184,70 @@ Objects {
   }
 }
 Objects {
-  Id: 13608393062312781889
-  Name: "Craftsman Part - Inside Lower Trim 01"
+  Id: 11152876047388763701
+  Name: "Humanoid 1 Rig"
   Transform {
     Location {
-      X: 201
-      Y: 2
-      Z: 1
+      X: -1.25035524
+      Y: 1.50967383
+      Z: 11.4239197
     }
     Rotation {
-      Pitch: -44.9998932
     }
     Scale {
-      X: -0.7
-      Y: 0.4
-      Z: 0.4
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
     }
   }
-  ParentId: 17523720205501487623
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
+      Name: "ma:0:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:0:Shared_Detail1:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:0:Shared_Detail2:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:1:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:2:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:2:Shared_Detail1:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:3:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:3:Shared_Detail1:id"
+      AssetReference {
+        Id: 4553827069405744674
       }
     }
   }
@@ -221,284 +265,56 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 2394093889171046429
+      Id: 17393148087112701979
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
+    AnimatedMesh {
+      AnimationStance: "unarmed_idle_relaxed"
+      AnimationStancePlaybackRate: 1
+      AnimationPlaybackRateMultiplier: 1
+      PlayOnStartAnimation {
+        Animation: "unarmed_meditate"
+        StartPosition: 0.0375849605
+        ShouldLoop: true
       }
-      BoundsScale: 1
+      SkinnedMeshes {
+        Id: 7464198802535463200
+      }
+      SkinnedMeshes {
+        Id: 9929187265035726419
+      }
+      SkinnedMeshes {
+        Id: 841534158063459245
+      }
+      SkinnedMeshes {
+        Id: 841534158063459245
+      }
     }
   }
 }
 Objects {
-  Id: 3837120819924128865
-  Name: "Craftsman Part - Inside Lower Trim 01"
+  Id: 14364405862739178145
+  Name: "Simple Rotate Parent"
   Transform {
     Location {
-      X: 201
-      Y: 2
-      Z: 220
     }
     Rotation {
-      Pitch: -44.999958
     }
     Scale {
-      X: -0.7
-      Y: 0.4
-      Z: 0.4
-    }
-  }
-  ParentId: 17523720205501487623
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2394093889171046429
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 6008876485081164330
-  Name: "Craftsman Part - Inside Lower Trim 01"
-  Transform {
-    Location {
-      X: -191
-      Y: 1
-      Z: 903
-    }
-    Rotation {
-      Pitch: 44.999958
-    }
-    Scale {
-      X: 0.7
-      Y: 0.4
-      Z: 0.4
-    }
-  }
-  ParentId: 17523720205501487623
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2394093889171046429
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 14574369359835539882
-  Name: "Craftsman Part - Inside Lower Trim 01"
-  Transform {
-    Location {
-      X: -191
-      Y: 1
-      Z: 678
-    }
-    Rotation {
-      Pitch: 44.9999695
-    }
-    Scale {
-      X: 0.7
-      Y: 0.4
-      Z: 0.4
-    }
-  }
-  ParentId: 17523720205501487623
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2394093889171046429
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 3488329022324280703
-  Name: "Craftsman Part - Inside Lower Trim 01"
-  Transform {
-    Location {
-      X: -191
-      Y: 1
-      Z: 450
-    }
-    Rotation {
-      Pitch: 44.9999619
-    }
-    Scale {
-      X: 0.7
-      Y: 0.4
-      Z: 0.4
-    }
-  }
-  ParentId: 17523720205501487623
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2394093889171046429
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 1883089156256452255
-  Name: "Craftsman Part - Inside Lower Trim 01"
-  Transform {
-    Location {
-      X: -191
+      X: 1
       Y: 1
       Z: 1
     }
-    Rotation {
-      Pitch: 44.9999695
-    }
-    Scale {
-      X: 0.7
-      Y: 0.4
-      Z: 0.4
-    }
   }
-  ParentId: 17523720205501487623
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
+      Name: "cs:Speed"
+      Vector {
+        Z: -1.2
       }
     }
   }
@@ -514,146 +330,9 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 2394093889171046429
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
     }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 838816855685437243
-  Name: "Craftsman Part - Inside Lower Trim 01"
-  Transform {
-    Location {
-      X: -191
-      Y: 1
-      Z: 229
-    }
-    Rotation {
-      Pitch: 44.9999733
-    }
-    Scale {
-      X: 0.7
-      Y: 0.4
-      Z: 0.4
-    }
-  }
-  ParentId: 17523720205501487623
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_LowerTrimInner:color"
-      Color {
-        R: 0.25
-        G: 0.100000009
-        B: 0.0625
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2394093889171046429
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 12003177030276909297
-  Name: "NewFolder"
-  Transform {
-    Location {
-      X: 113
-      Z: 543
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.8
-      Y: 0.8
-      Z: 0.8
-    }
-  }
-  ParentId: 17523720205501487623
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "NewFolder_5"
-  }
-}
-Objects {
-  Id: 16996681989642148125
-  Name: "NewFolder"
-  Transform {
-    Location {
-      Z: 430
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.8
-      Y: 0.8
-      Z: 0.8
-    }
-  }
-  ParentId: 17523720205501487623
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "NewFolder_6"
   }
 }

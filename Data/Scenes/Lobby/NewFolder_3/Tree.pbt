@@ -1,12 +1,10 @@
 Name: "NewFolder_3"
-RootId: 15960137462554383160
+RootId: 6340415612861709194
 Objects {
-  Id: 15562364404714105294
-  Name: "Japanese Umbrella Handle"
+  Id: 6545089056458539237
+  Name: "Simple Rotate Parent"
   Transform {
     Location {
-      X: 0.00146484375
-      Y: 0.0142822266
     }
     Rotation {
     }
@@ -16,7 +14,19 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15960137462554383160
+  ParentId: 6340415612861709194
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: 2
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29,48 +39,45 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 14790108367861695602
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
     }
   }
 }
 Objects {
-  Id: 15663636954887733461
-  Name: "Japanese Umbrella Canopy 01"
+  Id: 12467884203807640227
+  Name: "Gear - generic large two-spoked"
   Transform {
     Location {
-      X: -0.00146484375
-      Y: -0.0142822266
-      Z: 25.7681656
+      Y: -1.20362854
     }
     Rotation {
     }
     Scale {
-      X: 0.171995491
-      Y: 0.171995491
-      Z: 2.68839049
+      X: 0.199990675
+      Y: 0.343830913
+      Z: 0.199990675
     }
   }
-  ParentId: 15960137462554383160
+  ParentId: 6340415612861709194
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.0140240109
-        G: 0.0135
-        B: 0.0150000006
+        R: 1
+        G: 0.69375
+        B: 0.12499994
         A: 1
       }
     }
@@ -89,7 +96,73 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4673230646238167984
+      Id: 6020912316856289484
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1827347342077206462
+  Name: "Gear - generic large two-spoked"
+  Transform {
+    Location {
+      Y: 1.20362854
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.199990675
+      Y: 0.199990675
+      Z: 0.199990675
+    }
+  }
+  ParentId: 6340415612861709194
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 0.69375
+        B: 0.12499994
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17693745648978331786
     }
     Teams {
       IsTeamCollisionEnabled: true

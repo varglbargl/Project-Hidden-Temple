@@ -100,13 +100,6 @@ Objects {
   Id: 14670427778211437754
   Name: "Very Big Fancy Door"
   Transform {
-    Location {
-      X: -1550
-      Y: 2000
-    }
-    Rotation {
-      Yaw: 89.9999771
-    }
     Scale {
       X: 1
       Y: 1
@@ -139,14 +132,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Yaw: 89.9999619
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
           }
         }
       }
@@ -2161,7 +2146,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_4"
+    FilePartitionName: "NewFolder_15"
   }
 }
 Objects {
@@ -3957,6 +3942,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableDistanceFieldLighting: true
     StaticMesh {
       Physics {
         Mass: 100

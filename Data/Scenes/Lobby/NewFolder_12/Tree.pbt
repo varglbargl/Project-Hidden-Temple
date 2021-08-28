@@ -1,52 +1,36 @@
-Name: "Rings"
-RootId: 15959056350620473827
+Name: "NewFolder_12"
+RootId: 10249890926870869101
 Objects {
-  Id: 4024710586243823033
-  Name: "Kill Ring"
+  Id: 13579543584829094946
+  Name: "Ring - Beveled Thick"
   Transform {
     Location {
+      X: -0.152463138
+      Y: -17.4828548
+      Z: -6.695889
     }
     Rotation {
-      Yaw: -134.999985
+      Roll: 135
     }
     Scale {
-      X: 29.9999924
-      Y: 29.9999924
-      Z: 29.9999924
+      X: 0.0612268075
+      Y: 0.0612242073
+      Z: 0.0781085193
     }
   }
-  ParentId: 15959056350620473827
-  ChildIds: 13640739931761604891
+  ParentId: 10249890926870869101
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15160542236840844548
+        Id: 4553827069405744674
       }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 12
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 12
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 10
-        G: 10
-        B: 1.00000024
-        A: 1
-      }
+      Float: 1.5
     }
   }
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -61,13 +45,12 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3643452350844752956
+      Id: 13048594745491972492
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
         Mass: 100
@@ -78,52 +61,37 @@ Objects {
   }
 }
 Objects {
-  Id: 13640739931761604891
-  Name: "Kill Ring"
+  Id: 13005076723228169802
+  Name: "Ring - Beveled Thick"
   Transform {
     Location {
+      X: -0.000108221713
+      Y: 0.000147684157
+      Z: -8.07625389
     }
     Rotation {
-      Yaw: -44.9999695
+      Pitch: 1.36603776e-05
+      Roll: -179.999908
     }
     Scale {
-      X: 0.870783806
-      Y: 0.870783806
-      Z: 0.870783806
+      X: 0.0612268075
+      Y: 0.0612242073
+      Z: 0.0781085193
     }
   }
-  ParentId: 4024710586243823033
-  ChildIds: 5161257892122230224
+  ParentId: 10249890926870869101
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15160542236840844548
+        Id: 4553827069405744674
       }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 12
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 12
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 10
-        G: 10
-        B: 1.00000024
-        A: 1
-      }
+      Float: 1.5
     }
   }
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -138,13 +106,12 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3643452350844752956
+      Id: 13048594745491972492
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
         Mass: 100
@@ -155,52 +122,37 @@ Objects {
   }
 }
 Objects {
-  Id: 5161257892122230224
-  Name: "Kill Ring"
+  Id: 8460673628046627552
+  Name: "Ring - Beveled Thick"
   Transform {
     Location {
+      X: -9.69265529e-05
+      Y: -2.53435064e-05
+      Z: -0.77942723
     }
     Rotation {
-      Yaw: -45
+      Pitch: 6.83018879e-06
+      Roll: -179.999954
     }
     Scale {
-      X: 0.86980021
-      Y: 0.86980021
-      Z: 0.86980021
+      X: 0.0612268075
+      Y: 0.0612242073
+      Z: 0.0781085193
     }
   }
-  ParentId: 13640739931761604891
-  ChildIds: 6249627943131315099
+  ParentId: 10249890926870869101
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15160542236840844548
+        Id: 4553827069405744674
       }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 12
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 12
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 10
-        G: 10
-        B: 1.00000024
-        A: 1
-      }
+      Float: 1.5
     }
   }
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -215,13 +167,12 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3643452350844752956
+      Id: 13048594745491972492
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
         Mass: 100
@@ -232,52 +183,45 @@ Objects {
   }
 }
 Objects {
-  Id: 6249627943131315099
-  Name: "Kill Ring"
+  Id: 10294505111266697978
+  Name: "Ring - Quarter Thick"
   Transform {
     Location {
+      Y: -10
     }
     Rotation {
-      Yaw: -135
+      Pitch: 135
+      Yaw: 90
+      Roll: 90
     }
     Scale {
-      X: 0.862721264
-      Y: 0.862721264
-      Z: 0.862721264
+      X: 0.25
+      Y: 0.25
+      Z: 0.25
     }
   }
-  ParentId: 5161257892122230224
-  ChildIds: 6532387401648847720
+  ParentId: 10249890926870869101
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15160542236840844548
+        Id: 4553827069405744674
       }
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 12
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 12
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 10
-        G: 10
-        B: 1.00000024
+        R: 0.1
+        G: 0.1
+        B: 0.1
         A: 1
       }
     }
   }
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -292,13 +236,12 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3545846078722888204
+      Id: 8603332311912297232
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
         Mass: 100
@@ -309,51 +252,45 @@ Objects {
   }
 }
 Objects {
-  Id: 6532387401648847720
-  Name: "Kill Ring"
+  Id: 16253966052625710205
+  Name: "Ring - Quarter Thick"
   Transform {
     Location {
+      Y: -10
     }
     Rotation {
+      Pitch: 90
+      Yaw: 140.478821
+      Roll: 140.478821
     }
     Scale {
-      X: 0.757691264
-      Y: 0.757691264
-      Z: 0.757691264
+      X: 0.25
+      Y: 0.25
+      Z: 0.25
     }
   }
-  ParentId: 6249627943131315099
-  ChildIds: 8793287814707812399
+  ParentId: 10249890926870869101
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15160542236840844548
+        Id: 4553827069405744674
       }
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 12
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 12
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 10
-        G: 10
-        B: 1.00000024
+        R: 0.1
+        G: 0.1
+        B: 0.1
         A: 1
       }
     }
   }
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -368,13 +305,12 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3545846078722888204
+      Id: 8603332311912297232
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
         Mass: 100
@@ -385,50 +321,44 @@ Objects {
   }
 }
 Objects {
-  Id: 8793287814707812399
-  Name: "Kill Ring"
+  Id: 13819753106503523455
+  Name: "Ring - Quarter Thick"
   Transform {
     Location {
+      Y: -10
     }
     Rotation {
+      Yaw: 90
+      Roll: 90
     }
     Scale {
-      X: 0.751338601
-      Y: 0.751338601
-      Z: 0.751338601
+      X: 0.25
+      Y: 0.25
+      Z: 0.25
     }
   }
-  ParentId: 6532387401648847720
+  ParentId: 10249890926870869101
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15160542236840844548
+        Id: 4553827069405744674
       }
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 12
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 12
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 10
-        G: 10
-        B: 1.00000024
+        R: 0.1
+        G: 0.1
+        B: 0.1
         A: 1
       }
     }
   }
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -443,13 +373,83 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3545846078722888204
+      Id: 8603332311912297232
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15323157343382542375
+  Name: "Cylinder - Bottom-Aligned"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -157.499893
+      Roll: 180
+    }
+    Scale {
+      X: 0.0496430323
+      Y: 0.0496430323
+      Z: 1.32386351
+    }
+  }
+  ParentId: 10249890926870869101
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 0.25
+        B: 0.25
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 1.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6747614045051753376
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
     StaticMesh {
       Physics {
         Mass: 100

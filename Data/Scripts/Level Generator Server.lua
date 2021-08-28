@@ -9,6 +9,9 @@ local ROOM_SLOTS = script:GetCustomProperty("RoomSlots"):WaitForObject()
 local roomSlots = ROOM_SLOTS:GetChildren()
 local spawnedRooms = {}
 
+local comboNumbers = {}
+local comboLength = 1
+
 function placeTreasureRoom(spawedRoom)
   local exitLocation = spawedRoom:GetCustomProperty("ExitLocation"):WaitForObject()
   local treasureRoomToSpawn = TREASURE_ROOM_TABLE[math.random(1, #TREASURE_ROOM_TABLE)]
@@ -19,6 +22,12 @@ function placeTreasureRoom(spawedRoom)
   local treasureToSpawn = TREASURE_TABLE[math.random(1, #TREASURE_TABLE)]
 
   World.SpawnAsset(treasureToSpawn, {position = treasureLocation:GetWorldPosition(), rotation = treasureLocation:GetWorldRotation()})
+
+  local comboNumber = math.random(1, 15)
+  local comboSymbol = spawnedTreasureRoom:GetCustomProperty("CombinationSymbol"):WaitForObject()
+
+  comboSymbol:SetSmartProperty("Shape Index", comboNumber)
+  table.insert(comboNumbers, comboNumber)
 end
 
 for _, roomSlot in ipairs(roomSlots) do
@@ -44,3 +53,5 @@ for _, roomSlot in ipairs(roomSlots) do
 
   table.insert(spawnedRooms, spawedRoom)
 end
+
+comboLength = #comboNumbers - 1
