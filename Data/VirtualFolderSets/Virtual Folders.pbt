@@ -93,5 +93,9 @@ Assets {
       VirtualFolderPath: "NPCs"
       PlatformAssetType: 5
     }
+    Folders {
+      VirtualFolderPath: "Tresure Rooms"
+      PlatformAssetType: 5
+    }
   }
 }
