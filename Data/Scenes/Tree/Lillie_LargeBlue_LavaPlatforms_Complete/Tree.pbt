@@ -1380,7 +1380,7 @@ Objects {
     Location {
       X: 500
       Y: 1000
-      Z: 1400
+      Z: 1450
     }
     Rotation {
       Pitch: 90

@@ -2,7 +2,7 @@ Assets {
   Id: 7165855586999318461
   Name: "Custom Skull and  Bones 01"
   PlatformAssetType: 13
-  SerializationVersion: 95
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 8787861184910460328
     ParameterOverrides {

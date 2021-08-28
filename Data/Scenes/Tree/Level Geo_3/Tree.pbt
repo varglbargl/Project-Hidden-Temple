@@ -36,9 +36,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -59,66 +59,6 @@ Objects {
     }
     TemplateAsset {
       Id: 13861189895046575212
-    }
-  }
-}
-Objects {
-  Id: 13038534900585709430
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: -17700
-      Y: 3900
-      Z: -1800
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13847491641983884502
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3500
-            Y: -6200
-            Z: 900
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
     }
   }
 }
@@ -157,9 +97,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: -1400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -217,9 +157,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -1400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -277,9 +217,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -337,9 +277,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: 200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -397,9 +337,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -457,9 +397,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -518,9 +458,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -580,9 +520,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -642,9 +582,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -703,9 +643,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -764,9 +704,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -825,9 +765,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -886,9 +826,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -1400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -946,9 +886,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -1400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -1006,9 +946,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -1400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -1059,9 +999,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1121,9 +1061,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1183,9 +1123,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1245,9 +1185,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1306,9 +1246,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -2200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1367,9 +1307,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -2200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1427,9 +1367,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -2200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1487,9 +1427,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -2200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1547,9 +1487,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -2200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1600,9 +1540,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: -2200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1653,9 +1593,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -1713,9 +1653,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -3800
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -1772,9 +1712,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -3000
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -1831,9 +1771,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: -2200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -1890,9 +1830,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -2200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -1949,9 +1889,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -3000
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -2008,9 +1948,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -3800
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -2068,9 +2008,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -4600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2128,9 +2068,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: -4600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2188,9 +2128,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2249,9 +2189,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2309,9 +2249,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2369,9 +2309,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2430,9 +2370,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -4600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2490,9 +2430,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2551,9 +2491,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2612,9 +2552,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2673,9 +2613,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2733,9 +2673,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2792,9 +2732,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2851,9 +2791,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2911,9 +2851,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -2965,9 +2905,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: -4600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -3026,9 +2966,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -3086,9 +3026,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -8600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -3146,9 +3086,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -8600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -3207,9 +3147,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3261,9 +3201,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -9400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3322,9 +3262,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3383,9 +3323,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -9400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3444,9 +3384,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -9400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3505,9 +3445,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3566,9 +3506,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -3627,9 +3567,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3689,9 +3629,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -3751,9 +3691,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3813,9 +3753,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -7800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3875,9 +3815,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -7000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -3937,9 +3877,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -7800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -3999,9 +3939,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -7800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -4061,9 +4001,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -7000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -4122,9 +4062,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -4183,9 +4123,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -4244,9 +4184,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -6200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -4298,9 +4238,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -4358,9 +4298,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -4600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -4418,9 +4358,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -5400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -4478,9 +4418,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -6200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -4538,9 +4478,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -7000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -4598,9 +4538,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -7800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -4651,9 +4591,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -4712,9 +4652,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -7800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -4774,9 +4714,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -4835,9 +4775,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -7800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -4897,9 +4837,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -7000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -4959,9 +4899,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -6200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5021,9 +4961,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -5400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5083,9 +5023,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5145,9 +5085,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5199,9 +5139,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -6200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5253,9 +5193,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -5400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5314,9 +5254,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -4600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -5374,9 +5314,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -5434,9 +5374,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -5494,9 +5434,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -5555,9 +5495,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5617,9 +5557,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -5400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5678,9 +5618,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -5400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5732,9 +5672,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5794,9 +5734,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -3800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5856,9 +5796,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -3800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5918,9 +5858,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -3800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -5980,9 +5920,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -3000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -6042,9 +5982,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -6103,9 +6043,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -6163,9 +6103,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -3000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -6224,9 +6164,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -3000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -6277,9 +6217,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -1400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -6338,9 +6278,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -6398,9 +6338,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -6458,9 +6398,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -6511,9 +6451,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6572,9 +6512,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6633,9 +6573,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6695,9 +6635,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6756,9 +6696,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6818,9 +6758,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6879,9 +6819,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6933,9 +6873,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -6994,9 +6934,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7055,9 +6995,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7117,9 +7057,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7178,9 +7118,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -7238,9 +7178,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -7299,9 +7239,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7360,9 +7300,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7421,9 +7361,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7474,9 +7414,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -7534,9 +7474,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 2600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7594,9 +7534,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7654,9 +7594,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7714,9 +7654,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7774,9 +7714,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7834,9 +7774,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 2600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7894,9 +7834,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -7954,9 +7894,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 5000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8014,9 +7954,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8074,9 +8014,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 4200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8134,9 +8074,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 4200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8187,9 +8127,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -8241,9 +8181,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 5000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -8303,9 +8243,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 5000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -8364,9 +8304,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -8425,9 +8365,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8486,9 +8426,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8548,9 +8488,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 3400
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -8609,9 +8549,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 3300
+            Z: 3200
           }
         }
         Overrides {
@@ -8662,9 +8602,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -8723,9 +8663,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 4200
-            Z: 3300
+            Z: 3200
           }
         }
         Overrides {
@@ -8783,9 +8723,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: 4200
-            Z: 3300
+            Z: 3200
           }
         }
         Overrides {
@@ -8843,9 +8783,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 4200
-            Z: 3300
+            Z: 3200
           }
         }
         Overrides {
@@ -8904,9 +8844,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -8966,9 +8906,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -9028,9 +8968,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -9089,9 +9029,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 3400
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -9149,9 +9089,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: 3400
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -9210,9 +9150,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -9270,9 +9210,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -9332,9 +9272,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -9394,9 +9334,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9456,9 +9396,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9518,9 +9458,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9580,9 +9520,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9641,9 +9581,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9702,9 +9642,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9764,9 +9704,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9826,9 +9766,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9888,9 +9828,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -9949,9 +9889,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10010,9 +9950,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 1000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10072,9 +10012,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10134,9 +10074,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10195,9 +10135,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10249,9 +10189,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10309,9 +10249,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10370,9 +10310,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10431,9 +10371,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10493,9 +10433,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10555,9 +10495,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10617,9 +10557,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10679,9 +10619,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10740,9 +10680,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10802,9 +10742,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10855,9 +10795,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -10916,9 +10856,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 1000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -10976,9 +10916,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -11037,9 +10977,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -11091,9 +11031,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -11152,9 +11092,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -11205,9 +11145,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -11258,9 +11198,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -11319,9 +11259,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
-            Y: 1000
-            Z: 1500
+            X: 7600
+            Y: 100
+            Z: 1400
           }
         }
         Overrides {
@@ -11379,9 +11319,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8500
-            Y: 1000
-            Z: 900
+            X: 8400
+            Y: 100
+            Z: 800
           }
         }
         Overrides {
@@ -11433,9 +11373,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
-            Y: 1000
-            Z: 900
+            X: 7600
+            Y: 100
+            Z: 800
           }
         }
         Overrides {
@@ -11494,9 +11434,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
-            Y: 1000
-            Z: 2100
+            X: 9200
+            Y: 100
+            Z: 2000
           }
         }
         Overrides {
@@ -11554,9 +11494,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -11615,9 +11555,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
+            X: 9200
             Y: 200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -11668,9 +11608,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10100
-            Y: 200
-            Z: 1500
+            X: 10000
+            Y: -700
+            Z: 1400
           }
         }
         Overrides {
@@ -11722,9 +11662,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10100
-            Y: 1000
-            Z: 1500
+            X: 10000
+            Y: 100
+            Z: 1400
           }
         }
         Overrides {
@@ -11782,9 +11722,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -11842,9 +11782,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -11902,9 +11842,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8500
+            X: 8400
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -11962,9 +11902,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
+            X: 9200
             Y: 3400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -12015,9 +11955,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
+            X: 9200
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12076,9 +12016,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10100
+            X: 10000
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12138,9 +12078,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10100
+            X: 10000
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12200,9 +12140,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8500
+            X: 8400
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12261,9 +12201,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8500
+            X: 8400
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12321,9 +12261,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12382,9 +12322,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
+            X: 9200
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12443,9 +12383,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12503,9 +12443,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12563,9 +12503,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12623,9 +12563,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12683,9 +12623,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12743,9 +12683,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12803,9 +12743,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12863,9 +12803,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12923,9 +12863,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 5000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -12983,9 +12923,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -13043,9 +12983,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -13103,9 +13043,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13163,9 +13103,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13223,9 +13163,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13283,9 +13223,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13343,9 +13283,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13403,9 +13343,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13463,9 +13403,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13523,9 +13463,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13583,9 +13523,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 5000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13644,9 +13584,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13706,9 +13646,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -13767,9 +13707,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -13828,9 +13768,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -13890,9 +13830,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -13951,9 +13891,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14012,9 +13952,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14073,9 +14013,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14134,9 +14074,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14196,9 +14136,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14258,9 +14198,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900
+            X: 6800
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14319,9 +14259,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 5000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14381,9 +14321,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6900.00195
+            X: 6800.00195
             Y: 5000.00195
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14435,9 +14375,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14497,9 +14437,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14558,9 +14498,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14618,9 +14558,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14679,9 +14619,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14741,9 +14681,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14802,9 +14742,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14862,9 +14802,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14922,9 +14862,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -14982,9 +14922,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15042,9 +14982,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15102,9 +15042,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15163,9 +15103,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15225,9 +15165,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15287,9 +15227,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15349,9 +15289,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15410,9 +15350,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -15471,9 +15411,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15532,9 +15472,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15592,9 +15532,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15652,9 +15592,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15712,9 +15652,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15772,9 +15712,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15832,9 +15772,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -15892,9 +15832,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -15953,9 +15893,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16015,9 +15955,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -16076,9 +16016,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -16136,9 +16076,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -16197,9 +16137,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16259,9 +16199,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16313,9 +16253,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 3400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16375,9 +16315,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16437,9 +16377,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 3400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16499,9 +16439,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16561,9 +16501,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16623,9 +16563,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 4200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16685,9 +16625,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 4200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16747,9 +16687,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16808,9 +16748,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16869,9 +16809,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -16923,9 +16863,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -16984,9 +16924,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -17044,9 +16984,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -17104,9 +17044,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
+            X: 7600
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -17164,9 +17104,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8500
+            X: 8400
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -17224,9 +17164,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
+            X: 9200
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -17284,9 +17224,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -17344,9 +17284,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 7700
-            Y: 1000
-            Z: 900
+            X: 7600
+            Y: 100
+            Z: 800
           }
         }
         Overrides {
@@ -17404,9 +17344,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9300
-            Y: 1000
-            Z: 1500
+            X: 9200
+            Y: 100
+            Z: 1400
           }
         }
         Overrides {
@@ -17465,9 +17405,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8500
-            Y: 1000
-            Z: 900
+            X: 8400
+            Y: 100
+            Z: 800
           }
         }
         Overrides {
@@ -17526,9 +17466,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -17579,9 +17519,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -17640,9 +17580,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -17700,9 +17640,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2900
+            X: 2800
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -17760,9 +17700,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3700
+            X: 3600
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -17820,9 +17760,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -17880,9 +17820,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -17940,9 +17880,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18000,9 +17940,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18060,9 +18000,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 5000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18120,9 +18060,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6100
+            X: 6000
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18180,9 +18120,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5300
+            X: 5200
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18233,9 +18173,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4500
+            X: 4400
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18293,9 +18233,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 4200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18353,9 +18293,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18413,9 +18353,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 3400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18473,9 +18413,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18533,9 +18473,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18593,9 +18533,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18653,9 +18593,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18713,9 +18653,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18766,9 +18706,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: 2600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -18827,9 +18767,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18887,9 +18827,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -18947,9 +18887,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -19000,9 +18940,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -19053,9 +18993,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -7000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -19114,9 +19054,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19174,9 +19114,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -8600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19234,9 +19174,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -19294,9 +19234,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19347,9 +19287,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -6200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -19407,9 +19347,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -7000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -19460,9 +19400,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: -7000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -19520,9 +19460,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -7800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19580,9 +19520,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -7000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19640,9 +19580,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -6200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19700,9 +19640,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -5400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19760,9 +19700,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5900
+            X: -6000
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -19813,9 +19753,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: -600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -19873,9 +19813,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -19933,9 +19873,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -19993,9 +19933,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -20047,9 +19987,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -20108,9 +20048,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -20168,9 +20108,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -20228,9 +20168,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 4200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -20289,9 +20229,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 2600
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -20351,9 +20291,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -20413,9 +20353,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 1000
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -20467,9 +20407,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20528,9 +20468,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5100
+            X: -5200
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20588,9 +20528,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -4300
+            X: -4400
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20648,9 +20588,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: 200
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20708,9 +20648,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -600
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20768,9 +20708,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20828,9 +20768,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20888,9 +20828,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -1400
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -20948,9 +20888,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -21008,9 +20948,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1000
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -21068,9 +21008,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -21129,9 +21069,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1800
-            Z: 300
+            Z: 200
           }
         }
         Overrides {
@@ -21190,9 +21130,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -21243,9 +21183,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 2600
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -21303,9 +21243,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 5000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21363,9 +21303,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21423,9 +21363,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21483,9 +21423,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 4200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21543,9 +21483,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 3400
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -21597,9 +21537,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1800
-            Z: 900
+            Z: 800
           }
         }
         Overrides {
@@ -21657,9 +21597,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21717,9 +21657,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21777,9 +21717,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21837,9 +21777,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 3400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21897,9 +21837,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 2600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -21957,9 +21897,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22017,9 +21957,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22078,9 +22018,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22138,9 +22078,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -22199,9 +22139,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: 200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22260,9 +22200,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: 1000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22320,9 +22260,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1300
+            X: 1200
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -22381,9 +22321,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -22443,9 +22383,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -22505,9 +22445,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -22566,9 +22506,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -1400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22627,9 +22567,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22688,9 +22628,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22749,9 +22689,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -1400
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -22810,9 +22750,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22871,9 +22811,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -1400
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -22930,9 +22870,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -2200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -22989,9 +22929,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: -2200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -23048,9 +22988,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -2200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -23109,9 +23049,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23170,9 +23110,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23230,9 +23170,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23290,9 +23230,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -2200
-            Z: 2700
+            Z: 2600
           }
         }
         Overrides {
@@ -23343,9 +23283,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -3000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23403,9 +23343,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1100
+            X: -1200
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23462,9 +23402,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -300
+            X: -400
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23521,9 +23461,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -2200
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23581,9 +23521,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -3000
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -23641,9 +23581,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1900
+            X: -2000
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23701,9 +23641,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23761,9 +23701,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -2200
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23821,9 +23761,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -4600
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23881,9 +23821,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -3000
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23934,9 +23874,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3500
+            X: -3600
             Y: -3800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -23993,9 +23933,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 500
+            X: 400
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {
@@ -24046,9 +23986,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2700
+            X: -2800
             Y: -3800
-            Z: 1500
+            Z: 1400
           }
         }
         Overrides {
@@ -24099,9 +24039,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2100
+            X: 2000
             Y: -3800
-            Z: 2100
+            Z: 2000
           }
         }
         Overrides {

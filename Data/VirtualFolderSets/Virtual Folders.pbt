@@ -1,8 +1,8 @@
 Assets {
-  Id: 15480623453013067627
+  Id: 6757123603886744005
   Name: "Virtual Folders"
   PlatformAssetType: 30
-  SerializationVersion: 95
+  SerializationVersion: 97
   VirtualFolderSetAsset {
     Folders {
       VirtualFolderPath: "Props"
@@ -26,10 +26,6 @@ Assets {
     }
     Folders {
       VirtualFolderPath: "Room Slots"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Game Components"
       PlatformAssetType: 5
     }
     Folders {
@@ -85,6 +81,11 @@ Assets {
       PlatformAssetType: 5
     }
     Folders {
+      VirtualFolderPath: "Game Components"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Tileset"
       VirtualFolderPath: "Tresure Rooms"
       PlatformAssetType: 5
     }
