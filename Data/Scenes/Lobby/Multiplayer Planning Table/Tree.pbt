@@ -492,7 +492,8 @@ Objects {
         A: 0.7
       }
       ShadowOffset {
-        Y: -12
+        X: 12
+        Y: 12
       }
       ScreenshotIndex: 1
     }

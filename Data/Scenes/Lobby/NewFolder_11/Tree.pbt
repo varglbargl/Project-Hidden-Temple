@@ -1,50 +1,23 @@
 Name: "NewFolder_11"
-RootId: 10954607373378593967
+RootId: 9720745311628857745
 Objects {
-  Id: 14627139273490663256
-  Name: "Decal Family Crest 01"
+  Id: 4889113494644016867
+  Name: "Spotlight"
   Transform {
     Location {
-      X: 26.1143799
-      Y: 18.5491028
-      Z: 43.3260193
+      X: 2.635144
+      Z: -28.2228565
     }
     Rotation {
-      Pitch: -6.83018879e-06
-      Yaw: -52.2507935
-      Roll: 93.9643555
+      Pitch: -90
     }
     Scale {
-      X: 0.218016669
-      Y: 0.218017742
-      Z: 0.116285741
+      X: 1.38386869
+      Y: 1.38386869
+      Z: 1.38386869
     }
   }
-  ParentId: 10954607373378593967
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 13
-    }
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 0.697
-        G: 0.193068966
-        B: 0.302253813
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color Shapes"
-      Color {
-        R: 0.0365735181
-        G: 0.106000006
-        B: 0.0209879968
-        A: 1
-      }
-    }
-  }
+  ParentId: 9720745311628857745
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -57,395 +30,67 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4147613114035526066
+  Light {
+    Intensity: 7.5
+    Color {
+      R: 1
+      G: 1
+      B: 1
+      A: 1
     }
+    CastShadows: true
+    VolumetricIntensity: 5
     TeamSettings {
     }
-    DecalBP {
+    Light {
+      UseTemperature: true
+      Temperature: 5000
+      LocalLight {
+        AttenuationRadius: 2250
+        SpotLight {
+          FallOffExponent: 2
+          UseFallOffExponent: true
+          InnerConeAngle: 20
+          OuterConeAngle: 25
+          Profile {
+            Value: "mc:espotlightprofile:flashlight"
+          }
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
     }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
   }
 }
 Objects {
-  Id: 6549811253629258881
-  Name: "Decal Family Crest 01"
+  Id: 2861247332449005440
+  Name: "Sphere - Half Thin"
   Transform {
     Location {
-      X: 31.8071289
-      Y: -3.7857666
-      Z: 43.3260193
+      Z: -87.2835083
     }
     Rotation {
-      Yaw: -94.4246063
-      Roll: 93.9643402
     }
     Scale {
-      X: 0.218016669
-      Y: 0.218017742
-      Z: 0.116285741
+      X: 0.967259049
+      Y: 0.967259049
+      Z: 1.52963376
     }
   }
-  ParentId: 10954607373378593967
+  ParentId: 9720745311628857745
   UnregisteredParameters {
     Overrides {
-      Name: "bp:Shape Index"
-      Int: 13
-    }
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 0.697
-        G: 0.193068966
-        B: 0.302253813
-        A: 1
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13204992981578163654
       }
-    }
-    Overrides {
-      Name: "bp:Color Shapes"
-      Color {
-        R: 0.0365735181
-        G: 0.106000006
-        B: 0.0209879968
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4147613114035526066
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 16085680804373143927
-  Name: "Decal Family Crest 01"
-  Transform {
-    Location {
-      X: 21.1252441
-      Y: -24.0780182
-      Z: 43.3260193
-    }
-    Rotation {
-      Yaw: -136.374329
-      Roll: 93.9643555
-    }
-    Scale {
-      X: 0.218016669
-      Y: 0.218017742
-      Z: 0.116285741
-    }
-  }
-  ParentId: 10954607373378593967
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 13
-    }
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 0.697
-        G: 0.193068966
-        B: 0.302253813
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color Shapes"
-      Color {
-        R: 0.0365735181
-        G: 0.106000006
-        B: 0.0209879968
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4147613114035526066
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 13283383143296957800
-  Name: "Decal Family Crest 01"
-  Transform {
-    Location {
-      X: -31.8956299
-      Y: -2.94863892
-      Z: 43.3260193
-    }
-    Rotation {
-      Yaw: 97.6447601
-      Roll: 93.9643555
-    }
-    Scale {
-      X: 0.218016669
-      Y: 0.218017742
-      Z: 0.116285741
-    }
-  }
-  ParentId: 10954607373378593967
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 13
-    }
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 0.697
-        G: 0.193068966
-        B: 0.302253813
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color Shapes"
-      Color {
-        R: 0.0365735181
-        G: 0.106000006
-        B: 0.0209879968
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4147613114035526066
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 5923027292118392519
-  Name: "Decal Family Crest 01"
-  Transform {
-    Location {
-      X: -22.1643066
-      Y: -23.1251526
-      Z: 43.3260193
-    }
-    Rotation {
-      Yaw: 138.578323
-      Roll: 93.9643555
-    }
-    Scale {
-      X: 0.218016669
-      Y: 0.218017742
-      Z: 0.116285741
-    }
-  }
-  ParentId: 10954607373378593967
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 13
-    }
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 0.697
-        G: 0.193068966
-        B: 0.302253813
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color Shapes"
-      Color {
-        R: 0.0365735181
-        G: 0.106000006
-        B: 0.0209879968
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4147613114035526066
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 5986521216332919087
-  Name: "Decal Family Crest 01"
-  Transform {
-    Location {
-      X: -0.828735352
-      Y: -32.0209961
-      Z: 43.3260193
-    }
-    Rotation {
-      Yaw: -179.119522
-      Roll: 93.9643478
-    }
-    Scale {
-      X: 0.218016669
-      Y: 0.218017742
-      Z: 0.116285741
-    }
-  }
-  ParentId: 10954607373378593967
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 13
-    }
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 0.697
-        G: 0.193068966
-        B: 0.302253813
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color Shapes"
-      Color {
-        R: 0.0365735181
-        G: 0.106000006
-        B: 0.0209879968
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4147613114035526066
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 663555471924687690
-  Name: "Broken Porcelain Vase 02"
-  Transform {
-    Location {
-    }
-    Rotation {
-      Yaw: 113.380188
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10954607373378593967
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 4
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.725
-        G: 0.17255
-        B: 0.264624894
+        R: 1
+        G: 1
+        B: 1
         A: 1
       }
     }
@@ -464,7 +109,255 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 10468685126847745162
+      Id: 9678741574639292826
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 593696839878999883
+  Name: "Capsule"
+  Transform {
+    Location {
+      Z: -42.7854
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.284712017
+      Y: 0.284712017
+      Z: 0.220637113
+    }
+  }
+  ParentId: 9720745311628857745
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3702191406046426907
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2870906878820740500
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 13178088470534148237
+  Name: "Pipe - Thick"
+  Transform {
+    Location {
+      Z: -24.3330688
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.708257735
+      Y: 0.708257735
+      Z: 0.0435587019
+    }
+  }
+  ParentId: 9720745311628857745
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.025
+        G: 0.025
+        B: 0.025
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6000681835192046231
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2671187597345888907
+  Name: "Cylinder - Rounded Bottom-Aligned"
+  Transform {
+    Location {
+      Z: -26.4052734
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.505171835
+      Y: 0.505171835
+      Z: 0.522869229
+    }
+  }
+  ParentId: 9720745311628857745
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.025
+        G: 0.025
+        B: 0.025
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9718010419719203372
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12990512614495444339
+  Name: "Cone - Truncated Hollow Wide Thin"
+  Transform {
+    Location {
+      Z: -87.4424438
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1.349
+    }
+  }
+  ParentId: 9720745311628857745
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.025
+        G: 0.025
+        B: 0.025
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9258812049024871290
     }
     Teams {
       IsTeamCollisionEnabled: true

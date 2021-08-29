@@ -1,9 +1,18 @@
 Assets {
-  Id: 2394093889171046429
-  Name: "Craftsman Part - Inside Lower Trim 01"
+  Id: 14790108367861695602
+  Name: "Japanese Umbrella Handle"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_sub_craftsman_part_intTrim_001_low"
+    AssetId: "sm_prop_jpn_umbrella_handle_001_ref"
+  }
+}
+Assets {
+  Id: 4673230646238167984
+  Name: "Japanese Umbrella Canopy 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_umbrella_canopy_001_ref"
   }
 }

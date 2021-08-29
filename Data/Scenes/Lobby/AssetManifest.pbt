@@ -170,6 +170,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13973970250640934361
+  Name: "Bottle 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_004"
+  }
+}
+Assets {
   Id: 13894445539016998719
   Name: "Sphere"
   PlatformAssetType: 1

@@ -1,27 +1,63 @@
 Assets {
-  Id: 16198346205888411814
-  Name: "Urban Fence Door"
+  Id: 17393148087112701979
+  Name: "Humanoid 1 Rig"
+  PlatformAssetType: 25
+  PrimaryAsset {
+    AssetType: "SkeletonAssetRef"
+    AssetId: "npc_gal_wireframe_001_ref"
+  }
+}
+Assets {
+  Id: 10099318447560165816
+  Name: "Gear - generic large solid"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_mil_fence_door_01"
+    AssetId: "sm_gen_gear_001"
   }
 }
 Assets {
-  Id: 7405585834121208146
-  Name: "Invisible"
-  PlatformAssetType: 2
+  Id: 9929187265035726419
+  Name: "Humanoid 1 Eva Hair"
+  PlatformAssetType: 26
   PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_invisible_001"
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_hair_basic_006_ref"
   }
 }
 Assets {
-  Id: 6954370053071083141
-  Name: "Metal Iron 01"
+  Id: 9501471890628041237
+  Name: "Metal Gold 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_001"
+    AssetId: "mi_metal_gold_001"
+  }
+}
+Assets {
+  Id: 7661664947299460862
+  Name: "Japanese Stone Lantern Roof Large 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_lantern_stone_large_roof_001_ref"
+  }
+}
+Assets {
+  Id: 7464198802535463200
+  Name: "Humanoid 1 Nancy"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_head_basic_002_ref"
+  }
+}
+Assets {
+  Id: 4553827069405744674
+  Name: "Metal Old Beaten Gold 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_gold_002"
   }
 }

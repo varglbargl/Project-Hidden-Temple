@@ -1,36 +1,18 @@
 Assets {
-  Id: 13048594745491972492
-  Name: "Ring - Beveled Thick"
+  Id: 10468685126847745162
+  Name: "Broken Porcelain Vase 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ring_faceted_003"
+    AssetId: "sm_prop_jpn_vase_porcelain_broken_002"
   }
 }
 Assets {
-  Id: 8603332311912297232
-  Name: "Ring - Quarter Thick"
-  PlatformAssetType: 1
+  Id: 4147613114035526066
+  Name: "Decal Family Crest 01"
+  PlatformAssetType: 14
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_quarter_torus_003"
-  }
-}
-Assets {
-  Id: 6747614045051753376
-  Name: "Cylinder - Bottom-Aligned"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_001"
-  }
-}
-Assets {
-  Id: 4553827069405744674
-  Name: "Metal Old Beaten Gold 02"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_002"
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_jpn_family_crest_001_ref"
   }
 }

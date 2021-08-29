@@ -1,72 +1,135 @@
 Assets {
-  Id: 13204992981578163654
-  Name: "Metal Chrome"
+  Id: 17035938977884836872
+  Name: "Manticore Logo"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_logo_manticore_01"
+  }
+}
+Assets {
+  Id: 13888119501670323283
+  Name: "Fantasy Sword Blade 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_blade_sword_004_ref"
+  }
+}
+Assets {
+  Id: 13048594745491972492
+  Name: "Ring - Beveled Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ring_faceted_003"
+  }
+}
+Assets {
+  Id: 12610149741243116648
+  Name: "Urban Pipe Wrap 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_coupling_005_ref"
+  }
+}
+Assets {
+  Id: 12510064410993333055
+  Name: "Fantasy Pommel 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_pommel_004"
+  }
+}
+Assets {
+  Id: 11016756959692137131
+  Name: "Diamond - Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_diamond_hq_001"
+  }
+}
+Assets {
+  Id: 9544913535066953067
+  Name: "Fantasy Sword Guard 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_guard_sword_002"
+  }
+}
+Assets {
+  Id: 6954370053071083141
+  Name: "Metal Iron 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "chrome_001"
+    AssetId: "mi_metal_iron_001"
   }
 }
 Assets {
-  Id: 9718010419719203372
-  Name: "Cylinder - Rounded Bottom-Aligned"
+  Id: 6120363264497356265
+  Name: "Cylinder - Chamfered Polished"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_rounded_001"
+    AssetId: "sm_cylinder_hq_002"
   }
 }
 Assets {
-  Id: 9678741574639292826
-  Name: "Sphere - Half Thin"
+  Id: 4621604117357375380
+  Name: "Shield 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_hemisphere_002"
+    AssetId: "sm_shield_001"
   }
 }
 Assets {
-  Id: 9258812049024871290
-  Name: "Cone - Truncated Hollow Wide Thin"
+  Id: 3682206342183528038
+  Name: "Fantasy Sword Grip 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_hollow_006"
+    AssetId: "sm_weap_fan_grip_sword_001"
   }
 }
 Assets {
-  Id: 6000681835192046231
-  Name: "Pipe - Thick"
+  Id: 2616613278967634593
+  Name: "Cylinder - Chamfered Small Polished"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_004"
+    AssetId: "sm_cylinder_hq_003"
   }
 }
 Assets {
-  Id: 3702191406046426907
-  Name: "Emissive Glow Transparent"
+  Id: 1137112816547272582
+  Name: "Cylinder"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_002"
+  }
+}
+Assets {
+  Id: 394066491586073241
+  Name: "Fabric Burlap New 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_basic_emissive_001"
+    AssetId: "mi_fan_fabric_burlap_002_uv"
   }
 }
 Assets {
-  Id: 2870906878820740500
-  Name: "Capsule"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_capsule_001"
-  }
-}
-Assets {
-  Id: 697130077529532955
-  Name: "Metal Painted Basic 01"
+  Id: 69844939897041847
+  Name: "Emissive Glow Opaque"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_painted_metal_basic_001"
+    AssetId: "fxma_opaque_emissive"
   }
 }

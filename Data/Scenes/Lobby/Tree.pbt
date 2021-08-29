@@ -82,6 +82,7 @@ Objects {
   ChildIds: 4056481980452387533
   ChildIds: 4655717816099293021
   ChildIds: 10739344863313881386
+  ChildIds: 8258299826905579889
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -94,6 +95,154 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 8258299826905579889
+  Name: "Group"
+  Transform {
+    Location {
+      X: 2.08729553
+      Y: 1105.24902
+      Z: 151.886414
+    }
+    Rotation {
+      Yaw: -52.2003784
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 3189476551972533292
+  ChildIds: 12623237142420092288
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12623237142420092288
+  Name: "NewFolder"
+  Transform {
+    Location {
+      X: 1.27668262
+      Y: 0.859796226
+      Z: 14.1741486
+    }
+    Rotation {
+      Pitch: -9.03106689
+      Yaw: 108.333557
+      Roll: 61.5113144
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8258299826905579889
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "NewFolder"
+  }
+}
+Objects {
+  Id: 3189476551972533292
+  Name: "Bottle 04"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.363776505
+    }
+  }
+  ParentId: 8258299826905579889
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 14227954931734466005
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.25
+        G: 0.25
+        B: 0.25
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13973970250640934361
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
   }
 }
 Objects {
@@ -194,7 +343,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder"
+    FilePartitionName: "NewFolder_1"
   }
 }
 Objects {
@@ -434,7 +583,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_1"
+    FilePartitionName: "NewFolder_2"
   }
 }
 Objects {
@@ -587,7 +736,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_2"
+    FilePartitionName: "NewFolder_3"
   }
 }
 Objects {
@@ -738,7 +887,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_3"
+    FilePartitionName: "NewFolder_4"
   }
 }
 Objects {
@@ -829,7 +978,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_4"
+    FilePartitionName: "NewFolder_5"
   }
 }
 Objects {
@@ -1445,12 +1594,12 @@ Objects {
   Name: "Fantasy Book 02"
   Transform {
     Location {
-      X: -134
+      X: -338.352325
       Y: 1108
       Z: 159
     }
     Rotation {
-      Yaw: 150
+      Yaw: -123.538422
       Roll: 90
     }
     Scale {
@@ -1541,7 +1690,7 @@ Objects {
   Name: "Plane 1m - One Sided"
   Transform {
     Location {
-      X: 1725
+      X: 1736
       Y: 390
       Z: 200
     }
@@ -1616,7 +1765,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_5"
+    FilePartitionName: "NewFolder_6"
   }
 }
 Objects {
@@ -2293,7 +2442,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_6"
+    FilePartitionName: "NewFolder_7"
   }
 }
 Objects {
@@ -6510,14 +6659,6 @@ Objects {
             Roll: -5.04266357
           }
         }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.679377735
-            Y: 0.679377735
-            Z: 0.679377735
-          }
-        }
       }
     }
     TemplateAsset {
@@ -6710,7 +6851,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_11"
+    FilePartitionName: "NewFolder_12"
   }
 }
 Objects {
@@ -13320,7 +13461,7 @@ Objects {
   }
   Trigger {
     Interactable: true
-    InteractionLabel: "Multiplayer"
+    InteractionLabel: "Play"
     TeamSettings {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
@@ -13349,7 +13490,7 @@ Objects {
   }
   ParentId: 13861527379455086910
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -13949,7 +14090,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_18"
+    FilePartitionName: "NewFolder_19"
   }
 }
 Objects {
@@ -13984,7 +14125,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_19"
+    FilePartitionName: "NewFolder_20"
   }
 }
 Objects {
@@ -14105,8 +14246,8 @@ Objects {
     }
     AutoPlay: true
     Repeat: true
-    Pitch: -400
-    Volume: 0.5
+    Pitch: -900
+    Volume: 0.25
     Falloff: -1
     Radius: -1
     EnableOcclusion: true
