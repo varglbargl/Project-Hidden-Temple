@@ -97,7 +97,7 @@ function hidePanel()
   UI.SetCursorVisible(false)
   isMenuOpen = false
   LEVEL_SELECT_PANEL.visibility = Visibility.FORCE_OFF
-  SINGLE_PLAYER_TRIGGER.collision = Collision.FORCE_ON
+  -- SINGLE_PLAYER_TRIGGER.collision = Collision.FORCE_ON
   MULTIPLAYER_TRIGGER.collision = Collision.FORCE_ON
 
   Utils.playSoundEffect(OPEN_CLOSE_SFX)

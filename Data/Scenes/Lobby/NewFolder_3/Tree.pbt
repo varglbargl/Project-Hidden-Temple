@@ -1,7 +1,7 @@
 Name: "NewFolder_3"
-RootId: 6340415612861709194
+RootId: 15282701299690970998
 Objects {
-  Id: 6545089056458539237
+  Id: 3311220920753083750
   Name: "Simple Rotate Parent"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6340415612861709194
+  ParentId: 15282701299690970998
   UnregisteredParameters {
     Overrides {
       Name: "cs:IsLocal"
@@ -46,7 +46,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12467884203807640227
+  Id: 3708538015720396724
   Name: "Gear - generic large two-spoked"
   Transform {
     Location {
@@ -60,7 +60,7 @@ Objects {
       Z: 0.199990675
     }
   }
-  ParentId: 6340415612861709194
+  ParentId: 15282701299690970998
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -112,7 +112,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1827347342077206462
+  Id: 14842376590625430334
   Name: "Gear - generic large two-spoked"
   Transform {
     Location {
@@ -126,7 +126,7 @@ Objects {
       Z: 0.199990675
     }
   }
-  ParentId: 6340415612861709194
+  ParentId: 15282701299690970998
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

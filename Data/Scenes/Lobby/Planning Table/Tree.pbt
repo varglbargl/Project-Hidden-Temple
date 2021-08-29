@@ -1,17 +1,86 @@
 Name: "Planning Table"
 RootId: 12794761302850253500
 Objects {
+  Id: 13864958427817394643
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: 36.9655151
+      Y: 199.416382
+      Z: 0.000152587891
+    }
+    Rotation {
+      Yaw: 174.984024
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12794761302850253500
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 12446131267530965574
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.5
+        G: 0.3
+        B: 0.25
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11452126672691922020
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
   Id: 6282678686780290512
   Name: "UI Container"
   Transform {
     Location {
-      X: 16.1595764
+      X: -18.511795
       Y: 49.3129883
       Z: 121.877014
     }
     Rotation {
       Pitch: 90
-      Roll: -64.291626
+      Roll: -109.291595
     }
     Scale {
       X: 0.091805771
@@ -113,10 +182,9 @@ Objects {
       TeamSettings {
       }
       ShadowColor {
-        A: 0.7
+        A: 1
       }
       ShadowOffset {
-        Y: -12
       }
       ScreenshotIndex: 1
     }
@@ -270,8 +338,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 81.488205
-            Y: 41.1237793
+            X: 204.488205
+            Y: 42.1237793
             Z: 130.877014
           }
         }
@@ -436,7 +504,7 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: 32.488205
+      X: 135.488205
       Y: -179.876221
       Z: 0.000152587891
     }
@@ -505,12 +573,12 @@ Objects {
   Name: "Office Pen 01"
   Transform {
     Location {
-      X: -104.511795
-      Y: -79.3936768
+      X: 64.9265137
+      Y: -57.5247803
       Z: 121.763428
     }
     Rotation {
-      Yaw: -130.191833
+      Yaw: -153.16124
     }
     Scale {
       X: 1
@@ -561,12 +629,12 @@ Objects {
   Name: "Fantasy Book Open 01"
   Transform {
     Location {
-      X: -42.7011871
-      Y: -66.0089111
+      X: 127.05957
+      Y: -69.3225098
       Z: 122.877014
     }
     Rotation {
-      Yaw: 7.42621422
+      Yaw: -15.5434265
     }
     Scale {
       X: 1
@@ -632,7 +700,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 100.172638
+            X: 214.172638
             Y: 8.81848145
             Z: 121.763458
           }
@@ -640,7 +708,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -30.9571075
+            Yaw: -30.9570923
           }
         }
         Overrides {
@@ -663,15 +731,15 @@ Objects {
   Name: "Japanese Table 01"
   Transform {
     Location {
-      X: -20.7684479
+      X: 49.488205
       Y: 3.4407959
     }
     Rotation {
     }
     Scale {
-      X: 1.49999988
-      Y: 1.7
-      Z: 1.76
+      X: 2.22082353
+      Y: 1.66953146
+      Z: 1.76189196
     }
   }
   ParentId: 12794761302850253500

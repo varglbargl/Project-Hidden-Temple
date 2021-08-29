@@ -1,61 +1,41 @@
 Name: "NewFolder_5"
-RootId: 12133799254554575763
+RootId: 12044543044177042524
 Objects {
-  Id: 51874625134181569
-  Name: "Urban Fence Door"
+  Id: 1194344336064686222
+  Name: "Gear - generic large solid"
   Transform {
     Location {
-      X: -20
-      Y: -69
+      Z: -1
     }
     Rotation {
-      Yaw: 120.000008
+      Roll: 90
     }
     Scale {
-      X: 0.7
-      Y: 0.7
-      Z: 0.6
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
     }
   }
-  ParentId: 12133799254554575763
+  ParentId: 12044543044177042524
   UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 7405585834121208146
-      }
-    }
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 6954370053071083141
+        Id: 9501471890628041237
       }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.2
-        G: 0.2
-        B: 0.2
+        R: 1
+        G: 0.69375
+        B: 0.12499994
         A: 1
       }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.5
-        G: 0.5
-        B: 0.5
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:utile"
-      Float: 4
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:vtile"
-      Float: 3.25
     }
   }
   Collidable_v2 {
@@ -72,7 +52,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16198346205888411814
+      Id: 10099318447560165816
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -88,64 +68,32 @@ Objects {
   }
 }
 Objects {
-  Id: 7431770332217617369
-  Name: "Urban Fence Door"
+  Id: 14708603647341291685
+  Name: "Japanese Stone Lantern Roof Large 01"
   Transform {
     Location {
-      X: -12
-      Y: -84
+      X: -1.21179199
+      Y: 1.68157959
+      Z: 25.9390106
     }
     Rotation {
-      Yaw: -120
+      Pitch: 5.64433146
+      Yaw: 29.2284374
+      Roll: -170.069672
     }
     Scale {
-      X: 0.7
-      Y: 0.7
-      Z: 0.6
+      X: 0.11228852
+      Y: 0.11228919
+      Z: -0.035556227
     }
   }
-  ParentId: 12133799254554575763
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 6954370053071083141
+        Id: 4553827069405744674
       }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.2
-        G: 0.2
-        B: 0.2
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.1
-        G: 0.1
-        B: 0.1
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.5
-        G: 0.5
-        B: 0.5
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:utile"
-      Float: 4
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:vtile"
-      Float: 3.25
     }
   }
   Collidable_v2 {
@@ -162,7 +110,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16198346205888411814
+      Id: 7661664947299460862
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -178,64 +126,32 @@ Objects {
   }
 }
 Objects {
-  Id: 5535100430484771359
-  Name: "Urban Fence Door"
+  Id: 2893763743479911296
+  Name: "Japanese Stone Lantern Roof Large 01"
   Transform {
     Location {
-      X: 49
-      Y: 22
+      X: -1.21179199
+      Y: 1.68157959
+      Z: 25.9389648
     }
     Rotation {
-      Yaw: -60
+      Pitch: 9.84781361
+      Yaw: -0.791442871
+      Roll: -174.211533
     }
     Scale {
-      X: 0.7
-      Y: 0.7
-      Z: 0.6
+      X: 0.11228852
+      Y: 0.11228919
+      Z: -0.035556227
     }
   }
-  ParentId: 12133799254554575763
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 6954370053071083141
+        Id: 4553827069405744674
       }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.2
-        G: 0.2
-        B: 0.2
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.1
-        G: 0.1
-        B: 0.1
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.5
-        G: 0.5
-        B: 0.5
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:utile"
-      Float: 4
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:vtile"
-      Float: 3.25
     }
   }
   Collidable_v2 {
@@ -252,7 +168,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16198346205888411814
+      Id: 7661664947299460862
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -268,64 +184,71 @@ Objects {
   }
 }
 Objects {
-  Id: 12890559540932495453
-  Name: "Urban Fence Door"
+  Id: 11152876047388763701
+  Name: "Humanoid 1 Rig"
   Transform {
     Location {
-      X: -16
-      Y: 129
+      X: -1.25035524
+      Y: 1.50967383
+      Z: 11.4239197
     }
     Rotation {
-      Yaw: -120
     }
     Scale {
-      X: 0.7
-      Y: 0.7
-      Z: 0.6
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
     }
   }
-  ParentId: 12133799254554575763
+  ParentId: 12044543044177042524
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
+      Name: "ma:0:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 6954370053071083141
+        Id: 4553827069405744674
       }
     }
     Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.2
-        G: 0.2
-        B: 0.2
-        A: 1
+      Name: "ma:0:Shared_Detail1:id"
+      AssetReference {
+        Id: 4553827069405744674
       }
     }
     Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.1
-        G: 0.1
-        B: 0.1
-        A: 1
+      Name: "ma:0:Shared_Detail2:id"
+      AssetReference {
+        Id: 4553827069405744674
       }
     }
     Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.5
-        G: 0.5
-        B: 0.5
-        A: 1
+      Name: "ma:1:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
       }
     }
     Overrides {
-      Name: "ma:Shared_Detail2:utile"
-      Float: 4
+      Name: "ma:2:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
     }
     Overrides {
-      Name: "ma:Shared_Detail2:vtile"
-      Float: 3.25
+      Name: "ma:2:Shared_Detail1:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:3:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
+    }
+    Overrides {
+      Name: "ma:3:Shared_Detail1:id"
+      AssetReference {
+        Id: 4553827069405744674
+      }
     }
   }
   Collidable_v2 {
@@ -342,18 +265,74 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16198346205888411814
+      Id: 17393148087112701979
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
+    AnimatedMesh {
+      AnimationStance: "unarmed_idle_relaxed"
+      AnimationStancePlaybackRate: 1
+      AnimationPlaybackRateMultiplier: 1
+      PlayOnStartAnimation {
+        Animation: "unarmed_meditate"
+        StartPosition: 0.0375849605
+        ShouldLoop: true
       }
-      BoundsScale: 1
+      SkinnedMeshes {
+        Id: 7464198802535463200
+      }
+      SkinnedMeshes {
+        Id: 9929187265035726419
+      }
+      SkinnedMeshes {
+        Id: 841534158063459245
+      }
+      SkinnedMeshes {
+        Id: 841534158063459245
+      }
+    }
+  }
+}
+Objects {
+  Id: 14364405862739178145
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12044543044177042524
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Z: -1.2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
     }
   }
 }

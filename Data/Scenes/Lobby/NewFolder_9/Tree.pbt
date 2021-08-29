@@ -1,7 +1,7 @@
 Name: "NewFolder_9"
-RootId: 9125761110080055121
+RootId: 2593649829381810156
 Objects {
-  Id: 17702687398751182043
+  Id: 3468671152945712428
   Name: "Spotlight"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1.38386869
     }
   }
-  ParentId: 9125761110080055121
+  ParentId: 2593649829381810156
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -63,7 +63,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14743723092682154218
+  Id: 4391281491360258013
   Name: "Sphere - Half Thin"
   Transform {
     Location {
@@ -77,7 +77,7 @@ Objects {
       Z: 1.52963376
     }
   }
-  ParentId: 9125761110080055121
+  ParentId: 2593649829381810156
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -125,7 +125,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8804904302667458339
+  Id: 2399601192747909682
   Name: "Capsule"
   Transform {
     Location {
@@ -139,7 +139,7 @@ Objects {
       Z: 0.220637113
     }
   }
-  ParentId: 9125761110080055121
+  ParentId: 2593649829381810156
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -187,7 +187,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7331740555599427284
+  Id: 17923617286584703927
   Name: "Pipe - Thick"
   Transform {
     Location {
@@ -201,7 +201,7 @@ Objects {
       Z: 0.0435587019
     }
   }
-  ParentId: 9125761110080055121
+  ParentId: 2593649829381810156
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -249,7 +249,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10098725221698466834
+  Id: 5794300446309295275
   Name: "Cylinder - Rounded Bottom-Aligned"
   Transform {
     Location {
@@ -263,7 +263,7 @@ Objects {
       Z: 0.522869229
     }
   }
-  ParentId: 9125761110080055121
+  ParentId: 2593649829381810156
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -311,7 +311,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1508170654190748376
+  Id: 10129813029419655461
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -325,7 +325,7 @@ Objects {
       Z: 1.349
     }
   }
-  ParentId: 9125761110080055121
+  ParentId: 2593649829381810156
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

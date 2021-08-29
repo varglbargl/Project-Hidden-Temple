@@ -1,48 +1,31 @@
 Name: "NewFolder_16"
-RootId: 12003177030276909297
+RootId: 17523720205501487623
 Objects {
-  Id: 1727839420000488097
-  Name: "Plane 1m - One Sided"
+  Id: 2426283426464623064
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -140
-      Z: -287.5
+      X: 201
+      Y: 2
+      Z: 903
     }
     Rotation {
-      Pitch: -44.9999695
-      Yaw: 1.20741797e-05
-      Roll: 89.9999237
+      Pitch: -44.9998932
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: -0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -61,7 +44,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -77,48 +60,31 @@ Objects {
   }
 }
 Objects {
-  Id: 3623379992682261346
-  Name: "Plane 1m - One Sided"
+  Id: 6913736253631265718
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -422.5
-      Z: -287.5
+      X: 201
+      Y: 2
+      Z: 678
     }
     Rotation {
-      Pitch: -44.9999695
-      Yaw: 1.20741752e-05
-      Roll: 89.9999084
+      Pitch: -44.9998932
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: -0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -137,7 +103,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -153,48 +119,31 @@ Objects {
   }
 }
 Objects {
-  Id: 978920704873525366
-  Name: "Plane 1m - One Sided"
+  Id: 18016920391530144139
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: 142.5
-      Z: -287.5
+      X: 201
+      Y: 2
+      Z: 450
     }
     Rotation {
-      Pitch: -44.9999695
-      Yaw: 1.20741797e-05
-      Roll: 89.9999084
+      Pitch: -44.9998932
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: -0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -213,7 +162,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -229,48 +178,31 @@ Objects {
   }
 }
 Objects {
-  Id: 16868813472758065045
-  Name: "Plane 1m - One Sided"
+  Id: 13608393062312781889
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -422.5
-      Z: -5
+      X: 201
+      Y: 2
+      Z: 1
     }
     Rotation {
-      Pitch: -44.9999695
-      Yaw: 1.20741797e-05
-      Roll: 89.9999237
+      Pitch: -44.9998932
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: -0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -289,7 +221,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -305,48 +237,31 @@ Objects {
   }
 }
 Objects {
-  Id: 17510672763075280469
-  Name: "Plane 1m - One Sided"
+  Id: 3837120819924128865
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -422.5
-      Z: 842.8
+      X: 201
+      Y: 2
+      Z: 220
     }
     Rotation {
-      Pitch: -45
-      Yaw: 7.24450956e-06
-      Roll: 89.999939
+      Pitch: -44.999958
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: -0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -365,7 +280,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -381,47 +296,31 @@ Objects {
   }
 }
 Objects {
-  Id: 3492705825152700160
-  Name: "Plane 1m - One Sided"
+  Id: 6008876485081164330
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -422.5
-      Z: 560
+      X: -191
+      Y: 1
+      Z: 903
     }
     Rotation {
-      Pitch: -44.9999695
-      Roll: 89.9999542
+      Pitch: 44.999958
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -440,7 +339,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -456,47 +355,31 @@ Objects {
   }
 }
 Objects {
-  Id: 5928818484666620532
-  Name: "Plane 1m - One Sided"
+  Id: 14574369359835539882
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -422.5
-      Z: 277.5
+      X: -191
+      Y: 1
+      Z: 678
     }
     Rotation {
-      Pitch: -44.9999695
-      Roll: 89.9999695
+      Pitch: 44.9999695
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -515,7 +398,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -531,48 +414,31 @@ Objects {
   }
 }
 Objects {
-  Id: 6586720351654708410
-  Name: "Plane 1m - One Sided"
+  Id: 3488329022324280703
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: 142.5
-      Z: 842.8
+      X: -191
+      Y: 1
+      Z: 450
     }
     Rotation {
-      Pitch: -45
-      Yaw: 4.82967289e-06
-      Roll: 89.9999466
+      Pitch: 44.9999619
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -591,7 +457,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -607,48 +473,31 @@ Objects {
   }
 }
 Objects {
-  Id: 2937824577535005571
-  Name: "Plane 1m - One Sided"
+  Id: 1883089156256452255
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -140
-      Z: 560
+      X: -191
+      Y: 1
+      Z: 1
     }
     Rotation {
-      Pitch: -44.9999886
-      Yaw: 2.41483622e-06
-      Roll: 89.9999771
+      Pitch: 44.9999695
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -667,7 +516,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -683,48 +532,31 @@ Objects {
   }
 }
 Objects {
-  Id: 1964338756408941066
-  Name: "Plane 1m - One Sided"
+  Id: 838816855685437243
+  Name: "Craftsman Part - Inside Lower Trim 01"
   Transform {
     Location {
-      X: -140
-      Z: 277.5
+      X: -191
+      Y: 1
+      Z: 229
     }
     Rotation {
-      Pitch: -45
-      Yaw: 2.41483622e-06
-      Roll: 89.9999924
+      Pitch: 44.9999733
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
     }
   }
-  ParentId: 12003177030276909297
+  ParentId: 17523720205501487623
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Building_LowerTrimInner:color"
       Color {
-        G: 5
+        R: 0.25
+        G: 0.100000009
+        B: 0.0625
         A: 1
       }
     }
@@ -743,7 +575,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16048367406070731799
+      Id: 2394093889171046429
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -759,51 +591,22 @@ Objects {
   }
 }
 Objects {
-  Id: 8349152397064257194
-  Name: "Plane 1m - One Sided"
+  Id: 12003177030276909297
+  Name: "NewFolder"
   Transform {
     Location {
-      X: 142.5
-      Z: 560
+      X: 113
+      Z: 543
     }
     Rotation {
-      Pitch: -45
-      Roll: 89.9999542
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.8
+      Y: 0.8
+      Z: 0.8
     }
   }
-  ParentId: 12003177030276909297
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        G: 5
-        A: 1
-      }
-    }
-  }
+  ParentId: 17523720205501487623
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -816,70 +619,27 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 16048367406070731799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "NewFolder_17"
   }
 }
 Objects {
-  Id: 9845308780629119565
-  Name: "Plane 1m - One Sided"
+  Id: 16996681989642148125
+  Name: "NewFolder"
   Transform {
     Location {
-      X: 142.5
-      Z: 277.5
+      Z: 430
     }
     Rotation {
-      Pitch: -45
-      Yaw: 2.41483622e-06
-      Roll: 89.9999771
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 0.8
+      Y: 0.8
+      Z: 0.8
     }
   }
-  ParentId: 12003177030276909297
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        G: 5
-        A: 1
-      }
-    }
-  }
+  ParentId: 17523720205501487623
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -892,247 +652,8 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 16048367406070731799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 12590403337340110311
-  Name: "Plane 1m - One Sided"
-  Transform {
-    Location {
-      X: 142.5
-      Z: -5
-    }
-    Rotation {
-      Pitch: -45
-      Yaw: 9.65934487e-06
-      Roll: 89.9999313
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 12003177030276909297
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        G: 5
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16048367406070731799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15866076926944263165
-  Name: "Plane 1m - One Sided"
-  Transform {
-    Location {
-      X: -140
-      Z: -5
-    }
-    Rotation {
-      Pitch: -45
-      Yaw: 4.82967289e-06
-      Roll: 89.9999466
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 12003177030276909297
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        G: 5
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16048367406070731799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 10474235650734425558
-  Name: "Plane 1m - One Sided"
-  Transform {
-    Location {
-      X: -140
-      Z: 842.8
-    }
-    Rotation {
-      Pitch: -44.9999886
-      Roll: 89.9999542
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 12003177030276909297
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 1
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 17492744645214510808
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        G: 5
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16048367406070731799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "NewFolder_18"
   }
 }
