@@ -63,7 +63,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Ceiling"
+    FilePartitionName: "Ceiling_1"
   }
 }
 Objects {
