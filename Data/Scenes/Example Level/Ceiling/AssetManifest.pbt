@@ -1,9 +1,9 @@
 Assets {
-  Id: 13204992981578163654
-  Name: "Metal Chrome"
-  PlatformAssetType: 2
+  Id: 7207757223016895409
+  Name: "Whitebox Floor 01 8m x 8m"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "chrome_001"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_gen_whitebox_floor_001_8x8"
   }
 }
