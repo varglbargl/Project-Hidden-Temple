@@ -516,7 +516,7 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: 90
+      X: 129
       Y: -182.876221
       Z: 0.000152587891
     }

@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17042918944552201643
+  Name: "Frosted Glass No Distortion"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_frosted_glass_nodistortion"
+  }
+}
+Assets {
   Id: 17035938977884836872
   Name: "Manticore Logo"
   PlatformAssetType: 1
@@ -116,6 +125,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14952670459371098945
+  Name: "Urban Parking Meter Pole"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_meter_parking_post_001_ref"
+  }
+}
+Assets {
   Id: 14360998166931460595
   Name: "Decal Spray Manticore 01"
   PlatformAssetType: 14
@@ -158,15 +176,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_container_square_thin_ref"
-  }
-}
-Assets {
-  Id: 13997351046620043218
-  Name: "Long Banner Manticore"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_banner_001"
   }
 }
 Assets {
@@ -233,12 +242,39 @@ Assets {
   }
 }
 Assets {
+  Id: 13048594745491972492
+  Name: "Ring - Beveled Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ring_faceted_003"
+  }
+}
+Assets {
   Id: 13025462949814042787
   Name: "Ambient Nature Rain Heavy 01 SFX"
   PlatformAssetType: 7
   PrimaryAsset {
     AssetType: "AudioAssetRef"
     AssetId: "sfx_ambience_nature_heavy_rain_01_Cue_ref"
+  }
+}
+Assets {
+  Id: 13010009541999775257
+  Name: "Cylinder - Rounded"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_rounded_002"
+  }
+}
+Assets {
+  Id: 12769382907419507705
+  Name: "Short Banner Manticore"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_banner_002"
   }
 }
 Assets {
@@ -314,6 +350,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11049358012930972197
+  Name: "Japanese Stone Lantern Roof Small 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_lantern_stone_small_roof_001_ref"
+  }
+}
+Assets {
   Id: 10850769815684373087
   Name: "Plane 1m - Two Sided"
   PlatformAssetType: 1
@@ -329,15 +374,6 @@ Assets {
   PrimaryAsset {
     AssetType: "VfxBlueprintAssetRef"
     AssetId: "fxbp_fire_volume_vfx"
-  }
-}
-Assets {
-  Id: 9805942287566312257
-  Name: "Glass 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_basic_glass_refrac_001"
   }
 }
 Assets {
@@ -467,6 +503,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7572676268412653318
+  Name: "Japanese Temple Torii Gate Rope 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_jpn_tem_torii_rope_001_ref"
+  }
+}
+Assets {
   Id: 7569864089304809235
   Name: "Parchment 01"
   PlatformAssetType: 2
@@ -563,6 +608,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_jpn_chest_med_hinge_001"
+  }
+}
+Assets {
+  Id: 6667281334460469440
+  Name: "Wallpaper Moroccan 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_gen_wallpaper_002"
   }
 }
 Assets {

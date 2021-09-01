@@ -10,9 +10,9 @@ Assets {
         Name: "Gold Coin"
         Transform {
           Scale {
-            X: 0.504259467
-            Y: 0.504259467
-            Z: 0.252617151
+            X: 0.5
+            Y: 0.5
+            Z: 0.25
           }
         }
         ParentId: 4781671109827199097
@@ -20,7 +20,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13204992981578163654
+              Id: 9501471890628041237
             }
           }
           Overrides {
@@ -71,12 +71,12 @@ Assets {
       }
     }
     Assets {
-      Id: 13204992981578163654
-      Name: "Metal Chrome"
+      Id: 9501471890628041237
+      Name: "Metal Gold 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "chrome_001"
+        AssetId: "mi_metal_gold_001"
       }
     }
     PrimaryAssetId {

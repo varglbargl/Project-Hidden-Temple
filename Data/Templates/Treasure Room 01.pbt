@@ -16,21 +16,19 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
+        ChildIds: 1351610571344813630
         ChildIds: 503059414447772557
+        ChildIds: 7589807189687202217
         ChildIds: 6506726646171636350
         ChildIds: 4113702657274911112
         UnregisteredParameters {
           Overrides {
-            Name: "cs:TreasureLocation"
-            ObjectReference {
-              SubObjectId: 11528438391384283840
-            }
+            Name: "cs:SymbolIndex"
+            Int: 0
           }
           Overrides {
-            Name: "cs:CombinationSymbol"
-            ObjectReference {
-              SubObjectId: 503059414447772557
-            }
+            Name: "cs:SymbolIndex:isrep"
+            Bool: true
           }
         }
         WantsNetworking: true
@@ -51,8 +49,68 @@ Assets {
         }
       }
       Objects {
+        Id: 1351610571344813630
+        Name: "Treasure Room Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7437241572506582406
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:TreasureTrigger"
+            ObjectReference {
+              SubObjectId: 7589807189687202217
+            }
+          }
+          Overrides {
+            Name: "cs:TreasureLocation"
+            ObjectReference {
+              SubObjectId: 11528438391384283840
+            }
+          }
+          Overrides {
+            Name: "cs:ReturnTeleporterLocation"
+            ObjectReference {
+              SubObjectId: 11332016658221273490
+            }
+          }
+          Overrides {
+            Name: "cs:Symbol"
+            ObjectReference {
+              SubObjectId: 503059414447772557
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 14436996034012536042
+          }
+        }
+      }
+      Objects {
         Id: 503059414447772557
-        Name: "Combination Symbol"
+        Name: "Room Symbol"
         Transform {
           Location {
             X: 1618.57959
@@ -74,19 +132,30 @@ Assets {
           Overrides {
             Name: "bp:Color Emissive"
             Color {
-              R: 0.405999959
               G: 1
-              B: 0.762400091
+              B: 0.600000143
               A: 1
             }
           }
           Overrides {
             Name: "bp:Emissive Boost"
-            Float: 1
+            Float: 0
           }
           Overrides {
             Name: "bp:Shape Index"
-            Int: 0
+            Int: 1
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
           }
         }
         WantsNetworking: true
@@ -116,6 +185,140 @@ Assets {
         }
       }
       Objects {
+        Id: 7589807189687202217
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: 1785.38379
+            Y: 27.592041
+            Z: 158.269531
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7437241572506582406
+        ChildIds: 5304604229749453319
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 5304604229749453319
+        Name: "Callout Sparkle"
+        Transform {
+          Location {
+            Z: 25
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.75
+            Y: 0.75
+            Z: 0.75
+          }
+        }
+        ParentId: 7589807189687202217
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 0.25
+          }
+          Overrides {
+            Name: "bp:Wind Speed"
+            Vector {
+            }
+          }
+          Overrides {
+            Name: "bp:Initial Velocity"
+            Vector {
+            }
+          }
+          Overrides {
+            Name: "bp:Gravity"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "bp:Curl Speed"
+            Vector {
+              Z: 0.75
+            }
+          }
+          Overrides {
+            Name: "bp:Curl Offset"
+            Vector {
+              X: 5
+            }
+          }
+          Overrides {
+            Name: "bp:Curl Variance"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Particle Scale Multiplier"
+            Float: 20
+          }
+          Overrides {
+            Name: "bp:Life"
+            Float: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 604043960701835534
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
         Id: 6506726646171636350
         Name: "StaticContext"
         Transform {
@@ -132,6 +335,7 @@ Assets {
           }
         }
         ParentId: 7437241572506582406
+        ChildIds: 11332016658221273490
         ChildIds: 11528438391384283840
         ChildIds: 7810262657370469136
         ChildIds: 651432839072046295
@@ -198,6 +402,40 @@ Assets {
         }
         NetworkContext {
           Type: RuntimeStatic
+        }
+      }
+      Objects {
+        Id: 11332016658221273490
+        Name: "Return Teleporter Location"
+        Transform {
+          Location {
+            X: -1150
+            Y: -200
+            Z: 25
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6506726646171636350
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsFilePartition: true
         }
       }
       Objects {
@@ -12144,6 +12382,10 @@ Assets {
             Name: "bp:Shape Index"
             Int: 0
           }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -12217,6 +12459,15 @@ Assets {
       PrimaryAsset {
         AssetType: "DecalBlueprintAssetRef"
         AssetId: "bp_decal_elven_symbols_001"
+      }
+    }
+    Assets {
+      Id: 604043960701835534
+      Name: "Callout Sparkle"
+      PlatformAssetType: 8
+      PrimaryAsset {
+        AssetType: "VfxBlueprintAssetRef"
+        AssetId: "fxbp_sparkles_volume_vfx"
       }
     }
     Assets {
@@ -12675,5 +12926,6 @@ Assets {
     }
   }
   SerializationVersion: 97
+  VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Tresure Rooms"
 }
