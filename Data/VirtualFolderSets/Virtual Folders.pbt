@@ -25,18 +25,6 @@ Assets {
       PlatformAssetType: 3
     }
     Folders {
-      VirtualFolderPath: "Room Slots"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Blue Rooms"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Red Rooms"
-      PlatformAssetType: 5
-    }
-    Folders {
       VirtualFolderPath: "Interaction System"
       PlatformAssetType: 5
     }
@@ -85,16 +73,36 @@ Assets {
       PlatformAssetType: 5
     }
     Folders {
-      VirtualFolderPath: "Tileset"
-      VirtualFolderPath: "Tresure Rooms"
-      PlatformAssetType: 5
-    }
-    Folders {
       VirtualFolderPath: "NPCs"
       PlatformAssetType: 5
     }
     Folders {
+      VirtualFolderPath: "Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Blue Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Exit Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Red Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
       VirtualFolderPath: "Tresure Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Room Slots"
       PlatformAssetType: 5
     }
   }
