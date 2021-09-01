@@ -1,6 +1,6 @@
 Assets {
   Id: 13410066306967035517
-  Name: "Custom Energy Tube Glow"
+  Name: "Diamondillium"
   PlatformAssetType: 13
   SerializationVersion: 97
   CustomMaterialAsset {
@@ -8,11 +8,31 @@ Assets {
     ParameterOverrides {
       Overrides {
         Name: "glow intensity"
-        Float: 0
+        Float: 0.2
       }
       Overrides {
         Name: "roughness"
-        Float: 0.751962185
+        Float: 0
+      }
+      Overrides {
+        Name: " clear coat roughness"
+        Float: 0
+      }
+      Overrides {
+        Name: "specular rolloff"
+        Float: 1
+      }
+      Overrides {
+        Name: "metallic"
+        Float: 0.25
+      }
+      Overrides {
+        Name: "texture scale"
+        Float: 2
+      }
+      Overrides {
+        Name: "noise amount"
+        Float: 0.5
       }
     }
     Assets {

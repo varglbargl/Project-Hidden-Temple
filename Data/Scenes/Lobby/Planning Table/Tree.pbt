@@ -207,8 +207,8 @@ Objects {
   Name: "Kunai Blade"
   Transform {
     Location {
-      X: -673.892944
-      Y: -7.67321777
+      X: -725.078552
+      Y: -7.57531738
       Z: 143.505615
     }
     Rotation {
@@ -265,8 +265,8 @@ Objects {
   Name: "Kunai Handle"
   Transform {
     Location {
-      X: -673.326172
-      Y: -7.97412109
+      X: -724.51178
+      Y: -7.8762207
       Z: 142.619354
     }
     Rotation {

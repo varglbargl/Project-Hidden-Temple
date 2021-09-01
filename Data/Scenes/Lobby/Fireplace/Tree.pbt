@@ -55,7 +55,7 @@ Objects {
     Location {
       X: -524.758301
       Y: -139.269485
-      Z: 60.1230927
+      Z: 56.8239136
     }
     Rotation {
       Yaw: 23.9830608
@@ -63,7 +63,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.900000036
     }
   }
   ParentId: 16950628952946329793
@@ -103,14 +103,14 @@ Objects {
     Location {
       X: -436.602173
       Y: -258.231689
-      Z: 78.780983
+      Z: 75.4818039
     }
     Rotation {
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.900000036
     }
   }
   ParentId: 16950628952946329793
@@ -150,14 +150,14 @@ Objects {
     Location {
       X: -427.386719
       Y: 327.714386
-      Z: 78.2991791
+      Z: 75
     }
     Rotation {
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: 0.900000036
     }
   }
   ParentId: 16950628952946329793
@@ -1146,7 +1146,7 @@ Objects {
     Overrides {
       Name: "bp:Color"
       Color {
-        A: 1
+        A: 0.6
       }
     }
     Overrides {

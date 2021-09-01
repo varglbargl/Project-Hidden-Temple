@@ -1,7 +1,7 @@
-Name: "NewFolder_3"
-RootId: 17891758614556285576
+Name: "NewFolder_8"
+RootId: 9546481446748995737
 Objects {
-  Id: 13885342762461059741
+  Id: 2898600905958008284
   Name: "Point Light"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17891758614556285576
+  ParentId: 9546481446748995737
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -64,7 +64,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1382165766805354673
+  Id: 13794343278217816273
   Name: "Coral Table 01"
   Transform {
     Location {
@@ -83,7 +83,7 @@ Objects {
       Z: 1.77864838
     }
   }
-  ParentId: 17891758614556285576
+  ParentId: 9546481446748995737
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -128,7 +128,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8024922337414479537
+  Id: 3297404040394235546
   Name: "Teardrop - Truncated"
   Transform {
     Location {
@@ -142,7 +142,7 @@ Objects {
       Z: 0.805536568
     }
   }
-  ParentId: 17891758614556285576
+  ParentId: 9546481446748995737
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -195,7 +195,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17832903068408220330
+  Id: 218519610732371485
   Name: "Simple Swing Parent"
   Transform {
     Location {
@@ -209,7 +209,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17891758614556285576
+  ParentId: 9546481446748995737
   UnregisteredParameters {
     Overrides {
       Name: "cs:Wavelength"
@@ -249,7 +249,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11826219526257818615
+  Id: 11138777029489477100
   Name: "Dust Motes Volume VFX"
   Transform {
     Location {
@@ -263,7 +263,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17891758614556285576
+  ParentId: 9546481446748995737
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"

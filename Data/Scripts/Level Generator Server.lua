@@ -1,16 +1,17 @@
+local Utils = require(script:GetCustomProperty("Utils"))
+
 local SMALL_BLUE_ROOM_TABLE = require(script:GetCustomProperty("SmallBlueRoomTable"))
 local LARGE_BLUE_ROOM_TABLE = require(script:GetCustomProperty("LargeBlueRoomTable"))
 local RED_ROOM_TABLE = require(script:GetCustomProperty("RedRoomTable"))
 local TREASURE_ROOM_TABLE = require(script:GetCustomProperty("TreasureRoomTable"))
-local TREASURE_TABLE = require(script:GetCustomProperty("TreasureTable"))
+local EXIT_ROOM = script:GetCustomProperty("ExitRoom")
 
 local ROOM_SLOTS = script:GetCustomProperty("RoomSlots"):WaitForObject()
 
-local roomSlots = ROOM_SLOTS:GetChildren()
+local roomSlots = Utils.shuffleArray(ROOM_SLOTS:GetChildren())
 local spawnedRooms = {}
-
-local comboNumbers = {}
-local comboLength = 1
+local treasuresPlaced = 0
+local exitPlaced = false
 
 function placeTreasureRoom(spawedRoom)
   local exitLocation = spawedRoom:GetCustomProperty("ExitLocation"):WaitForObject()
@@ -18,16 +19,8 @@ function placeTreasureRoom(spawedRoom)
 
   local spawnedTreasureRoom = World.SpawnAsset(treasureRoomToSpawn, {position = exitLocation:GetWorldPosition(), rotation = exitLocation:GetWorldRotation()})
 
-  local treasureLocation = spawnedTreasureRoom:GetCustomProperty("TreasureLocation"):WaitForObject()
-  local treasureToSpawn = TREASURE_TABLE[math.random(1, #TREASURE_TABLE)]
-
-  World.SpawnAsset(treasureToSpawn, {position = treasureLocation:GetWorldPosition(), rotation = treasureLocation:GetWorldRotation()})
-
-  local comboNumber = math.random(1, 15)
-  local comboSymbol = spawnedTreasureRoom:GetCustomProperty("CombinationSymbol"):WaitForObject()
-
-  comboSymbol:SetSmartProperty("Shape Index", comboNumber)
-  table.insert(comboNumbers, comboNumber)
+  treasuresPlaced = treasuresPlaced + 1
+  spawnedTreasureRoom:SetNetworkedCustomProperty("SymbolIndex", treasuresPlaced)
 end
 
 for _, roomSlot in ipairs(roomSlots) do
@@ -38,7 +31,12 @@ for _, roomSlot in ipairs(roomSlots) do
   local roomToSpawn = nil
 
   if roomType == "Small" then
-    roomToSpawn = SMALL_BLUE_ROOM_TABLE[math.random(1, #SMALL_BLUE_ROOM_TABLE)]
+    if exitPlaced then
+      roomToSpawn = SMALL_BLUE_ROOM_TABLE[math.random(1, #SMALL_BLUE_ROOM_TABLE)]
+    else
+      roomToSpawn = EXIT_ROOM
+      exitPlaced = true
+    end
   elseif roomType == "Large" then
     roomToSpawn = LARGE_BLUE_ROOM_TABLE[math.random(1, #LARGE_BLUE_ROOM_TABLE)]
   elseif roomType == "Puzzle" then
@@ -54,4 +52,6 @@ for _, roomSlot in ipairs(roomSlots) do
   table.insert(spawnedRooms, spawedRoom)
 end
 
-comboLength = #comboNumbers - 1
+Task.Wait()
+
+Events.Broadcast("TreasuresPlaced", treasuresPlaced)
