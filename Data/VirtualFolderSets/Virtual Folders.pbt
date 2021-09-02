@@ -105,5 +105,17 @@ Assets {
       VirtualFolderPath: "Room Slots"
       PlatformAssetType: 5
     }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Blue Rooms"
+      VirtualFolderPath: "Small"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Blue Rooms"
+      VirtualFolderPath: "Large"
+      PlatformAssetType: 5
+    }
   }
 }

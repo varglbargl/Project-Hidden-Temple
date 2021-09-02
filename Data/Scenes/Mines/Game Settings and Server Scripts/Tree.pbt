@@ -1,13 +1,10 @@
-Name: "Lillie\'s Stuff"
-RootId: 14088453898570433299
+Name: "Game Settings and Server Scripts"
+RootId: 15657928006583751488
 Objects {
-  Id: 16504211465765874710
-  Name: "BackWall"
+  Id: 14637874771346567926
+  Name: "Player Respawn Server"
   Transform {
     Location {
-      X: 9800
-      Y: 34800
-      Z: 3600
     }
     Rotation {
     }
@@ -17,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14088453898570433299
+  ParentId: 15657928006583751488
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -30,14 +27,15 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "BackWall"
+  Script {
+    ScriptAsset {
+      Id: 7181877701682370511
+    }
   }
 }
 Objects {
-  Id: 9636750925623917644
-  Name: "Lillie.Layout.Mansion"
+  Id: 5498839803196773798
+  Name: "Level Generator Server"
   Transform {
     Location {
     }
@@ -49,7 +47,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14088453898570433299
+  ParentId: 15657928006583751488
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:RoomSlots"
+      ObjectReference {
+        SelfId: 4501385313492589914
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -62,19 +68,17 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_Layout_Mansion"
+  Script {
+    ScriptAsset {
+      Id: 16551761007791673641
+    }
   }
 }
 Objects {
-  Id: 7531899860391718795
-  Name: "Lillie.SmallBlue.Template"
+  Id: 4571964656491704554
+  Name: "Player Resource Server"
   Transform {
     Location {
-      X: -11400
-      Y: 19200
-      Z: -3600
     }
     Rotation {
     }
@@ -84,7 +88,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14088453898570433299
+  ParentId: 15657928006583751488
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -97,19 +101,17 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_SmallBlue_Template_1"
+  Script {
+    ScriptAsset {
+      Id: 5042235459458063914
+    }
   }
 }
 Objects {
-  Id: 9677158756514146055
-  Name: "Lillie.RedRoom.Lottery"
+  Id: 17772222753178606015
+  Name: "Player Lobby Server"
   Transform {
     Location {
-      X: -8600
-      Y: 6000
-      Z: -2400
     }
     Rotation {
     }
@@ -119,7 +121,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14088453898570433299
+  ParentId: 15657928006583751488
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -132,19 +134,17 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_RedRoom_Lottery"
+  Script {
+    ScriptAsset {
+      Id: 15703659448271571220
+    }
   }
 }
 Objects {
-  Id: 4978423548121878975
-  Name: "Lillie.SmallBlue.Mushroom"
+  Id: 640115717407461056
+  Name: "Game State Server"
   Transform {
     Location {
-      X: -700
-      Y: 19000
-      Z: -2800
     }
     Rotation {
     }
@@ -154,7 +154,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14088453898570433299
+  ParentId: 15657928006583751488
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -167,75 +167,62 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_SmallBlue_Mushroom"
+  Script {
+    ScriptAsset {
+      Id: 16593041586045354109
+    }
   }
 }
 Objects {
-  Id: 6009339088554921651
-  Name: "Lillie.RedRoom.MurderGyro"
+  Id: 17609721534767221955
+  Name: "Game Settings"
   Transform {
-    Location {
-    }
-    Rotation {
-    }
     Scale {
       X: 1
       Y: 1
       Z: 1
     }
   }
-  ParentId: 14088453898570433299
+  ParentId: 15657928006583751488
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_RedRoom_MurderGyro"
-  }
-}
-Objects {
-  Id: 5799300545646917146
-  Name: "LillieTestStuff"
-  Transform {
-    Location {
-      X: 2600
-      Y: 35400
-      Z: -200
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7587100937817391120
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Game Settings"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
     }
-    Rotation {
+    ParameterOverrideMap {
+      key: 9695014377043580025
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -50
+          }
+        }
+      }
     }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
+    TemplateAsset {
+      Id: 32906997604507638
     }
-  }
-  ParentId: 14088453898570433299
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "LillieTestStuff"
   }
 }

@@ -1,8 +1,8 @@
-Name: "Root"
-RootId: 4781671109827199097
+Name: "Vanessa"
+RootId: 13758126086328248239
 Objects {
-  Id: 4781671109827199097
-  Name: "Root"
+  Id: 2003899188385805036
+  Name: "Client Assets"
   Transform {
     Location {
     }
@@ -14,76 +14,10 @@ Objects {
       Z: 1
     }
   }
-  ChildIds: 14088453898570433299
-  ChildIds: 646684474469564253
-  ChildIds: 13748145341755746227
-  ChildIds: 15474652366928244300
-  ChildIds: 9501029242626707890
-  ChildIds: 16273416948258391970
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceon"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-  }
-}
-Objects {
-  Id: 16273416948258391970
-  Name: "Vanessa\'s Stuff"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Vanessa\'s Stuff"
-  }
-}
-Objects {
-  Id: 9501029242626707890
-  Name: "Client Scripts and UI"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 9557306696918808929
-  ChildIds: 6960790592879863064
-  ChildIds: 3704655373838670474
+  ParentId: 13758126086328248239
+  ChildIds: 14790114768035585812
+  ChildIds: 17300549020207117732
+  ChildIds: 910078011347519798
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -100,7 +34,157 @@ Objects {
   }
 }
 Objects {
-  Id: 3704655373838670474
+  Id: 910078011347519798
+  Name: "Start Menu Camera Container"
+  Transform {
+    Location {
+      Y: -2400
+      Z: -300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2003899188385805036
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Start Menu Camera Container"
+  }
+}
+Objects {
+  Id: 17300549020207117732
+  Name: "Skybox and Post Processing"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2003899188385805036
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Skybox and Post Processing"
+  }
+}
+Objects {
+  Id: 14790114768035585812
+  Name: "Third Person Camera"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2003899188385805036
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  Camera {
+    UseAsDefault: true
+    AttachToLocalPlayer: true
+    InitialDistance: 400
+    IsDistanceAdjustable: true
+    MinDistance: 100
+    MaxDistance: 1200
+    PositionOffset {
+      Y: 60
+    }
+    RotationOffset {
+    }
+    FieldOfView: 90
+    ViewWidth: 1200
+    RotationMode {
+      Value: "mc:erotationmode:lookangle"
+    }
+    MinPitch: -89
+    MaxPitch: 89
+    DoesPositionOffsetSpring: true
+  }
+}
+Objects {
+  Id: 10783643405244844489
+  Name: "Client Scripts and UI"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13758126086328248239
+  ChildIds: 10189072759790113296
+  ChildIds: 1113118909354608570
+  ChildIds: 5235820708795061066
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+}
+Objects {
+  Id: 5235820708795061066
   Name: "UI Container"
   Transform {
     Location {
@@ -113,9 +197,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9501029242626707890
-  ChildIds: 9001357765993844974
-  ChildIds: 9537111528111485354
+  ParentId: 10783643405244844489
+  ChildIds: 13491923056960944985
+  ChildIds: 552453920515417501
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -161,7 +245,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9537111528111485354
+  Id: 552453920515417501
   Name: "Start Button"
   Transform {
     Location {
@@ -174,8 +258,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3704655373838670474
-  ChildIds: 8088584412325681785
+  ParentId: 5235820708795061066
+  ChildIds: 11392490432386852288
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -264,7 +348,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8088584412325681785
+  Id: 11392490432386852288
   Name: "UI Text Box"
   Transform {
     Location {
@@ -277,7 +361,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9537111528111485354
+  ParentId: 552453920515417501
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -346,7 +430,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9001357765993844974
+  Id: 13491923056960944985
   Name: "UI Panel"
   Transform {
     Location {
@@ -359,8 +443,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3704655373838670474
-  ChildIds: 15056072904301085562
+  ParentId: 5235820708795061066
+  ChildIds: 16334527091493883678
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -401,7 +485,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15056072904301085562
+  Id: 16334527091493883678
   Name: "Money Amount"
   Transform {
     Location {
@@ -414,8 +498,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9001357765993844974
-  ChildIds: 15328261561888456224
+  ParentId: 13491923056960944985
+  ChildIds: 16257870775658726685
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -489,7 +573,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15328261561888456224
+  Id: 16257870775658726685
   Name: "Added Money"
   Transform {
     Location {
@@ -502,7 +586,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15056072904301085562
+  ParentId: 16334527091493883678
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -577,7 +661,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6960790592879863064
+  Id: 1113118909354608570
   Name: "Get Money SFX"
   Transform {
     Location {
@@ -590,7 +674,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9501029242626707890
+  ParentId: 10783643405244844489
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -615,7 +699,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9557306696918808929
+  Id: 10189072759790113296
   Name: "UI Client"
   Transform {
     Location {
@@ -628,36 +712,36 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9501029242626707890
+  ParentId: 10783643405244844489
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoneyAmount"
       ObjectReference {
-        SelfId: 15056072904301085562
+        SelfId: 16334527091493883678
       }
     }
     Overrides {
       Name: "cs:AddedMoney"
       ObjectReference {
-        SelfId: 15328261561888456224
+        SelfId: 16257870775658726685
       }
     }
     Overrides {
       Name: "cs:MoneySFX"
       ObjectReference {
-        SelfId: 6960790592879863064
+        SelfId: 1113118909354608570
       }
     }
     Overrides {
       Name: "cs:StartButton"
       ObjectReference {
-        SelfId: 9537111528111485354
+        SelfId: 552453920515417501
       }
     }
     Overrides {
       Name: "cs:StartMenuCamera"
       ObjectReference {
-        SelfId: 12727995402574190219
+        SelfId: 10295802948167798987
       }
     }
   }
@@ -680,8 +764,8 @@ Objects {
   }
 }
 Objects {
-  Id: 15474652366928244300
-  Name: "Client Assets"
+  Id: 15657928006583751488
+  Name: "Game Settings and Server Scripts"
   Transform {
     Location {
     }
@@ -693,43 +777,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
-  ChildIds: 3567959178173361743
-  ChildIds: 2398503651436977104
-  ChildIds: 13473270990518643644
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  NetworkContext {
-  }
-}
-Objects {
-  Id: 13473270990518643644
-  Name: "Start Menu Camera Container"
-  Transform {
-    Location {
-      X: -1540
-      Y: 30
-      Z: -570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15474652366928244300
+  ParentId: 13758126086328248239
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -744,186 +792,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Start Menu Camera Container"
-  }
-}
-Objects {
-  Id: 2398503651436977104
-  Name: "Skybox and Post Processing"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15474652366928244300
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Skybox and Post Processing"
-  }
-}
-Objects {
-  Id: 3567959178173361743
-  Name: "Third Person Camera"
-  Transform {
-    Location {
-      Z: 500
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15474652366928244300
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:alwaysvisible"
-  }
-  Camera {
-    UseAsDefault: true
-    AttachToLocalPlayer: true
-    InitialDistance: 400
-    IsDistanceAdjustable: true
-    MinDistance: 100
-    MaxDistance: 1200
-    PositionOffset {
-      Y: 60
-    }
-    RotationOffset {
-    }
-    FieldOfView: 90
-    ViewWidth: 1200
-    RotationMode {
-      Value: "mc:erotationmode:lookangle"
-    }
-    MinPitch: -89
-    MaxPitch: 89
-    DoesPositionOffsetSpring: true
-  }
-}
-Objects {
-  Id: 13748145341755746227
-  Name: "Damian\'s Stuff"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Damian\'s Stuff"
-  }
-}
-Objects {
-  Id: 646684474469564253
-  Name: "Thor\'s Stuff"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Thor\'s Stuff"
-  }
-}
-Objects {
-  Id: 14088453898570433299
-  Name: "Lillie\'s Stuff"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie\'s Stuff"
+    FilePartitionName: "Game Settings and Server Scripts"
   }
 }
