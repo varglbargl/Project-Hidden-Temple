@@ -1,66 +1,6 @@
 Name: "WallsAndDoors_1"
 RootId: 3094931438464259193
 Objects {
-  Id: 2175979987549045292
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: -12600
-      Y: 18000
-      Z: -3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3
-      Y: -3
-      Z: 1
-    }
-  }
-  ParentId: 3094931438464259193
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4400
-            Y: 1800
-            Z: 2400
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 3
-            Y: -3
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
   Id: 4311866356231524898
   Name: "Cobblestone Floor - Basic"
   Transform {

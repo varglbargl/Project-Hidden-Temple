@@ -1,8 +1,8 @@
-Name: "Vanessa\'s Stuff"
-RootId: 16273416948258391970
+Name: "Root"
+RootId: 4781671109827199097
 Objects {
-  Id: 10736749405717629058
-  Name: "Lillie.Complete"
+  Id: 4781671109827199097
+  Name: "Root"
   Transform {
     Location {
     }
@@ -14,27 +14,25 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16273416948258391970
+  ChildIds: 13498694445498033297
+  ChildIds: 13758126086328248239
+  UnregisteredParameters {
+  }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceon"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceon"
   }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
   Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_Complete"
   }
 }
 Objects {
-  Id: 5376929470292970714
-  Name: "World Geo"
+  Id: 13758126086328248239
+  Name: "Vanessa"
   Transform {
     Location {
     }
@@ -46,7 +44,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16273416948258391970
+  ParentId: 4781671109827199097
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -61,12 +59,12 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "World Geo"
+    FilePartitionName: "Vanessa"
   }
 }
 Objects {
-  Id: 2460791136951327307
-  Name: "Game Settings and Server Scripts"
+  Id: 13498694445498033297
+  Name: "Lillie"
   Transform {
     Location {
     }
@@ -78,7 +76,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16273416948258391970
+  ParentId: 4781671109827199097
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -93,6 +91,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Game Settings and Server Scripts"
+    FilePartitionName: "Lillie"
   }
 }
