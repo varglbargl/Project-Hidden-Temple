@@ -247,6 +247,14 @@ Objects {
     }
   }
   ParentId: 4616486078644751084
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Treasures"
+      ObjectReference {
+        SelfId: 13188470692436809950
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

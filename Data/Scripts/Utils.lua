@@ -72,6 +72,7 @@ end
 
 function Utils.formatInt(amount)
   local formatted = math.floor(amount)
+
   while true do
     formatted, k = string.gsub(formatted, "^(-?%d+)(%d%d%d)", '%1,%2')
     if (k==0) then

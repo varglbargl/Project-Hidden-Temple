@@ -64,11 +64,6 @@ Assets {
       PlatformAssetType: 3
     }
     Folders {
-      VirtualFolderPath: "Props"
-      VirtualFolderPath: "Treasure"
-      PlatformAssetType: 5
-    }
-    Folders {
       VirtualFolderPath: "Game Components"
       PlatformAssetType: 5
     }
@@ -115,6 +110,10 @@ Assets {
       VirtualFolderPath: "Rooms"
       VirtualFolderPath: "Blue Rooms"
       VirtualFolderPath: "Large"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Treasure"
       PlatformAssetType: 5
     }
   }

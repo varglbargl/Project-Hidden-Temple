@@ -60,24 +60,25 @@ Assets {
       Overrides {
         Name: "color_accent"
         Color {
-          G: 0.0743999779
-          B: 0.186
+          R: 0.113000005
+          G: 0.0621500053
           A: 1
         }
       }
       Overrides {
         Name: "color_secondary"
         Color {
-          G: 0.0743999779
-          B: 0.186
+          R: 0.113000005
+          G: 0.0621500053
           A: 1
         }
       }
       Overrides {
         Name: "color"
         Color {
-          R: 0.0821666643
-          G: 0.145000011
+          R: 0.258000016
+          G: 0.195736
+          B: 0.0712079927
           A: 1
         }
       }

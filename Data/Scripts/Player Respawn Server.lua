@@ -18,4 +18,10 @@ function onPlayerJoined(player)
   player.diedEvent:Connect(onPlayerDied)
 end
 
+function onPlayerStart(player)
+  player:Spawn({spawnKey = "Start"})
+end
+
 Game.playerJoinedEvent:Connect(onPlayerJoined)
+
+Events.ConnectForPlayer("PlayerStart", onPlayerStart)

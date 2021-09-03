@@ -23,13 +23,7 @@ UI.SetCanCursorInteractWithUI(true)
 UI.SetCursorVisible(true)
 
 function initGameUI()
-  START_BUTTON.visibility = Visibility.FORCE_OFF
-
-  Utils.throttleToServer("PlayerStart")
-end
-
-function onPlayerSpawned()
-  clientPlayer:ClearOverrideCamera()
+  clientPlayer:ClearOverrideCamera(0.25)
 
   START_BUTTON.visibility = Visibility.FORCE_OFF
   myMoney = clientPlayer:GetResource("Money")
@@ -40,6 +34,8 @@ function onPlayerSpawned()
 
   -- handler params: Player_player, string_resourceName, integer_newAmount
   clientPlayer.resourceChangedEvent:Connect(onResourceChanged)
+
+  Utils.throttleToServer("PlayerStart")
 end
 
 function addMoney(amount)
@@ -77,8 +73,20 @@ function onResourceChanged(player, resourceName, newAmount)
 end
 
 START_BUTTON.clickedEvent:Connect(initGameUI)
-clientPlayer.spawnedEvent:Connect(onPlayerSpawned)
 
 if Environment.IsPreview() and clientPlayer.isSpawned then
-  onPlayerSpawned()
+  clientPlayer:ClearOverrideCamera()
+
+  START_BUTTON.visibility = Visibility.FORCE_OFF
+
+  UI.SetCanCursorInteractWithUI(false)
+  UI.SetCursorVisible(false)
+
+  Task.Wait()
+
+  myMoney = clientPlayer:GetResource("Money")
+  addMoney(myMoney)
+
+  -- handler params: Player_player, string_resourceName, integer_newAmount
+  clientPlayer.resourceChangedEvent:Connect(onResourceChanged)
 end

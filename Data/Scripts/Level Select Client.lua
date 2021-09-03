@@ -6,6 +6,7 @@ local SINGLE_PLAYER_TRIGGER = script:GetCustomProperty("SinglePlayerTrigger"):Wa
 local MULTIPLAYER_TRIGGER = script:GetCustomProperty("MultiplayerTrigger"):WaitForObject()
 
 local MAP_NAME = script:GetCustomProperty("MapName"):WaitForObject()
+local MAP_DESCRIPTION = script:GetCustomProperty("MapDescription"):WaitForObject()
 
 local CLOSE_BUTTON = script:GetCustomProperty("CloseButton"):WaitForObject()
 local PREVIOUS_BUTTON = script:GetCustomProperty("PreviousButton"):WaitForObject()
@@ -26,14 +27,27 @@ local embarkEvent = nil
 local isMenuOpen = false
 local playersReady = 0
 local clientPlayerReady = false
+local selectedLevel = 1
 
 local levels = {
-  "Example Level"
+  {
+    scene = "Castle",
+    name = "Vanessa's Castle",
+    description = "A castle themed map made by Vanessa with a description that will be replaced later.",
+    -- suggestedPlayers = "1-2",
+    -- screenshotIndex = todo
+  },
+  {
+    scene = "Mines",
+    name = "Lillie's Mines",
+    description = "A gold mine themed map made by Lillie with a description that will be replaced later.",
+    -- suggestedPlayers = "1-4",
+    -- screenshotIndex = todo
+  }
 }
 
-local selectedLevel = levels[1]
-MAP_NAME.text = selectedLevel
-
+MAP_NAME.text = levels[selectedLevel].name
+MAP_DESCRIPTION.text = levels[selectedLevel].description
 LEVEL_SELECT_PANEL.visibility = Visibility.FORCE_OFF
 readyCheckMark.visibility = Visibility.FORCE_OFF
 
@@ -85,11 +99,11 @@ function showMultiplayerPanel()
 end
 
 function multiplayerEmbark()
-  Utils.throttleToServer("MultiplayerEmbark", selectedLevel)
+  Utils.throttleToServer("MultiplayerEmbark", levels[selectedLevel].scene)
 end
 
 function singlePlayerEmbark()
-  Utils.throttleToServer("SinglePlayerEmbark", selectedLevel)
+  Utils.throttleToServer("SinglePlayerEmbark", levels[selectedLevel].scene)
 end
 
 function hidePanel()
@@ -104,6 +118,24 @@ function hidePanel()
 
   embarkEvent:Disconnect()
   embarkEvent = nil
+end
+
+function prevMap()
+  selectedLevel = selectedLevel - 1
+
+  if selectedLevel == 0 then
+    selectedLevel = #levels
+  end
+
+  MAP_NAME.text = levels[selectedLevel].name
+  MAP_DESCRIPTION.text = levels[selectedLevel].description
+end
+
+function nextMap()
+  selectedLevel = selectedLevel % #levels + 1
+
+  MAP_NAME.text = levels[selectedLevel].name
+  MAP_DESCRIPTION.text = levels[selectedLevel].description
 end
 
 function escapeHandler(thisPlayer, params)
@@ -141,6 +173,9 @@ end
 
 SINGLE_PLAYER_TRIGGER.interactedEvent:Connect(showSinglePlayerPanel)
 MULTIPLAYER_TRIGGER.interactedEvent:Connect(showMultiplayerPanel)
+
+PREVIOUS_BUTTON.clickedEvent:Connect(prevMap)
+NEXT_BUTTON.clickedEvent:Connect(nextMap)
 
 CLOSE_BUTTON.clickedEvent:Connect(hidePanel)
 readyCheckButton.clickedEvent:Connect(setPlayerReady)
