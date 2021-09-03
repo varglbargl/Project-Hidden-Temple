@@ -23,7 +23,9 @@ function onPlayerJoined(player)
   end
 
   if savedPlayerData.recentTreasure then
-    Events.Broadcast("InitTreasures", player, player.serverUserData["RecentTreasure"])
+    player.serverUserData["RecentTreasure"] = savedPlayerData.recentTreasure
+    Task.Wait()
+    Events.Broadcast("ShowTreasure", player, player.serverUserData["RecentTreasure"])
   else
     player.serverUserData["RecentTreasure"] = {}
   end
@@ -40,7 +42,7 @@ function onPlayerGotTreasure(player, treasureName)
     if ownedTreasure == treasureName then return end
   end
 
-  if #player.serverUserData["RecentTreasure"] > 2 then
+  if #player.serverUserData["RecentTreasure"] >= 5 then
     table.remove(player.serverUserData["RecentTreasure"], 1)
   end
 
@@ -50,3 +52,5 @@ end
 -- on player joined/left functions need to be defined before calling event:Connect()
 Game.playerJoinedEvent:Connect(onPlayerJoined)
 Game.playerLeftEvent:Connect(onPlayerLeft)
+
+Events.Connect("AddRecentTreasure", onPlayerGotTreasure)

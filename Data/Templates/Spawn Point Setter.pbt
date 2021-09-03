@@ -4,51 +4,18 @@ Assets {
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 3017003455874663382
-      Objects {
-        Id: 3017003455874663382
-        Name: "Spawn Point Setter"
-        Transform {
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4781671109827199097
-        ChildIds: 952427535680432759
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
+      RootId: 952427535680432759
       Objects {
         Id: 952427535680432759
-        Name: "Trigger"
+        Name: "Spawn Point Setter"
         Transform {
-          Location {
-            Z: 150
-          }
-          Rotation {
-          }
           Scale {
             X: 2
             Y: 3
             Z: 3
           }
         }
-        ParentId: 3017003455874663382
+        ParentId: 4781671109827199097
         ChildIds: 13693509477830066076
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

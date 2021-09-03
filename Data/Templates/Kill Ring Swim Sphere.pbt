@@ -1242,4 +1242,5 @@ Assets {
     }
   }
   SerializationVersion: 97
+  VirtualFolderPath: "Game Components"
 }
