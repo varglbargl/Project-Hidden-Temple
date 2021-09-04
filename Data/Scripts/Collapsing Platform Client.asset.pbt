@@ -26,6 +26,12 @@ Assets {
           Id: 1150507085165330217
         }
       }
+      Overrides {
+        Name: "cs:ReassembleVFX"
+        AssetReference {
+          Id: 4048767687044730201
+        }
+      }
     }
   }
   SerializationVersion: 97

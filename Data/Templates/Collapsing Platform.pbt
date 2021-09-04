@@ -7,7 +7,7 @@ Assets {
       RootId: 10417107432456251555
       Objects {
         Id: 10417107432456251555
-        Name: "Group"
+        Name: "Collapsing Platform"
         Transform {
           Scale {
             X: 1
@@ -186,6 +186,12 @@ Assets {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:ReassembleVFX"
+            AssetReference {
+              Id: 15554380137645418361
             }
           }
         }

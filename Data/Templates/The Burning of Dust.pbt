@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 3481537406902442803
         ChildIds: 14422029589562979080
         ChildIds: 11497497978847806182
         WantsNetworking: true
@@ -40,13 +40,12 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -1.52587891e-05
-            Y: 10.7949219
-            Z: 2.38418579e-06
+            Y: 1.90734863e-05
+            Z: 11.7949219
           }
           Rotation {
-            Pitch: 1.36603776e-05
-            Roll: -3.05175781e-05
+            Yaw: -90
+            Roll: -90
           }
           Scale {
             X: 1
@@ -124,9 +123,6 @@ Assets {
         Name: "ClientContext"
         Transform {
           Location {
-            X: -0.705382347
-            Y: 11.6790199
-            Z: 4.05311584e-05
           }
           Rotation {
           }
@@ -160,14 +156,10 @@ Assets {
         Name: "Signal Flare"
         Transform {
           Location {
-            X: 0.705368042
-            Y: -0.884098649
-            Z: -3.79383564e-05
+            Y: 1.71661377e-05
+            Z: 11.7949219
           }
           Rotation {
-            Pitch: 6.83018879e-06
-            Yaw: -5.03468023e-08
-            Roll: -91.1945877
           }
           Scale {
             X: 1.59996164
@@ -253,14 +245,11 @@ Assets {
         Name: "Signal Flare"
         Transform {
           Location {
-            X: -0.705371857
-            Y: 0.88413167
-            Z: 0.0368461609
+            X: -0.0368652344
+            Y: 1.41075706
+            Z: 13.5631409
           }
           Rotation {
-            Pitch: -6.83018879e-06
-            Yaw: 1.21490466e-05
-            Roll: -91.1945724
           }
           Scale {
             X: 1.59996164
