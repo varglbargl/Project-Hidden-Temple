@@ -1,13 +1,13 @@
 Assets {
   Id: 11717550407512997447
-  Name: "Lillie.SmallBlue.Mushroom.Complete"
+  Name: "Lillie\'s Poison Mushroom Pit"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 8865138067505395975
+      RootId: 8281616850372229012
       Objects {
-        Id: 8865138067505395975
-        Name: "Lillie.SmallBlue.Mushroom.Complete"
+        Id: 8281616850372229012
+        Name: "Lillie\'s Poison Mushroom Pit"
         Transform {
           Scale {
             X: 1
@@ -49,8 +49,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Lillie_SmallBlue_Mushroom_Complete"
+          IsGroup: true
         }
       }
       Objects {
@@ -70,7 +69,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 10286948765479497967
         ChildIds: 15510178017812287363
         ChildIds: 5087348999836560733
@@ -872,7 +871,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 6340136970280843210
         ChildIds: 9374176753825089321
         ChildIds: 12208685526596119341
@@ -4643,7 +4642,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 17436815044005763625
         WantsNetworking: true
         Collidable_v2 {
@@ -4720,7 +4719,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 11670597772213237695
         WantsNetworking: true
         Collidable_v2 {
@@ -4797,7 +4796,7 @@ Assets {
             Z: 5
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 13135948894888272425
         WantsNetworking: true
         Collidable_v2 {
@@ -4866,9 +4865,9 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: -35
-            Roll: 1.0712936e-07
+            Pitch: -4.99999857
+            Yaw: -35.0000076
+            Roll: 2.14258719e-07
           }
           Scale {
             X: 1.30000007
@@ -4876,7 +4875,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 15896987675278794185
         ChildIds: 440672528215141814
         WantsNetworking: true
@@ -4911,7 +4910,7 @@ Assets {
           }
         }
         ParentId: 5527010000523588185
-        ChildIds: 13626821467868432318
+        ChildIds: 1418530827941578139
         ChildIds: 17727564506137424600
         WantsNetworking: true
         Collidable_v2 {
@@ -4930,8 +4929,8 @@ Assets {
         }
       }
       Objects {
-        Id: 13626821467868432318
-        Name: "NewFolder"
+        Id: 1418530827941578139
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -4963,7 +4962,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -4971,17 +4970,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 5.75872473e-05
+            Y: 0.000241169531
+            Z: 75.5660553
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 13626821467868432318
+        ParentId: 1418530827941578139
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -5065,17 +5066,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107723921
+            Y: -0.000113844857
+            Z: -14.4339714
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 13626821467868432318
+        ParentId: 1418530827941578139
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -5113,17 +5116,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107723921
+            Y: -0.000113844857
+            Z: -14.4339714
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 13626821467868432318
+        ParentId: 1418530827941578139
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5174,22 +5179,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.628027618
+            Y: -0.258672476
+            Z: 91.9591
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758171
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 13626821467868432318
+        ParentId: 1418530827941578139
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5232,19 +5237,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610292733
+            Y: -5.02576637
+            Z: 59.9999924
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 13626821467868432318
+        ParentId: 1418530827941578139
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -5426,8 +5431,8 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: 35.0000114
+            Pitch: -4.99999857
+            Yaw: 35.0000191
           }
           Scale {
             X: 1.30000007
@@ -5435,7 +5440,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 15689789481848377969
         ChildIds: 3991858130848431086
         WantsNetworking: true
@@ -5470,7 +5475,7 @@ Assets {
           }
         }
         ParentId: 9437184154336222522
-        ChildIds: 17357668968877696514
+        ChildIds: 6078621716402215635
         ChildIds: 15907107915177048708
         WantsNetworking: true
         Collidable_v2 {
@@ -5489,8 +5494,8 @@ Assets {
         }
       }
       Objects {
-        Id: 17357668968877696514
-        Name: "NewFolder"
+        Id: 6078621716402215635
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -5522,7 +5527,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -5530,17 +5535,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 5.79540465e-05
+            Y: -0.000242545022
+            Z: 75.5660553
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 17357668968877696514
+        ParentId: 6078621716402215635
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -5624,17 +5631,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107792694
+            Y: 0.000114211653
+            Z: -14.4339714
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 17357668968877696514
+        ParentId: 6078621716402215635
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -5672,17 +5681,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107792694
+            Y: 0.000114211653
+            Z: -14.4339714
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 17357668968877696514
+        ParentId: 6078621716402215635
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5733,22 +5744,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
+            X: -0.627976656
+            Y: -0.258580506
             Z: 91.9591064
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758095
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 17357668968877696514
+        ParentId: 6078621716402215635
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5791,19 +5802,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610279381
+            Y: -5.02601
+            Z: 59.9999962
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 17357668968877696514
+        ParentId: 6078621716402215635
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -5985,9 +5996,9 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: -55
-            Roll: 2.14258719e-07
+            Pitch: -4.99999857
+            Yaw: -54.9999886
+            Roll: 4.28517438e-07
           }
           Scale {
             X: 1.30000007
@@ -5995,7 +6006,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 5102736365373207205
         ChildIds: 15880521115494240840
         WantsNetworking: true
@@ -6030,7 +6041,7 @@ Assets {
           }
         }
         ParentId: 3815413914060036258
-        ChildIds: 10824791913000478771
+        ChildIds: 7680433354430887552
         ChildIds: 9853564839305741033
         WantsNetworking: true
         Collidable_v2 {
@@ -6049,8 +6060,8 @@ Assets {
         }
       }
       Objects {
-        Id: 10824791913000478771
-        Name: "NewFolder"
+        Id: 7680433354430887552
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -6082,7 +6093,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -6090,17 +6101,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 0.000118842472
+            Y: 0.000173541193
+            Z: 75.5660629
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 10824791913000478771
+        ParentId: 7680433354430887552
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -6184,17 +6197,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000169047926
+            Y: -0.0003014619
+            Z: -14.4339762
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 10824791913000478771
+        ParentId: 7680433354430887552
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -6232,17 +6247,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000169047926
+            Y: -0.0003014619
+            Z: -14.4339762
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 10824791913000478771
+        ParentId: 7680433354430887552
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6293,22 +6310,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627823532
+            Y: -0.258686781
+            Z: 91.9591141
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758095
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 10824791913000478771
+        ParentId: 7680433354430887552
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6351,19 +6368,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610584855
+            Y: -5.02579403
+            Z: 59.9999695
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 10824791913000478771
+        ParentId: 7680433354430887552
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -6545,8 +6562,8 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: -100
+            Pitch: -4.99999857
+            Yaw: -100.000015
           }
           Scale {
             X: 1.30000007
@@ -6554,7 +6571,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 16581037170993052540
         ChildIds: 16542334782293162730
         WantsNetworking: true
@@ -6589,7 +6606,7 @@ Assets {
           }
         }
         ParentId: 16014531289437055675
-        ChildIds: 16335553140445521647
+        ChildIds: 7823144640197462399
         ChildIds: 18392283414828434002
         WantsNetworking: true
         Collidable_v2 {
@@ -6608,8 +6625,8 @@ Assets {
         }
       }
       Objects {
-        Id: 16335553140445521647
-        Name: "NewFolder"
+        Id: 7823144640197462399
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -6641,7 +6658,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -6649,17 +6666,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 0.000125811639
+            Y: -0.00117705401
+            Z: 75.5660629
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 16335553140445521647
+        ParentId: 7823144640197462399
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -6743,17 +6762,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.0002052692
+            Y: -0.00133725291
+            Z: -14.4339428
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 16335553140445521647
+        ParentId: 7823144640197462399
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -6791,17 +6812,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.0002052692
+            Y: -0.00133725291
+            Z: -14.4339428
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 16335553140445521647
+        ParentId: 7823144640197462399
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6852,22 +6875,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627364278
+            Y: -0.259936363
+            Z: 91.9591599
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758133
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 16335553140445521647
+        ParentId: 7823144640197462399
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6910,19 +6933,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610392928
+            Y: -5.02735567
+            Z: 59.9999847
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 16335553140445521647
+        ParentId: 7823144640197462399
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7104,8 +7127,9 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: -40
+            Pitch: -4.99999857
+            Yaw: -39.9999847
+            Roll: -1.0712936e-07
           }
           Scale {
             X: 1.30000007
@@ -7113,7 +7137,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 7054848133363858740
         ChildIds: 10890343334253752848
         WantsNetworking: true
@@ -7148,7 +7172,7 @@ Assets {
           }
         }
         ParentId: 5981855859352820736
-        ChildIds: 10036513854668386148
+        ChildIds: 14982592274834659155
         ChildIds: 6115776249924068120
         WantsNetworking: true
         Collidable_v2 {
@@ -7167,8 +7191,8 @@ Assets {
         }
       }
       Objects {
-        Id: 10036513854668386148
-        Name: "NewFolder"
+        Id: 14982592274834659155
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -7200,7 +7224,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -7208,17 +7232,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
+            X: -8.85816626e-05
+            Y: -6.3364314e-05
             Z: 75.56604
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 10036513854668386148
+        ParentId: 14982592274834659155
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -7302,17 +7328,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107059095
+            Y: -3.69778e-05
+            Z: -14.4339705
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 10036513854668386148
+        ParentId: 14982592274834659155
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -7350,17 +7378,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107059095
+            Y: -3.69778e-05
+            Z: -14.4339705
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 10036513854668386148
+        ParentId: 14982592274834659155
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7411,22 +7441,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627782285
+            Y: -0.258711547
+            Z: 91.9591141
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758247
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 10036513854668386148
+        ParentId: 14982592274834659155
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7469,19 +7499,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610542655
+            Y: -5.02575159
+            Z: 59.9999733
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 10036513854668386148
+        ParentId: 14982592274834659155
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7663,8 +7693,8 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: 35.0000114
+            Pitch: -4.99999857
+            Yaw: 35.0000191
           }
           Scale {
             X: 1.30000007
@@ -7672,7 +7702,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 14812364614576979387
         ChildIds: 6802536455481985145
         WantsNetworking: true
@@ -7707,7 +7737,7 @@ Assets {
           }
         }
         ParentId: 3706412278634354062
-        ChildIds: 2564724629109057791
+        ChildIds: 13343554143259088770
         ChildIds: 6044958449551087932
         WantsNetworking: true
         Collidable_v2 {
@@ -7726,8 +7756,8 @@ Assets {
         }
       }
       Objects {
-        Id: 2564724629109057791
-        Name: "NewFolder"
+        Id: 13343554143259088770
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -7759,7 +7789,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -7767,17 +7797,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 5.79540465e-05
+            Y: -0.000242545022
+            Z: 75.5660553
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 2564724629109057791
+        ParentId: 13343554143259088770
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -7861,17 +7893,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107792694
+            Y: 0.000114211653
+            Z: -14.4339714
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 2564724629109057791
+        ParentId: 13343554143259088770
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -7909,17 +7943,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000107792694
+            Y: 0.000114211653
+            Z: -14.4339714
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 2564724629109057791
+        ParentId: 13343554143259088770
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7970,22 +8006,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
+            X: -0.627976656
+            Y: -0.258580506
             Z: 91.9591064
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758095
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 2564724629109057791
+        ParentId: 13343554143259088770
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8028,19 +8064,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610279381
+            Y: -5.02601
+            Z: 59.9999962
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 2564724629109057791
+        ParentId: 13343554143259088770
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8217,14 +8253,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 1719.46631
+            X: 1719.46582
             Y: -256.394531
             Z: -725
           }
           Rotation {
-            Pitch: -5
+            Pitch: -4.99999857
             Yaw: 70
-            Roll: 4.28517438e-07
+            Roll: 8.57034877e-07
           }
           Scale {
             X: 1.30000007
@@ -8232,7 +8268,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 3886698370854815974
         ChildIds: 7878518038851890957
         WantsNetworking: true
@@ -8267,7 +8303,7 @@ Assets {
           }
         }
         ParentId: 649209600963941455
-        ChildIds: 16582302419036100577
+        ChildIds: 4404095450643326034
         ChildIds: 13573211511701130643
         WantsNetworking: true
         Collidable_v2 {
@@ -8286,8 +8322,8 @@ Assets {
         }
       }
       Objects {
-        Id: 16582302419036100577
-        Name: "NewFolder"
+        Id: 4404095450643326034
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -8319,7 +8355,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -8327,17 +8363,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 5.57532585e-05
+            Y: -0.000305542548
+            Z: 75.5660477
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 16582302419036100577
+        ParentId: 4404095450643326034
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -8421,17 +8459,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: 5.17184853e-05
+            Y: 0.000206931247
+            Z: -14.4339571
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 16582302419036100577
+        ParentId: 4404095450643326034
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -8469,17 +8509,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: 5.17184853e-05
+            Y: 0.000206931247
+            Z: -14.4339571
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 16582302419036100577
+        ParentId: 4404095450643326034
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8530,22 +8572,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627576292
+            Y: -0.258648187
+            Z: 91.959137
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758171
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 16582302419036100577
+        ParentId: 4404095450643326034
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8588,19 +8630,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610446453
+            Y: -5.02588367
+            Z: 59.9999809
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 16582302419036100577
+        ParentId: 4404095450643326034
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8777,13 +8819,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 522.231934
+            X: 522.231445
             Y: 451.291016
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: -50.0000305
+            Pitch: -4.99999857
+            Yaw: -50.0000381
           }
           Scale {
             X: 1.30000007
@@ -8791,7 +8833,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 1246154127927153615
         ChildIds: 8233404948144232352
         WantsNetworking: true
@@ -8826,7 +8868,7 @@ Assets {
           }
         }
         ParentId: 4757201830155936036
-        ChildIds: 7906569558730764256
+        ChildIds: 15441152718985719449
         ChildIds: 16706712541079580121
         WantsNetworking: true
         Collidable_v2 {
@@ -8845,8 +8887,8 @@ Assets {
         }
       }
       Objects {
-        Id: 7906569558730764256
-        Name: "NewFolder"
+        Id: 15441152718985719449
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -8878,7 +8920,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -8886,17 +8928,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 0.000295822392
+            Y: 0.000232549777
+            Z: 75.5660706
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 7906569558730764256
+        ParentId: 15441152718985719449
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -8980,17 +9024,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.000276703067
+            Y: 0.000203515447
+            Z: -14.4339361
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 7906569558730764256
+        ParentId: 15441152718985719449
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -9028,17 +9074,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.000276703067
+            Y: 0.000203515447
+            Z: -14.4339361
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 7906569558730764256
+        ParentId: 15441152718985719449
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9089,22 +9137,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627829731
+            Y: -0.258768588
+            Z: 91.9591141
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758133
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 7906569558730764256
+        ParentId: 15441152718985719449
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9147,19 +9195,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610527
+            Y: -5.02589941
+            Z: 59.9999733
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 7906569558730764256
+        ParentId: 15441152718985719449
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9336,13 +9384,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 405.79834
+            X: 405.797852
             Y: -703.345703
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: -120
+            Pitch: -4.99999857
+            Yaw: -120.000008
           }
           Scale {
             X: 1.30000007
@@ -9350,7 +9398,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 17450806040124348393
         ChildIds: 11343260699525642963
         WantsNetworking: true
@@ -9385,7 +9433,7 @@ Assets {
           }
         }
         ParentId: 15020773050397802315
-        ChildIds: 962920358529542543
+        ChildIds: 12713106524741168469
         ChildIds: 18060420319596522422
         WantsNetworking: true
         Collidable_v2 {
@@ -9404,8 +9452,8 @@ Assets {
         }
       }
       Objects {
-        Id: 962920358529542543
-        Name: "NewFolder"
+        Id: 12713106524741168469
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -9437,7 +9485,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -9445,17 +9493,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: -3.16291425e-06
+            Y: -0.00030297495
+            Z: 75.5660477
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 962920358529542543
+        ParentId: 12713106524741168469
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -9539,17 +9589,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -1.26917757e-05
+            Y: -0.000290687225
+            Z: -14.4339628
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 962920358529542543
+        ParentId: 12713106524741168469
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -9587,17 +9639,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -1.26917757e-05
+            Y: -0.000290687225
+            Z: -14.4339628
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 962920358529542543
+        ParentId: 12713106524741168469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9648,22 +9702,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627420604
+            Y: -0.258829
+            Z: 91.9591446
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758209
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 962920358529542543
+        ParentId: 12713106524741168469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9706,19 +9760,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610673189
+            Y: -5.02602434
+            Z: 59.9999619
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 962920358529542543
+        ParentId: 12713106524741168469
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9895,12 +9949,12 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 1949.99854
+            X: 1949.99902
             Y: -774.998047
             Z: -725
           }
           Rotation {
-            Pitch: -5
+            Pitch: -4.99999857
             Yaw: -90
             Roll: 2.14258719e-07
           }
@@ -9910,7 +9964,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 8385231683045965927
         ChildIds: 3785784876457748149
         WantsNetworking: true
@@ -9945,7 +9999,7 @@ Assets {
           }
         }
         ParentId: 14053287195831755351
-        ChildIds: 11168076082764834862
+        ChildIds: 5272855478497985023
         ChildIds: 11607712856894640748
         WantsNetworking: true
         Collidable_v2 {
@@ -9964,8 +10018,8 @@ Assets {
         }
       }
       Objects {
-        Id: 11168076082764834862
-        Name: "NewFolder"
+        Id: 5272855478497985023
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -9997,7 +10051,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -10005,17 +10059,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 0.000147819504
+            Y: -3.66797764e-07
+            Z: 75.5660629
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 11168076082764834862
+        ParentId: 5272855478497985023
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -10099,17 +10155,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.000114440903
+            Y: 4.58497205e-08
+            Z: -14.4339514
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 11168076082764834862
+        ParentId: 5272855478497985023
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -10147,17 +10205,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.000114440903
+            Y: 4.58497205e-08
+            Z: -14.4339514
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 11168076082764834862
+        ParentId: 5272855478497985023
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10208,9 +10268,9 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627580702
+            Y: -0.258414149
+            Z: 91.959137
           }
           Rotation {
             Pitch: 1.03298414
@@ -10218,12 +10278,12 @@ Assets {
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 11168076082764834862
+        ParentId: 5272855478497985023
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10266,19 +10326,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610645652
+            Y: -5.02554035
+            Z: 59.9999619
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 11168076082764834862
+        ParentId: 5272855478497985023
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10455,13 +10515,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 456.211426
+            X: 456.211914
             Y: 884.748047
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: 24.9999809
+            Pitch: -4.99999857
+            Yaw: 24.9999619
           }
           Scale {
             X: 1.30000007
@@ -10469,7 +10529,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 15316890242918559602
         ChildIds: 5601884413343396269
         WantsNetworking: true
@@ -10504,7 +10564,7 @@ Assets {
           }
         }
         ParentId: 1463742116862903377
-        ChildIds: 6718083689390822158
+        ChildIds: 10860889189029795461
         ChildIds: 6491331586416614934
         WantsNetworking: true
         Collidable_v2 {
@@ -10523,8 +10583,8 @@ Assets {
         }
       }
       Objects {
-        Id: 6718083689390822158
-        Name: "NewFolder"
+        Id: 10860889189029795461
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -10556,7 +10616,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -10564,17 +10624,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: 9.36251308e-05
+            Y: -1.62308e-05
+            Z: 75.5660553
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 6718083689390822158
+        ParentId: 10860889189029795461
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -10658,17 +10720,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000172406406
+            Y: 7.07002691e-05
+            Z: -14.4339762
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 6718083689390822158
+        ParentId: 10860889189029795461
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -10706,17 +10770,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: -0.000172406406
+            Y: 7.07002691e-05
+            Z: -14.4339762
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 6718083689390822158
+        ParentId: 10860889189029795461
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10767,22 +10833,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627484262
+            Y: -0.258681744
+            Z: 91.959137
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758247
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 6718083689390822158
+        ParentId: 10860889189029795461
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10825,19 +10891,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610451639
+            Y: -5.02607155
+            Z: 59.9999809
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 6718083689390822158
+        ParentId: 10860889189029795461
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11019,9 +11085,9 @@ Assets {
             Z: -725
           }
           Rotation {
-            Pitch: -5
-            Yaw: 10.0000143
-            Roll: 2.67823399e-08
+            Pitch: -4.99999857
+            Yaw: 10.0000286
+            Roll: 8.03470144e-08
           }
           Scale {
             X: 1.30000007
@@ -11029,7 +11095,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 1592575018937330722
         ChildIds: 12661504379288373297
         WantsNetworking: true
@@ -11064,7 +11130,7 @@ Assets {
           }
         }
         ParentId: 15281291009048313656
-        ChildIds: 14510797622729701127
+        ChildIds: 16729195020062447105
         ChildIds: 5236209145153673389
         WantsNetworking: true
         Collidable_v2 {
@@ -11083,8 +11149,8 @@ Assets {
         }
       }
       Objects {
-        Id: 14510797622729701127
-        Name: "NewFolder"
+        Id: 16729195020062447105
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -11116,7 +11182,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -11124,17 +11190,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
+            X: -6.88892e-05
+            Y: 6.51983e-05
             Z: 75.56604
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 14510797622729701127
+        ParentId: 16729195020062447105
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -11218,17 +11286,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.000129545515
+            Y: -0.000174515502
+            Z: -14.4339495
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 14510797622729701127
+        ParentId: 16729195020062447105
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -11266,17 +11336,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: 0.000129545515
+            Y: -0.000174515502
+            Z: -14.4339495
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 14510797622729701127
+        ParentId: 16729195020062447105
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11327,22 +11399,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627845764
+            Y: -0.258678079
+            Z: 91.9591141
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758171
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 14510797622729701127
+        ParentId: 16729195020062447105
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11385,19 +11457,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610508084
+            Y: -5.02582169
+            Z: 59.9999809
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 14510797622729701127
+        ParentId: 16729195020062447105
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11574,13 +11646,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 1646.96533
+            X: 1646.96582
             Y: 917.677734
             Z: -725
           }
           Rotation {
-            Pitch: -5
+            Pitch: -4.99999857
             Yaw: 44.9999962
+            Roll: -2.14258719e-07
           }
           Scale {
             X: 1.30000007
@@ -11588,7 +11661,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 8463138874538059596
         ChildIds: 16918743677594120998
         WantsNetworking: true
@@ -11623,7 +11696,7 @@ Assets {
           }
         }
         ParentId: 5712325167806917251
-        ChildIds: 13219102944783815774
+        ChildIds: 13331930191884392350
         ChildIds: 2359522151630077715
         WantsNetworking: true
         Collidable_v2 {
@@ -11642,8 +11715,8 @@ Assets {
         }
       }
       Objects {
-        Id: 13219102944783815774
-        Name: "NewFolder"
+        Id: 13331930191884392350
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -11675,7 +11748,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -11683,17 +11756,19 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            X: -0.000178813905
+            Y: 0.000266478572
+            Z: 75.5660324
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
-            Z: 0.6
+            X: 1.79999971
+            Y: 1.79999971
+            Z: 0.599999964
           }
         }
-        ParentId: 13219102944783815774
+        ParentId: 13331930191884392350
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -11777,17 +11852,19 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            X: 3.52584357e-05
+            Y: -0.000132906876
+            Z: -14.433959
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 13219102944783815774
+        ParentId: 13331930191884392350
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -11825,17 +11902,19 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            X: 3.52584357e-05
+            Y: -0.000132906876
+            Z: -14.433959
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 0.805536568
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.805536389
           }
         }
-        ParentId: 13219102944783815774
+        ParentId: 13331930191884392350
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11886,22 +11965,22 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627776
+            Y: -0.258551538
+            Z: 91.9591141
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758247
             Roll: 178.733261
           }
           Scale {
-            X: 0.769605577
-            Y: 0.769605637
-            Z: 1.77864838
+            X: 0.769605458
+            Y: 0.769605517
+            Z: 1.77864802
           }
         }
-        ParentId: 13219102944783815774
+        ParentId: 13331930191884392350
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11944,19 +12023,19 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610399365
+            Y: -5.02602339
+            Z: 59.9999847
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 0.999999821
           }
         }
-        ParentId: 13219102944783815774
+        ParentId: 13331930191884392350
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12146,7 +12225,7 @@ Assets {
             Z: 4.3
           }
         }
-        ParentId: 8865138067505395975
+        ParentId: 8281616850372229012
         ChildIds: 2847255968342583348
         ChildIds: 8871867539489323827
         WantsNetworking: true
@@ -12181,7 +12260,7 @@ Assets {
           }
         }
         ParentId: 6476396556917495620
-        ChildIds: 7678182242453974650
+        ChildIds: 3091850161779891828
         ChildIds: 851427798185962729
         WantsNetworking: true
         Collidable_v2 {
@@ -12200,8 +12279,8 @@ Assets {
         }
       }
       Objects {
-        Id: 7678182242453974650
-        Name: "NewFolder"
+        Id: 3091850161779891828
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -12233,7 +12312,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -12241,7 +12320,8 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            Y: -4.61312229e-05
+            Z: 75.5660324
           }
           Rotation {
           }
@@ -12251,7 +12331,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 7678182242453974650
+        ParentId: 3091850161779891828
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -12335,7 +12415,8 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            Y: -5.27847624e-05
+            Z: -14.4339581
           }
           Rotation {
           }
@@ -12345,7 +12426,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7678182242453974650
+        ParentId: 3091850161779891828
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -12384,8 +12465,8 @@ Assets {
         Transform {
           Location {
             X: -4.65116262
-            Y: -0.0947462097
-            Z: -13.3529396
+            Y: -0.0947457626
+            Z: -13.3529215
           }
           Rotation {
           }
@@ -12395,7 +12476,7 @@ Assets {
             Z: 0.900000036
           }
         }
-        ParentId: 7678182242453974650
+        ParentId: 3091850161779891828
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12447,11 +12528,11 @@ Assets {
         Transform {
           Location {
             X: 5.8139534
-            Y: -0.258703887
-            Z: 91.9591904
+            Y: -0.258714527
+            Z: 91.9591446
           }
           Rotation {
-            Pitch: -5.20776367
+            Pitch: -5.20776606
             Yaw: -50.986084
             Roll: -173.49292
           }
@@ -12461,7 +12542,7 @@ Assets {
             Z: 1.77864861
           }
         }
-        ParentId: 7678182242453974650
+        ParentId: 3091850161779891828
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12504,9 +12585,9 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
-            Z: 60
+            X: -0.610692203
+            Y: -5.02593422
+            Z: 60.0000038
           }
           Rotation {
           }
@@ -12516,7 +12597,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7678182242453974650
+        ParentId: 3091850161779891828
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

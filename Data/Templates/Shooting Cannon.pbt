@@ -17,10 +17,7 @@ Assets {
         }
         ParentId: 4781671109827199097
         ChildIds: 5132326737365156770
-        ChildIds: 6545011942410743434
-        ChildIds: 8555843398830171670
-        ChildIds: 14518978930074928910
-        ChildIds: 10687206109798182535
+        ChildIds: 13207239311161519122
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -42,9 +39,8 @@ Assets {
         Name: "Physics Prop Launcher"
         Transform {
           Location {
-            X: -152.999969
-            Y: -1.52587891e-05
-            Z: 139
+            X: -171.630737
+            Z: 143.542755
           }
           Rotation {
             Pitch: 166.296951
@@ -102,8 +98,8 @@ Assets {
         }
       }
       Objects {
-        Id: 6545011942410743434
-        Name: "ClientContext"
+        Id: 13207239311161519122
+        Name: "StaticContext"
         Transform {
           Location {
           }
@@ -122,8 +118,11 @@ Assets {
         ChildIds: 17238863716441892804
         ChildIds: 2611550125473590365
         ChildIds: 16892156071370787287
+        ChildIds: 8555843398830171670
+        ChildIds: 14518978930074928910
+        ChildIds: 10687206109798182535
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -135,6 +134,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
+          Type: RuntimeStatic
         }
       }
       Objects {
@@ -145,7 +145,7 @@ Assets {
             Z: 60
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 3.2
@@ -153,7 +153,7 @@ Assets {
             Z: 2.7
           }
         }
-        ParentId: 6545011942410743434
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:id"
@@ -245,9 +245,9 @@ Assets {
             Z: 129.727051
           }
           Rotation {
-            Pitch: 41.2676392
-            Yaw: -179.999969
-            Roll: -179.999969
+            Pitch: 41.2675934
+            Yaw: -179.999954
+            Roll: -179.999954
           }
           Scale {
             X: 0.2
@@ -255,7 +255,7 @@ Assets {
             Z: 0.2
           }
         }
-        ParentId: 6545011942410743434
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -315,7 +315,7 @@ Assets {
             Z: 136.816406
           }
           Rotation {
-            Pitch: 76.2968826
+            Pitch: 76.2968597
           }
           Scale {
             X: 0.472806901
@@ -323,7 +323,7 @@ Assets {
             Z: 0.472806901
           }
         }
-        ParentId: 6545011942410743434
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -359,7 +359,7 @@ Assets {
             Id: 15643961639998161827
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 4
             IsEnemyCollisionEnabled: true
           }
           StaticMesh {
@@ -380,7 +380,7 @@ Assets {
             Z: 136.816406
           }
           Rotation {
-            Pitch: 76.2969
+            Pitch: 76.2968597
           }
           Scale {
             X: 0.555261075
@@ -388,7 +388,7 @@ Assets {
             Z: 0.395722538
           }
         }
-        ParentId: 6545011942410743434
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -427,7 +427,7 @@ Assets {
             Id: 3594741075929586138
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 4
             IsEnemyCollisionEnabled: true
           }
           StaticMesh {
@@ -448,7 +448,8 @@ Assets {
             Z: 128.943848
           }
           Rotation {
-            Pitch: 48.7323914
+            Pitch: 48.7323685
+            Yaw: 2.58885188e-06
             Roll: 89.9999619
           }
           Scale {
@@ -457,7 +458,7 @@ Assets {
             Z: 0.3
           }
         }
-        ParentId: 6545011942410743434
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -524,7 +525,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6545011942410743434
+        ParentId: 13207239311161519122
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -560,7 +561,7 @@ Assets {
             Z: -0.114746094
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 89.9999771
           }
           Scale {
             X: 2.3
@@ -568,7 +569,7 @@ Assets {
             Z: 2.5
           }
         }
-        ParentId: 9430498322661059690
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -651,7 +652,7 @@ Assets {
             Z: -0.114746094
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 89.9999771
           }
           Scale {
             X: 2.3
@@ -659,7 +660,7 @@ Assets {
             Z: 2.5
           }
         }
-        ParentId: 9430498322661059690
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -742,7 +743,7 @@ Assets {
             Z: 85
           }
           Rotation {
-            Pitch: 76.2969589
+            Pitch: 76.2969208
           }
           Scale {
             X: 0.999993861
@@ -750,7 +751,7 @@ Assets {
             Z: 1.44697893
           }
         }
-        ParentId: 9430498322661059690
+        ParentId: 13207239311161519122
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -789,7 +790,7 @@ Assets {
             Id: 12631099074368817868
           }
           Teams {
-            TeamInt: 3
+            TeamInt: 4
             IsEnemyCollisionEnabled: true
           }
           StaticMesh {

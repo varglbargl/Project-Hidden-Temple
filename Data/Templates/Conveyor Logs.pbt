@@ -20,7 +20,7 @@ Assets {
         ChildIds: 17923754520864866281
         ChildIds: 266426457848518815
         ChildIds: 4236481049558018345
-        ChildIds: 17494600604029189108
+        ChildIds: 9573426725340964509
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -59,7 +59,7 @@ Assets {
           Overrides {
             Name: "cs:LogFolder"
             ObjectReference {
-              SubObjectId: 17494600604029189108
+              SubObjectId: 9573426725340964509
             }
           }
           Overrides {
@@ -240,7 +240,7 @@ Assets {
         }
         ParentId: 625704263607087999
         ChildIds: 15032578701285600132
-        ChildIds: 2443907670066336677
+        ChildIds: 3527725384748179900
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -276,7 +276,7 @@ Assets {
           Overrides {
             Name: "cs:LogFolder"
             ObjectReference {
-              SubObjectId: 2443907670066336677
+              SubObjectId: 3527725384748179900
             }
           }
           Overrides {
@@ -303,8 +303,8 @@ Assets {
         }
       }
       Objects {
-        Id: 2443907670066336677
-        Name: "NewFolder"
+        Id: 3527725384748179900
+        Name: "Logs"
         Transform {
           Location {
           }
@@ -338,7 +338,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -356,7 +356,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 6583935294192881149
         ChildIds: 6871864050430495538
         ChildIds: 10319927158408083666
@@ -617,7 +617,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 9541454243946990804
         ChildIds: 12194496051176275965
         ChildIds: 9853377429053389847
@@ -883,7 +883,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 13946683761571070412
         ChildIds: 16013977490425325099
         ChildIds: 1538309750118042025
@@ -1149,7 +1149,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 3574819080905442811
         ChildIds: 5838647075664445058
         ChildIds: 3317628577350228537
@@ -1413,7 +1413,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 16380368227005323356
         ChildIds: 14564405599765332951
         ChildIds: 5486490221334981401
@@ -1673,7 +1673,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 13606058913912665192
         ChildIds: 259112428713827
         ChildIds: 6966239390364723493
@@ -1939,7 +1939,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 13916513174756060786
         ChildIds: 8803399714703803069
         ChildIds: 13547407279736335084
@@ -2205,7 +2205,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2443907670066336677
+        ParentId: 3527725384748179900
         ChildIds: 11428243078756336239
         ChildIds: 9154070922226582056
         ChildIds: 1407056085736766473
@@ -2456,13 +2456,12 @@ Assets {
         }
       }
       Objects {
-        Id: 17494600604029189108
-        Name: "Logs"
+        Id: 9573426725340964509
+        Name: "Logs Collision"
         Transform {
           Location {
-            X: -155
+            X: -200
             Y: -200
-            Z: 20
           }
           Rotation {
           }
@@ -2488,13 +2487,13 @@ Assets {
           Value: "mc:evisibilitysetting:forceoff"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -2502,7 +2501,9 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: -150
+            Z: 20
           }
           Rotation {
           }
@@ -2512,7 +2513,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2550,7 +2551,9 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: -50
+            Z: 20
           }
           Rotation {
             Roll: 44.9999924
@@ -2561,7 +2564,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2599,7 +2602,9 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: 50
+            Z: 20
           }
           Rotation {
             Roll: -44.9999924
@@ -2610,7 +2615,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2648,10 +2653,12 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: 150
+            Z: 20
           }
           Rotation {
-            Roll: 89.9999619
+            Roll: 89.9999542
           }
           Scale {
             X: 0.4
@@ -2659,7 +2666,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2697,7 +2704,9 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: -550
+            Z: 20
           }
           Rotation {
           }
@@ -2707,7 +2716,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2745,7 +2754,9 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: -450
+            Z: 20
           }
           Rotation {
             Roll: 44.9999924
@@ -2756,7 +2767,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2794,10 +2805,12 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: -350
+            Z: 20
           }
           Rotation {
-            Roll: -45
+            Roll: -44.9999962
           }
           Scale {
             X: 0.4
@@ -2805,7 +2818,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -2843,7 +2856,9 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
+            X: 45
             Y: -250
+            Z: 20
           }
           Rotation {
             Roll: 89.9999542
@@ -2854,7 +2869,7 @@ Assets {
             Z: 3.9
           }
         }
-        ParentId: 17494600604029189108
+        ParentId: 9573426725340964509
         UnregisteredParameters {
         }
         WantsNetworking: true

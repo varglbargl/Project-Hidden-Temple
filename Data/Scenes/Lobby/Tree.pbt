@@ -19,8 +19,6 @@ Objects {
   ChildIds: 4616486078644751084
   ChildIds: 13188470692436809950
   ChildIds: 10045885269598533116
-  ChildIds: 18104161193466264103
-  ChildIds: 14660269347211050020
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33,100 +31,6 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 14660269347211050020
-  Name: "Pressure Plate"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10499324729792989337
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pressure Plate"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 627
-            Y: 155
-            Z: 25
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 2376235668536570317
-    }
-  }
-}
-Objects {
-  Id: 18104161193466264103
-  Name: "Triggerable Door"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3220962468246517527
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Triggerable Door"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 150
-            Y: 336
-            Z: 25
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17790870902728575710
-      value {
-        Overrides {
-          Name: "cs:Trigger"
-          ObjectReference {
-            SelfId: 53398452105353860
-            SubObjectId: 4661869649812006856
-            InstanceId: 14660269347211050020
-            TemplateId: 2376235668536570317
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18336161167167724523
-    }
   }
 }
 Objects {

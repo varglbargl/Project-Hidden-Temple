@@ -15,9 +15,28 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 16067840293383514247
         ChildIds: 1131251997765359900
-        ChildIds: 5524817243946668244
+        ChildIds: 9589019692386240678
+        ChildIds: 12735046332066812490
+        ChildIds: 12879301338855047029
+        ChildIds: 18271757968269626583
+        ChildIds: 8044329289702170409
+        ChildIds: 1907418318305962111
+        ChildIds: 17778248089692006588
+        ChildIds: 12212285874026360096
+        ChildIds: 9238764284542867971
+        ChildIds: 862139149190316658
+        ChildIds: 17343866796754699093
+        ChildIds: 423920799258111885
+        ChildIds: 2503629268625434584
+        ChildIds: 16550443841517621521
+        ChildIds: 3594806799706805925
+        ChildIds: 2269901053453892692
+        ChildIds: 12769946736307710462
+        ChildIds: 12559553660073209883
+        ChildIds: 5253275237721805115
+        ChildIds: 12818429929342904241
         ChildIds: 18426869212610803719
         ChildIds: 14662945637805955334
         ChildIds: 11940828032987127719
@@ -174,71 +193,17 @@ Assets {
         }
       }
       Objects {
-        Id: 5524817243946668244
-        Name: "NewFolder"
-        Transform {
-          Location {
-            X: -409.104034
-            Y: 561.045776
-            Z: 6.5
-          }
-          Rotation {
-            Pitch: 0.899246633
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17512664763323969998
-        ChildIds: 9589019692386240678
-        ChildIds: 12735046332066812490
-        ChildIds: 12879301338855047029
-        ChildIds: 18271757968269626583
-        ChildIds: 8044329289702170409
-        ChildIds: 1907418318305962111
-        ChildIds: 17778248089692006588
-        ChildIds: 12212285874026360096
-        ChildIds: 9238764284542867971
-        ChildIds: 862139149190316658
-        ChildIds: 17343866796754699093
-        ChildIds: 423920799258111885
-        ChildIds: 2503629268625434584
-        ChildIds: 16550443841517621521
-        ChildIds: 3594806799706805925
-        ChildIds: 2269901053453892692
-        ChildIds: 12769946736307710462
-        ChildIds: 12559553660073209883
-        ChildIds: 5253275237721805115
-        ChildIds: 12818429929342904241
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-        }
-      }
-      Objects {
         Id: 9589019692386240678
         Name: "Fantasy Castle Stairs 01"
         Transform {
           Location {
-            X: 409.104
-            Y: -161.045776
+            X: -0.0502929688
+            Y: 400
+            Z: 12.9205322
           }
           Rotation {
-            Yaw: -90
-            Roll: -52.2350121
+            Yaw: -89.9999924
+            Roll: -53.1342583
           }
           Scale {
             X: 7.8
@@ -246,7 +211,7 @@ Assets {
             Z: 10
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -314,12 +279,12 @@ Assets {
         Name: "Guardrail Damaged 01"
         Transform {
           Location {
-            X: -370.961609
-            Y: -80.1535645
-            Z: 666.135437
+            X: -790.474609
+            Y: 480.892578
+            Z: 666.731445
           }
           Rotation {
-            Pitch: -37.513092
+            Pitch: -36.6138382
           }
           Scale {
             X: 1.1
@@ -327,7 +292,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -388,12 +353,12 @@ Assets {
         Name: "Guardrail Damaged 01"
         Transform {
           Location {
-            X: -369.813965
-            Y: 79.2959595
-            Z: 666.747803
+            X: -789.336426
+            Y: 640.341797
+            Z: 667.361816
           }
           Rotation {
-            Pitch: -37.8601341
+            Pitch: -36.9608803
           }
           Scale {
             X: 1.25
@@ -401,7 +366,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -462,12 +427,12 @@ Assets {
         Name: "Guardrail Damaged 01"
         Transform {
           Location {
-            X: 420.596802
-            Y: -80.1535645
-            Z: 53.7979202
+            X: 10.5966797
+            Y: 480.892578
+            Z: 66.8922119
           }
           Rotation {
-            Pitch: 36.3774147
+            Pitch: 35.4781494
             Yaw: -179.999985
             Roll: -179.999985
           }
@@ -477,7 +442,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -538,14 +503,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: 301.7659
-            Y: 116.671814
-            Z: 97.722847
+            X: -108.90918
+            Y: 677.717773
+            Z: 108.946777
           }
           Rotation {
-            Pitch: -2.08596802
-            Yaw: -87.3269653
-            Roll: 37.9407768
+            Pitch: -2.04377
+            Yaw: -87.2945709
+            Roll: 37.0419159
           }
           Scale {
             X: 0.8
@@ -553,7 +518,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -608,14 +573,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: 199.21582
-            Y: -120.045776
-            Z: 177.808228
+            X: -212.703125
+            Y: 441
+            Z: 187.412842
           }
           Rotation {
-            Pitch: -3.49138761
-            Yaw: 85.5192261
-            Roll: -37.851944
+            Pitch: -3.42070889
+            Yaw: 85.4650803
+            Roll: -36.9538269
           }
           Scale {
             X: 0.8
@@ -623,7 +588,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -678,14 +643,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: 168.212891
-            Y: 108.745544
-            Z: 202.025024
+            X: -244.08252
+            Y: 669.791504
+            Z: 211.140106
           }
           Rotation {
-            Pitch: -2.30490184
-            Yaw: -87.0458145
-            Roll: 37.9301338
+            Pitch: -2.25827217
+            Yaw: -87.010025
+            Roll: 37.0313683
           }
           Scale {
             X: 0.8
@@ -693,7 +658,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -748,14 +713,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: -44.3122559
-            Y: 115.954102
-            Z: 368.005371
+            X: -459.186523
+            Y: 677
+            Z: 373.764618
           }
           Rotation {
-            Pitch: 6.01682949
-            Yaw: -97.7561111
-            Roll: 37.581234
+            Pitch: 5.89473963
+            Yaw: -97.8490524
+            Roll: 36.6854591
           }
           Scale {
             X: 0.8
@@ -763,7 +728,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -818,14 +783,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: -153.07373
-            Y: 115.954102
-            Z: 452.946411
+            X: -569.267578
+            Y: 677
+            Z: 456.988251
           }
           Rotation {
-            Pitch: -2.76012707
-            Yaw: -86.4608154
-            Roll: 37.9040604
+            Pitch: -2.70427656
+            Yaw: -86.4179764
+            Roll: 37.0055084
           }
           Scale {
             X: 0.8
@@ -833,7 +798,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -888,13 +853,13 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: -313.063721
-            Y: 115.954102
-            Z: 577.895264
+            X: -731.19873
+            Y: 677
+            Z: 579.410828
           }
           Rotation {
-            Yaw: -90
-            Roll: 37.9897614
+            Yaw: -89.9999847
+            Roll: 37.0904884
           }
           Scale {
             X: 0.8
@@ -902,7 +867,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -957,14 +922,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: 83.876709
-            Y: 28.1239624
-            Z: 267.890747
+            X: -329.441895
+            Y: 589.169922
+            Z: 275.674133
           }
           Rotation {
-            Pitch: 2.3124423
-            Yaw: -92.9639587
-            Roll: 37.9291878
+            Pitch: 2.26566243
+            Yaw: -92.9998474
+            Roll: 37.0304222
           }
           Scale {
             X: 1.07982063
@@ -972,7 +937,7 @@ Assets {
             Z: 1.47309399
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1027,14 +992,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: 5.19555664
-            Y: 12.8699951
-            Z: 329.3396
+            X: -409.077637
+            Y: 573.916
+            Z: 335.880585
           }
           Rotation {
-            Pitch: 6.22696
-            Yaw: 98.0311279
-            Roll: -37.5506744
+            Pitch: 6.10057449
+            Yaw: 98.1272736
+            Roll: -36.6551552
           }
           Scale {
             X: 1.63619244
@@ -1042,7 +1007,7 @@ Assets {
             Z: 1.22714877
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1097,14 +1062,14 @@ Assets {
         Name: "Military Tank Historic Gear 03"
         Transform {
           Location {
-            X: 65.277832
-            Y: -112.38562
-            Z: 288.693481
+            X: -348.365234
+            Y: 448.660156
+            Z: 296.182404
           }
           Rotation {
-            Pitch: -29.6231308
-            Yaw: -24.9366779
-            Roll: -46.7513351
+            Pitch: -28.8070107
+            Yaw: -24.725462
+            Roll: -47.1839828
           }
           Scale {
             X: 0.5
@@ -1112,7 +1077,7 @@ Assets {
             Z: 0.5
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1162,14 +1127,14 @@ Assets {
         Name: "Cart"
         Transform {
           Location {
-            X: 29.7954102
-            Y: -27.3618164
-            Z: 346.779053
+            X: -384.754883
+            Y: 533.684082
+            Z: 353.703949
           }
           Rotation {
-            Pitch: -20.187252
-            Yaw: 4.25505543
-            Roll: -12.7211399
+            Pitch: -19.2904606
+            Yaw: 4.23118305
+            Roll: -12.6504707
           }
           Scale {
             X: 1
@@ -1177,7 +1142,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         ChildIds: 5972992587868814493
         ChildIds: 5304997622717498522
         ChildIds: 8097999969224999952
@@ -1808,14 +1773,14 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 101.613281
-            Y: -30.5600586
-            Z: 310.926392
+            X: -312.382812
+            Y: 530.48584
+            Z: 318.982819
           }
           Rotation {
-            Pitch: 9.04433823
-            Yaw: -1.73474145
-            Roll: -10.9055834
+            Pitch: 9.94317055
+            Yaw: -1.73929989
+            Roll: -10.9332352
           }
           Scale {
             X: 0.2443064
@@ -1823,7 +1788,7 @@ Assets {
             Z: 0.2443064
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1866,14 +1831,14 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 148.519043
-            Y: 3.5357666
-            Z: 323.309448
+            X: -265.677246
+            Y: 564.581543
+            Z: 332.100494
           }
           Rotation {
-            Pitch: 9.04433823
-            Yaw: -1.73474133
-            Roll: -10.9056129
+            Pitch: 9.94317055
+            Yaw: -1.73929977
+            Roll: -10.9332657
           }
           Scale {
             X: 0.2443064
@@ -1881,7 +1846,7 @@ Assets {
             Z: 0.2443064
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1924,14 +1889,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: -233.663086
-            Y: 56.046814
-            Z: 515.877686
+            X: -650.834473
+            Y: 617.092773
+            Z: 518.647
           }
           Rotation {
-            Pitch: 6.22696
-            Yaw: 98.0311279
-            Roll: -37.5506477
+            Pitch: 6.10057449
+            Yaw: 98.1272736
+            Roll: -36.6551361
           }
           Scale {
             X: 0.973677754
@@ -1939,7 +1904,7 @@ Assets {
             Z: 1.22714853
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1994,14 +1959,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: -229.050781
-            Y: -68.083252
-            Z: 512.275269
+            X: -646.166504
+            Y: 492.962891
+            Z: 515.117432
           }
           Rotation {
-            Pitch: -0.278016
-            Yaw: 89.6436157
-            Roll: -37.9871979
+            Pitch: -0.272387922
+            Yaw: 89.6393
+            Roll: -37.0879364
           }
           Scale {
             X: 0.989948332
@@ -2009,7 +1974,7 @@ Assets {
             Z: 1.22715163
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -2064,14 +2029,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: -207.490479
-            Y: -72.6456299
-            Z: 495.437866
+            X: -624.344238
+            Y: 488.400391
+            Z: 498.620483
           }
           Rotation {
-            Pitch: -2.85678101
-            Yaw: 86.3358765
-            Roll: -37.8954086
+            Pitch: -2.79896355
+            Yaw: 86.2915421
+            Roll: -36.9969177
           }
           Scale {
             X: 1.68796694
@@ -2079,7 +2044,7 @@ Assets {
             Z: 1.22714961
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -2134,14 +2099,14 @@ Assets {
         Name: "Wood 2x4 4m"
         Transform {
           Location {
-            X: 397.638031
-            Y: 112.654663
-            Z: 22.8481522
+            X: -11.8735352
+            Y: 673.700684
+            Z: 35.5859375
           }
           Rotation {
-            Pitch: 1.81053281
-            Yaw: -92.3196716
-            Roll: 37.9523392
+            Pitch: 1.77391613
+            Yaw: -92.3477936
+            Roll: 37.0533867
           }
           Scale {
             X: 0.8
@@ -2149,7 +2114,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5524817243946668244
+        ParentId: 17512664763323969998
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"

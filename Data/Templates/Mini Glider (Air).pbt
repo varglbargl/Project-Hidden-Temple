@@ -77,8 +77,6 @@ Assets {
         Name: "Glide Ability"
         Transform {
           Location {
-            X: 166.18689
-            Y: -96.7629242
           }
           Rotation {
           }
@@ -249,8 +247,20 @@ Assets {
         ParentId: 6618843033108534594
         ChildIds: 13999885654384880739
         ChildIds: 1742772829302691731
-        ChildIds: 7961842449047373339
-        ChildIds: 5864383094576734778
+        ChildIds: 17383364223627805160
+        ChildIds: 13973294715054259953
+        ChildIds: 6392037261540002517
+        ChildIds: 5777715674427335462
+        ChildIds: 5434037058809410558
+        ChildIds: 1558714565671735037
+        ChildIds: 3005437079519183205
+        ChildIds: 6948573868039255649
+        ChildIds: 6561841645562003417
+        ChildIds: 10983113432976123184
+        ChildIds: 16034251112360845922
+        ChildIds: 17846264604388793484
+        ChildIds: 1415813055560605131
+        ChildIds: 16384839449320338839
         ChildIds: 10586205465145404064
         ChildIds: 4533032377761092305
         ChildIds: 2381476978092595928
@@ -378,18 +388,18 @@ Assets {
         }
       }
       Objects {
-        Id: 7961842449047373339
-        Name: "Left Wing"
+        Id: 17383364223627805160
+        Name: "Left Hand Anchor"
         Transform {
           Location {
-            X: -6.76023483
-            Y: -19.9999771
-            Z: 53.6261597
+            X: 24.4880371
+            Y: -22.164505
+            Z: 69.2543945
           }
           Rotation {
-            Pitch: 9.18973923
-            Yaw: -6.60751496e-14
-            Roll: -8.22157338e-13
+            Pitch: 65.3884201
+            Yaw: 53.3563881
+            Roll: 156.559952
           }
           Scale {
             X: 1
@@ -398,50 +408,6 @@ Assets {
           }
         }
         ParentId: 17956555711171865496
-        ChildIds: 17383364223627805160
-        ChildIds: 13973294715054259953
-        ChildIds: 6392037261540002517
-        ChildIds: 5777715674427335462
-        ChildIds: 5434037058809410558
-        ChildIds: 1558714565671735037
-        ChildIds: 3005437079519183205
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-        }
-      }
-      Objects {
-        Id: 17383364223627805160
-        Name: "Left Hand Anchor"
-        Transform {
-          Location {
-            X: 33.3430519
-            Y: -2.16453362
-            Z: 10.4371386
-          }
-          Rotation {
-            Pitch: 59.0689735
-            Yaw: 40.5492287
-            Roll: 142.123932
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7961842449047373339
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -472,11 +438,14 @@ Assets {
         Name: "Basic Projectile Trail VFX"
         Transform {
           Location {
-            X: 38.7095299
-            Y: -63.1657219
-            Z: 19.9524841
+            X: 28.2659912
+            Y: -83.1656952
+            Z: 79.5046387
           }
           Rotation {
+            Pitch: 9.18973923
+            Yaw: -6.60751496e-14
+            Roll: -8.22157338e-13
           }
           Scale {
             X: 1
@@ -484,7 +453,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7961842449047373339
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "bp:Particle Scale Multiplier"
@@ -522,14 +491,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 41.6127
-            Y: 19.9936523
-            Z: 22.5556622
+            X: 30.7160645
+            Y: -0.00631713867
+            Z: 82.5380249
           }
           Rotation {
-            Pitch: -6.16333
-            Yaw: -157.36203
-            Roll: 177.436279
+            Pitch: -14.6274576
+            Yaw: -156.702774
+            Roll: 173.793793
           }
           Scale {
             X: 0.0939961374
@@ -537,7 +506,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 7961842449047373339
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -583,14 +552,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 41.2279663
-            Y: 19.9935303
-            Z: 22.3159275
+            X: 30.3746338
+            Y: -0.00643920898
+            Z: 82.2399292
           }
           Rotation {
-            Pitch: -4.71337891
-            Yaw: -134.805267
-            Roll: 175.270432
+            Pitch: -11.1442385
+            Yaw: -133.888
+            Roll: 168.638596
           }
           Scale {
             X: 0.0939961374
@@ -598,7 +567,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 7961842449047373339
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -644,14 +613,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 41.4367676
-            Y: 19.9934082
-            Z: 22.2850018
+            X: 30.5856934
+            Y: -0.0065612793
+            Z: 82.2427368
           }
           Rotation {
-            Pitch: -2.54876709
-            Yaw: -112.362488
-            Roll: 173.830353
+            Pitch: -6.00415277
+            Yaw: -111.724136
+            Roll: 165.28981
           }
           Scale {
             X: 0.0939961374
@@ -659,7 +628,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 7961842449047373339
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -705,14 +674,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -40.5296097
-            Y: 18.589447
-            Z: 13.292099
+            X: -48.8924561
+            Y: -1.41052246
+            Z: 60.2749023
           }
           Rotation {
-            Pitch: -4.71337891
-            Yaw: -134.805252
-            Roll: 175.270401
+            Pitch: -11.1442385
+            Yaw: -133.887955
+            Roll: 168.638535
           }
           Scale {
             X: 0.0641734898
@@ -720,7 +689,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 7961842449047373339
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -766,14 +735,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -39.2071381
-            Y: 19.336792
-            Z: 13.0233154
+            X: -47.5440674
+            Y: -0.66317749
+            Z: 60.2207642
           }
           Rotation {
-            Pitch: -6.16333
-            Yaw: -157.362045
-            Roll: 177.436264
+            Pitch: -14.62745
+            Yaw: -156.702789
+            Roll: 173.793777
           }
           Scale {
             X: 0.0641734898
@@ -781,7 +750,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 7961842449047373339
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -823,18 +792,18 @@ Assets {
         }
       }
       Objects {
-        Id: 5864383094576734778
-        Name: "Right Wing"
+        Id: 6948573868039255649
+        Name: "Right Hand Anchor"
         Transform {
           Location {
-            X: -6.76019669
-            Y: 20
-            Z: 53.626152
+            X: 24.4880371
+            Y: 21.8354645
+            Z: 69.2543945
           }
           Rotation {
-            Pitch: 9.18973923
-            Yaw: -6.60751496e-14
-            Roll: -8.22157338e-13
+            Pitch: 65.3883362
+            Yaw: -53.3562202
+            Roll: -156.559937
           }
           Scale {
             X: 1
@@ -843,50 +812,6 @@ Assets {
           }
         }
         ParentId: 17956555711171865496
-        ChildIds: 6948573868039255649
-        ChildIds: 6561841645562003417
-        ChildIds: 10983113432976123184
-        ChildIds: 16034251112360845922
-        ChildIds: 17846264604388793484
-        ChildIds: 1415813055560605131
-        ChildIds: 16384839449320338839
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-        }
-      }
-      Objects {
-        Id: 6948573868039255649
-        Name: "Right Hand Anchor"
-        Transform {
-          Location {
-            X: 33.3430519
-            Y: 1.83546448
-            Z: 10.4371386
-          }
-          Rotation {
-            Pitch: 59.0688782
-            Yaw: -40.5491333
-            Roll: -142.123978
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5864383094576734778
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -917,11 +842,14 @@ Assets {
         Name: "Basic Projectile Trail VFX"
         Transform {
           Location {
-            X: 38.709343
-            Y: 63.4337
-            Z: 19.9524689
+            X: 28.2657471
+            Y: 83.4337158
+            Z: 79.5045776
           }
           Rotation {
+            Pitch: 9.18973923
+            Yaw: -6.60751496e-14
+            Roll: -8.22157338e-13
           }
           Scale {
             X: 1
@@ -929,7 +857,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5864383094576734778
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "bp:Particle Scale Multiplier"
@@ -967,14 +895,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 41.4350853
-            Y: -19.999979
-            Z: 22.2838268
+            X: 30.5842285
+            Y: 1.52587891e-05
+            Z: 82.241333
           }
           Rotation {
-            Pitch: -2.54876709
-            Yaw: 112.362534
-            Roll: -173.830719
+            Pitch: -6.00417328
+            Yaw: 111.72419
+            Roll: -165.290192
           }
           Scale {
             X: 0.0939961374
@@ -982,7 +910,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 5864383094576734778
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1028,14 +956,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 41.2264404
-            Y: -19.9999752
-            Z: 22.3147907
+            X: 30.373291
+            Y: 3.05175781e-05
+            Z: 82.2385864
           }
           Rotation {
-            Pitch: -4.71328735
-            Yaw: 134.805038
-            Roll: -175.270569
+            Pitch: -11.1441154
+            Yaw: 133.887772
+            Roll: -168.638702
           }
           Scale {
             X: 0.0939961374
@@ -1043,7 +971,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 5864383094576734778
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1089,14 +1017,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 41.6112785
-            Y: -19.999979
-            Z: 22.5544968
+            X: 30.7148438
+            Y: 1.52587891e-05
+            Z: 82.5366821
           }
           Rotation {
-            Pitch: -6.16320801
-            Yaw: 157.361786
-            Roll: -177.436188
+            Pitch: -14.6273203
+            Yaw: 156.70253
+            Roll: -173.793655
           }
           Scale {
             X: 0.0939961374
@@ -1104,7 +1032,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 5864383094576734778
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1150,14 +1078,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -39.3790741
-            Y: -19.2631416
-            Z: 12.9981461
+            X: -47.7097168
+            Y: 0.736862183
+            Z: 60.168457
           }
           Rotation {
-            Pitch: -6.16320801
-            Yaw: 157.361816
-            Roll: -177.436172
+            Pitch: -14.6273203
+            Yaw: 156.702576
+            Roll: -173.793655
           }
           Scale {
             X: 0.0641734898
@@ -1165,7 +1093,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 5864383094576734778
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1211,14 +1139,14 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -40.42379
-            Y: -18.6989594
-            Z: 13.2995205
+            X: -48.7891846
+            Y: 1.30104065
+            Z: 60.2991333
           }
           Rotation {
-            Pitch: -4.71328735
-            Yaw: 134.805008
-            Roll: -175.270523
+            Pitch: -11.1441154
+            Yaw: 133.887741
+            Roll: -168.638641
           }
           Scale {
             X: 0.0641734898
@@ -1226,7 +1154,7 @@ Assets {
             Z: 0.0881197676
           }
         }
-        ParentId: 5864383094576734778
+        ParentId: 17956555711171865496
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
