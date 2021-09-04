@@ -1,13 +1,13 @@
 Assets {
   Id: 4455346330490456441
-  Name: "The Demon Hunter Crossbow"
+  Name: "Demon Hunter Crossbow"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 2705625647794615409
       Objects {
         Id: 2705625647794615409
-        Name: "The Demon Hunter Crossbow"
+        Name: "Demon Hunter Crossbow"
         Transform {
           Scale {
             X: 0.99999994
@@ -325,8 +325,9 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.5
-              G: 0.025000006
+              R: 0.209999681
+              G: 0.848665833
+              B: 5
               A: 1
             }
           }
@@ -481,8 +482,9 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.5
-              G: 0.025000006
+              R: 0.209999681
+              G: 0.848665833
+              B: 5
               A: 1
             }
           }
@@ -727,8 +729,9 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:color"
             Color {
-              R: 0.5
-              G: 0.025000006
+              R: 0.209999681
+              G: 0.848665833
+              B: 5
               A: 1
             }
           }

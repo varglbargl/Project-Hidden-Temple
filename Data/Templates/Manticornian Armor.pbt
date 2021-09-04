@@ -1,13 +1,13 @@
 Assets {
   Id: 8755848946425752798
-  Name: "The Manticornian Armor"
+  Name: "Manticornian Armor"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 2682454376498614779
       Objects {
         Id: 2682454376498614779
-        Name: "The Manticornian Armor"
+        Name: "Manticornian Armor"
         Transform {
           Scale {
             X: 1
