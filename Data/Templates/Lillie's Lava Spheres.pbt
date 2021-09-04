@@ -4,9 +4,9 @@ Assets {
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 7341172968084745117
+      RootId: 1191282170816811317
       Objects {
-        Id: 7341172968084745117
+        Id: 1191282170816811317
         Name: "Lillie\'s Lava Spheres"
         Transform {
           Scale {
@@ -37,8 +37,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Lillie_SmallBlue_LavaSphere_Complete"
+          IsGroup: true
         }
       }
       Objects {
@@ -55,7 +54,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 4427484659704318931
         ChildIds: 12402604012907232218
         ChildIds: 3133661142485946070
@@ -1327,7 +1326,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 14292233848321959980
         ChildIds: 15737276260188043506
         ChildIds: 18445766420148857117
@@ -5210,7 +5209,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 6013799460639413679
         ChildIds: 4292733493414003513
         ChildIds: 10169778115568540734
@@ -6580,7 +6579,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 12346769688246714519
         ChildIds: 5479363768870992449
         ChildIds: 12583628540956352300
@@ -7690,7 +7689,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 5617998499232479918
         WantsNetworking: true
         Collidable_v2 {
@@ -7767,7 +7766,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 18299407903462547667
         WantsNetworking: true
         Collidable_v2 {
@@ -7844,7 +7843,7 @@ Assets {
             Z: 4
           }
         }
-        ParentId: 7341172968084745117
+        ParentId: 1191282170816811317
         ChildIds: 14971492239938226723
         WantsNetworking: true
         Collidable_v2 {

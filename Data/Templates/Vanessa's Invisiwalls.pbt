@@ -2128,7 +2128,7 @@ Assets {
         Transform {
           Location {
             X: 600
-            Y: 1000
+            Y: 800
           }
           Rotation {
             Yaw: -179.999954
@@ -2749,7 +2749,7 @@ Assets {
         Transform {
           Location {
             X: -200
-            Y: -1400
+            Y: -1200
           }
           Rotation {
           }
@@ -2934,7 +2934,7 @@ Assets {
         Transform {
           Location {
             X: 600
-            Y: -1400
+            Y: -1200
           }
           Rotation {
           }
@@ -3554,7 +3554,7 @@ Assets {
         Transform {
           Location {
             X: 1400
-            Y: 1000
+            Y: 800
           }
           Rotation {
             Yaw: -179.999985
@@ -4340,7 +4340,7 @@ Assets {
         Transform {
           Location {
             X: 2200
-            Y: 1000
+            Y: 800
           }
           Rotation {
             Yaw: -179.999954
@@ -4526,7 +4526,7 @@ Assets {
         Transform {
           Location {
             X: 1400
-            Y: -1400
+            Y: -1200
           }
           Rotation {
           }
@@ -6527,15 +6527,14 @@ Assets {
           Location {
             X: 1600
             Y: 200
-            Z: -50
           }
           Rotation {
             Yaw: 89.9999847
           }
           Scale {
-            X: 1.2
-            Y: 1.2
-            Z: 1.2
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 4569425492333533302
@@ -6681,15 +6680,14 @@ Assets {
           Location {
             X: 2000
             Y: -200
-            Z: -100
           }
           Rotation {
             Yaw: 89.9999619
           }
           Scale {
-            X: 1.2
-            Y: 1.2
-            Z: 1.2
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 4569425492333533302

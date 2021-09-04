@@ -4,9 +4,9 @@ Assets {
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 12478312624726836919
+      RootId: 8690878605555645910
       Objects {
-        Id: 12478312624726836919
+        Id: 8690878605555645910
         Name: "Lillie\'s Spike Cube Chamber"
         Transform {
           Scale {
@@ -27,9 +27,6 @@ Assets {
         ChildIds: 13794199916612813468
         ChildIds: 9289317964260853211
         ChildIds: 14416527421962178121
-        ChildIds: 965751990707291883
-        ChildIds: 3390476452823032581
-        ChildIds: 3182099967401873407
         ChildIds: 13243638274938647209
         WantsNetworking: true
         Collidable_v2 {
@@ -45,7 +42,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -65,7 +62,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 12485067226798200673
         ChildIds: 16793790413012869628
         ChildIds: 16629393872157496749
@@ -590,7 +587,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 6808613330327064893
         ChildIds: 4307290332158602521
         ChildIds: 10028450410513353420
@@ -29251,7 +29248,7 @@ Assets {
         Transform {
           Location {
             X: 39.9814453
-            Y: 2.91186523
+            Y: 2.91162109
             Z: 149.746094
           }
           Rotation {
@@ -29262,7 +29259,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 6303610037644192391
         WantsNetworking: true
         Collidable_v2 {
@@ -29329,7 +29326,7 @@ Assets {
         Transform {
           Location {
             X: 2314.98145
-            Y: 2.91186523
+            Y: 2.91162109
             Z: 149.746094
           }
           Rotation {
@@ -29340,7 +29337,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 6352000126862027314
         WantsNetworking: true
         Collidable_v2 {
@@ -29417,7 +29414,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 7885651902111561409
         ChildIds: 11359983093052125968
         ChildIds: 4294167223881340846
@@ -34853,7 +34850,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 646417128798606671
         ChildIds: 16156378665331386637
         ChildIds: 15832555762450527939
@@ -40289,7 +40286,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 4420215475262658171
         ChildIds: 8122629816435651168
         ChildIds: 18431301258712372605
@@ -45719,7 +45716,7 @@ Assets {
             Z: -100
           }
           Rotation {
-            Roll: -90
+            Roll: -89.9999924
           }
           Scale {
             X: 1
@@ -45727,7 +45724,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 1121292045708366325
         ChildIds: 12225933240491727123
         ChildIds: 5322385175711582612
@@ -51164,7 +51161,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 16817996301411184758
         ChildIds: 16007110969865515147
         ChildIds: 14105577074476466492
@@ -56594,7 +56591,7 @@ Assets {
             Z: -100
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -56602,7 +56599,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 14884031144235431415
         ChildIds: 6825004521242416222
         ChildIds: 4068091911572035771
@@ -62031,8 +62028,8 @@ Assets {
             Z: -100
           }
           Rotation {
-            Yaw: 89.9999695
-            Roll: -90
+            Yaw: 89.9999542
+            Roll: -89.9999924
           }
           Scale {
             X: 1
@@ -62040,7 +62037,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 918612681076693797
         ChildIds: 15110224340372162396
         ChildIds: 7165004871440107658
@@ -67461,155 +67458,6 @@ Assets {
         }
       }
       Objects {
-        Id: 965751990707291883
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: 1200
-            Z: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 17
-            Y: 6
-            Z: 2
-          }
-        }
-        ParentId: 12478312624726836919
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 3390476452823032581
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: 1200
-            Z: 350
-          }
-          Rotation {
-          }
-          Scale {
-            X: 17
-            Y: 6
-            Z: 1
-          }
-        }
-        ParentId: 12478312624726836919
-        ChildIds: 11293810279512185244
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 11293810279512185244
-        Name: "Kill Zone"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.0588235296
-            Y: 0.166666672
-            Z: 1
-          }
-        }
-        ParentId: 3390476452823032581
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 1088534770586260933
-          }
-        }
-      }
-      Objects {
-        Id: 3182099967401873407
-        Name: "Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12478312624726836919
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
         Id: 13243638274938647209
         Name: "Trigger"
         Transform {
@@ -67625,7 +67473,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12478312624726836919
+        ParentId: 8690878605555645910
         ChildIds: 8941406668944214264
         WantsNetworking: true
         Collidable_v2 {

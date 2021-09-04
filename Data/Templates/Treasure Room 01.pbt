@@ -73,13 +73,13 @@ Assets {
           Overrides {
             Name: "cs:TreasureLocation"
             ObjectReference {
-              SubObjectId: 11528438391384283840
+              SubObjectId: 8743456616852157266
             }
           }
           Overrides {
             Name: "cs:ReturnTeleporterLocation"
             ObjectReference {
-              SubObjectId: 11332016658221273490
+              SubObjectId: 8923461011267572014
             }
           }
           Overrides {
@@ -335,8 +335,8 @@ Assets {
           }
         }
         ParentId: 7437241572506582406
-        ChildIds: 11332016658221273490
-        ChildIds: 11528438391384283840
+        ChildIds: 8923461011267572014
+        ChildIds: 8743456616852157266
         ChildIds: 7810262657370469136
         ChildIds: 651432839072046295
         ChildIds: 5019511019001602757
@@ -405,7 +405,7 @@ Assets {
         }
       }
       Objects {
-        Id: 11332016658221273490
+        Id: 8923461011267572014
         Name: "Return Teleporter Location"
         Transform {
           Location {
@@ -435,11 +435,11 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
-        Id: 11528438391384283840
+        Id: 8743456616852157266
         Name: "Treasure Location"
         Transform {
           Location {
@@ -469,8 +469,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Treasure Location"
+          IsGroup: true
         }
       }
       Objects {
@@ -3387,7 +3386,7 @@ Assets {
           }
         }
         ParentId: 6506726646171636350
-        ChildIds: 12579876508666962509
+        ChildIds: 317658744859438920
         ChildIds: 5189859389952526610
         ChildIds: 11081213571453244534
         Collidable_v2 {
@@ -3407,8 +3406,8 @@ Assets {
         }
       }
       Objects {
-        Id: 12579876508666962509
-        Name: "Skeleton"
+        Id: 317658744859438920
+        Name: "Group"
         Transform {
           Location {
             X: 122
@@ -3459,8 +3458,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Skeleton"
+          IsGroup: true
         }
       }
       Objects {
@@ -3468,14 +3466,14 @@ Assets {
         Name: "Bone Human Skull 01"
         Transform {
           Location {
-            X: -86.5839844
-            Y: -2.38317871
-            Z: 71.0506592
+            X: -86.5839767
+            Y: -2.38278198
+            Z: 71.0505371
           }
           Rotation {
-            Pitch: -19.6867371
-            Yaw: -110.836319
-            Roll: 24.9261971
+            Pitch: -19.6867275
+            Yaw: -110.836296
+            Roll: 24.9261684
           }
           Scale {
             X: 0.937586725
@@ -3483,7 +3481,7 @@ Assets {
             Z: 0.937560141
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3521,13 +3519,13 @@ Assets {
         Transform {
           Location {
             X: -78.6777344
-            Y: 2.66479492
+            Y: 2.66506958
             Z: 55.3588867
           }
           Rotation {
             Pitch: 22.9798965
-            Yaw: -81.8170776
-            Roll: -65.4322815
+            Yaw: -81.81707
+            Roll: -65.4323044
           }
           Scale {
             X: 0.937586844
@@ -3535,7 +3533,7 @@ Assets {
             Z: 0.796948493
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3572,14 +3570,14 @@ Assets {
         Name: "Bone Human Hand 01"
         Transform {
           Location {
-            X: -60.5321808
-            Y: -44.258606
+            X: -60.5322266
+            Y: -44.2587891
             Z: 1.04125977
           }
           Rotation {
-            Pitch: -4.71456909
-            Yaw: -9.34567261
-            Roll: -92.6876526
+            Pitch: -4.71456528
+            Yaw: -9.34567738
+            Roll: -92.6876373
           }
           Scale {
             X: -0.648554564
@@ -3587,7 +3585,7 @@ Assets {
             Z: 0.648554564
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3624,14 +3622,14 @@ Assets {
         Name: "Bone Human Ulna 01"
         Transform {
           Location {
-            X: -70.0737
-            Y: -31.3128662
-            Z: 10.3501472
+            X: -70.0737305
+            Y: -31.3125
+            Z: 10.3500977
           }
           Rotation {
-            Pitch: -23.4107361
-            Yaw: 40.621727
-            Roll: -130.168106
+            Pitch: -23.410738
+            Yaw: 40.6217232
+            Roll: -130.168091
           }
           Scale {
             X: 0.686715424
@@ -3639,7 +3637,7 @@ Assets {
             Z: 0.740770221
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3676,14 +3674,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -67.0834045
-            Y: -29.6199951
-            Z: 9.48417664
+            X: -67.0834961
+            Y: -29.6201172
+            Z: 9.48413086
           }
           Rotation {
-            Pitch: -53.2134094
+            Pitch: -53.2133904
             Yaw: 138.873413
-            Roll: 165.570465
+            Roll: 165.57045
           }
           Scale {
             X: 0.382026523
@@ -3691,7 +3689,7 @@ Assets {
             Z: 0.481424719
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3729,13 +3727,13 @@ Assets {
         Transform {
           Location {
             X: -76.5097656
-            Y: -15.7141113
-            Z: 34.6517944
+            Y: -15.7138672
+            Z: 34.6518555
           }
           Rotation {
             Pitch: 8.90524101
-            Yaw: -1.46591187
-            Roll: 11.9635363
+            Yaw: -1.46590829
+            Roll: 11.9635515
           }
           Scale {
             X: 0.661809862
@@ -3743,7 +3741,7 @@ Assets {
             Z: 0.799639881
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3780,14 +3778,14 @@ Assets {
         Name: "Bone Human Hand 01"
         Transform {
           Location {
-            X: -44.6448135
-            Y: 47.3817139
-            Z: 2.48639679
+            X: -44.6450195
+            Y: 47.3818359
+            Z: 2.48632812
           }
           Rotation {
-            Pitch: 8.51777172
-            Yaw: -78.1347046
-            Roll: 82.0769882
+            Pitch: 8.51776409
+            Yaw: -78.1346893
+            Roll: 82.0769653
           }
           Scale {
             X: 0.648554564
@@ -3795,7 +3793,7 @@ Assets {
             Z: 0.648554564
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3832,14 +3830,14 @@ Assets {
         Name: "Bone Human Ulna 01"
         Transform {
           Location {
-            X: -62.1922417
-            Y: 40.694458
-            Z: 2.60036087
+            X: -62.1923828
+            Y: 40.6943359
+            Z: 2.6003418
           }
           Rotation {
-            Pitch: 23.9527416
+            Pitch: 23.9527283
             Yaw: -61.0343628
-            Roll: 86.8221741
+            Roll: 86.8221664
           }
           Scale {
             X: 0.686714888
@@ -3847,7 +3845,7 @@ Assets {
             Z: 0.74077
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3884,14 +3882,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -58.9123688
-            Y: 36.8317871
-            Z: 2.1156559
+            X: -58.9125977
+            Y: 36.8320312
+            Z: 2.11572266
           }
           Rotation {
-            Pitch: 79.9441071
-            Yaw: 105.891846
-            Roll: -96.736969
+            Pitch: 79.9440918
+            Yaw: 105.891899
+            Roll: -96.7368927
           }
           Scale {
             X: 0.3049106
@@ -3899,7 +3897,7 @@ Assets {
             Z: 0.481425017
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3937,13 +3935,13 @@ Assets {
         Transform {
           Location {
             X: -76.1152344
-            Y: 18.8208
-            Z: 18.3727417
+            Y: 18.8203125
+            Z: 18.3728027
           }
           Rotation {
-            Pitch: -0.862609863
-            Yaw: 134.969
-            Roll: 9.75576115
+            Pitch: -0.86261189
+            Yaw: 134.968964
+            Roll: 9.75577164
           }
           Scale {
             X: 0.661809862
@@ -3951,7 +3949,7 @@ Assets {
             Z: 0.813292384
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3989,13 +3987,13 @@ Assets {
         Transform {
           Location {
             X: -68.9355469
-            Y: 1.11962891
-            Z: 40.6073608
+            Y: 1.11914062
+            Z: 40.6074219
           }
           Rotation {
-            Pitch: -10.2025452
-            Yaw: 92.3826523
-            Roll: 19.1809044
+            Pitch: -10.2025394
+            Yaw: 92.382637
+            Roll: 19.1809063
           }
           Scale {
             X: 0.661809921
@@ -4003,7 +4001,7 @@ Assets {
             Z: 0.71390444
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4041,13 +4039,13 @@ Assets {
         Transform {
           Location {
             X: -76.1640625
-            Y: -0.876220703
-            Z: 33.350647
+            Y: -0.875976562
+            Z: 33.3505859
           }
           Rotation {
             Pitch: 4.85856581
-            Yaw: 73.8850403
-            Roll: 19.0132828
+            Yaw: 73.885025
+            Roll: 19.0132847
           }
           Scale {
             X: 0.661809862
@@ -4055,7 +4053,7 @@ Assets {
             Z: 0.71390444
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4092,14 +4090,14 @@ Assets {
         Name: "Bone Human Scapula 01"
         Transform {
           Location {
-            X: -66.28582
-            Y: -20.0046387
-            Z: 1.3916626
+            X: -66.2856445
+            Y: -20.0048828
+            Z: 1.39160156
           }
           Rotation {
             Pitch: 7.36969852
             Yaw: -60.0816345
-            Roll: -45.3884277
+            Roll: -45.3884354
           }
           Scale {
             X: 0.554414093
@@ -4107,7 +4105,7 @@ Assets {
             Z: 0.598054647
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4144,14 +4142,14 @@ Assets {
         Name: "Bone Human Scapula 01"
         Transform {
           Location {
-            X: -78.1531372
+            X: -78.1533203
             Y: 11.7871094
-            Z: 36.6391678
+            Z: 36.6391602
           }
           Rotation {
-            Pitch: -1.03155518
-            Yaw: -117.203247
-            Roll: -21.6092529
+            Pitch: -1.03155661
+            Yaw: -117.203224
+            Roll: -21.6092453
           }
           Scale {
             X: -0.554414093
@@ -4159,7 +4157,7 @@ Assets {
             Z: 0.598054647
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4197,13 +4195,13 @@ Assets {
         Transform {
           Location {
             X: -66.6914062
-            Y: -10.4832764
+            Y: -10.4833755
             Z: 9.3293457
           }
           Rotation {
-            Pitch: -13.5779724
-            Yaw: -97.0470276
-            Roll: -8.14709473
+            Pitch: -13.5779581
+            Yaw: -97.04702
+            Roll: -8.14710236
           }
           Scale {
             X: 0.651524305
@@ -4211,7 +4209,7 @@ Assets {
             Z: 0.702809155
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4249,13 +4247,13 @@ Assets {
         Transform {
           Location {
             X: -68.546875
-            Y: 11.0141602
-            Z: 8.48864746
+            Y: 11.0136719
+            Z: 8.48852539
           }
           Rotation {
-            Pitch: 39.7628937
-            Yaw: -71.0203552
-            Roll: 17.4920731
+            Pitch: 39.7628784
+            Yaw: -71.0203323
+            Roll: 17.4920826
           }
           Scale {
             X: -0.651524305
@@ -4263,7 +4261,7 @@ Assets {
             Z: 0.702809155
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4301,13 +4299,13 @@ Assets {
         Transform {
           Location {
             X: -46.65625
-            Y: 17.9047852
-            Z: 1.92987061
+            Y: 17.9042969
+            Z: 1.92993164
           }
           Rotation {
             Pitch: 22.4051971
-            Yaw: -74.217041
-            Roll: -92.1300354
+            Yaw: -74.2170258
+            Roll: -92.130043
           }
           Scale {
             X: -0.704431
@@ -4315,7 +4313,7 @@ Assets {
             Z: 0.759880781
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4352,14 +4350,14 @@ Assets {
         Name: "Bone Human Femur 01"
         Transform {
           Location {
-            X: -43.9688797
-            Y: -21.4587402
-            Z: 2.60485077
+            X: -43.9687576
+            Y: -21.4589691
+            Z: 2.60473633
           }
           Rotation {
-            Pitch: -44.7094116
-            Yaw: -106.782318
-            Roll: -96.3972778
+            Pitch: -44.7094
+            Yaw: -106.78231
+            Roll: -96.3972626
           }
           Scale {
             X: 0.704431
@@ -4367,7 +4365,7 @@ Assets {
             Z: 0.759880781
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4404,14 +4402,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -1.52664185
-            Y: -20.1673584
-            Z: 1.45903778
+            X: -1.5268631
+            Y: -20.1669903
+            Z: 1.45898438
           }
           Rotation {
-            Pitch: -60.9640503
-            Yaw: -68.1888733
-            Roll: -86.4741211
+            Pitch: -60.9640388
+            Yaw: -68.1888657
+            Roll: -86.4741135
           }
           Scale {
             X: 0.764523387
@@ -4419,7 +4417,7 @@ Assets {
             Z: 0.824703157
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4456,14 +4454,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -2.18141174
-            Y: 46.4152832
-            Z: 2.25461197
+            X: -2.18164062
+            Y: 46.4150391
+            Z: 2.25463867
           }
           Rotation {
             Pitch: 63.6595879
-            Yaw: -75.0799866
-            Roll: 67.3972
+            Yaw: -75.0799637
+            Roll: 67.3972244
           }
           Scale {
             X: -0.764523387
@@ -4471,7 +4469,7 @@ Assets {
             Z: 0.824703157
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4508,14 +4506,14 @@ Assets {
         Name: "Bone Human Foot 01"
         Transform {
           Location {
-            X: 24.442337
-            Y: 46.4556885
-            Z: 7.65206146
+            X: 24.4423828
+            Y: 46.4560547
+            Z: 7.65209961
           }
           Rotation {
             Pitch: 0.937627852
             Yaw: -67.9440308
-            Roll: -10.382019
+            Roll: -10.3820333
           }
           Scale {
             X: -0.72311157
@@ -4523,7 +4521,7 @@ Assets {
             Z: 0.780031681
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -4560,14 +4558,14 @@ Assets {
         Name: "Bone Human Foot 01"
         Transform {
           Location {
-            X: 29.3106842
-            Y: -15.1998291
-            Z: 9.37147141
+            X: 29.3105412
+            Y: -15.2002048
+            Z: 9.37158203
           }
           Rotation {
             Pitch: 0.937593699
-            Yaw: -113.04335
-            Roll: 1.2278322
+            Yaw: -113.043312
+            Roll: 1.22783196
           }
           Scale {
             X: 0.723097205
@@ -4575,7 +4573,7 @@ Assets {
             Z: 0.780031681
           }
         }
-        ParentId: 12579876508666962509
+        ParentId: 317658744859438920
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -12376,7 +12374,6 @@ Assets {
           }
         }
         ParentId: 4113702657274911112
-        ChildIds: 6164244273905008868
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -12410,45 +12407,6 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
-        Id: 6164244273905008868
-        Name: "Simple Random Shape Index"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 6.41008902
-            Y: 6.41008902
-            Z: 6.41008902
-          }
-        }
-        ParentId: 5291941218224079511
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:MaxIndex"
-            Int: 3
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 12829206983758675477
-          }
         }
       }
     }
