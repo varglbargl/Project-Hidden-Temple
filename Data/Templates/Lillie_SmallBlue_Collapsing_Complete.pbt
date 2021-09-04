@@ -15,9 +15,12 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4522055413780061966
+        ParentId: 4781671109827199097
         ChildIds: 17726071450477734453
         ChildIds: 2728894143230766319
+        ChildIds: 7412746102705617365
+        ChildIds: 4324125085311317887
+        ChildIds: 2934552421430992629
         ChildIds: 18436610408728553400
         ChildIds: 2094183937932899958
         ChildIds: 6670064094323608638
@@ -59,6 +62,7 @@ Assets {
           }
         }
         ParentId: 4226913195513601724
+        ChildIds: 662932354626303631
         ChildIds: 15458955920415960307
         ChildIds: 7609334582087841097
         ChildIds: 6579964554559731816
@@ -81,6 +85,53 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
+        }
+      }
+      Objects {
+        Id: 662932354626303631
+        Name: "Simple VFX Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17726071450477734453
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 7412746102705617365
+            }
+          }
+          Overrides {
+            Name: "cs:VFXTemplate"
+            AssetReference {
+              Id: 2789473858702598162
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 17592175945540610035
+          }
         }
       }
       Objects {
@@ -1347,13 +1398,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -334
-            Y: 104
+            X: -559.94873
+            Y: 400
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610565
+            Yaw: -22.1610718
             Roll: 0.980044365
           }
           Scale {
@@ -1507,8 +1558,8 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 336
-            Y: -106
+            X: 536.844238
+            Y: 30.4511719
             Z: -13.0888672
           }
           Rotation {
@@ -1907,12 +1958,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 300
-            Y: 300
+            X: 340.95166
+            Y: 385.928711
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: -113.125931
             Roll: 2.14387214e-07
           }
@@ -1987,12 +2038,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -300
+            X: -384.000977
             Y: 300
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: 156.8741
           }
           Scale {
@@ -2066,14 +2117,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -300
-            Y: -300
+            X: -330.717285
+            Y: -338.105957
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: 156.874146
-            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -2146,12 +2196,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 300
-            Y: -300
+            X: 347.57959
+            Y: -349.628174
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: 111.874115
           }
           Scale {
@@ -2225,12 +2275,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 150
-            Y: -350
+            X: 231.905762
+            Y: -435.371826
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: 111.874069
           }
           Scale {
@@ -2304,12 +2354,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -200
-            Y: -350
+            X: -437.20166
+            Y: -446.429932
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: 66.8740692
             Roll: 2.14387214e-07
           }
@@ -2384,12 +2434,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 150
-            Y: 350
+            X: -44.5507812
+            Y: 810.480469
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: -158.125977
           }
           Scale {
@@ -2463,12 +2513,12 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -150
-            Y: 300
+            X: -352.750488
+            Y: 593.529785
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823391
+            Pitch: -5.37823486
             Yaw: -158.125977
             Roll: 1.07193607e-07
           }
@@ -16621,6 +16671,7 @@ Assets {
         ChildIds: 16459939871119996721
         ChildIds: 17644865687912402920
         ChildIds: 6622790827209806052
+        ChildIds: 4034686690410260862
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -20861,7 +20912,7 @@ Assets {
           Overrides {
             Name: "ma:Building_Ceiling:id"
             AssetReference {
-              Id: 9919644819108266555
+              Id: 7405585834121208146
             }
           }
           Overrides {
@@ -20877,6 +20928,70 @@ Assets {
               G: 0.681000054
               B: 0.520858
               A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7207757223016895409
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4034686690410260862
+        Name: "Cobblestone Floor - Basic"
+        Transform {
+          Location {
+            Y: 1200
+            Z: 1200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 3
+            Y: 3
+            Z: 1
+          }
+        }
+        ParentId: 4581587952595072092
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Floor:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:id"
+            AssetReference {
+              Id: 9919644819108266555
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Floor:id"
+            AssetReference {
+              Id: 7405585834121208146
             }
           }
         }
@@ -21859,13 +21974,14 @@ Assets {
         Transform {
           Location {
             X: 200
+            Z: 1200
           }
           Rotation {
           }
           Scale {
-            X: 5
-            Y: 5
-            Z: 6
+            X: 6
+            Y: 6
+            Z: 6.00000048
           }
         }
         ParentId: 2728894143230766319
@@ -21878,11 +21994,11 @@ Assets {
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 6
+            Float: 5
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 4
+            Float: 3
           }
           Overrides {
             Name: "ma:Shared_DamagedEdge:color"
@@ -21917,7 +22033,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2559048453598937513
+            Id: 15514223616999428409
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -21929,6 +22045,235 @@ Assets {
               LinearDamping: 0.01
             }
             BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7412746102705617365
+        Name: "Kill Zone"
+        Transform {
+          Location {
+            X: 1200
+            Z: -1000
+          }
+          Rotation {
+          }
+          Scale {
+            X: 23
+            Y: 23
+            Z: 4
+          }
+        }
+        ParentId: 4226913195513601724
+        ChildIds: 14911313492206437891
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 14911313492206437891
+        Name: "Kill Zone"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.0434782617
+            Y: 0.0434782617
+            Z: 0.25
+          }
+        }
+        ParentId: 7412746102705617365
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 1088534770586260933
+          }
+        }
+      }
+      Objects {
+        Id: 4324125085311317887
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 100
+            Z: 175
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 4226913195513601724
+        ChildIds: 10321350152637325972
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 10321350152637325972
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4324125085311317887
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
+        Id: 2934552421430992629
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 2300
+            Z: 175
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 4226913195513601724
+        ChildIds: 11206981708813503262
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 11206981708813503262
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 2934552421430992629
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
           }
         }
       }
@@ -28317,12 +28662,12 @@ Assets {
       }
     }
     Assets {
-      Id: 2559048453598937513
-      Name: "Urban Damaged Concrete Pillar - Bottom 01"
+      Id: 15514223616999428409
+      Name: "Fantasy Castle Pillar 02 - Mid"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_ts_urb_dest_concrete_pillar_bottom_002_ref"
+        AssetId: "sm_ts_fan_cas_pillar_002_mid"
       }
     }
     Assets {

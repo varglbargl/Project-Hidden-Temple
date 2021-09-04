@@ -300,4 +300,5 @@ Assets {
     }
   }
   SerializationVersion: 97
+  VirtualFolderPath: "VFX"
 }

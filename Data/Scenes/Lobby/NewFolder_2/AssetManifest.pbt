@@ -1,54 +1,72 @@
 Assets {
-  Id: 16606065455527485578
-  Name: "Crescent - 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_crescent_001"
-  }
-}
-Assets {
-  Id: 12948276346167200446
-  Name: "Frame Large Straight - Neon 2 Sided Ending"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_Neon3_Ender_2s"
-  }
-}
-Assets {
-  Id: 10469461004950292679
-  Name: "Pipe - T-Intersection Thick"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_T_intersection_003"
-  }
-}
-Assets {
-  Id: 9501471890628041237
-  Name: "Metal Gold 01"
+  Id: 13204992981578163654
+  Name: "Metal Chrome"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_001"
+    AssetId: "chrome_001"
   }
 }
 Assets {
-  Id: 5358613135982077883
-  Name: "Star - Beveled"
+  Id: 9718010419719203372
+  Name: "Cylinder - Rounded Bottom-Aligned"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_star_beveled_001"
+    AssetId: "sm_cylinder_rounded_001"
   }
 }
 Assets {
-  Id: 4553827069405744674
-  Name: "Metal Old Beaten Gold 02"
+  Id: 9678741574639292826
+  Name: "Sphere - Half Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hemisphere_002"
+  }
+}
+Assets {
+  Id: 9258812049024871290
+  Name: "Cone - Truncated Hollow Wide Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_hollow_006"
+  }
+}
+Assets {
+  Id: 6000681835192046231
+  Name: "Pipe - Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_004"
+  }
+}
+Assets {
+  Id: 3702191406046426907
+  Name: "Emissive Glow Transparent"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_002"
+    AssetId: "mi_basic_emissive_001"
+  }
+}
+Assets {
+  Id: 2870906878820740500
+  Name: "Capsule"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_capsule_001"
+  }
+}
+Assets {
+  Id: 697130077529532955
+  Name: "Metal Painted Basic 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_painted_metal_basic_001"
   }
 }

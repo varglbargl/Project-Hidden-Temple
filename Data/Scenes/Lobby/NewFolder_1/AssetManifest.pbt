@@ -1,27 +1,72 @@
 Assets {
-  Id: 16649566045404328406
-  Name: "Ice Ground Transparent"
+  Id: 13204992981578163654
+  Name: "Metal Chrome"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_ice_transparent_ground"
+    AssetId: "chrome_001"
   }
 }
 Assets {
-  Id: 2334544987888047179
-  Name: "Flower Wild Lily 01"
+  Id: 9718010419719203372
+  Name: "Cylinder - Rounded Bottom-Aligned"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_foliage_gen_flower_wild_lily_001_ref"
+    AssetId: "sm_cylinder_rounded_001"
   }
 }
 Assets {
-  Id: 1301899905871290724
-  Name: "Sci-fi Gear Large 02"
+  Id: 9678741574639292826
+  Name: "Sphere - Half Thin"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sf_gen_gear_large_02"
+    AssetId: "sm_hemisphere_002"
+  }
+}
+Assets {
+  Id: 9258812049024871290
+  Name: "Cone - Truncated Hollow Wide Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_hollow_006"
+  }
+}
+Assets {
+  Id: 6000681835192046231
+  Name: "Pipe - Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_004"
+  }
+}
+Assets {
+  Id: 3702191406046426907
+  Name: "Emissive Glow Transparent"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_emissive_001"
+  }
+}
+Assets {
+  Id: 2870906878820740500
+  Name: "Capsule"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_capsule_001"
+  }
+}
+Assets {
+  Id: 697130077529532955
+  Name: "Metal Painted Basic 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_painted_metal_basic_001"
   }
 }

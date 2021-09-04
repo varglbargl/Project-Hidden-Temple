@@ -1,14 +1,14 @@
 Name: "Light_3"
-RootId: 8894262821642012585
+RootId: 6908494243763904029
 Objects {
-  Id: 9720745311628857745
+  Id: 17070243936478731741
   Name: "NewFolder"
   Transform {
     Location {
-      X: 51.512207
+      X: 51.5122299
     }
     Rotation {
-      Pitch: 5.07094383
+      Pitch: 13.3036299
     }
     Scale {
       X: 0.722611904
@@ -16,7 +16,7 @@ Objects {
       Z: 0.722611904
     }
   }
-  ParentId: 8894262821642012585
+  ParentId: 6908494243763904029
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -35,7 +35,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8490707494120793383
+  Id: 7209647632226472498
   Name: "Mecha - Frame - Hinge 01"
   Transform {
     Location {
@@ -51,7 +51,7 @@ Objects {
       Z: 0.839213789
     }
   }
-  ParentId: 8894262821642012585
+  ParentId: 6908494243763904029
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

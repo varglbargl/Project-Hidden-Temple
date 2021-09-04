@@ -72,6 +72,7 @@ end
 
 function Utils.formatInt(amount)
   local formatted = math.floor(amount)
+
   while true do
     formatted, k = string.gsub(formatted, "^(-?%d+)(%d%d%d)", '%1,%2')
     if (k==0) then
@@ -121,14 +122,10 @@ function Utils.groundBelowPoint(vec3)
   end
 end
 
-function Utils.playSoundEffect(audio, location, params)
+function Utils.playSoundEffect(audio, params)
   if not audio then return end
 
-  if type(location) == "table" and not location:IsA("Vector3") then
-    params = location
-  else
-    params = params or {}
-  end
+  params = params or {}
 
   local sfx = World.SpawnAsset(audio)
 
@@ -146,17 +143,22 @@ function Utils.playSoundEffect(audio, location, params)
   sfx.stopTime = params.stopTime or 0
   sfx.isAutoRepeatEnabled = params.isAutoRepeatEnabled or params.loop or false
 
-  if location then
-    sfx:SetWorldPosition(location)
-    sfx.radius = params.radius or 1000
+  if params.position then
+    sfx:SetWorldPosition(params.position)
+    sfx.radius = params.radius or 500
+    sfx.radius = sfx.radius * sfx.volume
     sfx.falloff = params.falloff or 5000
+    sfx.falloff = sfx.falloff * sfx.volume
   else
     sfx.isAttenuationEnabled = params.isAttenuationEnabled or params.attenuation or false
     sfx.isOcclusionEnabled = params.isOcclusionEnabled or params.occlusion or false
     sfx.isSpatializationEnabled = params.isSpatializationEnabled or params.spatialization or false
   end
 
-  sfx:Play()
+
+  if params.isAutoPlayEnabled == true or params.autoPlay == true or (params.isAutoPlayEnabled == nil and params.autoPlay == nil) then
+    sfx:Play()
+  end
 
   return sfx
 end

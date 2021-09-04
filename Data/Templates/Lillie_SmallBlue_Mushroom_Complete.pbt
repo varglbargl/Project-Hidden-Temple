@@ -15,9 +15,11 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 10736749405717629058
+        ParentId: 4781671109827199097
         ChildIds: 6234959682301148345
         ChildIds: 17304023055147043556
+        ChildIds: 4810600283127123906
+        ChildIds: 1353585995474608724
         ChildIds: 16981965868166550929
         ChildIds: 5527010000523588185
         ChildIds: 9437184154336222522
@@ -56,6 +58,9 @@ Assets {
         Name: "ClientContext"
         Transform {
           Location {
+            X: 1100
+            Y: -200
+            Z: -1200
           }
           Rotation {
           }
@@ -855,6 +860,9 @@ Assets {
         Name: "StaticContext"
         Transform {
           Location {
+            X: 1100
+            Y: -200
+            Z: -1200
           }
           Rotation {
           }
@@ -3981,7 +3989,6 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.00500000035
             }
           }
         }
@@ -4104,7 +4111,6 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.00500000035
             }
           }
         }
@@ -4321,7 +4327,6 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.00500000035
             }
           }
         }
@@ -4444,7 +4449,6 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.00500000035
             }
           }
         }
@@ -4518,7 +4522,6 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.00500000035
             }
           }
         }
@@ -4592,7 +4595,6 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.00500000035
             }
           }
         }
@@ -4626,13 +4628,166 @@ Assets {
         }
       }
       Objects {
-        Id: 16981965868166550929
-        Name: "Trigger"
+        Id: 4810600283127123906
+        Name: "Spawn Point Setter"
         Transform {
           Location {
-            X: 100
-            Y: 200
-            Z: 225
+            X: 50
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 8865138067505395975
+        ChildIds: 17436815044005763625
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 17436815044005763625
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4810600283127123906
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
+        Id: 1353585995474608724
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 2350
+            Z: 200
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 8865138067505395975
+        ChildIds: 11670597772213237695
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 11670597772213237695
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1353585995474608724
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
+        Id: 16981965868166550929
+        Name: "Kill Zone"
+        Transform {
+          Location {
+            X: 1200
+            Z: -975
           }
           Rotation {
           }
@@ -4706,13 +4861,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -141.800781
-            Y: -594.703125
-            Z: 475
+            X: 958.199219
+            Y: -794.703125
+            Z: -725
           }
           Rotation {
             Pitch: -5
             Yaw: -35
+            Roll: 1.0712936e-07
           }
           Scale {
             X: 1.30000007
@@ -5265,13 +5421,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -524.157227
-            Y: -98.3847656
-            Z: 475
+            X: 575.842773
+            Y: -298.384766
+            Z: -725
           }
           Rotation {
             Pitch: -5
-            Yaw: 35.0000076
+            Yaw: 35.0000114
           }
           Scale {
             X: 1.30000007
@@ -5824,13 +5980,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -650
-            Y: 651.291
-            Z: 475
+            X: 450
+            Y: 451.291016
+            Z: -725
           }
           Rotation {
             Pitch: -5
             Yaw: -55
+            Roll: 2.14258719e-07
           }
           Scale {
             X: 1.30000007
@@ -6383,9 +6540,9 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 53.5810547
-            Y: 1000
-            Z: 475
+            X: 1153.58105
+            Y: 800
+            Z: -725
           }
           Rotation {
             Pitch: -5
@@ -6942,9 +7099,9 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 750
-            Y: 575
-            Z: 475
+            X: 1850
+            Y: 375
+            Z: -725
           }
           Rotation {
             Pitch: -5
@@ -7501,13 +7658,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -524.157227
-            Y: -98.3847656
-            Z: 475
+            X: 575.842773
+            Y: -298.384766
+            Z: -725
           }
           Rotation {
             Pitch: -5
-            Yaw: 35.0000076
+            Yaw: 35.0000114
           }
           Scale {
             X: 1.30000007
@@ -8060,14 +8217,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 619.466309
-            Y: -56.3945312
-            Z: 475
+            X: 1719.46631
+            Y: -256.394531
+            Z: -725
           }
           Rotation {
             Pitch: -5
             Yaw: 70
-            Roll: 2.14258719e-07
+            Roll: 4.28517438e-07
           }
           Scale {
             X: 1.30000007
@@ -8620,9 +8777,9 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -577.768066
-            Y: 651.291
-            Z: 475
+            X: 522.231934
+            Y: 451.291016
+            Z: -725
           }
           Rotation {
             Pitch: -5
@@ -9179,9 +9336,9 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -694.20166
-            Y: -503.345703
-            Z: 475
+            X: 405.79834
+            Y: -703.345703
+            Z: -725
           }
           Rotation {
             Pitch: -5
@@ -9738,13 +9895,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 849.998535
-            Y: -574.998047
-            Z: 475
+            X: 1949.99854
+            Y: -774.998047
+            Z: -725
           }
           Rotation {
             Pitch: -5
             Yaw: -90
+            Roll: 2.14258719e-07
           }
           Scale {
             X: 1.30000007
@@ -10297,13 +10455,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: -643.788574
-            Y: 1084.74805
-            Z: 475
+            X: 456.211426
+            Y: 884.748047
+            Z: -725
           }
           Rotation {
             Pitch: -5
-            Yaw: 25
+            Yaw: 24.9999809
           }
           Scale {
             X: 1.30000007
@@ -10856,13 +11014,14 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 341.696289
-            Y: -480.101562
-            Z: 475
+            X: 1441.69629
+            Y: -680.101562
+            Z: -725
           }
           Rotation {
             Pitch: -5
-            Yaw: 10
+            Yaw: 10.0000143
+            Roll: 2.67823399e-08
           }
           Scale {
             X: 1.30000007
@@ -11415,13 +11574,13 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 546.965332
-            Y: 1117.67773
-            Z: 475
+            X: 1646.96533
+            Y: 917.677734
+            Z: -725
           }
           Rotation {
             Pitch: -5
-            Yaw: 45
+            Yaw: 44.9999962
           }
           Scale {
             X: 1.30000007
@@ -11974,12 +12133,12 @@ Assets {
         Name: "Jellyshroom"
         Transform {
           Location {
-            X: 100
-            Y: 150
-            Z: 2200
+            X: 1200
+            Y: -50
+            Z: 1000
           }
           Rotation {
-            Roll: -174.999985
+            Roll: -174.999969
           }
           Scale {
             X: 4.3
