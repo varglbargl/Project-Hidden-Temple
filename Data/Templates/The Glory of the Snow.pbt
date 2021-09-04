@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 18429132675861728227
         ChildIds: 14018336641319157759
         ChildIds: 697200198560580496
         WantsNetworking: true
@@ -113,7 +113,7 @@ Assets {
           }
         }
         ParentId: 2242433899993873762
-        ChildIds: 17857399611468859356
+        ChildIds: 16232403820110827900
         ChildIds: 9737736659870996615
         WantsNetworking: true
         Collidable_v2 {
@@ -132,8 +132,8 @@ Assets {
         }
       }
       Objects {
-        Id: 17857399611468859356
-        Name: "NewFolder"
+        Id: 16232403820110827900
+        Name: "Group"
         Transform {
           Location {
             Z: 30
@@ -147,9 +147,9 @@ Assets {
           }
         }
         ParentId: 697200198560580496
+        ChildIds: 9841305668482824652
         ChildIds: 5222033946592599067
         ChildIds: 4870309022857990391
-        ChildIds: 9841305668482824652
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -163,8 +163,61 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "NewFolder_1"
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9841305668482824652
+        Name: "Sci-fi Gear Large 02"
+        Transform {
+          Location {
+            Z: -18
+          }
+          Rotation {
+            Roll: -89.9999924
+          }
+          Scale {
+            X: 0.390346974
+            Y: 0.487933606
+            Z: 0.390346974
+          }
+        }
+        ParentId: 16232403820110827900
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Nature_Leaves:id"
+            AssetReference {
+              Id: 16649566045404328406
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 1301899905871290724
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
         }
       }
       Objects {
@@ -181,7 +234,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17857399611468859356
+        ParentId: 16232403820110827900
         UnregisteredParameters {
           Overrides {
             Name: "cs:Speed"
@@ -222,7 +275,7 @@ Assets {
             Z: 0.549193263
           }
         }
-        ParentId: 17857399611468859356
+        ParentId: 16232403820110827900
         UnregisteredParameters {
           Overrides {
             Name: "ma:Nature_Leaves:id"
@@ -246,60 +299,6 @@ Assets {
         CoreMesh {
           MeshAsset {
             Id: 2334544987888047179
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9841305668482824652
-        Name: "Sci-fi Gear Large 02"
-        Transform {
-          Location {
-            Z: -18
-          }
-          Rotation {
-            Roll: -90
-          }
-          Scale {
-            X: 0.390346974
-            Y: 0.487933606
-            Z: 0.390346974
-          }
-        }
-        ParentId: 17857399611468859356
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Nature_Leaves:id"
-            AssetReference {
-              Id: 16649566045404328406
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 1301899905871290724
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -398,12 +397,12 @@ Assets {
       }
     }
     Assets {
-      Id: 2334544987888047179
-      Name: "Flower Wild Lily 01"
+      Id: 1301899905871290724
+      Name: "Sci-fi Gear Large 02"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_foliage_gen_flower_wild_lily_001_ref"
+        AssetId: "sm_sf_gen_gear_large_02"
       }
     }
     Assets {
@@ -416,12 +415,12 @@ Assets {
       }
     }
     Assets {
-      Id: 1301899905871290724
-      Name: "Sci-fi Gear Large 02"
+      Id: 2334544987888047179
+      Name: "Flower Wild Lily 01"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_sf_gen_gear_large_02"
+        AssetId: "sm_foliage_gen_flower_wild_lily_001_ref"
       }
     }
     Assets {
