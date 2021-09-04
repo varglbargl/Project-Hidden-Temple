@@ -20,6 +20,23 @@ Objects {
   ChildIds: 15474652366928244300
   ChildIds: 9501029242626707890
   ChildIds: 16273416948258391970
+  ChildIds: 5655188635870329828
+  ChildIds: 1314173204896775892
+  ChildIds: 2270845258927061746
+  ChildIds: 11307474539542729157
+  ChildIds: 2797445499085822298
+  ChildIds: 3773113449163292676
+  ChildIds: 12137691704571865192
+  ChildIds: 13349813437145267142
+  ChildIds: 4204572351545207907
+  ChildIds: 18388602965878675141
+  ChildIds: 13114130149130859172
+  ChildIds: 16202568797085382493
+  ChildIds: 4684619005736113002
+  ChildIds: 10815629595148584142
+  ChildIds: 15748951030116191034
+  ChildIds: 15287394261973310574
+  ChildIds: 18013163226054449646
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32,6 +49,772 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 18013163226054449646
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 11200
+      Y: 8800
+      Z: -600
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 5
+      Y: 1
+      Z: 10
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 4627105838492323647
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15287394261973310574
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 10400
+      Y: 12800
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10400
+            Y: 9600
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 15748951030116191034
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 12800
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9600
+            Y: 9600
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 10815629595148584142
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 10400
+      Y: 12000
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10400
+            Y: 12800
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 4684619005736113002
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 12000
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9600
+            Y: 12800
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 16202568797085382493
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 12000
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10400
+            Y: 12000
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 13114130149130859172
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 11200
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10400
+            Y: 11200
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 18388602965878675141
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 10400
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10400
+            Y: 10400
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 4204572351545207907
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 10400
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 8800
+            Y: 10400
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 13349813437145267142
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 11200
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9600
+            Y: 10400
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 12137691704571865192
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 9600
+      Y: 12000
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9600
+            Y: 11200
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 3773113449163292676
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 8800
+      Y: 12000
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9600
+            Y: 12000
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 2797445499085822298
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 8800
+      Y: 11200
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 8800
+            Y: 12000
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 11307474539542729157
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 8800
+            Y: 11200
+            Z: -600
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 2270845258927061746
+  Name: "Lillie.RedRoom.Elevators"
+  Transform {
+    Location {
+      X: 8800
+      Y: 11200
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lillie_RedRoom_Elevators"
+  }
+}
+Objects {
+  Id: 1314173204896775892
+  Name: "Lillie.Complete"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lillie_Complete"
+  }
+}
+Objects {
+  Id: 5655188635870329828
+  Name: "Lillie.LargeBlue.AutoMushroom"
+  Transform {
+    Location {
+      Y: 16200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lillie_LargeBlue_AutoMushroom"
   }
 }
 Objects {
