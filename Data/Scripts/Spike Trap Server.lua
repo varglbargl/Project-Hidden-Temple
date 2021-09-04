@@ -24,7 +24,7 @@ function onBeginOverlap(thisTrigger, other)
   active = false
 
   World.SpawnAsset(KILL_TRAP_VFX, {position = other:GetWorldPosition()})
-  Utils.playSoundEffect(SPIKE_SFX, TRIGGER:GetWorldPosition())
+  Utils.playSoundEffect(SPIKE_SFX, {position = TRIGGER:GetWorldPosition()})
 
   Task.Wait(1)
 

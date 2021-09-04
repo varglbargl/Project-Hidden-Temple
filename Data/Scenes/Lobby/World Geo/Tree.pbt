@@ -1,6 +1,1744 @@
 Name: "World Geo"
 RootId: 10045885269598533116
 Objects {
+  Id: 18237076237419308918
+  Name: "Track Lights"
+  Transform {
+    Location {
+      X: -1480
+      Y: -1170
+      Z: 923.355347
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 0.553764343
+      Y: 0.553764343
+      Z: 0.553764343
+    }
+  }
+  ParentId: 10045885269598533116
+  ChildIds: 8915826315915167119
+  ChildIds: 15022247618621291812
+  ChildIds: 6908494243763904029
+  ChildIds: 3454292212345561903
+  ChildIds: 4634446229242315971
+  ChildIds: 17440887670639316630
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17440887670639316630
+  Name: "Light"
+  Transform {
+    Location {
+      X: 7.22637558
+      Y: 59.0597267
+      Z: 26.9779987
+    }
+    Rotation {
+      Roll: 21.7637138
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18237076237419308918
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Light"
+  }
+}
+Objects {
+  Id: 4634446229242315971
+  Name: "Light"
+  Transform {
+    Location {
+      X: 7.22631836
+      Y: -172.780365
+      Z: 26.9780273
+    }
+    Rotation {
+      Roll: 33.091362
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18237076237419308918
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Light_1"
+  }
+}
+Objects {
+  Id: 3454292212345561903
+  Name: "Light"
+  Transform {
+    Location {
+      X: 7.22637558
+      Y: -57.4330101
+      Z: 26.9779987
+    }
+    Rotation {
+      Roll: 2.6133728
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18237076237419308918
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Light_2"
+  }
+}
+Objects {
+  Id: 6908494243763904029
+  Name: "Light"
+  Transform {
+    Location {
+      X: 7.22631836
+      Y: 169.096252
+      Z: 26.9780273
+    }
+    Rotation {
+      Roll: -24.9368286
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18237076237419308918
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Light_3"
+  }
+}
+Objects {
+  Id: 15022247618621291812
+  Name: "Main Street Window Detail 01"
+  Transform {
+    Location {
+      X: -9.02911186
+      Y: 0.145598844
+      Z: 70.1508636
+    }
+    Rotation {
+      Yaw: -89.9999847
+    }
+    Scale {
+      X: 1.67103207
+      Y: 0.294780046
+      Z: 0.824529
+    }
+  }
+  ParentId: 18237076237419308918
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.5
+        G: 0.300000399
+        B: 0.125
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18045522745443426933
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8915826315915167119
+  Name: "Barrier Caution Light 2"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 3.3
+      Y: 1.7
+      Z: 1.49999988
+    }
+  }
+  ParentId: 18237076237419308918
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.025
+        G: 0.025
+        B: 0.025
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.025
+        G: 0.025
+        B: 0.025
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.025
+        G: 0.025
+        B: 0.025
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 74322620699988143
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10833112748027586550
+  Name: "Container - Rectangle Thin 01"
+  Transform {
+    Location {
+      X: -1200
+      Y: -378
+      Z: 275
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 1.30000007
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13161437026201347542
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 0.3
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9168964345019580429
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11263024281718099564
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -1200
+      Y: -378
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 4
+      Z: 1.2
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 42714158796796980
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1517563405051725649
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1301
+      Y: -243.000061
+      Z: 106.101891
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6429033835574583877
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1301
+      Y: -364.35849
+      Z: 106.101891
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11553978613737549907
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1301
+      Y: -476
+      Z: 106.101891
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4076125308361721678
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1194
+      Y: -580
+      Z: 106.101891
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11200678842364560907
+  Name: "Carpet Tile 02"
+  Transform {
+    Location {
+      X: -1198.1167
+      Y: -378.008179
+      Z: 145.16037
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.247973636
+      Y: 0.465406626
+      Z: 0.0718036145
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2111453326813778527
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.833000064
+        G: 0.833000064
+        B: 0.833000064
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15242379068589409348
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2552435758612429986
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1098.33594
+      Y: -300.911194
+      Z: 103.486755
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2986448589903774997
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1098.33594
+      Y: -459.289978
+      Z: 103.486755
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9643584696570035648
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -2108.78564
+      Y: -616
+      Z: 235.640076
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16496330837977041564
+  Name: "Container - Square Thin 01"
+  Transform {
+    Location {
+      X: -2110
+      Y: -616.159363
+      Z: 340
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 178.734131
+      Roll: 178.734146
+    }
+    Scale {
+      X: 1.50000119
+      Y: 1.49999988
+      Z: 2.93273425
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13161437026201347542
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 0.3
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14077945805147147789
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8041088073852443102
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -2176
+      Y: -616.159363
+      Z: 340
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 1.6
+      Y: 1.6
+      Z: 0.2
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 42714158796796980
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5420540709902671560
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1953.0144
+      Y: -770
+      Z: 150.130661
+    }
+    Rotation {
+      Yaw: 89.9999466
+      Roll: 30.0000057
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1841332010775047123
+  Name: "Frame Large Straight - Neon 1 Sided Ending"
+  Transform {
+    Location {
+      X: -1937.89746
+      Y: -748.653809
+      Z: 29.0099182
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.53013539
+      Y: 1.53013539
+      Z: 1.53013539
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Font_Neon:id"
+      AssetReference {
+        Id: 6954370053071083141
+      }
+    }
+    Overrides {
+      Name: "ma:Font_Neon:color"
+      Color {
+        R: 0.05
+        G: 0.05
+        B: 0.05
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3331953469136151669
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8762010170163140627
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -1984.56189
+      Y: -767.417542
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.470217347
+      Y: 0.470217347
+      Z: 0.0993004665
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 42714158796796980
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6801006008124900252
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1194
+      Y: 98
+      Z: 106.101891
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14480529213295052495
+  Name: "Japanese - Stand Katana - Back 01"
+  Transform {
+    Location {
+      X: -1301
+      Y: 202
+      Z: 106.101891
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.28683472
+      Y: 0.306055099
+      Z: 1.39407039
+    }
+  }
+  ParentId: 10045885269598533116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 9501471890628041237
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4096729604259603915
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:utile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:vtile"
+      Float: 8
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:vtile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.3
+        G: 0.18
+        B: 0.15
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9389700171961126223
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
   Id: 4411302984636044749
   Name: "World Text"
   Transform {
@@ -7870,65 +9608,6 @@ Objects {
   }
 }
 Objects {
-  Id: 7861682222435032405
-  Name: "Main Street Window Detail 01"
-  Transform {
-    Location {
-      X: -2175
-      Y: 283
-      Z: 962.202393
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 0.925357938
-      Y: 0.163238674
-      Z: 0.456594735
-    }
-  }
-  ParentId: 10045885269598533116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.5
-        G: 0.300000399
-        B: 0.125
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 18045522745443426933
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
   Id: 11291649864251531105
   Name: "Frame Large Straight - Neon 1 Sided Ending"
   Transform {
@@ -11254,6 +12933,7 @@ Objects {
   }
   ParentId: 10045885269598533116
   ChildIds: 8961437117125111096
+  ChildIds: 11512610094151670394
   ChildIds: 8894262821642012585
   ChildIds: 17225308208337095406
   ChildIds: 7139836871600601941
@@ -11306,7 +12986,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Light"
+    FilePartitionName: "Light_4"
   }
 }
 Objects {
@@ -11342,7 +13022,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Light_1"
+    FilePartitionName: "Light_5"
   }
 }
 Objects {
@@ -11378,7 +13058,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Light_2"
+    FilePartitionName: "Light_6"
   }
 }
 Objects {
@@ -11414,7 +13094,66 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Light_3"
+    FilePartitionName: "Light_7"
+  }
+}
+Objects {
+  Id: 11512610094151670394
+  Name: "Main Street Window Detail 01"
+  Transform {
+    Location {
+      X: -9.02911186
+      Y: 0.145598844
+      Z: 70.1508636
+    }
+    Rotation {
+      Yaw: -89.9999847
+    }
+    Scale {
+      X: 1.67103207
+      Y: 0.294780046
+      Z: 0.824529
+    }
+  }
+  ParentId: 10698122471350787528
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.5
+        G: 0.300000399
+        B: 0.125
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18045522745443426933
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
   }
 }
 Objects {
@@ -11424,7 +13163,7 @@ Objects {
     Location {
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 3.3
