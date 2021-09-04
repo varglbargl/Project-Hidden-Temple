@@ -26,30 +26,12 @@ Assets {
   }
 }
 Assets {
-  Id: 16002910628670989661
-  Name: "Japanese Temple Window 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_window_002_ref"
-  }
-}
-Assets {
   Id: 14321179348205592444
   Name: "Icon Checkmark"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "Icon_Checkmark"
-  }
-}
-Assets {
-  Id: 14168398863287093895
-  Name: "Material Rolling Movement Rock Heavy Rumble 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_material_rolling_movement__rock_heavy_rumble_01_Cue_ref"
   }
 }
 Assets {
@@ -89,15 +71,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11548056621048754161
-  Name: "Stone Basic"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "stone_001"
-  }
-}
-Assets {
   Id: 11515840070784317904
   Name: "Skylight"
   PlatformAssetType: 6
@@ -125,30 +98,12 @@ Assets {
   }
 }
 Assets {
-  Id: 9505772752897726232
-  Name: "Stone Block Standard"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_block_01"
-  }
-}
-Assets {
   Id: 9354654774360822870
   Name: "Ambient Occlusion Post Process"
   PlatformAssetType: 20
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_post_process_ao"
-  }
-}
-Assets {
-  Id: 9141166204897324945
-  Name: "Japanese Temple Pillar 01 - Top 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_pillar_001_top_01_ref"
   }
 }
 Assets {
@@ -206,15 +161,6 @@ Assets {
   }
 }
 Assets {
-  Id: 7132506623975821490
-  Name: "Japanese Temple Window Frame 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_window_frame_003_ref"
-  }
-}
-Assets {
   Id: 7043833864309739883
   Name: "Icon Close"
   PlatformAssetType: 9
@@ -251,47 +197,11 @@ Assets {
   }
 }
 Assets {
-  Id: 3207209794344723515
-  Name: "Vehicle Plastic Switch Panel Button Click 04 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_vehicle_plastic_switch_panel_button_click_04a_Cue_ref"
-  }
-}
-Assets {
   Id: 2224571462023946700
   Name: "Environment Fog Default VFX"
   PlatformAssetType: 6
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_env_fog_default"
-  }
-}
-Assets {
-  Id: 1425671561205502187
-  Name: "Metal Iron Rusted 02"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_003"
-  }
-}
-Assets {
-  Id: 1158927403088505630
-  Name: "Large Wooden Fortress Gate Door Shut Open Close 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_large_wooden_fortress_gate_door_shut_open_close_01_Cue_ref"
-  }
-}
-Assets {
-  Id: 69844939897041847
-  Name: "Emissive Glow Opaque"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_opaque_emissive"
   }
 }
