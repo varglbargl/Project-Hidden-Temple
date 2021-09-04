@@ -1125,14 +1125,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
       }
     }
     TemplateAsset {
@@ -12815,14 +12807,6 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Cobblestone Floor - Dead Adventurer"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
         }
         Overrides {
           Name: "Position"

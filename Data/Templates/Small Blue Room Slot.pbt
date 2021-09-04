@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14942283276819918009
+        ParentId: 1678967271314006770
         ChildIds: 10469489541370138339
         UnregisteredParameters {
           Overrides {
@@ -55,7 +55,7 @@ Assets {
           }
         }
         ParentId: 10318781853666642589
-        ChildIds: 8412863760496897369
+        ChildIds: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -74,7 +74,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8412863760496897369
+        Id: 3699671109856884898
         Name: "Placeholder Geo"
         Transform {
           Location {
@@ -154,7 +154,7 @@ Assets {
         ChildIds: 2898460811700648556
         ChildIds: 1429760646553439739
         ChildIds: 16349748708424944140
-        Lifespan: 0.01
+        Lifespan: 0.001
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -168,7 +168,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -188,7 +188,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -282,7 +282,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -368,7 +368,7 @@ Assets {
             Y: 1199.9989
           }
           Rotation {
-            Yaw: -90.0000076
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -376,7 +376,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -462,7 +462,7 @@ Assets {
             Y: 400.000031
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -470,7 +470,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -556,7 +556,7 @@ Assets {
             Y: -399.999817
           }
           Rotation {
-            Yaw: -90.0000076
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -564,7 +564,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -658,7 +658,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -752,7 +752,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -846,7 +846,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -932,7 +932,7 @@ Assets {
             Y: -399.991943
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 89.9999619
           }
           Scale {
             X: 1
@@ -940,7 +940,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -1034,7 +1034,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -1128,7 +1128,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1177,7 +1177,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1226,7 +1226,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1274,7 +1274,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1311,7 +1311,7 @@ Assets {
         Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
-            X: -0.000885009766
+            X: -0.000854492188
             Y: 399.99762
             Z: -1200
           }
@@ -1323,7 +1323,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1372,7 +1372,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1421,7 +1421,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1470,7 +1470,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1519,7 +1519,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1556,8 +1556,8 @@ Assets {
         Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
-            X: 799.996948
-            Y: -399.998322
+            X: 799.996765
+            Y: -399.998291
             Z: 1200
           }
           Rotation {
@@ -1568,7 +1568,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1616,7 +1616,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1664,7 +1664,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1714,7 +1714,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -1801,7 +1801,7 @@ Assets {
             Z: -600
           }
           Rotation {
-            Yaw: -90.0000229
+            Yaw: -90.0000076
           }
           Scale {
             X: 1
@@ -1809,7 +1809,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -1896,7 +1896,7 @@ Assets {
             Z: -600
           }
           Rotation {
-            Yaw: -90.0000229
+            Yaw: -90.0000076
           }
           Scale {
             X: 1
@@ -1904,7 +1904,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -1986,8 +1986,8 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 799.998
-            Y: 1200.99951
+            X: 799.998169
+            Y: 1200.99939
             Z: -600
           }
           Rotation {
@@ -1999,7 +1999,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2094,7 +2094,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2189,7 +2189,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2284,7 +2284,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2367,7 +2367,7 @@ Assets {
         Transform {
           Location {
             X: 1599.99585
-            Y: 1200.9989
+            Y: 1200.99878
             Z: -600
           }
           Rotation {
@@ -2379,7 +2379,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2474,7 +2474,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2561,7 +2561,7 @@ Assets {
             Z: -600
           }
           Rotation {
-            Yaw: -90.0000229
+            Yaw: -90.0000076
           }
           Scale {
             X: 1
@@ -2569,7 +2569,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2663,7 +2663,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2758,7 +2758,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2840,7 +2840,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1599.99622
+            X: 1599.99597
             Y: -1200.99487
             Z: -600
           }
@@ -2853,7 +2853,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -2935,7 +2935,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1599.99622
+            X: 1599.99597
             Y: -1200.99487
           }
           Rotation {
@@ -2947,7 +2947,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3041,7 +3041,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3090,7 +3090,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3127,8 +3127,8 @@ Assets {
         Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
-            X: 1599.9967
-            Y: 1199.99109
+            X: 1599.99646
+            Y: 1199.99133
             Z: 1200
           }
           Rotation {
@@ -3139,7 +3139,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3188,7 +3188,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3237,7 +3237,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3274,8 +3274,8 @@ Assets {
         Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
-            X: 1599.99182
-            Y: 1199.98767
+            X: 1599.9917
+            Y: 1199.98755
             Z: -1200
           }
           Rotation {
@@ -3286,7 +3286,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -3328,7 +3328,7 @@ Assets {
             Z: -1200
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -3336,7 +3336,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3423,7 +3423,7 @@ Assets {
             Z: -1200
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -3431,7 +3431,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3518,7 +3518,7 @@ Assets {
             Z: -1200
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -3526,7 +3526,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3621,7 +3621,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3703,8 +3703,8 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 799.996216
-            Y: -1200.99365
+            X: 799.996094
+            Y: -1200.99353
             Z: -1200
           }
           Rotation {
@@ -3716,7 +3716,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3811,7 +3811,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -3906,7 +3906,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4001,7 +4001,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4096,7 +4096,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4191,7 +4191,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4286,7 +4286,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4381,7 +4381,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4468,7 +4468,7 @@ Assets {
             Z: 600
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -4476,7 +4476,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4563,7 +4563,7 @@ Assets {
             Z: 600
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -4571,7 +4571,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4658,7 +4658,7 @@ Assets {
             Z: 600
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -89.9999771
           }
           Scale {
             X: 1
@@ -4666,7 +4666,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4761,7 +4761,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4856,7 +4856,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -4951,7 +4951,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -5046,7 +5046,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -5141,7 +5141,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -5236,7 +5236,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -5331,7 +5331,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -5413,7 +5413,7 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1599.96765
+            X: 1599.96753
             Y: 1200.98254
             Z: 600
           }
@@ -5426,7 +5426,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"
@@ -5521,7 +5521,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8412863760496897369
+        ParentId: 3699671109856884898
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_TrimInner:id"

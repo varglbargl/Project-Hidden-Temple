@@ -15,8 +15,8 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15804772536980518840
-        ChildIds: 8511173860336424862
+        ParentId: 16067840293383514247
+        ChildIds: 10993384337484480339
         ChildIds: 17182057046131292837
         ChildIds: 8173303341197500696
         Collidable_v2 {
@@ -36,7 +36,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8511173860336424862
+        Id: 10993384337484480339
         Name: "Skeleton"
         Transform {
           Location {
@@ -88,7 +88,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -101,9 +101,9 @@ Assets {
             Z: 71.0506592
           }
           Rotation {
-            Pitch: -19.6867371
-            Yaw: -110.836319
-            Roll: 24.9261971
+            Pitch: -19.6867142
+            Yaw: -110.836288
+            Roll: 24.9261322
           }
           Scale {
             X: 0.937586725
@@ -111,7 +111,7 @@ Assets {
             Z: 0.937560141
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -155,7 +155,7 @@ Assets {
           Rotation {
             Pitch: 22.9798965
             Yaw: -81.8170776
-            Roll: -65.4322815
+            Roll: -65.4323502
           }
           Scale {
             X: 0.937586844
@@ -163,7 +163,7 @@ Assets {
             Z: 0.796948493
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -205,9 +205,9 @@ Assets {
             Z: 1.04125977
           }
           Rotation {
-            Pitch: -4.71456909
-            Yaw: -9.34567261
-            Roll: -92.6876526
+            Pitch: -4.71456528
+            Yaw: -9.34570503
+            Roll: -92.6875839
           }
           Scale {
             X: -0.648554564
@@ -215,7 +215,7 @@ Assets {
             Z: 0.648554564
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -257,8 +257,8 @@ Assets {
             Z: 10.3501472
           }
           Rotation {
-            Pitch: -23.4107361
-            Yaw: 40.621727
+            Pitch: -23.4107323
+            Yaw: 40.6217079
             Roll: -130.168106
           }
           Scale {
@@ -267,7 +267,7 @@ Assets {
             Z: 0.740770221
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -309,9 +309,9 @@ Assets {
             Z: 9.48417664
           }
           Rotation {
-            Pitch: -53.2134094
+            Pitch: -53.2133675
             Yaw: 138.873413
-            Roll: 165.570465
+            Roll: 165.570419
           }
           Scale {
             X: 0.382026523
@@ -319,7 +319,7 @@ Assets {
             Z: 0.481424719
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -361,9 +361,9 @@ Assets {
             Z: 34.6517944
           }
           Rotation {
-            Pitch: 8.90524101
-            Yaw: -1.46591187
-            Roll: 11.9635363
+            Pitch: 8.90522766
+            Yaw: -1.46591139
+            Roll: 11.9635792
           }
           Scale {
             X: 0.661809862
@@ -371,7 +371,7 @@ Assets {
             Z: 0.799639881
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -414,8 +414,8 @@ Assets {
           }
           Rotation {
             Pitch: 8.51777172
-            Yaw: -78.1347046
-            Roll: 82.0769882
+            Yaw: -78.1346588
+            Roll: 82.0769424
           }
           Scale {
             X: 0.648554564
@@ -423,7 +423,7 @@ Assets {
             Z: 0.648554564
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -465,9 +465,9 @@ Assets {
             Z: 2.60036087
           }
           Rotation {
-            Pitch: 23.9527416
-            Yaw: -61.0343628
-            Roll: 86.8221741
+            Pitch: 23.9527
+            Yaw: -61.0343208
+            Roll: 86.8221436
           }
           Scale {
             X: 0.686714888
@@ -475,7 +475,7 @@ Assets {
             Z: 0.74077
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -517,9 +517,9 @@ Assets {
             Z: 2.1156559
           }
           Rotation {
-            Pitch: 79.9441071
-            Yaw: 105.891846
-            Roll: -96.736969
+            Pitch: 79.9440918
+            Yaw: 105.891777
+            Roll: -96.7370758
           }
           Scale {
             X: 0.3049106
@@ -527,7 +527,7 @@ Assets {
             Z: 0.481425017
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -569,9 +569,9 @@ Assets {
             Z: 18.3727417
           }
           Rotation {
-            Pitch: -0.862609863
-            Yaw: 134.969
-            Roll: 9.75576115
+            Pitch: -0.86261189
+            Yaw: 134.968948
+            Roll: 9.7558
           }
           Scale {
             X: 0.661809862
@@ -579,7 +579,7 @@ Assets {
             Z: 0.813292384
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -621,9 +621,9 @@ Assets {
             Z: 40.6073608
           }
           Rotation {
-            Pitch: -10.2025452
-            Yaw: 92.3826523
-            Roll: 19.1809044
+            Pitch: -10.2025394
+            Yaw: 92.3826141
+            Roll: 19.1809025
           }
           Scale {
             X: 0.661809921
@@ -631,7 +631,7 @@ Assets {
             Z: 0.71390444
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -674,8 +674,8 @@ Assets {
           }
           Rotation {
             Pitch: 4.85856581
-            Yaw: 73.8850403
-            Roll: 19.0132828
+            Yaw: 73.884964
+            Roll: 19.0132847
           }
           Scale {
             X: 0.661809862
@@ -683,7 +683,7 @@ Assets {
             Z: 0.71390444
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -727,7 +727,7 @@ Assets {
           Rotation {
             Pitch: 7.36969852
             Yaw: -60.0816345
-            Roll: -45.3884277
+            Roll: -45.3884697
           }
           Scale {
             X: 0.554414093
@@ -735,7 +735,7 @@ Assets {
             Z: 0.598054647
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -777,9 +777,9 @@ Assets {
             Z: 36.6391678
           }
           Rotation {
-            Pitch: -1.03155518
-            Yaw: -117.203247
-            Roll: -21.6092529
+            Pitch: -1.03154981
+            Yaw: -117.203171
+            Roll: -21.6092148
           }
           Scale {
             X: -0.554414093
@@ -787,7 +787,7 @@ Assets {
             Z: 0.598054647
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -829,9 +829,9 @@ Assets {
             Z: 9.3293457
           }
           Rotation {
-            Pitch: -13.5779724
+            Pitch: -13.5779715
             Yaw: -97.0470276
-            Roll: -8.14709473
+            Roll: -8.14712238
           }
           Scale {
             X: 0.651524305
@@ -839,7 +839,7 @@ Assets {
             Z: 0.702809155
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -881,9 +881,9 @@ Assets {
             Z: 8.48864746
           }
           Rotation {
-            Pitch: 39.7628937
-            Yaw: -71.0203552
-            Roll: 17.4920731
+            Pitch: 39.7628784
+            Yaw: -71.0203476
+            Roll: 17.4921093
           }
           Scale {
             X: -0.651524305
@@ -891,7 +891,7 @@ Assets {
             Z: 0.702809155
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -933,9 +933,9 @@ Assets {
             Z: 1.92987061
           }
           Rotation {
-            Pitch: 22.4051971
-            Yaw: -74.217041
-            Roll: -92.1300354
+            Pitch: 22.4051914
+            Yaw: -74.2169571
+            Roll: -92.13
           }
           Scale {
             X: -0.704431
@@ -943,7 +943,7 @@ Assets {
             Z: 0.759880781
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -985,9 +985,9 @@ Assets {
             Z: 2.60485077
           }
           Rotation {
-            Pitch: -44.7094116
-            Yaw: -106.782318
-            Roll: -96.3972778
+            Pitch: -44.7093964
+            Yaw: -106.782326
+            Roll: -96.3972855
           }
           Scale {
             X: 0.704431
@@ -995,7 +995,7 @@ Assets {
             Z: 0.759880781
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1037,9 +1037,9 @@ Assets {
             Z: 1.45903778
           }
           Rotation {
-            Pitch: -60.9640503
-            Yaw: -68.1888733
-            Roll: -86.4741211
+            Pitch: -60.9640236
+            Yaw: -68.1888809
+            Roll: -86.4741135
           }
           Scale {
             X: 0.764523387
@@ -1047,7 +1047,7 @@ Assets {
             Z: 0.824703157
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1089,9 +1089,9 @@ Assets {
             Z: 2.25461197
           }
           Rotation {
-            Pitch: 63.6595879
-            Yaw: -75.0799866
-            Roll: 67.3972
+            Pitch: 63.6595383
+            Yaw: -75.0799179
+            Roll: 67.3972092
           }
           Scale {
             X: -0.764523387
@@ -1099,7 +1099,7 @@ Assets {
             Z: 0.824703157
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1142,8 +1142,8 @@ Assets {
           }
           Rotation {
             Pitch: 0.937627852
-            Yaw: -67.9440308
-            Roll: -10.382019
+            Yaw: -67.944046
+            Roll: -10.3820639
           }
           Scale {
             X: -0.72311157
@@ -1151,7 +1151,7 @@ Assets {
             Z: 0.780031681
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1194,8 +1194,8 @@ Assets {
           }
           Rotation {
             Pitch: 0.937593699
-            Yaw: -113.04335
-            Roll: 1.2278322
+            Yaw: -113.043259
+            Roll: 1.22783172
           }
           Scale {
             X: 0.723097205
@@ -1203,7 +1203,7 @@ Assets {
             Z: 0.780031681
           }
         }
-        ParentId: 8511173860336424862
+        ParentId: 10993384337484480339
         UnregisteredParameters {
         }
         Collidable_v2 {

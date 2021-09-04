@@ -1,13 +1,13 @@
 Assets {
   Id: 10933507705145411300
-  Name: "Lillie.SmallBlue.LavaSphere.Complete"
+  Name: "Lillie\'s Lava Spheres"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 7341172968084745117
       Objects {
         Id: 7341172968084745117
-        Name: "Lillie.SmallBlue.LavaSphere.Complete"
+        Name: "Lillie\'s Lava Spheres"
         Transform {
           Scale {
             X: 1
@@ -18,8 +18,8 @@ Assets {
         ParentId: 4781671109827199097
         ChildIds: 11145379407761004155
         ChildIds: 9893598046351982961
-        ChildIds: 16034404684478175876
-        ChildIds: 1511916691805071032
+        ChildIds: 5959961149908981711
+        ChildIds: 2556278654938657021
         ChildIds: 18359361775161634629
         ChildIds: 5677388853721527608
         ChildIds: 8688855894098038646
@@ -1153,7 +1153,7 @@ Assets {
           }
           AutoPlay: true
           Pitch: -800
-          Volume: 0.1
+          Volume: 1
           Falloff: 800
           Radius: 1000
           IsSpatializationEnabled: true
@@ -5195,12 +5195,12 @@ Assets {
         }
       }
       Objects {
-        Id: 16034404684478175876
-        Name: "Orb Spinner"
+        Id: 5959961149908981711
+        Name: "Group"
         Transform {
           Location {
             X: 1200
-            Z: -150
+            Z: -200
           }
           Rotation {
           }
@@ -5230,7 +5230,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -5238,7 +5238,7 @@ Assets {
         Name: "Simple Rotate Parent"
         Transform {
           Location {
-            Z: -750
+            Z: -700
           }
           Rotation {
             Yaw: 44.9999924
@@ -5249,7 +5249,7 @@ Assets {
             Z: 0.75
           }
         }
-        ParentId: 16034404684478175876
+        ParentId: 5959961149908981711
         UnregisteredParameters {
           Overrides {
             Name: "cs:Speed"
@@ -5284,7 +5284,7 @@ Assets {
           Location {
             X: -601.041
             Y: -388.910156
-            Z: 150
+            Z: 200
           }
           Rotation {
             Yaw: 44.9999924
@@ -5295,7 +5295,7 @@ Assets {
             Z: 0.374999911
           }
         }
-        ParentId: 16034404684478175876
+        ParentId: 5959961149908981711
         ChildIds: 4380198693457697413
         ChildIds: 7325801916050359881
         ChildIds: 11981663134873508533
@@ -5606,7 +5606,7 @@ Assets {
           Location {
             X: 176.777344
             Y: 388.910156
-            Z: 150
+            Z: 200
           }
           Rotation {
             Yaw: 44.9999924
@@ -5617,7 +5617,7 @@ Assets {
             Z: 0.37499997
           }
         }
-        ParentId: 16034404684478175876
+        ParentId: 5959961149908981711
         ChildIds: 6345801327580098446
         ChildIds: 2377045747181255087
         ChildIds: 10927145420255914913
@@ -5928,7 +5928,7 @@ Assets {
           Location {
             X: -601.041
             Y: 388.910156
-            Z: 150
+            Z: 200
           }
           Rotation {
             Yaw: 44.9999924
@@ -5939,7 +5939,7 @@ Assets {
             Z: 0.37499997
           }
         }
-        ParentId: 16034404684478175876
+        ParentId: 5959961149908981711
         ChildIds: 7793974982951260560
         ChildIds: 149004915597823141
         ChildIds: 8744509796561909659
@@ -6250,7 +6250,7 @@ Assets {
           Location {
             X: 176.777344
             Y: -388.910156
-            Z: 150
+            Z: 200
           }
           Rotation {
             Yaw: 44.9999924
@@ -6261,7 +6261,7 @@ Assets {
             Z: 0.37499997
           }
         }
-        ParentId: 16034404684478175876
+        ParentId: 5959961149908981711
         ChildIds: 17416256511962156103
         ChildIds: 8640043287220436459
         ChildIds: 3169478893676359042
@@ -6566,8 +6566,8 @@ Assets {
         }
       }
       Objects {
-        Id: 1511916691805071032
-        Name: "Orb Spinner"
+        Id: 2556278654938657021
+        Name: "Group"
         Transform {
           Location {
             X: 1200
@@ -6600,7 +6600,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -6618,7 +6618,7 @@ Assets {
             Z: 0.75
           }
         }
-        ParentId: 1511916691805071032
+        ParentId: 2556278654938657021
         UnregisteredParameters {
           Overrides {
             Name: "cs:Speed"
@@ -6663,7 +6663,7 @@ Assets {
             Z: 0.374999911
           }
         }
-        ParentId: 1511916691805071032
+        ParentId: 2556278654938657021
         ChildIds: 15356461610681188484
         ChildIds: 8760740666930394273
         ChildIds: 10494418513472704115
@@ -6920,7 +6920,7 @@ Assets {
             Z: 0.37499997
           }
         }
-        ParentId: 1511916691805071032
+        ParentId: 2556278654938657021
         ChildIds: 14012923922920460661
         ChildIds: 3435663644727412115
         ChildIds: 13933304494388677954
@@ -7177,7 +7177,7 @@ Assets {
             Z: 0.37499997
           }
         }
-        ParentId: 1511916691805071032
+        ParentId: 2556278654938657021
         ChildIds: 15004628646030765229
         ChildIds: 2312541904240554650
         ChildIds: 15976591567414819199
@@ -7434,7 +7434,7 @@ Assets {
             Z: 0.37499997
           }
         }
-        ParentId: 1511916691805071032
+        ParentId: 2556278654938657021
         ChildIds: 6671088031092083236
         ChildIds: 7374514371035281382
         ChildIds: 9203697335534940895

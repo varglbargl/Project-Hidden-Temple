@@ -1,13 +1,13 @@
 Assets {
   Id: 6344117844629440112
-  Name: "Lillie.SmallBlue.Collapsing.Complete"
+  Name: "Lillie\'s Collapsing Platform Spike Pit"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 4226913195513601724
+      RootId: 14270818941105251837
       Objects {
-        Id: 4226913195513601724
-        Name: "Lillie.SmallBlue.Collapsing.Complete"
+        Id: 14270818941105251837
+        Name: "Lillie\'s Collapsing Platform Spike Pit"
         Transform {
           Scale {
             X: 1
@@ -43,8 +43,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Lillie_SmallBlue_Collapsing_Complete"
+          IsGroup: true
         }
       }
       Objects {
@@ -61,7 +60,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 662932354626303631
         ChildIds: 15458955920415960307
         ChildIds: 7609334582087841097
@@ -586,45 +585,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
-        ChildIds: 7257596596909657616
-        ChildIds: 4581587952595072092
-        ChildIds: 5315610724973487112
-        ChildIds: 11503998299981646835
-        ChildIds: 5236422702237743535
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-          Type: RuntimeStatic
-        }
-      }
-      Objects {
-        Id: 7257596596909657616
-        Name: "Spikes"
-        Transform {
-          Location {
-            X: 200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2728894143230766319
+        ParentId: 14270818941105251837
         ChildIds: 3779224834438762153
         ChildIds: 6332565130814064038
         ChildIds: 11869863651796132104
@@ -823,6 +784,72 @@ Assets {
         ChildIds: 18101973676623377210
         ChildIds: 12917512392473858689
         ChildIds: 16805855747883129674
+        ChildIds: 11816685118958571315
+        ChildIds: 12105627879441243203
+        ChildIds: 15296598614237467659
+        ChildIds: 15927361513316084371
+        ChildIds: 2119891251072808847
+        ChildIds: 61905785291085223
+        ChildIds: 3104064217714029504
+        ChildIds: 118587607411074714
+        ChildIds: 18155797957175357545
+        ChildIds: 329714306176915058
+        ChildIds: 5872862470086398021
+        ChildIds: 11038784054089588158
+        ChildIds: 4933288856278839122
+        ChildIds: 13059515851615437213
+        ChildIds: 10980663639731949782
+        ChildIds: 4018558529685544
+        ChildIds: 10032877144826352387
+        ChildIds: 13903918321494753698
+        ChildIds: 5657557565573405431
+        ChildIds: 2046635857269899623
+        ChildIds: 3940851332884896157
+        ChildIds: 8128703231687089072
+        ChildIds: 13389735963642365802
+        ChildIds: 14654690123053045043
+        ChildIds: 17889198685168733010
+        ChildIds: 4117103286576952352
+        ChildIds: 10817538129487429115
+        ChildIds: 9021672889111356592
+        ChildIds: 15106258113217297583
+        ChildIds: 18315563656372319802
+        ChildIds: 6121600733122879858
+        ChildIds: 13815514605414725054
+        ChildIds: 15408666188276579245
+        ChildIds: 13543236510728081873
+        ChildIds: 5709505021341194488
+        ChildIds: 10777429021961478075
+        ChildIds: 8774585500928373229
+        ChildIds: 12287561050255577215
+        ChildIds: 17552372079423396796
+        ChildIds: 10653580464988571266
+        ChildIds: 12092142799143193306
+        ChildIds: 13409890385887021298
+        ChildIds: 16632940785563915148
+        ChildIds: 12940212165627618152
+        ChildIds: 3308181489444744838
+        ChildIds: 2750306285681444091
+        ChildIds: 16459939871119996721
+        ChildIds: 17644865687912402920
+        ChildIds: 6622790827209806052
+        ChildIds: 4034686690410260862
+        ChildIds: 14291973489057311595
+        ChildIds: 748671909508072491
+        ChildIds: 13040562165259927663
+        ChildIds: 7925678304731405544
+        ChildIds: 9981578324167459185
+        ChildIds: 202809348003505361
+        ChildIds: 11175286003716503544
+        ChildIds: 6451151515896244185
+        ChildIds: 6008825079846204815
+        ChildIds: 2923362808186784228
+        ChildIds: 13767129751266688000
+        ChildIds: 11760341162126764306
+        ChildIds: 3058876834539399231
+        ChildIds: 4685140321746939707
+        ChildIds: 5236422702237743535
+        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -835,8 +862,8 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Folder {
-          IsFilePartition: true
+        NetworkContext {
+          Type: RuntimeStatic
         }
       }
       Objects {
@@ -844,13 +871,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: 266
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78811502
-            Roll: -4.33731174
+            Yaw: 6.78812075
+            Roll: -4.3373127
           }
           Scale {
             X: 0.399999708
@@ -858,7 +886,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -923,12 +951,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: 88
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -4.02102089
-            Yaw: 14.2760124
+            Pitch: -4.02101421
+            Yaw: 14.2760315
             Roll: 2.6722517
           }
           Scale {
@@ -937,7 +966,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1002,13 +1031,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: -83.2265625
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003253
-            Yaw: -21.8995228
-            Roll: -3.47897387
+            Pitch: -1.4003185
+            Yaw: -21.8995094
+            Roll: -3.47897434
           }
           Scale {
             X: 0.4
@@ -1016,7 +1046,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1081,12 +1111,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: -272
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -2.36220717
-            Yaw: -27.7884102
+            Pitch: -2.36220026
+            Yaw: -27.7883968
           }
           Scale {
             X: 0.399999857
@@ -1094,7 +1125,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1159,13 +1190,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -166
+            X: 34
             Y: -176
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.7823639
-            Roll: -2.01052856
+            Yaw: -32.782383
+            Roll: -2.0105288
           }
           Scale {
             X: 0.4
@@ -1173,7 +1204,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1238,14 +1269,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -166
+            X: 34
             Y: 2
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463534
-            Roll: -3.8825388
+            Yaw: -0.281463474
+            Roll: -3.88253975
           }
           Scale {
             X: 0.399999619
@@ -1253,7 +1284,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1318,13 +1349,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -160
+            X: 40
             Y: 184
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.44454396
-            Yaw: -30.3497353
+            Pitch: -1.44453716
+            Yaw: -30.3497429
             Roll: 5.33778142e-08
           }
           Scale {
@@ -1333,7 +1364,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1398,14 +1429,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -559.94873
+            X: -359.949219
             Y: 400
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610718
-            Roll: 0.980044365
+            Yaw: -22.1610565
+            Roll: 0.980044127
           }
           Scale {
             X: 0.400000304
@@ -1413,7 +1444,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1478,14 +1509,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -326
+            X: -126
             Y: -74
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824468
-            Roll: -4.1400466
+            Yaw: 0.214824438
+            Roll: -4.14004755
           }
           Scale {
             X: 0.399999917
@@ -1493,7 +1524,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1558,14 +1589,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 536.844238
+            X: 736.84375
             Y: 30.4511719
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
-            Roll: 1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -1573,7 +1603,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1638,7 +1668,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 328
+            X: 528
             Y: 72
             Z: -13.0888672
           }
@@ -1653,7 +1683,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1718,14 +1748,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 168
+            X: 368
             Y: 174
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.14794636
+            Roll: 5.1479497
           }
           Scale {
             X: 0.399999768
@@ -1733,7 +1763,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1798,7 +1828,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 162
+            X: 362
             Y: -184
             Z: -13.0888672
           }
@@ -1813,7 +1843,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1878,14 +1908,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 168
+            X: 368
             Y: -8
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545
+            Roll: -4.08545065
           }
           Scale {
             X: 0.399999768
@@ -1893,7 +1923,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1958,13 +1988,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 340.95166
+            X: 540.951172
             Y: 385.928711
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
-            Yaw: -113.125931
+            Pitch: -5.37823391
+            Yaw: -113.125908
             Roll: 2.14387214e-07
           }
           Scale {
@@ -1973,7 +2003,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2038,13 +2068,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -384.000977
+            X: -184.000977
             Y: 300
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
-            Yaw: 156.8741
+            Pitch: -5.37823391
+            Yaw: 156.87413
           }
           Scale {
             X: 0.400001854
@@ -2052,7 +2082,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2117,13 +2147,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -330.717285
+            X: -130.716797
             Y: -338.105957
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
-            Yaw: 156.874146
+            Pitch: -5.37823391
+            Yaw: 156.874161
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -2131,7 +2162,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2196,13 +2227,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 347.57959
-            Y: -349.628174
+            X: 547.580078
+            Y: -349.62793
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
-            Yaw: 111.874115
+            Pitch: -5.37823391
+            Yaw: 111.874084
           }
           Scale {
             X: 0.400001854
@@ -2210,7 +2241,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2275,13 +2306,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 231.905762
-            Y: -435.371826
+            X: 431.90625
+            Y: -435.37207
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
-            Yaw: 111.874069
+            Pitch: -5.37823391
+            Yaw: 111.874046
           }
           Scale {
             X: 0.400001854
@@ -2289,7 +2320,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2354,13 +2385,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -437.20166
-            Y: -446.429932
+            X: -237.201172
+            Y: -446.429688
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
-            Yaw: 66.8740692
+            Pitch: -5.37823391
+            Yaw: 66.8740768
             Roll: 2.14387214e-07
           }
           Scale {
@@ -2369,7 +2400,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2434,13 +2465,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -44.5507812
+            X: 155.449219
             Y: 810.480469
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
+            Pitch: -5.37823391
             Yaw: -158.125977
+            Roll: 1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -2448,7 +2480,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2513,14 +2545,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -352.750488
+            X: -152.75
             Y: 593.529785
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -5.37823486
+            Pitch: -5.37823391
             Yaw: -158.125977
-            Roll: 1.07193607e-07
+            Roll: 2.14387214e-07
           }
           Scale {
             X: 0.400001854
@@ -2528,7 +2560,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2593,14 +2625,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: 266
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78811502
-            Roll: -4.33731174
+            Yaw: 6.78812075
+            Roll: -4.3373127
           }
           Scale {
             X: 0.399999708
@@ -2608,7 +2640,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2673,13 +2705,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: 88
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -4.02102089
-            Yaw: 14.2760124
+            Pitch: -4.02101421
+            Yaw: 14.2760315
             Roll: 2.6722517
           }
           Scale {
@@ -2688,7 +2720,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2753,14 +2785,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: -83.2265625
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003253
-            Yaw: -21.8995228
-            Roll: -3.47897387
+            Pitch: -1.4003185
+            Yaw: -21.8995094
+            Roll: -3.47897434
           }
           Scale {
             X: 0.4
@@ -2768,7 +2800,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2833,13 +2865,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: -272
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -2.36220717
-            Yaw: -27.7884102
+            Pitch: -2.36220026
+            Yaw: -27.7883968
           }
           Scale {
             X: 0.399999857
@@ -2847,7 +2879,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2912,13 +2944,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -966
+            X: -766
             Y: -176
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.7823639
-            Roll: -2.01052856
+            Yaw: -32.782383
+            Roll: -2.0105288
           }
           Scale {
             X: 0.4
@@ -2926,7 +2958,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2991,14 +3023,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -966
+            X: -766
             Y: 2
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463534
-            Roll: -3.8825388
+            Yaw: -0.281463474
+            Roll: -3.88253975
           }
           Scale {
             X: 0.399999619
@@ -3006,7 +3038,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3071,13 +3103,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -960
+            X: -760
             Y: 184
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.44454396
-            Yaw: -30.3497353
+            Pitch: -1.44453716
+            Yaw: -30.3497429
             Roll: 5.33778142e-08
           }
           Scale {
@@ -3086,7 +3118,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3151,14 +3183,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1134
+            X: -934
             Y: 104
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610565
-            Roll: 0.980044365
+            Yaw: -22.1610394
+            Roll: 0.980044127
           }
           Scale {
             X: 0.400000304
@@ -3166,7 +3198,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3231,14 +3263,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1126
+            X: -926
             Y: -74
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824468
-            Roll: -4.1400466
+            Yaw: 0.214824438
+            Roll: -4.14004755
           }
           Scale {
             X: 0.399999917
@@ -3246,7 +3278,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3311,14 +3343,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -464
+            X: -264
             Y: -106
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
-            Roll: 1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -3326,7 +3357,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3391,7 +3422,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -472
+            X: -272
             Y: 72
             Z: -13.0888672
           }
@@ -3406,7 +3437,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3471,14 +3502,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -632
+            X: -432
             Y: 174
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.14794636
+            Roll: 5.1479497
           }
           Scale {
             X: 0.399999768
@@ -3486,7 +3517,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3551,7 +3582,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -638
+            X: -438
             Y: -184
             Z: -13.0888672
           }
@@ -3566,7 +3597,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3631,14 +3662,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -632
+            X: -432
             Y: -8
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545
+            Roll: -4.08545065
           }
           Scale {
             X: 0.399999768
@@ -3646,7 +3677,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3711,14 +3742,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -500
+            X: -300
             Y: 300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125931
-            Roll: 2.14387214e-07
+            Yaw: -113.125908
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -3726,7 +3757,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3791,13 +3822,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1100
+            X: -900
             Y: 300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.8741
+            Yaw: 156.87413
           }
           Scale {
             X: 0.400001854
@@ -3805,7 +3836,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3870,13 +3901,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1100
+            X: -900
             Y: -300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.874146
+            Yaw: 156.874161
             Roll: -1.07193607e-07
           }
           Scale {
@@ -3885,7 +3916,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3950,13 +3981,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -500
+            X: -300
             Y: -300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874115
+            Yaw: 111.874084
           }
           Scale {
             X: 0.400001854
@@ -3964,7 +3995,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4029,13 +4060,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -650
+            X: -450
             Y: -350
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874069
+            Yaw: 111.874046
           }
           Scale {
             X: 0.400001854
@@ -4043,7 +4074,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4108,13 +4139,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1000
+            X: -800
             Y: -350
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740692
+            Yaw: 66.8740768
             Roll: 2.14387214e-07
           }
           Scale {
@@ -4123,7 +4154,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4188,7 +4219,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -650
+            X: -450
             Y: 350
             Z: -13.0888672
           }
@@ -4202,7 +4233,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4267,7 +4298,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -950
+            X: -750
             Y: 300
             Z: -13.0888672
           }
@@ -4282,7 +4313,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4347,7 +4378,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -950
+            X: -750
             Y: 1100
             Z: -13.0888672
           }
@@ -4362,7 +4393,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4427,7 +4458,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -650
+            X: -450
             Y: 1150
             Z: -13.0888672
           }
@@ -4441,7 +4472,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4506,14 +4537,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1000
+            X: -800
             Y: 450
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -4521,7 +4552,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4586,13 +4617,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -650
+            X: -450
             Y: 450
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -4600,7 +4631,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4665,13 +4696,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -500
+            X: -300
             Y: 500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -4679,7 +4710,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4744,7 +4775,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1100
+            X: -900
             Y: 500
             Z: -13.0888672
           }
@@ -4759,7 +4790,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4824,13 +4855,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1100
+            X: -900
             Y: 1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -4838,7 +4870,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4903,14 +4935,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -500
+            X: -300
             Y: 1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -4918,7 +4950,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4983,14 +5015,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -632
+            X: -432
             Y: 792
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -4998,7 +5030,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5063,7 +5095,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -638
+            X: -438
             Y: 616
             Z: -13.0888672
           }
@@ -5078,7 +5110,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5143,14 +5175,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -632
+            X: -432
             Y: 974
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -5158,7 +5190,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5223,7 +5255,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -472
+            X: -272
             Y: 872
             Z: -13.0888672
           }
@@ -5238,7 +5270,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5303,13 +5335,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -464
+            X: -264
             Y: 694
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -5317,7 +5350,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5382,14 +5415,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1126
+            X: -926
             Y: 726
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -5397,7 +5430,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5462,14 +5495,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1134
+            X: -934
             Y: 904
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -5477,7 +5510,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5542,14 +5575,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -960
+            X: -760
             Y: 984
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -5557,7 +5590,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5622,14 +5655,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -966
+            X: -766
             Y: 802
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -5637,7 +5670,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5702,13 +5735,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -966
+            X: -766
             Y: 624
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -5716,7 +5749,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5781,13 +5814,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: 528
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -5795,7 +5828,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5860,14 +5893,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: 716.773438
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -5875,7 +5908,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -5940,14 +5973,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: 888
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -5955,7 +5988,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6020,14 +6053,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: 1066
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -6035,7 +6068,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6100,13 +6133,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: 1066
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -6114,7 +6148,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6179,13 +6213,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: 888
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -6193,7 +6228,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6258,13 +6293,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: 716.773438
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -6272,7 +6308,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6337,12 +6373,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: 528
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -6350,7 +6387,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6415,13 +6452,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -166
+            X: 34
             Y: 624
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -6429,7 +6466,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6494,14 +6531,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -166
+            X: 34
             Y: 802
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -6509,7 +6546,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6574,14 +6611,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -160
+            X: 40
             Y: 984
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -6589,7 +6626,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6654,14 +6691,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -334
+            X: -134
             Y: 904
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -6669,7 +6706,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6734,14 +6771,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -326
+            X: -126
             Y: 726
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -6749,7 +6786,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6814,13 +6851,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 336
+            X: 536
             Y: 694
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -6828,7 +6866,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6893,7 +6931,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 328
+            X: 528
             Y: 872
             Z: -13.0888672
           }
@@ -6908,7 +6946,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6973,14 +7011,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 168
+            X: 368
             Y: 974
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -6988,7 +7026,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7053,7 +7091,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 162
+            X: 362
             Y: 616
             Z: -13.0888672
           }
@@ -7068,7 +7106,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7133,14 +7171,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 168
+            X: 368
             Y: 792
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -7148,7 +7186,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7213,14 +7251,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 300
+            X: 500
             Y: 1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -7228,7 +7266,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7293,13 +7331,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -300
+            X: -100
             Y: 1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -7307,7 +7346,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7372,7 +7411,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -300
+            X: -100
             Y: 500
             Z: -13.0888672
           }
@@ -7387,7 +7426,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7452,13 +7491,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 300
+            X: 500
             Y: 500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -7466,7 +7505,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7531,13 +7570,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 150
+            X: 350
             Y: 450
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -7545,7 +7584,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7610,14 +7649,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -200
             Y: 450
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -7625,7 +7663,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7690,7 +7728,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 150
+            X: 350
             Y: 1150
             Z: -13.0888672
           }
@@ -7704,7 +7742,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7769,7 +7807,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -150
+            X: 50
             Y: 1100
             Z: -13.0888672
           }
@@ -7784,7 +7822,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7849,14 +7887,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: 1066
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -7864,7 +7902,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7929,14 +7967,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: 888
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -7944,7 +7982,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8009,14 +8047,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: 716.773438
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -8024,7 +8062,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8089,13 +8127,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: 528
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -8103,7 +8141,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8168,13 +8206,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 634
+            X: 834
             Y: 624
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -8182,7 +8220,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8247,14 +8285,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 634
+            X: 834
             Y: 802
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -8262,7 +8300,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8327,14 +8365,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 640
+            X: 840
             Y: 984
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -8342,7 +8380,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8407,14 +8445,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 466
+            X: 666
             Y: 904
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -8422,7 +8460,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8487,14 +8525,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 474
+            X: 674
             Y: 726
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -8502,7 +8540,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8567,13 +8605,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1136
+            X: 1336
             Y: 694
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -8581,7 +8620,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8646,7 +8685,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1128
+            X: 1328
             Y: 872
             Z: -13.0888672
           }
@@ -8661,7 +8700,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8726,14 +8765,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 968
+            X: 1168
             Y: 974
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -8741,7 +8780,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8806,7 +8845,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 962
+            X: 1162
             Y: 616
             Z: -13.0888672
           }
@@ -8821,7 +8860,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8886,14 +8925,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 968
+            X: 1168
             Y: 792
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -8901,7 +8940,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8966,14 +9005,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1100
+            X: 1300
             Y: 1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -8981,7 +9020,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9046,13 +9085,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 500
+            X: 700
             Y: 1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -9060,7 +9100,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9125,7 +9165,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 500
+            X: 700
             Y: 500
             Z: -13.0888672
           }
@@ -9140,7 +9180,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9205,13 +9245,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1100
+            X: 1300
             Y: 500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -9219,7 +9259,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9284,13 +9324,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 950
+            X: 1150
             Y: 450
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -9298,7 +9338,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9363,14 +9403,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 600
+            X: 800
             Y: 450
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -9378,7 +9418,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9443,7 +9483,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 950
+            X: 1150
             Y: 1150
             Z: -13.0888672
           }
@@ -9457,7 +9497,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9522,7 +9562,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 650
+            X: 850
             Y: 1100
             Z: -13.0888672
           }
@@ -9537,7 +9577,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9602,14 +9642,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: 266
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -9617,7 +9657,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9682,14 +9722,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: 88
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -9697,7 +9737,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9762,14 +9802,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: -83.2265625
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -9777,7 +9817,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9842,13 +9882,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: -272
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -9856,7 +9896,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9921,13 +9961,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 634
+            X: 834
             Y: -176
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -9935,7 +9975,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10000,14 +10040,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 634
+            X: 834
             Y: 2
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -10015,7 +10055,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10080,14 +10120,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 640
+            X: 840
             Y: 184
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -10095,7 +10135,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10160,14 +10200,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 466
+            X: 666
             Y: 104
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -10175,7 +10215,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10240,14 +10280,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 474
+            X: 674
             Y: -74
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -10255,7 +10295,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10320,13 +10360,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1136
+            X: 1336
             Y: -106
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -10334,7 +10375,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10399,7 +10440,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1128
+            X: 1328
             Y: 72
             Z: -13.0888672
           }
@@ -10414,7 +10455,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10479,14 +10520,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 968
+            X: 1168
             Y: 174
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -10494,7 +10535,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10559,7 +10600,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 962
+            X: 1162
             Y: -184
             Z: -13.0888672
           }
@@ -10574,7 +10615,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10639,14 +10680,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 968
+            X: 1168
             Y: -8
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -10654,7 +10695,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10719,14 +10760,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1100
+            X: 1300
             Y: 300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -10734,7 +10775,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10799,13 +10840,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 500
+            X: 700
             Y: 300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -10813,7 +10855,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10878,7 +10920,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 500
+            X: 700
             Y: -300
             Z: -13.0888672
           }
@@ -10893,7 +10935,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10958,13 +11000,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1100
+            X: 1300
             Y: -300
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -10972,7 +11014,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11037,13 +11079,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 950
+            X: 1150
             Y: -350
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -11051,7 +11093,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11116,14 +11158,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 600
+            X: 800
             Y: -350
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -11131,7 +11173,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11196,7 +11238,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 950
+            X: 1150
             Y: 350
             Z: -13.0888672
           }
@@ -11210,7 +11252,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11275,7 +11317,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 650
+            X: 850
             Y: 300
             Z: -13.0888672
           }
@@ -11290,7 +11332,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11355,14 +11397,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: -534
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -11370,7 +11412,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11435,14 +11477,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: -712
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -11450,7 +11492,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11515,14 +11557,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: -883.226562
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -11530,7 +11572,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11595,13 +11637,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 800
+            X: 1000
             Y: -1072
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -11609,7 +11651,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11674,13 +11716,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 634
+            X: 834
             Y: -976
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -11688,7 +11730,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11753,14 +11795,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 634
+            X: 834
             Y: -798
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -11768,7 +11810,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11833,14 +11875,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 640
+            X: 840
             Y: -616
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -11848,7 +11890,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11913,14 +11955,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 466
+            X: 666
             Y: -696
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -11928,7 +11970,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11993,14 +12035,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 474
+            X: 674
             Y: -874
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -12008,7 +12050,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12073,13 +12115,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1136
+            X: 1336
             Y: -906
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -12087,7 +12130,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12152,7 +12195,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1128
+            X: 1328
             Y: -728
             Z: -13.0888672
           }
@@ -12167,7 +12210,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12232,14 +12275,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 968
+            X: 1168
             Y: -626
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -12247,7 +12290,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12312,7 +12355,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 962
+            X: 1162
             Y: -984
             Z: -13.0888672
           }
@@ -12327,7 +12370,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12392,14 +12435,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 968
+            X: 1168
             Y: -808
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -12407,7 +12450,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12472,14 +12515,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1100
+            X: 1300
             Y: -500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -12487,7 +12530,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12552,13 +12595,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 500
+            X: 700
             Y: -500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -12566,7 +12610,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12631,7 +12675,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 500
+            X: 700
             Y: -1100
             Z: -13.0888672
           }
@@ -12646,7 +12690,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12711,13 +12755,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 1100
+            X: 1300
             Y: -1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -12725,7 +12769,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12790,13 +12834,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 950
+            X: 1150
             Y: -1150
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -12804,7 +12848,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12869,14 +12913,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 600
+            X: 800
             Y: -1150
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -12884,7 +12928,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12949,7 +12993,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 950
+            X: 1150
             Y: -450
             Z: -13.0888672
           }
@@ -12963,7 +13007,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13028,7 +13072,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 650
+            X: 850
             Y: -500
             Z: -13.0888672
           }
@@ -13043,7 +13087,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13108,13 +13152,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: -534
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -13122,7 +13167,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13187,13 +13232,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: -712
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -13201,7 +13247,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13266,13 +13312,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: -883.226562
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -13280,7 +13327,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13345,12 +13392,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
+            X: 200
             Y: -1072
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -13358,7 +13406,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13423,13 +13471,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -166
+            X: 34
             Y: -976
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -13437,7 +13485,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13502,14 +13550,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -166
+            X: 34
             Y: -798
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -13517,7 +13565,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13582,14 +13630,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -160
+            X: 40
             Y: -616
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -13597,7 +13645,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13662,14 +13710,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -334
+            X: -134
             Y: -696
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -13677,7 +13725,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13742,14 +13790,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -326
+            X: -126
             Y: -874
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -13757,7 +13805,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13822,13 +13870,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 336
+            X: 536
             Y: -906
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -13836,7 +13885,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13901,7 +13950,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 328
+            X: 528
             Y: -728
             Z: -13.0888672
           }
@@ -13916,7 +13965,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13981,14 +14030,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 168
+            X: 368
             Y: -626
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -13996,7 +14045,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14061,7 +14110,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 162
+            X: 362
             Y: -984
             Z: -13.0888672
           }
@@ -14076,7 +14125,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14141,14 +14190,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 168
+            X: 368
             Y: -808
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -14156,7 +14205,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14221,14 +14270,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 300
+            X: 500
             Y: -500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -14236,7 +14285,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14301,13 +14350,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -300
+            X: -100
             Y: -500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -14315,7 +14365,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14380,7 +14430,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -300
+            X: -100
             Y: -1100
             Z: -13.0888672
           }
@@ -14395,7 +14445,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14460,13 +14510,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 300
+            X: 500
             Y: -1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -14474,7 +14524,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14539,13 +14589,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 150
+            X: 350
             Y: -1150
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -14553,7 +14603,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14618,14 +14668,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -200
             Y: -1150
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -14633,7 +14682,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14698,7 +14747,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: 150
+            X: 350
             Y: -450
             Z: -13.0888672
           }
@@ -14712,7 +14761,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14777,7 +14826,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -150
+            X: 50
             Y: -500
             Z: -13.0888672
           }
@@ -14792,7 +14841,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14857,14 +14906,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: -534
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.78812075
-            Roll: -4.3373127
+            Yaw: 6.78812742
+            Roll: -4.33731365
           }
           Scale {
             X: 0.399999708
@@ -14872,7 +14921,7 @@ Assets {
             Z: 4.52094746
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14937,14 +14986,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: -712
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.02101421
-            Yaw: 14.2760315
-            Roll: 2.6722517
+            Yaw: 14.2760506
+            Roll: 2.67225194
           }
           Scale {
             X: 0.400000453
@@ -14952,7 +15001,7 @@ Assets {
             Z: 3.79502678
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15017,14 +15066,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: -883.226562
             Z: -13.0888672
           }
           Rotation {
-            Pitch: -1.4003185
-            Yaw: -21.8995094
-            Roll: -3.47897434
+            Pitch: -1.40031159
+            Yaw: -21.8994942
+            Roll: -3.47897482
           }
           Scale {
             X: 0.4
@@ -15032,7 +15081,7 @@ Assets {
             Z: 5.0951314
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15097,13 +15146,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -800
+            X: -600
             Y: -1072
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.36220026
-            Yaw: -27.7883968
+            Yaw: -27.7883816
           }
           Scale {
             X: 0.399999857
@@ -15111,7 +15160,7 @@ Assets {
             Z: 3.53774524
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15176,13 +15225,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -966
+            X: -766
             Y: -976
             Z: -13.0888672
           }
           Rotation {
-            Yaw: -32.782383
-            Roll: -2.0105288
+            Yaw: -32.782402
+            Roll: -2.01052904
           }
           Scale {
             X: 0.4
@@ -15190,7 +15239,7 @@ Assets {
             Z: 4.33059168
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15255,14 +15304,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -966
+            X: -766
             Y: -798
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463474
-            Roll: -3.88253975
+            Yaw: -0.281463414
+            Roll: -3.88254094
           }
           Scale {
             X: 0.399999619
@@ -15270,7 +15319,7 @@ Assets {
             Z: 2.97245407
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15335,14 +15384,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -960
+            X: -760
             Y: -616
             Z: -13.0888672
           }
           Rotation {
             Pitch: -1.44453716
-            Yaw: -30.3497429
-            Roll: 5.33778142e-08
+            Yaw: -30.3497524
+            Roll: 8.00667195e-08
           }
           Scale {
             X: 0.399999827
@@ -15350,7 +15399,7 @@ Assets {
             Z: 3.43264627
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15415,14 +15464,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1134
+            X: -934
             Y: -696
             Z: -13.0888672
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610394
-            Roll: 0.980044127
+            Yaw: -22.1610222
+            Roll: 0.980043828
           }
           Scale {
             X: 0.400000304
@@ -15430,7 +15479,7 @@ Assets {
             Z: 4.6376133
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15495,14 +15544,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1126
+            X: -926
             Y: -874
             Z: -13.0888672
           }
           Rotation {
             Pitch: -2.96923327
-            Yaw: 0.214824438
-            Roll: -4.14004755
+            Yaw: 0.214824393
+            Roll: -4.1400485
           }
           Scale {
             X: 0.399999917
@@ -15510,7 +15559,7 @@ Assets {
             Z: 3.36766052
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15575,13 +15624,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -464
+            X: -264
             Y: -906
             Z: -13.0888672
           }
           Rotation {
             Pitch: 4.01925182
             Yaw: -179.999954
+            Roll: -1.02028676e-13
           }
           Scale {
             X: 0.400000453
@@ -15589,7 +15639,7 @@ Assets {
             Z: 4.95046
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15654,7 +15704,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -472
+            X: -272
             Y: -728
             Z: -13.0888672
           }
@@ -15669,7 +15719,7 @@ Assets {
             Z: 3.395818
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15734,14 +15784,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -632
+            X: -432
             Y: -626
             Z: -13.0888672
           }
           Rotation {
             Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.1479497
+            Roll: 5.14795256
           }
           Scale {
             X: 0.399999768
@@ -15749,7 +15799,7 @@ Assets {
             Z: 3.68939447
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15814,7 +15864,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -638
+            X: -438
             Y: -984
             Z: -13.0888672
           }
@@ -15829,7 +15879,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15894,14 +15944,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -632
+            X: -432
             Y: -808
             Z: -13.0888672
           }
           Rotation {
             Pitch: 2.84124231
             Yaw: -179.999954
-            Roll: -4.08545065
+            Roll: -4.08545113
           }
           Scale {
             X: 0.399999768
@@ -15909,7 +15959,7 @@ Assets {
             Z: 4.3513236
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15974,14 +16024,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -500
+            X: -300
             Y: -500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: -113.125908
-            Roll: 4.28774428e-07
+            Yaw: -113.125893
+            Roll: 6.43161627e-07
           }
           Scale {
             X: 0.400001854
@@ -15989,7 +16039,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16054,13 +16104,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1100
+            X: -900
             Y: -500
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 156.87413
+            Yaw: 156.874146
+            Roll: -1.07193607e-07
           }
           Scale {
             X: 0.400001854
@@ -16068,7 +16119,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16133,7 +16184,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1100
+            X: -900
             Y: -1100
             Z: -13.0888672
           }
@@ -16148,7 +16199,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16213,13 +16264,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -500
+            X: -300
             Y: -1100
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874084
+            Yaw: 111.874069
           }
           Scale {
             X: 0.400001854
@@ -16227,7 +16278,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16292,13 +16343,13 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -650
+            X: -450
             Y: -1150
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 111.874046
+            Yaw: 111.874023
           }
           Scale {
             X: 0.400001854
@@ -16306,7 +16357,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16371,14 +16422,14 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -1000
+            X: -800
             Y: -1150
             Z: -13.0888672
           }
           Rotation {
             Pitch: -5.37823391
-            Yaw: 66.8740768
-            Roll: 2.14387214e-07
+            Yaw: 66.8740921
+            Roll: 4.28774428e-07
           }
           Scale {
             X: 0.400001854
@@ -16386,7 +16437,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16451,7 +16502,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -650
+            X: -450
             Y: -450
             Z: -13.0888672
           }
@@ -16465,7 +16516,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16530,7 +16581,7 @@ Assets {
         Name: "Pyramid - Polished"
         Transform {
           Location {
-            X: -950
+            X: -750
             Y: -500
             Z: -13.0888672
           }
@@ -16545,7 +16596,7 @@ Assets {
             Z: 4.50743151
           }
         }
-        ParentId: 7257596596909657616
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -16606,14 +16657,16 @@ Assets {
         }
       }
       Objects {
-        Id: 4581587952595072092
-        Name: "WallsAndDoors"
+        Id: 11816685118958571315
+        Name: "Stone Brick Doorway - Skull Sconces"
         Transform {
           Location {
             X: -1000
+            Y: 400
             Z: 1200
           }
           Rotation {
+            Yaw: -89.9999619
           }
           Scale {
             X: 1
@@ -16622,90 +16675,6 @@ Assets {
           }
         }
         ParentId: 2728894143230766319
-        ChildIds: 11816685118958571315
-        ChildIds: 12105627879441243203
-        ChildIds: 15296598614237467659
-        ChildIds: 15927361513316084371
-        ChildIds: 2119891251072808847
-        ChildIds: 61905785291085223
-        ChildIds: 3104064217714029504
-        ChildIds: 118587607411074714
-        ChildIds: 18155797957175357545
-        ChildIds: 329714306176915058
-        ChildIds: 5872862470086398021
-        ChildIds: 11038784054089588158
-        ChildIds: 4933288856278839122
-        ChildIds: 13059515851615437213
-        ChildIds: 10980663639731949782
-        ChildIds: 4018558529685544
-        ChildIds: 10032877144826352387
-        ChildIds: 13903918321494753698
-        ChildIds: 5657557565573405431
-        ChildIds: 2046635857269899623
-        ChildIds: 3940851332884896157
-        ChildIds: 8128703231687089072
-        ChildIds: 13389735963642365802
-        ChildIds: 14654690123053045043
-        ChildIds: 17889198685168733010
-        ChildIds: 4117103286576952352
-        ChildIds: 10817538129487429115
-        ChildIds: 9021672889111356592
-        ChildIds: 15106258113217297583
-        ChildIds: 18315563656372319802
-        ChildIds: 6121600733122879858
-        ChildIds: 13815514605414725054
-        ChildIds: 15408666188276579245
-        ChildIds: 13543236510728081873
-        ChildIds: 5709505021341194488
-        ChildIds: 10777429021961478075
-        ChildIds: 8774585500928373229
-        ChildIds: 12287561050255577215
-        ChildIds: 17552372079423396796
-        ChildIds: 10653580464988571266
-        ChildIds: 12092142799143193306
-        ChildIds: 13409890385887021298
-        ChildIds: 16632940785563915148
-        ChildIds: 12940212165627618152
-        ChildIds: 3308181489444744838
-        ChildIds: 2750306285681444091
-        ChildIds: 16459939871119996721
-        ChildIds: 17644865687912402920
-        ChildIds: 6622790827209806052
-        ChildIds: 4034686690410260862
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-          FilePartitionName: "WallsAndDoors_2"
-        }
-      }
-      Objects {
-        Id: 11816685118958571315
-        Name: "Stone Brick Doorway - Skull Sconces"
-        Transform {
-          Location {
-            Y: 400
-          }
-          Rotation {
-            Yaw: -89.9999695
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4581587952595072092
         ChildIds: 3163116731296259164
         ChildIds: 14715637997580319439
         ChildIds: 17853002167880138105
@@ -17293,11 +17262,12 @@ Assets {
         Name: "Stone Brick Doorway - Skull Sconces"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -400
+            Z: 1200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -17305,7 +17275,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         ChildIds: 17879597197088413717
         ChildIds: 15222102353326269435
         ChildIds: 4098602398740647818
@@ -17893,10 +17863,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 1200
+            Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -17904,7 +17876,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -17957,11 +17929,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -17969,7 +17942,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18022,11 +17995,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 400
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18034,7 +18008,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18087,11 +18061,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -400
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18099,7 +18074,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18152,10 +18127,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -400
+            Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18163,7 +18140,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18216,11 +18193,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -400
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18228,7 +18206,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18281,11 +18259,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 400
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18293,7 +18272,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18346,11 +18325,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 1200
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18358,7 +18338,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18411,11 +18391,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 1200
-            Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18423,7 +18403,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18476,11 +18456,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: 400
-            Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18488,7 +18468,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18541,11 +18521,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -400
-            Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18553,7 +18533,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18606,8 +18586,8 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -1200
-            Z: -1200
           }
           Rotation {
           }
@@ -18617,7 +18597,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18670,9 +18650,8 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: -1200
-            Z: -1200
           }
           Rotation {
           }
@@ -18682,7 +18661,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18735,9 +18714,8 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: -1200
-            Z: -1200
           }
           Rotation {
           }
@@ -18747,7 +18725,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18800,8 +18778,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -1200
-            Z: -600
+            Z: 600
           }
           Rotation {
           }
@@ -18811,7 +18790,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18864,9 +18843,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: -1200
-            Z: -600
+            Z: 600
           }
           Rotation {
           }
@@ -18876,7 +18855,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18929,9 +18908,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: -1200
-            Z: -600
+            Z: 600
           }
           Rotation {
           }
@@ -18941,7 +18920,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -18994,7 +18973,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -1200
+            Z: 1200
           }
           Rotation {
           }
@@ -19004,7 +18985,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19057,8 +19038,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: -1200
+            Z: 1200
           }
           Rotation {
           }
@@ -19068,7 +19050,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19121,8 +19103,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: -1200
+            Z: 1200
           }
           Rotation {
           }
@@ -19132,7 +19115,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19185,8 +19168,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
+            X: -1000
             Y: -1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
           }
@@ -19196,7 +19180,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19249,9 +19233,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: -1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
           }
@@ -19261,7 +19245,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19314,9 +19298,9 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: -1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
           }
@@ -19326,7 +19310,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19379,12 +19363,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19392,7 +19376,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19445,12 +19429,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: 1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19458,7 +19442,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19511,12 +19495,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: 1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19524,7 +19508,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19577,11 +19561,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 1200
+            Z: 1200
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19589,7 +19574,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19642,11 +19627,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: 1200
+            Z: 1200
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19654,7 +19640,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19707,11 +19693,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: 1200
+            Z: 1200
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19719,7 +19706,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19772,12 +19759,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: 1200
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19785,7 +19772,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19838,12 +19825,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: 1200
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19851,7 +19838,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19904,12 +19891,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 1200
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19917,7 +19904,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -19970,12 +19957,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 1200
-            Z: -1200
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -19983,7 +19969,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20036,12 +20022,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 1600
+            X: 600
             Y: 1200
-            Z: -1200
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -20049,7 +20034,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20102,12 +20087,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 800
+            X: -200
             Y: 1200
-            Z: -1200
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -20115,7 +20099,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20168,12 +20152,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -1200
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20181,7 +20165,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20234,12 +20218,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -1200
-            Z: -1200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20247,7 +20230,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20300,12 +20283,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -400
-            Z: -1200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20313,7 +20295,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20366,12 +20348,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -400
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20379,7 +20361,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20432,12 +20414,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 400
-            Z: -600
+            Z: 600
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20445,7 +20427,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20498,12 +20480,11 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 400
-            Z: -1200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20511,7 +20492,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20564,11 +20545,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 400
+            Z: 1200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20576,7 +20558,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20629,12 +20611,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: 400
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20642,7 +20624,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20695,12 +20677,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -400
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20708,7 +20690,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20761,12 +20743,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -1200
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20774,7 +20756,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20827,11 +20809,12 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: 2400
+            X: 1400
             Y: -1200
+            Z: 1200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -20839,7 +20822,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_WallInner2:id"
@@ -20892,8 +20875,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
+            X: -1000
             Y: 1200
-            Z: -1200
           }
           Rotation {
           }
@@ -20903,7 +20886,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -20965,8 +20948,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
+            X: -1000
             Y: 1200
-            Z: 1200
+            Z: 2400
           }
           Rotation {
           }
@@ -20976,7 +20960,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4581587952595072092
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -21025,8 +21009,8 @@ Assets {
         }
       }
       Objects {
-        Id: 5315610724973487112
-        Name: "Stone Brick Balcony"
+        Id: 14291973489057311595
+        Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
             X: -1000
@@ -21034,53 +21018,15 @@ Assets {
             Z: 1200
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 89.9999619
           }
           Scale {
             X: 0.75
-            Y: 0.75
+            Y: 0.525
             Z: 0.75
           }
         }
         ParentId: 2728894143230766319
-        ChildIds: 14291973489057311595
-        ChildIds: 748671909508072491
-        ChildIds: 13040562165259927663
-        ChildIds: 7925678304731405544
-        ChildIds: 9981578324167459185
-        ChildIds: 202809348003505361
-        ChildIds: 11175286003716503544
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 14291973489057311595
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 0.7
-            Z: 1
-          }
-        }
-        ParentId: 5315610724973487112
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -21142,20 +21088,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Straight"
         Transform {
           Location {
-            X: 780
-            Y: -30
-            Z: -30
+            X: -977.5
+            Y: 285
+            Z: 1177.5
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -6.83018834e-06
           }
           Scale {
-            X: 1.2
-            Y: 1
-            Z: 1
+            X: 0.900000036
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 5315610724973487112
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21201,18 +21147,20 @@ Assets {
         Name: "Fantasy Castle Ceiling 01 - Vault 02"
         Transform {
           Location {
-            X: 790
-            Z: -310
+            X: -1000
+            Y: 292.5
+            Z: 967.5
           }
           Rotation {
+            Yaw: 89.9999619
           }
           Scale {
-            X: -1
-            Y: 1.30000007
-            Z: 0.5
+            X: -0.75
+            Y: 0.975
+            Z: 0.375
           }
         }
-        ParentId: 5315610724973487112
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -21264,19 +21212,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Post"
         Transform {
           Location {
-            X: 775
-            Y: -540
-            Z: -30
+            X: -595
+            Y: 281.25
+            Z: 1177.5
           }
           Rotation {
+            Yaw: 89.9999619
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.75
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 5315610724973487112
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21322,20 +21271,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Straight"
         Transform {
           Location {
-            X: 20
-            Y: -30
-            Z: -30
+            X: -977.5
+            Y: -285
+            Z: 1177.5
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -6.83018834e-06
           }
           Scale {
-            X: 1.2
-            Y: 1
-            Z: 1
+            X: 0.900000036
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 5315610724973487112
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21381,17 +21330,20 @@ Assets {
         Name: "Fantasy Castle Ceiling 01 - Vault 02"
         Transform {
           Location {
-            Z: -310
+            X: -1000
+            Y: -300
+            Z: 967.5
           }
           Rotation {
+            Yaw: 89.9999619
           }
           Scale {
-            X: 1
-            Y: 1.30000007
-            Z: 0.5
+            X: 0.75
+            Y: 0.975
+            Z: 0.375
           }
         }
-        ParentId: 5315610724973487112
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -21443,19 +21395,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Post"
         Transform {
           Location {
-            X: 25
-            Y: -540
-            Z: -30
+            X: -595
+            Y: -281.25
+            Z: 1177.5
           }
           Rotation {
+            Yaw: 89.9999619
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.75
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 5315610724973487112
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21497,8 +21450,8 @@ Assets {
         }
       }
       Objects {
-        Id: 11503998299981646835
-        Name: "Stone Brick Balcony"
+        Id: 6451151515896244185
+        Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
             X: 1400
@@ -21506,53 +21459,15 @@ Assets {
             Z: 1200
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -89.9999847
           }
           Scale {
             X: 0.75
-            Y: 0.75
+            Y: 0.525
             Z: 0.75
           }
         }
         ParentId: 2728894143230766319
-        ChildIds: 6451151515896244185
-        ChildIds: 6008825079846204815
-        ChildIds: 2923362808186784228
-        ChildIds: 13767129751266688000
-        ChildIds: 11760341162126764306
-        ChildIds: 3058876834539399231
-        ChildIds: 4685140321746939707
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 6451151515896244185
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 0.7
-            Z: 1
-          }
-        }
-        ParentId: 11503998299981646835
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -21614,20 +21529,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Straight"
         Transform {
           Location {
-            X: 780
-            Y: -30
-            Z: -30
+            X: 1377.5
+            Y: -285
+            Z: 1177.5
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -179.999969
           }
           Scale {
-            X: 1.2
-            Y: 1
-            Z: 1
+            X: 0.900000036
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 11503998299981646835
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21673,18 +21588,20 @@ Assets {
         Name: "Fantasy Castle Ceiling 01 - Vault 02"
         Transform {
           Location {
-            X: 790
-            Z: -310
+            X: 1400
+            Y: -292.5
+            Z: 967.5
           }
           Rotation {
+            Yaw: -89.9999847
           }
           Scale {
-            X: -1
-            Y: 1.30000007
-            Z: 0.5
+            X: -0.75
+            Y: 0.975
+            Z: 0.375
           }
         }
-        ParentId: 11503998299981646835
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -21736,19 +21653,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Post"
         Transform {
           Location {
-            X: 775
-            Y: -540
-            Z: -30
+            X: 995
+            Y: -281.25
+            Z: 1177.5
           }
           Rotation {
+            Yaw: -89.9999847
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.75
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 11503998299981646835
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21794,20 +21712,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Straight"
         Transform {
           Location {
-            X: 20
-            Y: -30
-            Z: -30
+            X: 1377.5
+            Y: 285
+            Z: 1177.5
           }
           Rotation {
-            Yaw: -89.9999847
+            Yaw: -179.999969
           }
           Scale {
-            X: 1.2
-            Y: 1
-            Z: 1
+            X: 0.900000036
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 11503998299981646835
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -21853,17 +21771,20 @@ Assets {
         Name: "Fantasy Castle Ceiling 01 - Vault 02"
         Transform {
           Location {
-            Z: -310
+            X: 1400
+            Y: 300
+            Z: 967.5
           }
           Rotation {
+            Yaw: -89.9999847
           }
           Scale {
-            X: 1
-            Y: 1.30000007
-            Z: 0.5
+            X: 0.75
+            Y: 0.975
+            Z: 0.375
           }
         }
-        ParentId: 11503998299981646835
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -21915,19 +21836,20 @@ Assets {
         Name: "Fantasy Castle Bannister 01 - Post"
         Transform {
           Location {
-            X: 25
-            Y: -540
-            Z: -30
+            X: 995
+            Y: 281.25
+            Z: 1177.5
           }
           Rotation {
+            Yaw: -89.9999847
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.75
+            Y: 0.75
+            Z: 0.75
           }
         }
-        ParentId: 11503998299981646835
+        ParentId: 2728894143230766319
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -22064,7 +21986,7 @@ Assets {
             Z: 4
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 14911313492206437891
         WantsNetworking: true
         Collidable_v2 {
@@ -22139,7 +22061,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 10321350152637325972
         WantsNetworking: true
         Collidable_v2 {
@@ -22216,7 +22138,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 11206981708813503262
         WantsNetworking: true
         Collidable_v2 {
@@ -22286,7 +22208,7 @@ Assets {
             Y: -700
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22294,7 +22216,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 9449474271272247364
         ChildIds: 9755527162802859576
         ChildIds: 13125571550835159512
@@ -23070,7 +22992,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 12877405386540336368
         ChildIds: 12432567565441498238
         ChildIds: 6257029633422803643
@@ -23848,7 +23770,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 14129422149755963551
         ChildIds: 5822679452947049527
         ChildIds: 15520738490092139279
@@ -24618,7 +24540,7 @@ Assets {
             Y: 500
           }
           Rotation {
-            Yaw: -45
+            Yaw: -44.9999962
           }
           Scale {
             X: 1
@@ -24626,7 +24548,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 10555994269134768101
         ChildIds: 18260790529446531357
         ChildIds: 13456357517352143173
@@ -25395,7 +25317,7 @@ Assets {
             X: 1900
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -25403,7 +25325,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 5664544623333740566
         ChildIds: 12754833403071176556
         ChildIds: 12763833907128283945
@@ -26173,7 +26095,7 @@ Assets {
             Y: 700
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -26181,7 +26103,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 4500031664762986878
         ChildIds: 1579852095892443236
         ChildIds: 14217671060708997635
@@ -26951,7 +26873,7 @@ Assets {
             Y: -500
           }
           Rotation {
-            Yaw: -45
+            Yaw: -44.9999962
           }
           Scale {
             X: 1
@@ -26959,7 +26881,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 17629549945106787827
         ChildIds: 16065989228972945836
         ChildIds: 11967571389394178349
@@ -27737,7 +27659,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4226913195513601724
+        ParentId: 14270818941105251837
         ChildIds: 11278042231558023675
         ChildIds: 7458763492928719347
         ChildIds: 2679367543095240651

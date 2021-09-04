@@ -49,7 +49,7 @@ Assets {
           }
         }
         ParentId: 8635504081326361454
-        ChildIds: 3891654578275038204
+        ChildIds: 16349944486844879169
         ChildIds: 10644365891205293866
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -67,11 +67,10 @@ Assets {
         }
       }
       Objects {
-        Id: 3891654578275038204
-        Name: "NewFolder"
+        Id: 16349944486844879169
+        Name: "Group"
         Transform {
           Location {
-            Z: -10
           }
           Rotation {
           }
@@ -100,7 +99,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -108,7 +107,7 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            Z: 65.56604
           }
           Rotation {
           }
@@ -118,7 +117,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 3891654578275038204
+        ParentId: 16349944486844879169
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -202,7 +201,7 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            Z: -24.43396
           }
           Rotation {
           }
@@ -212,7 +211,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 3891654578275038204
+        ParentId: 16349944486844879169
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -250,7 +249,7 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            Z: -24.43396
           }
           Rotation {
           }
@@ -260,7 +259,7 @@ Assets {
             Z: 0.805536568
           }
         }
-        ParentId: 3891654578275038204
+        ParentId: 16349944486844879169
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -313,11 +312,11 @@ Assets {
           Location {
             X: -0.627685547
             Y: -0.258575439
-            Z: 91.9591064
+            Z: 81.9591064
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758438
             Roll: 178.733261
           }
           Scale {
@@ -326,7 +325,7 @@ Assets {
             Z: 1.77864838
           }
         }
-        ParentId: 3891654578275038204
+        ParentId: 16349944486844879169
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -371,7 +370,7 @@ Assets {
           Location {
             X: -0.610595703
             Y: -5.02590942
-            Z: 60
+            Z: 50
           }
           Rotation {
           }
@@ -381,7 +380,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 3891654578275038204
+        ParentId: 16349944486844879169
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

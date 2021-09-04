@@ -1,13 +1,13 @@
 Assets {
   Id: 5654786890600394899
-  Name: "Lillie.SmallBlue.MovingMushroom.Complete"
+  Name: "Lillie\'s Moving Mushrooms"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 13089118908615975357
+      RootId: 16131118149890627704
       Objects {
-        Id: 13089118908615975357
-        Name: "Lillie.SmallBlue.MovingMushroom.Complete"
+        Id: 16131118149890627704
+        Name: "Lillie\'s Moving Mushrooms"
         Transform {
           Scale {
             X: 1
@@ -20,8 +20,8 @@ Assets {
         ChildIds: 17266053025478393146
         ChildIds: 10380598030468696597
         ChildIds: 9472701586932096218
-        ChildIds: 383392887937069429
         ChildIds: 53642008958318140
+        ChildIds: 383392887937069429
         ChildIds: 15282703263673317025
         WantsNetworking: true
         Collidable_v2 {
@@ -37,8 +37,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Lillie_SmallBlue_MovingMushroom_Complete"
+          IsGroup: true
         }
       }
       Objects {
@@ -58,7 +57,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13089118908615975357
+        ParentId: 16131118149890627704
         ChildIds: 17261448703060491903
         ChildIds: 9762336238336567587
         ChildIds: 17692915243754051952
@@ -929,7 +928,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13089118908615975357
+        ParentId: 16131118149890627704
         ChildIds: 10497790524703428798
         ChildIds: 18371517695667786408
         ChildIds: 9202844049899011961
@@ -945,8 +944,7 @@ Assets {
         ChildIds: 9233702046152251353
         ChildIds: 10152675653293901990
         ChildIds: 1418877329209037787
-        ChildIds: 4401621030319873861
-        ChildIds: 8021211525637418498
+        ChildIds: 11632051905345384880
         ChildIds: 17218017792716846955
         WantsNetworking: true
         Collidable_v2 {
@@ -3088,56 +3086,22 @@ Assets {
         }
       }
       Objects {
-        Id: 4401621030319873861
-        Name: "Lava Tile"
-        Transform {
-          Location {
-            X: 100
-            Y: 800
-            Z: 1100
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.5
-            Y: 1.5
-            Z: 1.5
-          }
-        }
-        ParentId: 17266053025478393146
-        ChildIds: 11632051905345384880
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 11632051905345384880
         Name: "Plane 1m - Two Sided"
         Transform {
           Location {
-            Y: -400
-            Z: -55
+            X: 100
+            Y: 200
+            Z: 1017.5
           }
           Rotation {
           }
           Scale {
-            X: 16
-            Y: 8
+            X: 24
+            Y: 12
           }
         }
-        ParentId: 4401621030319873861
+        ParentId: 17266053025478393146
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3193,40 +3157,6 @@ Assets {
             }
             BoundsScale: 1
           }
-        }
-      }
-      Objects {
-        Id: 8021211525637418498
-        Name: "Lava Tile"
-        Transform {
-          Location {
-            X: -1100
-            Y: 800
-            Z: 1100
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.5
-            Y: 1.5
-            Z: 1.5
-          }
-        }
-        ParentId: 17266053025478393146
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
         }
       }
       Objects {
@@ -3319,7 +3249,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 13089118908615975357
+        ParentId: 16131118149890627704
         ChildIds: 2536062555994841086
         WantsNetworking: true
         Collidable_v2 {
@@ -3396,7 +3326,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 13089118908615975357
+        ParentId: 16131118149890627704
         ChildIds: 3479987811519875377
         WantsNetworking: true
         Collidable_v2 {
@@ -3458,6 +3388,81 @@ Assets {
         }
       }
       Objects {
+        Id: 53642008958318140
+        Name: "Kill Zone"
+        Transform {
+          Location {
+            X: 1200
+            Z: -550
+          }
+          Rotation {
+          }
+          Scale {
+            X: 23
+            Y: 11
+            Z: 7
+          }
+        }
+        ParentId: 16131118149890627704
+        ChildIds: 12923256252724481482
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 12923256252724481482
+        Name: "Kill Zone"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 53642008958318140
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 1088534770586260933
+          }
+        }
+      }
+      Objects {
         Id: 383392887937069429
         Name: "Jellyshroom"
         Transform {
@@ -3474,7 +3479,7 @@ Assets {
             Z: 2.25
           }
         }
-        ParentId: 13089118908615975357
+        ParentId: 16131118149890627704
         ChildIds: 3857673856335876983
         ChildIds: 15987521498449829377
         ChildIds: 5171057968424065059
@@ -3510,7 +3515,7 @@ Assets {
           }
         }
         ParentId: 383392887937069429
-        ChildIds: 2038982778887930833
+        ChildIds: 7266193457279063854
         ChildIds: 4768721758626772016
         WantsNetworking: true
         Collidable_v2 {
@@ -3529,8 +3534,8 @@ Assets {
         }
       }
       Objects {
-        Id: 2038982778887930833
-        Name: "NewFolder"
+        Id: 7266193457279063854
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -3562,8 +3567,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "NewFolder_9"
+          IsGroup: true
         }
       }
       Objects {
@@ -3571,17 +3575,17 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            Z: 75.5660782
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
+            X: 1.79999983
+            Y: 1.79999983
             Z: 0.6
           }
         }
-        ParentId: 2038982778887930833
+        ParentId: 7266193457279063854
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -3665,7 +3669,7 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            Z: -14.433919
           }
           Rotation {
           }
@@ -3675,7 +3679,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2038982778887930833
+        ParentId: 7266193457279063854
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -3713,7 +3717,7 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            Z: -14.433919
           }
           Rotation {
           }
@@ -3723,7 +3727,7 @@ Assets {
             Z: 0.805536568
           }
         }
-        ParentId: 2038982778887930833
+        ParentId: 7266193457279063854
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3774,13 +3778,13 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627604187
+            Y: -0.258680552
+            Z: 91.9590912
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758209
             Roll: 178.733261
           }
           Scale {
@@ -3789,7 +3793,7 @@ Assets {
             Z: 1.77864838
           }
         }
-        ParentId: 2038982778887930833
+        ParentId: 7266193457279063854
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3832,8 +3836,8 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
+            X: -0.610677063
+            Y: -5.02582455
             Z: 60
           }
           Rotation {
@@ -3844,7 +3848,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2038982778887930833
+        ParentId: 7266193457279063854
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -4074,81 +4078,6 @@ Assets {
         }
       }
       Objects {
-        Id: 53642008958318140
-        Name: "Kill Zone"
-        Transform {
-          Location {
-            X: 1200
-            Z: -550
-          }
-          Rotation {
-          }
-          Scale {
-            X: 23
-            Y: 11
-            Z: 7
-          }
-        }
-        ParentId: 13089118908615975357
-        ChildIds: 12923256252724481482
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 12923256252724481482
-        Name: "Kill Zone"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 53642008958318140
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 1088534770586260933
-          }
-        }
-      }
-      Objects {
         Id: 15282703263673317025
         Name: "Jellyshroom"
         Transform {
@@ -4158,7 +4087,7 @@ Assets {
             Z: -300
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 2.25
@@ -4166,7 +4095,7 @@ Assets {
             Z: 2.25
           }
         }
-        ParentId: 13089118908615975357
+        ParentId: 16131118149890627704
         ChildIds: 5072417912904263194
         ChildIds: 17973327552564270480
         ChildIds: 5273971230973096042
@@ -4202,7 +4131,7 @@ Assets {
           }
         }
         ParentId: 15282703263673317025
-        ChildIds: 9417492177874569459
+        ChildIds: 12710260009217046537
         ChildIds: 11149875337613767997
         WantsNetworking: true
         Collidable_v2 {
@@ -4221,8 +4150,8 @@ Assets {
         }
       }
       Objects {
-        Id: 9417492177874569459
-        Name: "NewFolder"
+        Id: 12710260009217046537
+        Name: "Group"
         Transform {
           Location {
             Z: -10
@@ -4254,8 +4183,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "NewFolder_8"
+          IsGroup: true
         }
       }
       Objects {
@@ -4263,17 +4191,17 @@ Assets {
         Name: "Dust Motes Volume VFX"
         Transform {
           Location {
-            Z: 75.56604
+            Z: 75.5660782
           }
           Rotation {
           }
           Scale {
-            X: 1.8
-            Y: 1.8
+            X: 1.79999983
+            Y: 1.79999983
             Z: 0.6
           }
         }
-        ParentId: 9417492177874569459
+        ParentId: 12710260009217046537
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color"
@@ -4357,7 +4285,7 @@ Assets {
         Name: "Simple Swing Parent"
         Transform {
           Location {
-            Z: -14.43396
+            Z: -14.433919
           }
           Rotation {
           }
@@ -4367,7 +4295,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9417492177874569459
+        ParentId: 12710260009217046537
         UnregisteredParameters {
           Overrides {
             Name: "cs:Wavelength"
@@ -4405,7 +4333,7 @@ Assets {
         Name: "Teardrop - Truncated"
         Transform {
           Location {
-            Z: -14.43396
+            Z: -14.433919
           }
           Rotation {
           }
@@ -4415,7 +4343,7 @@ Assets {
             Z: 0.805536568
           }
         }
-        ParentId: 9417492177874569459
+        ParentId: 12710260009217046537
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4466,13 +4394,13 @@ Assets {
         Name: "Coral Table 01"
         Transform {
           Location {
-            X: -0.627685547
-            Y: -0.258575439
-            Z: 91.9591064
+            X: -0.627604306
+            Y: -0.258571595
+            Z: 91.9590912
           }
           Rotation {
             Pitch: 1.03298414
-            Yaw: -51.5758057
+            Yaw: -51.5758209
             Roll: 178.733261
           }
           Scale {
@@ -4481,7 +4409,7 @@ Assets {
             Z: 1.77864838
           }
         }
-        ParentId: 9417492177874569459
+        ParentId: 12710260009217046537
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4524,8 +4452,8 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -0.610595703
-            Y: -5.02590942
+            X: -0.610680699
+            Y: -5.02593279
             Z: 60
           }
           Rotation {
@@ -4536,7 +4464,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9417492177874569459
+        ParentId: 12710260009217046537
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
