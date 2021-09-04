@@ -1166,7 +1166,7 @@ Objects {
     Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:forceoff"
+    Value: "mc:evisibilitysetting:forceon"
   }
   CameraCollidable {
     Value: "mc:ecollisionsetting:forceoff"
@@ -1268,43 +1268,6 @@ Objects {
             Pitch: -41.1529617
             Yaw: 178.739731
             Roll: -89.3673172
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15482429205348811042
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -11.0077829
-            Y: 2.1076039e-05
-            Z: 28.464859
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -43.8936157
-            Yaw: -179.999985
-            Roll: -89.9999084
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.366909295
-            Y: 0.366923749
-            Z: 0.415892184
           }
         }
       }
