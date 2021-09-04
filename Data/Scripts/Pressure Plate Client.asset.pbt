@@ -1,6 +1,6 @@
 Assets {
-  Id: 13121810125165412353
-  Name: "Move Platform Trigger"
+  Id: 18058440575631694672
+  Name: "Pressure Plate Client"
   PlatformAssetType: 3
   TextAsset {
   }

@@ -13,7 +13,7 @@ function Tick()
   if Object.IsValid(sfx) then
     sfx:Play()
   else
-    sfx = Utils.playSoundEffect(ROTATE_SFX, script:GetWorldPosition(), {transient = false, volume = 0.5})
+    sfx = Utils.playSoundEffect(ROTATE_SFX, {position = script:GetWorldPosition(), transient = false, volume = 0.5})
   end
 
   if IS_LOCAL then

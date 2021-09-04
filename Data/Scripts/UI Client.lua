@@ -23,7 +23,7 @@ UI.SetCanCursorInteractWithUI(true)
 UI.SetCursorVisible(true)
 
 function initGameUI()
-  clientPlayer:ClearOverrideCamera(0.25)
+  clientPlayer:ClearOverrideCamera(0.5)
 
   START_BUTTON.visibility = Visibility.FORCE_OFF
   myMoney = clientPlayer:GetResource("Money")

@@ -1,14 +1,14 @@
-Name: "Light_3"
-RootId: 6908494243763904029
+Name: "Light_5"
+RootId: 7139836871600601941
 Objects {
-  Id: 17070243936478731741
+  Id: 2593649829381810156
   Name: "NewFolder"
   Transform {
     Location {
-      X: 51.5122299
+      X: 51.512207
     }
     Rotation {
-      Pitch: 13.3036299
+      Pitch: 5.07369661
     }
     Scale {
       X: 0.722611904
@@ -16,7 +16,7 @@ Objects {
       Z: 0.722611904
     }
   }
-  ParentId: 6908494243763904029
+  ParentId: 7139836871600601941
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -31,11 +31,11 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_11"
+    FilePartitionName: "NewFolder_2"
   }
 }
 Objects {
-  Id: 7209647632226472498
+  Id: 12851369247045858324
   Name: "Mecha - Frame - Hinge 01"
   Transform {
     Location {
@@ -51,7 +51,7 @@ Objects {
       Z: 0.839213789
     }
   }
-  ParentId: 6908494243763904029
+  ParentId: 7139836871600601941
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
