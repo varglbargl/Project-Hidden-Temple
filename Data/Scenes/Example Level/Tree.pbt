@@ -20,21 +20,7 @@ Objects {
   ChildIds: 16273416948258391970
   ChildIds: 5655188635870329828
   ChildIds: 1314173204896775892
-  ChildIds: 2270845258927061746
-  ChildIds: 11307474539542729157
-  ChildIds: 2797445499085822298
-  ChildIds: 3773113449163292676
-  ChildIds: 12137691704571865192
-  ChildIds: 13349813437145267142
-  ChildIds: 4204572351545207907
-  ChildIds: 18388602965878675141
-  ChildIds: 13114130149130859172
-  ChildIds: 16202568797085382493
-  ChildIds: 4684619005736113002
-  ChildIds: 10815629595148584142
-  ChildIds: 15748951030116191034
-  ChildIds: 15287394261973310574
-  ChildIds: 18013163226054449646
+  ChildIds: 9351869528563338741
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -50,16 +36,64 @@ Objects {
   }
 }
 Objects {
+  Id: 9351869528563338741
+  Name: "Lillie.RedRoom.Elevators"
+  Transform {
+    Location {
+      X: 8800
+      Y: 11200
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 8090863361984085195
+  ChildIds: 11307474539542729157
+  ChildIds: 2797445499085822298
+  ChildIds: 3773113449163292676
+  ChildIds: 12137691704571865192
+  ChildIds: 13349813437145267142
+  ChildIds: 4204572351545207907
+  ChildIds: 18388602965878675141
+  ChildIds: 13114130149130859172
+  ChildIds: 16202568797085382493
+  ChildIds: 4684619005736113002
+  ChildIds: 10815629595148584142
+  ChildIds: 15748951030116191034
+  ChildIds: 15287394261973310574
+  ChildIds: 18013163226054449646
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
   Id: 18013163226054449646
   Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: 11200
-      Y: 8800
-      Z: -600
+      X: 2400
+      Y: -2200
     }
     Rotation {
-      Yaw: 90
+      Yaw: 89.9999847
     }
     Scale {
       X: 5
@@ -67,7 +101,7 @@ Objects {
       Z: 10
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -78,7 +112,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner2:id"
       AssetReference {
-        Id: 4627105838492323647
+        Id: 2982978207571695945
       }
     }
   }
@@ -128,7 +162,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -146,9 +180,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10400
-            Y: 9600
-            Z: -600
+            X: 1600
+            Y: -1400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -175,7 +221,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -193,9 +239,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9600
-            Y: 9600
-            Z: -600
+            X: 800
+            Y: -1400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -222,7 +280,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -240,9 +298,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10400
-            Y: 12800
-            Z: -600
+            X: 1600
+            Y: 1800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -269,7 +339,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -287,9 +357,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9600
-            Y: 12800
-            Z: -600
+            X: 800
+            Y: 1800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -316,7 +398,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -334,9 +416,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10400
-            Y: 12000
-            Z: -600
+            X: 1600
+            Y: 1000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -363,7 +457,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -381,9 +475,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10400
-            Y: 11200
-            Z: -600
+            X: 1600
+            Y: 200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -410,7 +516,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -428,9 +534,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10400
-            Y: 10400
-            Z: -600
+            X: 1600
+            Y: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -457,7 +575,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -475,9 +593,20 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8800
-            Y: 10400
-            Z: -600
+            Y: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -504,7 +633,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -522,9 +651,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9600
-            Y: 10400
-            Z: -600
+            X: 800
+            Y: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -551,7 +692,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -569,9 +710,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9600
-            Y: 11200
-            Z: -600
+            X: 800
+            Y: 200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -598,7 +751,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -616,9 +769,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9600
-            Y: 12000
-            Z: -600
+            X: 800
+            Y: 1000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -645,7 +810,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -663,9 +828,20 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8800
-            Y: 12000
-            Z: -600
+            Y: 1000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -685,7 +861,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -703,9 +879,20 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 8800
-            Y: 11200
-            Z: -600
+            Y: 200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
@@ -716,38 +903,55 @@ Objects {
   }
 }
 Objects {
-  Id: 2270845258927061746
-  Name: "Lillie.RedRoom.Elevators"
+  Id: 8090863361984085195
+  Name: "Stone Brick Doorway - Skull Sconces"
   Transform {
-    Location {
-      X: 8800
-      Y: 11200
-      Z: -600
-    }
-    Rotation {
-    }
     Scale {
       X: 1
       Y: 1
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 9351869528563338741
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_RedRoom_Elevators"
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: 200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
   }
 }
 Objects {
