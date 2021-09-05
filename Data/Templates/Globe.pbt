@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 2181537579860011447
         ChildIds: 13295389555918115011
         ChildIds: 12501258530069113798
         ChildIds: 11452665588461226986
@@ -160,7 +160,7 @@ Assets {
           }
         }
         ParentId: 16689215774109785522
-        ChildIds: 12370986630156784995
+        ChildIds: 5125437558374896371
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -177,14 +177,16 @@ Assets {
         }
       }
       Objects {
-        Id: 12370986630156784995
-        Name: "NewFolder"
+        Id: 5125437558374896371
+        Name: "Rotation Axis"
         Transform {
           Location {
             Z: 60
           }
           Rotation {
-            Pitch: 44.9999886
+            Pitch: 44.9999771
+            Yaw: -1.76895867e-06
+            Roll: 1.91391223e-07
           }
           Scale {
             X: 0.672474265
@@ -212,7 +214,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -222,7 +224,9 @@ Assets {
           Location {
           }
           Rotation {
-            Pitch: 6.83018879e-06
+            Pitch: 2.04905664e-05
+            Yaw: -1.70754709e-06
+            Roll: -3.18055451e-13
           }
           Scale {
             X: 1
@@ -230,7 +234,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12370986630156784995
+        ParentId: 5125437558374896371
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -296,7 +300,9 @@ Assets {
           Location {
           }
           Rotation {
-            Pitch: 6.83018879e-06
+            Pitch: 2.04905664e-05
+            Yaw: -1.70754709e-06
+            Roll: -3.18055451e-13
           }
           Scale {
             X: 1
@@ -304,7 +310,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12370986630156784995
+        ParentId: 5125437558374896371
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -355,13 +361,14 @@ Assets {
         Name: "Star - Beveled"
         Transform {
           Location {
-            X: 0.00026377727
-            Z: 73.4116
+            X: 0.000197123867
+            Y: 4.9635506e-05
+            Z: 73.411644
           }
           Rotation {
-            Pitch: -6.83018879e-06
-            Yaw: 180
-            Roll: -89.9999847
+            Pitch: -2.04905664e-05
+            Yaw: -179.999985
+            Roll: -89.9999542
           }
           Scale {
             X: 0.180701613
@@ -369,7 +376,7 @@ Assets {
             Z: 0.963835657
           }
         }
-        ParentId: 12370986630156784995
+        ParentId: 5125437558374896371
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -426,14 +433,14 @@ Assets {
         Name: "Sphere"
         Transform {
           Location {
-            X: 2.83631471e-05
-            Y: -4.71537314e-05
+            X: 4.67991922e-05
+            Y: -3.43903157e-05
             Z: -72.6177368
           }
           Rotation {
-            Pitch: 2.73207552e-05
-            Yaw: 179.999969
-            Roll: -3.05175781e-05
+            Pitch: 6.83018879e-06
+            Yaw: 179.999954
+            Roll: -3.24433968e-05
           }
           Scale {
             X: 0.149976209
@@ -441,7 +448,7 @@ Assets {
             Z: 0.149976209
           }
         }
-        ParentId: 12370986630156784995
+        ParentId: 5125437558374896371
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -496,9 +503,9 @@ Assets {
           Location {
           }
           Rotation {
-            Pitch: 2.73207552e-05
-            Yaw: 179.999985
-            Roll: -8.2864517e-07
+            Pitch: 1.36603776e-05
+            Yaw: 179.999969
+            Roll: -1.70754879e-06
           }
           Scale {
             X: 0.658435464
@@ -506,7 +513,7 @@ Assets {
             Z: 1.0327493
           }
         }
-        ParentId: 12370986630156784995
+        ParentId: 5125437558374896371
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -565,6 +572,9 @@ Assets {
           Location {
           }
           Rotation {
+            Pitch: 2.04905664e-05
+            Yaw: -3.41509394e-06
+            Roll: 8.53773031e-07
           }
           Scale {
             X: 1.48704576
@@ -572,7 +582,7 @@ Assets {
             Z: 1.48704576
           }
         }
-        ParentId: 12370986630156784995
+        ParentId: 5125437558374896371
         UnregisteredParameters {
           Overrides {
             Name: "cs:IsLocal"
@@ -581,7 +591,7 @@ Assets {
           Overrides {
             Name: "cs:Speed"
             Vector {
-              Z: 0.04
+              Z: 0.07
             }
           }
         }

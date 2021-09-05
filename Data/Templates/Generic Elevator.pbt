@@ -15,24 +15,12 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17079232088293387708
-        ChildIds: 769915483370882734
+        ParentId: 4781671109827199097
         ChildIds: 4408968465753608552
+        ChildIds: 769915483370882734
         ChildIds: 6395935372347618879
-        ChildIds: 15806469663021339222
-        ChildIds: 5818976266323519252
-        ChildIds: 1044973610194717705
-        ChildIds: 9863796893361290403
-        ChildIds: 11106177089688868777
-        ChildIds: 16988417797744312976
-        ChildIds: 3797909310100604236
-        ChildIds: 10751718350877969391
-        ChildIds: 758116286152355782
-        ChildIds: 6167339754561155682
-        ChildIds: 18208334968136574259
-        ChildIds: 13408066619518098178
-        ChildIds: 18219112069716932329
-        ChildIds: 4967921491646673794
+        ChildIds: 5241695441048248815
+        ChildIds: 8460695794222434104
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -47,6 +35,53 @@ Assets {
         }
         Folder {
           IsGroup: true
+        }
+      }
+      Objects {
+        Id: 4408968465753608552
+        Name: "Simple Moving Platform"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11500117178595357088
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Platform"
+            ObjectReference {
+              SubObjectId: 5241695441048248815
+            }
+          }
+          Overrides {
+            Name: "cs:Destination"
+            ObjectReference {
+              SubObjectId: 6395935372347618879
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 14359719413353357775
+          }
         }
       }
       Objects {
@@ -315,53 +350,6 @@ Assets {
         }
       }
       Objects {
-        Id: 4408968465753608552
-        Name: "Simple Moving Platform"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 11500117178595357088
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Platform"
-            ObjectReference {
-              SubObjectId: 15806469663021339222
-            }
-          }
-          Overrides {
-            Name: "cs:Destination"
-            ObjectReference {
-              SubObjectId: 6395935372347618879
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 14359719413353357775
-          }
-        }
-      }
-      Objects {
         Id: 6395935372347618879
         Name: "Destination"
         Transform {
@@ -481,7 +469,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15806469663021339222
+        Id: 5241695441048248815
         Name: "Platform"
         Transform {
           Location {
@@ -496,89 +484,7 @@ Assets {
           }
         }
         ParentId: 11500117178595357088
-        ChildIds: 6299109000459234549
-        ChildIds: 14661618250771373292
         ChildIds: 3012378572196117035
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 6299109000459234549
-        Name: "Cube"
-        Transform {
-          Location {
-            X: 154.999908
-            Y: -149.999969
-            Z: -251
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3
-            Y: 3
-            Z: 5.4
-          }
-        }
-        ParentId: 15806469663021339222
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14661618250771373292
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15806469663021339222
         ChildIds: 15109415067129793333
         ChildIds: 14794018041112229790
         ChildIds: 7204150558991249057
@@ -588,7 +494,7 @@ Assets {
         ChildIds: 14279362084223095277
         WantsNetworking: true
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -600,6 +506,62 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
+          Type: RuntimeStatic
+        }
+      }
+      Objects {
+        Id: 3012378572196117035
+        Name: "Main Street Railing 01 - 2m"
+        Transform {
+          Location {
+            X: 10.0019531
+            Y: -290.000488
+            Z: 40
+          }
+          Rotation {
+            Yaw: 89.9999313
+          }
+          Scale {
+            X: 1.4
+            Y: -1
+            Z: 1
+          }
+        }
+        ParentId: 5241695441048248815
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.086
+              G: 0.067405656
+              B: 0.0608879961
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 4832010047877921553
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          InteractWithTriggers: true
+          StaticMesh {
+            Physics {
+            }
+            BoundsScale: 1
+          }
         }
       }
       Objects {
@@ -612,8 +574,8 @@ Assets {
             Z: 20
           }
           Rotation {
-            Yaw: 1.02452796e-05
-            Roll: -90
+            Yaw: 1.02452786e-05
+            Roll: -89.9999924
           }
           Scale {
             X: 0.4
@@ -621,7 +583,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -693,8 +655,8 @@ Assets {
             Z: 20
           }
           Rotation {
-            Yaw: 1.02452796e-05
-            Roll: -90
+            Yaw: 1.02452786e-05
+            Roll: -89.9999924
           }
           Scale {
             X: 0.4
@@ -702,7 +664,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -770,12 +732,12 @@ Assets {
         Transform {
           Location {
             X: 80
-            Y: -9.99900913
+            Y: -9.99902344
             Z: -25
           }
           Rotation {
             Yaw: 1.02452786e-05
-            Roll: -89.9999771
+            Roll: -89.9999619
           }
           Scale {
             X: 0.4
@@ -783,7 +745,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -851,12 +813,12 @@ Assets {
         Transform {
           Location {
             X: 185
-            Y: -9.99899
+            Y: -9.9989624
             Z: -25
           }
           Rotation {
             Yaw: 1.02452786e-05
-            Roll: -89.9999771
+            Roll: -89.9999619
           }
           Scale {
             X: 0.4
@@ -864,7 +826,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -936,7 +898,7 @@ Assets {
             Z: 20
           }
           Rotation {
-            Yaw: 89.9999313
+            Yaw: 89.9999161
           }
           Scale {
             X: 1
@@ -944,7 +906,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -991,7 +953,7 @@ Assets {
             Z: 20
           }
           Rotation {
-            Yaw: 89.9999313
+            Yaw: 89.9999161
           }
           Scale {
             X: 1
@@ -999,7 +961,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1041,8 +1003,7 @@ Assets {
         Name: "Fantasy Castle Floor 02"
         Transform {
           Location {
-            X: 2.17382717
-            Y: -5.18280956e-07
+            X: 2.17382812
           }
           Rotation {
           }
@@ -1052,7 +1013,7 @@ Assets {
             Z: 0.75
           }
         }
-        ParentId: 14661618250771373292
+        ParentId: 5241695441048248815
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:smart"
@@ -1109,36 +1070,33 @@ Assets {
         }
       }
       Objects {
-        Id: 3012378572196117035
-        Name: "Main Street Railing 01 - 2m"
+        Id: 8460695794222434104
+        Name: "StaticContext"
         Transform {
           Location {
-            X: 10.0019531
-            Y: -290.000488
-            Z: 40
           }
           Rotation {
-            Yaw: 89.9999313
           }
           Scale {
-            X: 1.4
-            Y: -1
+            X: 1
+            Y: 1
             Z: 1
           }
         }
-        ParentId: 15806469663021339222
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.086
-              G: 0.067405656
-              B: 0.0608879961
-              A: 1
-            }
-          }
-        }
-        WantsNetworking: true
+        ParentId: 11500117178595357088
+        ChildIds: 5818976266323519252
+        ChildIds: 1044973610194717705
+        ChildIds: 9863796893361290403
+        ChildIds: 11106177089688868777
+        ChildIds: 16988417797744312976
+        ChildIds: 3797909310100604236
+        ChildIds: 10751718350877969391
+        ChildIds: 758116286152355782
+        ChildIds: 6167339754561155682
+        ChildIds: 18208334968136574259
+        ChildIds: 13408066619518098178
+        ChildIds: 18219112069716932329
+        ChildIds: 4967921491646673794
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1146,22 +1104,13 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 4832010047877921553
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+          Type: RuntimeStatic
         }
       }
       Objects {
@@ -1174,7 +1123,7 @@ Assets {
             Z: -5
           }
           Rotation {
-            Roll: -89.9999924
+            Roll: -90
           }
           Scale {
             X: 0.4
@@ -1182,7 +1131,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -1254,7 +1203,7 @@ Assets {
             Z: -5
           }
           Rotation {
-            Roll: -89.9999924
+            Roll: -90
           }
           Scale {
             X: 0.4
@@ -1262,7 +1211,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -1341,7 +1290,7 @@ Assets {
             Z: 14.3518791
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -1447,7 +1396,7 @@ Assets {
             Z: 14.3518791
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Font_Bevel:id"
@@ -1541,13 +1490,13 @@ Assets {
         Name: "Pipe - Thin"
         Transform {
           Location {
-            X: 144.999939
-            Y: 14.999958
+            X: 145
+            Y: 14.999939
             Z: 90
           }
           Rotation {
-            Yaw: 179.999985
-            Roll: 89.9999847
+            Yaw: 179.999954
+            Roll: 89.9999542
           }
           Scale {
             X: 1
@@ -1555,7 +1504,7 @@ Assets {
             Z: 0.1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1602,13 +1551,13 @@ Assets {
         Name: "Pipe - Thin"
         Transform {
           Location {
-            X: 144.999939
-            Y: 15.0009346
+            X: 145
+            Y: 15.0009155
             Z: 1125.00024
           }
           Rotation {
-            Yaw: 179.999969
-            Roll: 89.9999466
+            Yaw: 179.999954
+            Roll: 89.999939
           }
           Scale {
             X: 1
@@ -1616,7 +1565,7 @@ Assets {
             Z: 0.1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1663,8 +1612,8 @@ Assets {
         Name: "Wedge - Polished"
         Transform {
           Location {
-            X: 154.999863
-            Y: -299.999908
+            X: 154.999878
+            Y: -299.999878
             Z: -40
           }
           Rotation {
@@ -1676,7 +1625,7 @@ Assets {
             Z: 0.5
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1722,7 +1671,7 @@ Assets {
             Z: -5
           }
           Rotation {
-            Yaw: 89.9999313
+            Yaw: 89.9998932
           }
           Scale {
             X: 1
@@ -1730,7 +1679,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1785,7 +1734,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1832,7 +1781,7 @@ Assets {
             Z: -5
           }
           Rotation {
-            Yaw: 89.9999313
+            Yaw: 89.9998932
           }
           Scale {
             X: 1
@@ -1840,7 +1789,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1895,7 +1844,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1942,7 +1891,7 @@ Assets {
             Z: -5
           }
           Rotation {
-            Yaw: 89.9999313
+            Yaw: 89.9998932
           }
           Scale {
             X: 1
@@ -1950,7 +1899,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1997,7 +1946,7 @@ Assets {
             Z: -5
           }
           Rotation {
-            Yaw: 89.9999313
+            Yaw: 89.9998932
           }
           Scale {
             X: 1
@@ -2005,7 +1954,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11500117178595357088
+        ParentId: 8460695794222434104
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -2080,12 +2029,12 @@ Assets {
       }
     }
     Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
+      Id: 4832010047877921553
+      Name: "Main Street Railing 01 - 2m"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
+        AssetId: "sm_ts_urb_dtn_mst_railing_001_ref"
       }
     }
     Assets {
@@ -2131,15 +2080,6 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_brick_stone_floor_large_001"
-      }
-    }
-    Assets {
-      Id: 4832010047877921553
-      Name: "Main Street Railing 01 - 2m"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_ts_urb_dtn_mst_railing_001_ref"
       }
     }
     Assets {

@@ -53,9 +53,170 @@ Assets {
           }
         }
         ParentId: 9972677204757039460
-        ChildIds: 9194920201333340372
-        ChildIds: 13336586701225794475
-        ChildIds: 5040371337432364811
+        ChildIds: 12988041338551120279
+        ChildIds: 2271395872231810681
+        ChildIds: 11836255930292739016
+        ChildIds: 10279339849925200273
+        ChildIds: 12316709174207490556
+        ChildIds: 7501986885330911388
+        ChildIds: 13883928447995724109
+        ChildIds: 13170151586932889506
+        ChildIds: 2585854489345048136
+        ChildIds: 11723089600624466879
+        ChildIds: 7523324431034807299
+        ChildIds: 17299963035794690016
+        ChildIds: 12705913631498588524
+        ChildIds: 17481722456528560264
+        ChildIds: 3211874157667229732
+        ChildIds: 4550154774820806600
+        ChildIds: 5845403554139308033
+        ChildIds: 11619555737114087234
+        ChildIds: 9354754794782395910
+        ChildIds: 3141319116709634021
+        ChildIds: 715901058985584095
+        ChildIds: 15022520124309920091
+        ChildIds: 17558855770942860367
+        ChildIds: 975006666328852121
+        ChildIds: 10720452514065203509
+        ChildIds: 5501889454593200221
+        ChildIds: 1488270521236145109
+        ChildIds: 3645177718953110944
+        ChildIds: 2775942264723952243
+        ChildIds: 18163763974959567220
+        ChildIds: 14233234390712816006
+        ChildIds: 18209163800656660230
+        ChildIds: 15010661148787253939
+        ChildIds: 17099981485882351577
+        ChildIds: 576366962781890287
+        ChildIds: 15070748645150578773
+        ChildIds: 16263531195133930825
+        ChildIds: 12937425596591974529
+        ChildIds: 2638951028871863143
+        ChildIds: 2029213700210908483
+        ChildIds: 5598454178350358797
+        ChildIds: 14415890581510411723
+        ChildIds: 16431867694453965681
+        ChildIds: 8752359629388429603
+        ChildIds: 10972751885250603424
+        ChildIds: 12520561996601137065
+        ChildIds: 7235432127890742219
+        ChildIds: 15365523886799418174
+        ChildIds: 18263928952710350794
+        ChildIds: 10954971198429920042
+        ChildIds: 1151738274990951770
+        ChildIds: 10734180659863345674
+        ChildIds: 11392887046819510639
+        ChildIds: 7552695190927110737
+        ChildIds: 9068531571534546560
+        ChildIds: 2333580490306502195
+        ChildIds: 2485504232585698466
+        ChildIds: 6623618486579734980
+        ChildIds: 15961632962001003194
+        ChildIds: 15529823281968291642
+        ChildIds: 5354931431565698719
+        ChildIds: 6298781344259857769
+        ChildIds: 16117472611597867657
+        ChildIds: 12492171785509437735
+        ChildIds: 10218102160671079958
+        ChildIds: 11509751313618423093
+        ChildIds: 3084069884439749675
+        ChildIds: 12634875422358884975
+        ChildIds: 2088709157496492736
+        ChildIds: 13253718774346141590
+        ChildIds: 3743719207239109459
+        ChildIds: 8980266427071891144
+        ChildIds: 10774231548301924312
+        ChildIds: 8132137917726509913
+        ChildIds: 3420890245041065760
+        ChildIds: 132846926467226158
+        ChildIds: 14206047990740461695
+        ChildIds: 8253477949288907608
+        ChildIds: 14336277418938268121
+        ChildIds: 9495091689277946775
+        ChildIds: 15093308052437094529
+        ChildIds: 5169441314214406715
+        ChildIds: 17727297980723241267
+        ChildIds: 18339328787913708164
+        ChildIds: 11319311605438565451
+        ChildIds: 2758041057293318283
+        ChildIds: 15488898839354037814
+        ChildIds: 8814228800420335389
+        ChildIds: 16896725604742875505
+        ChildIds: 521732202537762746
+        ChildIds: 15280190886496535128
+        ChildIds: 14918503768510033318
+        ChildIds: 447811021349358129
+        ChildIds: 8337741942234856779
+        ChildIds: 4789778482053619201
+        ChildIds: 13228052794047452783
+        ChildIds: 17004392649512548793
+        ChildIds: 6100185733817228946
+        ChildIds: 5013720989428874550
+        ChildIds: 12990367423949511486
+        ChildIds: 616027582340826279
+        ChildIds: 5380912603438455990
+        ChildIds: 374421640609892484
+        ChildIds: 4892131861364727128
+        ChildIds: 14615895216837236912
+        ChildIds: 16019438302499017325
+        ChildIds: 17264161377330581638
+        ChildIds: 10354759173471365456
+        ChildIds: 3142769670245856241
+        ChildIds: 3562135109749648534
+        ChildIds: 5429127036385611886
+        ChildIds: 10739700269687101173
+        ChildIds: 3428866811936203097
+        ChildIds: 2314745147219501911
+        ChildIds: 7674212789982277250
+        ChildIds: 7587897270559954473
+        ChildIds: 1960217336024148827
+        ChildIds: 5142081460858300636
+        ChildIds: 5057479849547652427
+        ChildIds: 5344794464718280003
+        ChildIds: 7810288196595441062
+        ChildIds: 3781842735275781334
+        ChildIds: 296389366591011348
+        ChildIds: 5229619794251576080
+        ChildIds: 16299721466222839374
+        ChildIds: 16905222895116550417
+        ChildIds: 12950700847105661982
+        ChildIds: 15215686935227966501
+        ChildIds: 4221740305267879548
+        ChildIds: 7572656800140676297
+        ChildIds: 7802944833992504791
+        ChildIds: 280391373391550897
+        ChildIds: 2064652923442197046
+        ChildIds: 10310591132901785138
+        ChildIds: 13168911821552282065
+        ChildIds: 17903100139818535028
+        ChildIds: 1458415336551671554
+        ChildIds: 16140110657443407831
+        ChildIds: 12881162570668036238
+        ChildIds: 9987765532271470806
+        ChildIds: 7782430629983978882
+        ChildIds: 17530724149578998418
+        ChildIds: 15616689909132544724
+        ChildIds: 5590081154993988498
+        ChildIds: 10381654834547256887
+        ChildIds: 15546506869576009116
+        ChildIds: 2786130083010421886
+        ChildIds: 581990316243596794
+        ChildIds: 507381334905019810
+        ChildIds: 14875898764211910871
+        ChildIds: 10961762233123673391
+        ChildIds: 11791289438740351595
+        ChildIds: 856020434508803573
+        ChildIds: 20656102822375936
+        ChildIds: 11292992326713072453
+        ChildIds: 1524045524920244790
+        ChildIds: 4371114011038318337
+        ChildIds: 16628293862079593082
+        ChildIds: 5472716310149008689
+        ChildIds: 16963096395750568013
+        ChildIds: 10441334271484378643
+        ChildIds: 10157294774710822861
+        ChildIds: 17087665928582137948
+        ChildIds: 14133632561543531463
         ChildIds: 6305164709746280330
         ChildIds: 3394121623518333477
         ChildIds: 15808140082568185530
@@ -212,13 +373,12 @@ Assets {
         }
       }
       Objects {
-        Id: 9194920201333340372
-        Name: "Floor"
+        Id: 12988041338551120279
+        Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
             Y: 2000
-            Z: -600
+            Z: -1200
           }
           Rotation {
           }
@@ -229,78 +389,6 @@ Assets {
           }
         }
         ParentId: 1158294784205042370
-        ChildIds: 12988041338551120279
-        ChildIds: 2271395872231810681
-        ChildIds: 11836255930292739016
-        ChildIds: 10279339849925200273
-        ChildIds: 12316709174207490556
-        ChildIds: 7501986885330911388
-        ChildIds: 13883928447995724109
-        ChildIds: 13170151586932889506
-        ChildIds: 2585854489345048136
-        ChildIds: 11723089600624466879
-        ChildIds: 7523324431034807299
-        ChildIds: 17299963035794690016
-        ChildIds: 12705913631498588524
-        ChildIds: 17481722456528560264
-        ChildIds: 3211874157667229732
-        ChildIds: 4550154774820806600
-        ChildIds: 5845403554139308033
-        ChildIds: 11619555737114087234
-        ChildIds: 9354754794782395910
-        ChildIds: 3141319116709634021
-        ChildIds: 715901058985584095
-        ChildIds: 15022520124309920091
-        ChildIds: 17558855770942860367
-        ChildIds: 975006666328852121
-        ChildIds: 10720452514065203509
-        ChildIds: 5501889454593200221
-        ChildIds: 1488270521236145109
-        ChildIds: 3645177718953110944
-        ChildIds: 2775942264723952243
-        ChildIds: 18163763974959567220
-        ChildIds: 14233234390712816006
-        ChildIds: 18209163800656660230
-        ChildIds: 15010661148787253939
-        ChildIds: 17099981485882351577
-        ChildIds: 576366962781890287
-        ChildIds: 15070748645150578773
-        ChildIds: 16263531195133930825
-        ChildIds: 12937425596591974529
-        ChildIds: 2638951028871863143
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-        }
-      }
-      Objects {
-        Id: 12988041338551120279
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Z: -600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9194920201333340372
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -362,9 +450,8 @@ Assets {
         Name: "Cobblestone Floor - Dead Adventurer"
         Transform {
           Location {
-            X: -400
-            Y: 800
-            Z: -600
+            Y: 2800
+            Z: -1200
           }
           Rotation {
           }
@@ -374,8 +461,8 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
-        ChildIds: 9728120251500425480
+        ParentId: 1158294784205042370
+        ChildIds: 18016989318607016980
         ChildIds: 4422916173821628143
         ChildIds: 3803549580667770308
         Collidable_v2 {
@@ -395,8 +482,8 @@ Assets {
         }
       }
       Objects {
-        Id: 9728120251500425480
-        Name: "Skeleton"
+        Id: 18016989318607016980
+        Name: "Skelton"
         Transform {
           Location {
             X: 122
@@ -447,7 +534,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -456,13 +543,13 @@ Assets {
         Transform {
           Location {
             X: -86.5839844
-            Y: -2.38317871
+            Y: -2.38305664
             Z: 71.0506592
           }
           Rotation {
-            Pitch: -19.6867371
-            Yaw: -110.836319
-            Roll: 24.9261971
+            Pitch: -19.6867275
+            Yaw: -110.836304
+            Roll: 24.9261742
           }
           Scale {
             X: 0.937586725
@@ -470,7 +557,7 @@ Assets {
             Z: 0.937560141
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -514,7 +601,7 @@ Assets {
           Rotation {
             Pitch: 22.9798965
             Yaw: -81.8170776
-            Roll: -65.4322815
+            Roll: -65.4323044
           }
           Scale {
             X: 0.937586844
@@ -522,7 +609,7 @@ Assets {
             Z: 0.796948493
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -559,14 +646,14 @@ Assets {
         Name: "Bone Human Hand 01"
         Transform {
           Location {
-            X: -60.5321808
-            Y: -44.258606
+            X: -60.5322266
+            Y: -44.2585449
             Z: 1.04125977
           }
           Rotation {
-            Pitch: -4.71456909
-            Yaw: -9.34567261
-            Roll: -92.6876526
+            Pitch: -4.71456528
+            Yaw: -9.34568214
+            Roll: -92.6876221
           }
           Scale {
             X: -0.648554564
@@ -574,7 +661,7 @@ Assets {
             Z: 0.648554564
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -611,12 +698,12 @@ Assets {
         Name: "Bone Human Ulna 01"
         Transform {
           Location {
-            X: -70.0737
-            Y: -31.3128662
-            Z: 10.3501472
+            X: -70.0737305
+            Y: -31.3127441
+            Z: 10.3500977
           }
           Rotation {
-            Pitch: -23.4107361
+            Pitch: -23.410738
             Yaw: 40.621727
             Roll: -130.168106
           }
@@ -626,7 +713,7 @@ Assets {
             Z: 0.740770221
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -663,14 +750,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -67.0834045
-            Y: -29.6199951
-            Z: 9.48417664
+            X: -67.083374
+            Y: -29.619873
+            Z: 9.48413086
           }
           Rotation {
-            Pitch: -53.2134094
+            Pitch: -53.2133904
             Yaw: 138.873413
-            Roll: 165.570465
+            Roll: 165.57045
           }
           Scale {
             X: 0.382026523
@@ -678,7 +765,7 @@ Assets {
             Z: 0.481424719
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -717,12 +804,12 @@ Assets {
           Location {
             X: -76.5097656
             Y: -15.7141113
-            Z: 34.6517944
+            Z: 34.6518555
           }
           Rotation {
-            Pitch: 8.90524101
-            Yaw: -1.46591187
-            Roll: 11.9635363
+            Pitch: 8.90523434
+            Yaw: -1.46591198
+            Roll: 11.9635506
           }
           Scale {
             X: 0.661809862
@@ -730,7 +817,7 @@ Assets {
             Z: 0.799639881
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -767,14 +854,14 @@ Assets {
         Name: "Bone Human Hand 01"
         Transform {
           Location {
-            X: -44.6448135
-            Y: 47.3817139
-            Z: 2.48639679
+            X: -44.6447754
+            Y: 47.3815918
+            Z: 2.4864502
           }
           Rotation {
             Pitch: 8.51777172
-            Yaw: -78.1347046
-            Roll: 82.0769882
+            Yaw: -78.1346817
+            Roll: 82.076973
           }
           Scale {
             X: 0.648554564
@@ -782,7 +869,7 @@ Assets {
             Z: 0.648554564
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -819,14 +906,14 @@ Assets {
         Name: "Bone Human Ulna 01"
         Transform {
           Location {
-            X: -62.1922417
-            Y: 40.694458
-            Z: 2.60036087
+            X: -62.1922607
+            Y: 40.6945801
+            Z: 2.6003418
           }
           Rotation {
-            Pitch: 23.9527416
-            Yaw: -61.0343628
-            Roll: 86.8221741
+            Pitch: 23.9527283
+            Yaw: -61.0343475
+            Roll: 86.8221664
           }
           Scale {
             X: 0.686714888
@@ -834,7 +921,7 @@ Assets {
             Z: 0.74077
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -871,14 +958,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -58.9123688
+            X: -58.9123535
             Y: 36.8317871
-            Z: 2.1156559
+            Z: 2.11560059
           }
           Rotation {
-            Pitch: 79.9441071
-            Yaw: 105.891846
-            Roll: -96.736969
+            Pitch: 79.9440918
+            Yaw: 105.891815
+            Roll: -96.7370071
           }
           Scale {
             X: 0.3049106
@@ -886,7 +973,7 @@ Assets {
             Z: 0.481425017
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -925,12 +1012,12 @@ Assets {
           Location {
             X: -76.1152344
             Y: 18.8208
-            Z: 18.3727417
+            Z: 18.3728027
           }
           Rotation {
-            Pitch: -0.862609863
-            Yaw: 134.969
-            Roll: 9.75576115
+            Pitch: -0.86261189
+            Yaw: 134.968979
+            Roll: 9.7557745
           }
           Scale {
             X: 0.661809862
@@ -938,7 +1025,7 @@ Assets {
             Z: 0.813292384
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -977,11 +1064,11 @@ Assets {
           Location {
             X: -68.9355469
             Y: 1.11962891
-            Z: 40.6073608
+            Z: 40.6074219
           }
           Rotation {
-            Pitch: -10.2025452
-            Yaw: 92.3826523
+            Pitch: -10.2025394
+            Yaw: 92.382637
             Roll: 19.1809044
           }
           Scale {
@@ -990,7 +1077,7 @@ Assets {
             Z: 0.71390444
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1029,11 +1116,11 @@ Assets {
           Location {
             X: -76.1640625
             Y: -0.876220703
-            Z: 33.350647
+            Z: 33.3505859
           }
           Rotation {
             Pitch: 4.85856581
-            Yaw: 73.8850403
+            Yaw: 73.8850174
             Roll: 19.0132828
           }
           Scale {
@@ -1042,7 +1129,7 @@ Assets {
             Z: 0.71390444
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1079,14 +1166,14 @@ Assets {
         Name: "Bone Human Scapula 01"
         Transform {
           Location {
-            X: -66.28582
+            X: -66.2857666
             Y: -20.0046387
-            Z: 1.3916626
+            Z: 1.39160156
           }
           Rotation {
             Pitch: 7.36969852
             Yaw: -60.0816345
-            Roll: -45.3884277
+            Roll: -45.3884354
           }
           Scale {
             X: 0.554414093
@@ -1094,7 +1181,7 @@ Assets {
             Z: 0.598054647
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1131,14 +1218,14 @@ Assets {
         Name: "Bone Human Scapula 01"
         Transform {
           Location {
-            X: -78.1531372
+            X: -78.1530762
             Y: 11.7871094
-            Z: 36.6391678
+            Z: 36.6391602
           }
           Rotation {
-            Pitch: -1.03155518
-            Yaw: -117.203247
-            Roll: -21.6092529
+            Pitch: -1.03155661
+            Yaw: -117.203224
+            Roll: -21.6092453
           }
           Scale {
             X: -0.554414093
@@ -1146,7 +1233,7 @@ Assets {
             Z: 0.598054647
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1184,13 +1271,13 @@ Assets {
         Transform {
           Location {
             X: -66.6914062
-            Y: -10.4832764
+            Y: -10.4831543
             Z: 9.3293457
           }
           Rotation {
-            Pitch: -13.5779724
+            Pitch: -13.5779715
             Yaw: -97.0470276
-            Roll: -8.14709473
+            Roll: -8.14710331
           }
           Scale {
             X: 0.651524305
@@ -1198,7 +1285,7 @@ Assets {
             Z: 0.702809155
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1240,9 +1327,9 @@ Assets {
             Z: 8.48864746
           }
           Rotation {
-            Pitch: 39.7628937
-            Yaw: -71.0203552
-            Roll: 17.4920731
+            Pitch: 39.7628822
+            Yaw: -71.0203476
+            Roll: 17.4920864
           }
           Scale {
             X: -0.651524305
@@ -1250,7 +1337,7 @@ Assets {
             Z: 0.702809155
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1289,12 +1376,12 @@ Assets {
           Location {
             X: -46.65625
             Y: 17.9047852
-            Z: 1.92987061
+            Z: 1.92993164
           }
           Rotation {
             Pitch: 22.4051971
-            Yaw: -74.217041
-            Roll: -92.1300354
+            Yaw: -74.2170105
+            Roll: -92.1300278
           }
           Scale {
             X: -0.704431
@@ -1302,7 +1389,7 @@ Assets {
             Z: 0.759880781
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1339,14 +1426,14 @@ Assets {
         Name: "Bone Human Femur 01"
         Transform {
           Location {
-            X: -43.9688797
+            X: -43.9688721
             Y: -21.4587402
-            Z: 2.60485077
+            Z: 2.6048584
           }
           Rotation {
             Pitch: -44.7094116
-            Yaw: -106.782318
-            Roll: -96.3972778
+            Yaw: -106.782326
+            Roll: -96.3972855
           }
           Scale {
             X: 0.704431
@@ -1354,7 +1441,7 @@ Assets {
             Z: 0.759880781
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1391,14 +1478,14 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -1.52664185
-            Y: -20.1673584
-            Z: 1.45903778
+            X: -1.52661133
+            Y: -20.1672363
+            Z: 1.45898438
           }
           Rotation {
-            Pitch: -60.9640503
-            Yaw: -68.1888733
-            Roll: -86.4741211
+            Pitch: -60.9640388
+            Yaw: -68.1888657
+            Roll: -86.4741135
           }
           Scale {
             X: 0.764523387
@@ -1406,7 +1493,7 @@ Assets {
             Z: 0.824703157
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1443,13 +1530,13 @@ Assets {
         Name: "Bone Human Tibula 01"
         Transform {
           Location {
-            X: -2.18141174
+            X: -2.18139648
             Y: 46.4152832
-            Z: 2.25461197
+            Z: 2.25463867
           }
           Rotation {
-            Pitch: 63.6595879
-            Yaw: -75.0799866
+            Pitch: 63.659565
+            Yaw: -75.0799561
             Roll: 67.3972
           }
           Scale {
@@ -1458,7 +1545,7 @@ Assets {
             Z: 0.824703157
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1495,14 +1582,14 @@ Assets {
         Name: "Bone Human Foot 01"
         Transform {
           Location {
-            X: 24.442337
-            Y: 46.4556885
-            Z: 7.65206146
+            X: 24.4423828
+            Y: 46.4558105
+            Z: 7.65209961
           }
           Rotation {
             Pitch: 0.937627852
             Yaw: -67.9440308
-            Roll: -10.382019
+            Roll: -10.3820333
           }
           Scale {
             X: -0.72311157
@@ -1510,7 +1597,7 @@ Assets {
             Z: 0.780031681
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1547,13 +1634,13 @@ Assets {
         Name: "Bone Human Foot 01"
         Transform {
           Location {
-            X: 29.3106842
-            Y: -15.1998291
-            Z: 9.37147141
+            X: 29.3106689
+            Y: -15.1999512
+            Z: 9.37146
           }
           Rotation {
             Pitch: 0.937593699
-            Yaw: -113.04335
+            Yaw: -113.04332
             Roll: 1.2278322
           }
           Scale {
@@ -1562,7 +1649,7 @@ Assets {
             Z: 0.780031681
           }
         }
-        ParentId: 9728120251500425480
+        ParentId: 18016989318607016980
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1725,9 +1812,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -800
-            Z: -600
+            Y: 1200
+            Z: -1200
           }
           Rotation {
           }
@@ -1737,7 +1823,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -1799,9 +1885,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -800
-            Z: -600
+            X: 800
+            Y: 1200
+            Z: -1200
           }
           Rotation {
           }
@@ -1811,7 +1897,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -1873,8 +1959,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Z: -600
+            X: 800
+            Y: 2000
+            Z: -1200
           }
           Rotation {
           }
@@ -1884,7 +1971,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -1946,9 +2033,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: 800
-            Z: -600
+            X: 800
+            Y: 2800
+            Z: -1200
           }
           Rotation {
           }
@@ -1958,7 +2045,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2020,9 +2107,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: 800
-            Z: -600
+            X: 1600
+            Y: 2800
+            Z: -1200
           }
           Rotation {
           }
@@ -2032,7 +2119,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2094,8 +2181,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Z: -600
+            X: 1600
+            Y: 2000
+            Z: -1200
           }
           Rotation {
           }
@@ -2105,7 +2193,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2167,9 +2255,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -800
-            Z: -600
+            X: 1600
+            Y: 1200
+            Z: -1200
           }
           Rotation {
           }
@@ -2179,7 +2267,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2241,9 +2329,7 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -1600
-            Z: 600
+            Y: 399.999939
           }
           Rotation {
           }
@@ -2253,7 +2339,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2315,8 +2401,9 @@ Assets {
         Name: "Fantasy Castle Stairs 01 - U"
         Transform {
           Location {
-            X: 50
-            Y: -2400
+            X: 450
+            Y: -400.000061
+            Z: -600
           }
           Rotation {
           }
@@ -2326,7 +2413,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2388,8 +2475,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -1600
+            Y: 399.999939
+            Z: -600
           }
           Rotation {
           }
@@ -2399,7 +2486,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2461,8 +2548,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -1600
+            X: 800
+            Y: 399.999939
+            Z: -600
           }
           Rotation {
           }
@@ -2472,7 +2560,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2534,8 +2622,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -1600
+            X: 1600
+            Y: 399.999939
+            Z: -600
           }
           Rotation {
           }
@@ -2545,7 +2634,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2607,9 +2696,9 @@ Assets {
         Name: "Fantasy Castle Stairs 01 - U"
         Transform {
           Location {
-            X: 3200
-            Y: -800
-            Z: -600
+            X: 3600
+            Y: 1200
+            Z: -1200
           }
           Rotation {
           }
@@ -2619,7 +2708,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2681,9 +2770,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: 800
-            Z: -600
+            X: 2400
+            Y: 2800
+            Z: -1200
           }
           Rotation {
           }
@@ -2693,7 +2782,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2755,8 +2844,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Z: -600
+            X: 2400
+            Y: 2000
+            Z: -1200
           }
           Rotation {
           }
@@ -2766,7 +2856,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2828,9 +2918,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -800
-            Z: -600
+            X: 2400
+            Y: 1200
+            Z: -1200
           }
           Rotation {
           }
@@ -2840,7 +2930,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2902,9 +2992,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: 800
-            Z: -600
+            X: 3200
+            Y: 2800
+            Z: -1200
           }
           Rotation {
           }
@@ -2914,7 +3004,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -2976,8 +3066,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Z: -600
+            X: 3200
+            Y: 2000
+            Z: -1200
           }
           Rotation {
           }
@@ -2987,7 +3078,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3049,9 +3140,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: -800
-            Z: -600
+            X: 3200
+            Y: 1200
+            Z: -1200
           }
           Rotation {
           }
@@ -3061,7 +3152,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3123,9 +3214,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -1600
-            Z: -600
+            Y: 399.999939
+            Z: -1200
           }
           Rotation {
           }
@@ -3135,7 +3225,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3197,9 +3287,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -1600
-            Z: -600
+            X: 800
+            Y: 399.999939
+            Z: -1200
           }
           Rotation {
           }
@@ -3209,7 +3299,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3271,9 +3361,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -1600
-            Z: -600
+            X: 1600
+            Y: 399.999939
+            Z: -1200
           }
           Rotation {
           }
@@ -3283,7 +3373,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3345,9 +3435,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -1600
-            Z: -600
+            X: 2400
+            Y: 399.999939
+            Z: -1200
           }
           Rotation {
           }
@@ -3357,7 +3447,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3419,9 +3509,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: -1600
-            Z: -600
+            X: 3200
+            Y: 399.999939
+            Z: -1200
           }
           Rotation {
           }
@@ -3431,7 +3521,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3493,9 +3583,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -2400
-            Z: -600
+            Y: -400.000061
+            Z: -1200
           }
           Rotation {
           }
@@ -3505,7 +3594,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3567,9 +3656,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -2400
-            Z: -600
+            X: 800
+            Y: -400.000061
+            Z: -1200
           }
           Rotation {
           }
@@ -3579,7 +3668,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3641,9 +3730,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -2400
-            Z: -600
+            X: 1600
+            Y: -400.000061
+            Z: -1200
           }
           Rotation {
           }
@@ -3653,7 +3742,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3715,9 +3804,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -2400
-            Z: -600
+            X: 2400
+            Y: -400.000061
+            Z: -1200
           }
           Rotation {
           }
@@ -3727,7 +3816,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3789,9 +3878,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: -2400
-            Z: -600
+            X: 3200
+            Y: -400.000061
+            Z: -1200
           }
           Rotation {
           }
@@ -3801,7 +3890,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3863,8 +3952,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -800
+            X: 2400
+            Y: 1200
+            Z: -600
           }
           Rotation {
           }
@@ -3874,7 +3964,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -3936,8 +4026,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -1600
+            X: 2400
+            Y: 399.999939
+            Z: -600
           }
           Rotation {
           }
@@ -3947,7 +4038,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4009,9 +4100,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -1600
-            Z: 1200
+            X: 2400
+            Y: 399.999939
+            Z: 600
           }
           Rotation {
           }
@@ -4021,7 +4112,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4083,9 +4174,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -800
-            Z: 1200
+            X: 2400
+            Y: 1200
+            Z: 600
           }
           Rotation {
           }
@@ -4095,7 +4186,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4157,8 +4248,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Z: 1200
+            X: 2400
+            Y: 2000
+            Z: 600
           }
           Rotation {
           }
@@ -4168,7 +4260,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4230,8 +4322,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Z: 1200
+            X: 3200
+            Y: 2000
+            Z: 600
           }
           Rotation {
           }
@@ -4241,7 +4334,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4303,7 +4396,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
+            X: 3200
+            Y: 2000
+            Z: -600
           }
           Rotation {
           }
@@ -4313,7 +4408,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4375,7 +4470,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
+            X: 2400
+            Y: 2000
+            Z: -600
           }
           Rotation {
           }
@@ -4385,7 +4482,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9194920201333340372
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4443,13 +4540,12 @@ Assets {
         }
       }
       Objects {
-        Id: 13336586701225794475
-        Name: "Celiling"
+        Id: 2029213700210908483
+        Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
             Y: 2000
-            Z: 1200
+            Z: 1800
           }
           Rotation {
           }
@@ -4460,64 +4556,6 @@ Assets {
           }
         }
         ParentId: 1158294784205042370
-        ChildIds: 2029213700210908483
-        ChildIds: 5598454178350358797
-        ChildIds: 14415890581510411723
-        ChildIds: 16431867694453965681
-        ChildIds: 8752359629388429603
-        ChildIds: 10972751885250603424
-        ChildIds: 12520561996601137065
-        ChildIds: 7235432127890742219
-        ChildIds: 15365523886799418174
-        ChildIds: 18263928952710350794
-        ChildIds: 10954971198429920042
-        ChildIds: 1151738274990951770
-        ChildIds: 10734180659863345674
-        ChildIds: 11392887046819510639
-        ChildIds: 7552695190927110737
-        ChildIds: 9068531571534546560
-        ChildIds: 2333580490306502195
-        ChildIds: 2485504232585698466
-        ChildIds: 6623618486579734980
-        ChildIds: 15961632962001003194
-        ChildIds: 15529823281968291642
-        ChildIds: 5354931431565698719
-        ChildIds: 6298781344259857769
-        ChildIds: 16117472611597867657
-        ChildIds: 12492171785509437735
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-        }
-      }
-      Objects {
-        Id: 2029213700210908483
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13336586701225794475
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4579,9 +4617,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -800
-            Z: 600
+            Y: 1200
+            Z: 1800
           }
           Rotation {
           }
@@ -4591,7 +4628,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4653,9 +4690,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -800
-            Z: 600
+            X: 800
+            Y: 1200
+            Z: 1800
           }
           Rotation {
           }
@@ -4665,7 +4702,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4727,9 +4764,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: 800
-            Z: 600
+            X: 800
+            Y: 2800
+            Z: 1800
           }
           Rotation {
           }
@@ -4739,7 +4776,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4801,8 +4838,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Z: 600
+            X: 800
+            Y: 2000
+            Z: 1800
           }
           Rotation {
           }
@@ -4812,7 +4850,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4874,9 +4912,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: 800
-            Z: 600
+            Y: 2800
+            Z: 1800
           }
           Rotation {
           }
@@ -4886,7 +4923,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -4948,9 +4985,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: 800
-            Z: 600
+            X: 1600
+            Y: 2800
+            Z: 1800
           }
           Rotation {
           }
@@ -4960,7 +4997,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5022,8 +5059,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Z: 600
+            X: 1600
+            Y: 2000
+            Z: 1800
           }
           Rotation {
           }
@@ -5033,7 +5071,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5095,9 +5133,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -800
-            Z: 600
+            X: 1600
+            Y: 1200
+            Z: 1800
           }
           Rotation {
           }
@@ -5107,7 +5145,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5169,9 +5207,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -1600
-            Z: 600
+            Y: 399.999939
+            Z: 1800
           }
           Rotation {
           }
@@ -5181,7 +5218,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5243,9 +5280,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -1600
-            Z: 600
+            X: 800
+            Y: 399.999939
+            Z: 1800
           }
           Rotation {
           }
@@ -5255,7 +5292,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5317,9 +5354,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -1600
-            Z: 600
+            X: 1600
+            Y: 399.999939
+            Z: 1800
           }
           Rotation {
           }
@@ -5329,7 +5366,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5391,9 +5428,8 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -400
-            Y: -2400
-            Z: 600
+            Y: -400.000061
+            Z: 1800
           }
           Rotation {
           }
@@ -5403,7 +5439,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5465,9 +5501,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 400
-            Y: -2400
-            Z: 600
+            X: 800
+            Y: -400.000061
+            Z: 1800
           }
           Rotation {
           }
@@ -5477,7 +5513,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5539,9 +5575,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 1200
-            Y: -2400
-            Z: 600
+            X: 1600
+            Y: -400.000061
+            Z: 1800
           }
           Rotation {
           }
@@ -5551,7 +5587,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5613,9 +5649,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: 800
-            Z: 600
+            X: 2400
+            Y: 2800
+            Z: 1800
           }
           Rotation {
           }
@@ -5625,7 +5661,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5687,8 +5723,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Z: 600
+            X: 2400
+            Y: 2000
+            Z: 1800
           }
           Rotation {
           }
@@ -5698,7 +5735,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5760,9 +5797,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -800
-            Z: 600
+            X: 2400
+            Y: 1200
+            Z: 1800
           }
           Rotation {
           }
@@ -5772,7 +5809,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5834,9 +5871,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -1600
-            Z: 600
+            X: 2400
+            Y: 399.999939
+            Z: 1800
           }
           Rotation {
           }
@@ -5846,7 +5883,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5908,9 +5945,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2000
-            Y: -2400
-            Z: 600
+            X: 2400
+            Y: -400.000061
+            Z: 1800
           }
           Rotation {
           }
@@ -5920,7 +5957,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -5982,9 +6019,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: 800
-            Z: 600
+            X: 3200
+            Y: 2800
+            Z: 1800
           }
           Rotation {
           }
@@ -5994,7 +6031,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -6056,8 +6093,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Z: 600
+            X: 3200
+            Y: 2000
+            Z: 1800
           }
           Rotation {
           }
@@ -6067,7 +6105,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -6129,9 +6167,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: -800
-            Z: 600
+            X: 3200
+            Y: 1200
+            Z: 1800
           }
           Rotation {
           }
@@ -6141,7 +6179,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -6203,9 +6241,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: -1600
-            Z: 600
+            X: 3200
+            Y: 399.999939
+            Z: 1800
           }
           Rotation {
           }
@@ -6215,7 +6253,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -6277,9 +6315,9 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: 2800
-            Y: -2400
-            Z: 600
+            X: 3200
+            Y: -400.000061
+            Z: 1800
           }
           Rotation {
           }
@@ -6289,7 +6327,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13336586701225794475
+        ParentId: 1158294784205042370
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Floor:smart"
@@ -6347,13 +6385,14 @@ Assets {
         }
       }
       Objects {
-        Id: 5040371337432364811
-        Name: "Walls"
+        Id: 10218102160671079958
+        Name: "Stone Brick Doorway - Skull Sconces"
         Transform {
           Location {
-            Y: 1200
+            Y: 399.999939
           }
           Rotation {
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -6362,139 +6401,6 @@ Assets {
           }
         }
         ParentId: 1158294784205042370
-        ChildIds: 10218102160671079958
-        ChildIds: 11509751313618423093
-        ChildIds: 3084069884439749675
-        ChildIds: 12634875422358884975
-        ChildIds: 2088709157496492736
-        ChildIds: 13253718774346141590
-        ChildIds: 3743719207239109459
-        ChildIds: 8980266427071891144
-        ChildIds: 10774231548301924312
-        ChildIds: 8132137917726509913
-        ChildIds: 3420890245041065760
-        ChildIds: 132846926467226158
-        ChildIds: 14206047990740461695
-        ChildIds: 8253477949288907608
-        ChildIds: 14336277418938268121
-        ChildIds: 9495091689277946775
-        ChildIds: 15093308052437094529
-        ChildIds: 5169441314214406715
-        ChildIds: 17727297980723241267
-        ChildIds: 18339328787913708164
-        ChildIds: 11319311605438565451
-        ChildIds: 2758041057293318283
-        ChildIds: 15488898839354037814
-        ChildIds: 8814228800420335389
-        ChildIds: 16896725604742875505
-        ChildIds: 521732202537762746
-        ChildIds: 15280190886496535128
-        ChildIds: 14918503768510033318
-        ChildIds: 447811021349358129
-        ChildIds: 8337741942234856779
-        ChildIds: 4789778482053619201
-        ChildIds: 13228052794047452783
-        ChildIds: 17004392649512548793
-        ChildIds: 6100185733817228946
-        ChildIds: 5013720989428874550
-        ChildIds: 12990367423949511486
-        ChildIds: 616027582340826279
-        ChildIds: 5380912603438455990
-        ChildIds: 374421640609892484
-        ChildIds: 4892131861364727128
-        ChildIds: 14615895216837236912
-        ChildIds: 16019438302499017325
-        ChildIds: 17264161377330581638
-        ChildIds: 10354759173471365456
-        ChildIds: 3142769670245856241
-        ChildIds: 3562135109749648534
-        ChildIds: 5429127036385611886
-        ChildIds: 10739700269687101173
-        ChildIds: 3428866811936203097
-        ChildIds: 2314745147219501911
-        ChildIds: 7674212789982277250
-        ChildIds: 7587897270559954473
-        ChildIds: 1960217336024148827
-        ChildIds: 5142081460858300636
-        ChildIds: 5057479849547652427
-        ChildIds: 5344794464718280003
-        ChildIds: 7810288196595441062
-        ChildIds: 3781842735275781334
-        ChildIds: 296389366591011348
-        ChildIds: 5229619794251576080
-        ChildIds: 16299721466222839374
-        ChildIds: 16905222895116550417
-        ChildIds: 12950700847105661982
-        ChildIds: 15215686935227966501
-        ChildIds: 4221740305267879548
-        ChildIds: 7572656800140676297
-        ChildIds: 7802944833992504791
-        ChildIds: 280391373391550897
-        ChildIds: 2064652923442197046
-        ChildIds: 10310591132901785138
-        ChildIds: 13168911821552282065
-        ChildIds: 17903100139818535028
-        ChildIds: 1458415336551671554
-        ChildIds: 16140110657443407831
-        ChildIds: 12881162570668036238
-        ChildIds: 9987765532271470806
-        ChildIds: 7782430629983978882
-        ChildIds: 17530724149578998418
-        ChildIds: 15616689909132544724
-        ChildIds: 5590081154993988498
-        ChildIds: 10381654834547256887
-        ChildIds: 15546506869576009116
-        ChildIds: 2786130083010421886
-        ChildIds: 581990316243596794
-        ChildIds: 507381334905019810
-        ChildIds: 14875898764211910871
-        ChildIds: 10961762233123673391
-        ChildIds: 11791289438740351595
-        ChildIds: 856020434508803573
-        ChildIds: 20656102822375936
-        ChildIds: 11292992326713072453
-        ChildIds: 1524045524920244790
-        ChildIds: 4371114011038318337
-        ChildIds: 16628293862079593082
-        ChildIds: 5472716310149008689
-        ChildIds: 16963096395750568013
-        ChildIds: 10441334271484378643
-        ChildIds: 10157294774710822861
-        ChildIds: 17087665928582137948
-        ChildIds: 14133632561543531463
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-        }
-      }
-      Objects {
-        Id: 10218102160671079958
-        Name: "Stone Brick Doorway - Skull Sconces"
-        Transform {
-          Location {
-            Y: -800
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5040371337432364811
         ChildIds: 11624599045389258833
         ChildIds: 3384395735854711417
         ChildIds: 11827139771715074646
@@ -7083,7 +6989,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: 1600
+            Y: 2800
           }
           Rotation {
             Yaw: -179.999954
@@ -7094,7 +7000,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 13109570099759768659
         ChildIds: 10576907519164738615
         ChildIds: 6233954411282251460
@@ -7331,9 +7237,10 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -7341,7 +7248,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 3559968001752025325
         ChildIds: 2474295409018020671
         Collidable_v2 {
@@ -7515,10 +7422,10 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -1600
+            Y: -400.000061
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -7526,7 +7433,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9639272460231578304
         ChildIds: 14610574092214414627
         Collidable_v2 {
@@ -7700,7 +7607,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -2400
+            Y: -1200
           }
           Rotation {
           }
@@ -7710,7 +7617,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 8724211386114912289
         ChildIds: 18065416162259513591
         Collidable_v2 {
@@ -7885,7 +7792,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: -2400
+            Y: -1200
           }
           Rotation {
           }
@@ -7895,7 +7802,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 7550292054788538643
         ChildIds: 5476137582425739600
         ChildIds: 11096781496324267288
@@ -8133,10 +8040,10 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -800
+            Y: 399.999939
           }
           Rotation {
-            Yaw: 90
+            Yaw: 89.9999924
           }
           Scale {
             X: 1
@@ -8144,7 +8051,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 3320854968889000447
         ChildIds: 1377805203545525391
         Collidable_v2 {
@@ -8319,10 +8226,10 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 800
+            Y: 2000
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -8330,7 +8237,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 8614628124331546219
         ChildIds: 7197897551337062410
         Collidable_v2 {
@@ -8505,10 +8412,10 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: 1600
+            Y: 2800
           }
           Rotation {
-            Yaw: 180
+            Yaw: -179.999985
           }
           Scale {
             X: 1
@@ -8516,7 +8423,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16960683328348425044
         ChildIds: 9784192480256684217
         Collidable_v2 {
@@ -8691,10 +8598,11 @@ Assets {
         Transform {
           Location {
             X: 4000
+            Y: 1200
             Z: 600
           }
           Rotation {
-            Yaw: 90
+            Yaw: 89.9999924
           }
           Scale {
             X: 1
@@ -8702,7 +8610,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 2679666850770743155
         ChildIds: 17411475716960759006
         ChildIds: 12465527388587664661
@@ -9291,7 +9199,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -2400
+            Y: -1200
           }
           Rotation {
           }
@@ -9301,7 +9209,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4440770663067618828
         ChildIds: 5435011940104331520
         ChildIds: 1946762464341202005
@@ -9539,10 +9447,10 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: 1600
+            Y: 2800
           }
           Rotation {
-            Yaw: 180
+            Yaw: -179.999985
           }
           Scale {
             X: 1
@@ -9550,7 +9458,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 3399185708552389097
         ChildIds: 7758032771078494530
         Collidable_v2 {
@@ -9725,7 +9633,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: 1600
+            Y: 2800
             Z: 600
           }
           Rotation {
@@ -9737,7 +9645,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16950654914480158898
         ChildIds: 12847548500458745233
         ChildIds: 9965216602165750849
@@ -9974,10 +9882,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: 1200
             Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -9985,7 +9894,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 3350894290097557908
         ChildIds: 5662631599919983494
         Collidable_v2 {
@@ -10159,11 +10068,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -1600
+            Y: -400.000061
             Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -10171,7 +10080,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 1978118828162127474
         ChildIds: 14221613823043886566
         Collidable_v2 {
@@ -10345,7 +10254,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -2400
+            Y: -1200
             Z: 600
           }
           Rotation {
@@ -10356,7 +10265,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 5233520357027944954
         ChildIds: 14185444335189027388
         Collidable_v2 {
@@ -10531,7 +10440,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -2400
+            Y: -1200
             Z: 600
           }
           Rotation {
@@ -10542,7 +10451,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 7049242315299956430
         ChildIds: 12491152178156712331
         ChildIds: 11557455161920976036
@@ -10780,11 +10689,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -1600
+            Y: -400.000061
             Z: 600
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -10792,7 +10701,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 13613353327812865613
         ChildIds: 18100985593471584657
         Collidable_v2 {
@@ -10967,11 +10876,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 800
+            Y: 2000
             Z: 600
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -10979,7 +10888,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 13046959876788851267
         ChildIds: 10700410101977997338
         Collidable_v2 {
@@ -11154,11 +11063,11 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: 1600
+            Y: 2800
             Z: 600
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -11166,7 +11075,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 6767882617111849595
         ChildIds: 1522490158587601049
         Collidable_v2 {
@@ -11341,7 +11250,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: -2400
+            Y: -1200
             Z: 600
           }
           Rotation {
@@ -11352,7 +11261,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 14514320952086107724
         ChildIds: 14738486219523043761
         ChildIds: 765306143211287800
@@ -11590,11 +11499,11 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: 1600
+            Y: 2800
             Z: 600
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -11602,7 +11511,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 13484277483968945364
         ChildIds: 17604651623066584444
         Collidable_v2 {
@@ -11776,11 +11685,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: 399.999939
             Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -11788,7 +11697,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4858017142123990841
         ChildIds: 13749600966375587104
         Collidable_v2 {
@@ -11963,7 +11872,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 800
+            Y: 2000
             Z: -600
           }
           Rotation {
@@ -11975,7 +11884,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 6117022082047542295
         ChildIds: 10950800457707408349
         Collidable_v2 {
@@ -12150,7 +12059,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: 1600
+            Y: 2800
             Z: -600
           }
           Rotation {
@@ -12162,7 +12071,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4586761609438075149
         ChildIds: 4199063087487132960
         Collidable_v2 {
@@ -12337,7 +12246,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: -2400
+            Y: -1200
             Z: -600
           }
           Rotation {
@@ -12348,7 +12257,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 12158160275046335021
         ChildIds: 11842002813162185623
         ChildIds: 4077192261582372558
@@ -12586,7 +12495,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 1600
+            Y: 2800
             Z: -600
           }
           Rotation {
@@ -12598,7 +12507,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 1191257447131336013
         ChildIds: 14445868868781067035
         Collidable_v2 {
@@ -12772,11 +12681,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: 399.999939
             Z: -600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -12784,7 +12693,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 18393166666900806315
         ChildIds: 9476745779482210182
         Collidable_v2 {
@@ -12959,11 +12868,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -1600
+            Y: -400.000061
             Z: -600
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -12971,7 +12880,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 992067599871573425
         ChildIds: 12245670936847666753
         Collidable_v2 {
@@ -13146,7 +13055,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: -2400
+            Y: -1200
             Z: -600
           }
           Rotation {
@@ -13157,7 +13066,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 11419338698696708891
         ChildIds: 4617848843434834280
         ChildIds: 15754304856863604968
@@ -13394,7 +13303,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -2400
+            Y: -1200
             Z: -600
           }
           Rotation {
@@ -13405,7 +13314,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4186060030306650809
         ChildIds: 6640749810571105624
         Collidable_v2 {
@@ -13579,11 +13488,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -1600
+            Y: -400.000061
             Z: -600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -13591,7 +13500,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 15815803341084587602
         ChildIds: 12701354655789558990
         Collidable_v2 {
@@ -13765,10 +13674,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: 1200
             Z: -600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -13776,7 +13686,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4425948860505244094
         ChildIds: 11482442011453079850
         Collidable_v2 {
@@ -13951,7 +13861,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: 1600
+            Y: 2800
             Z: -600
           }
           Rotation {
@@ -13963,7 +13873,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 400852676048555634
         ChildIds: 6114822900703541556
         ChildIds: 10709165373636863219
@@ -14201,9 +14111,10 @@ Assets {
         Transform {
           Location {
             X: 4000
+            Y: 1200
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -14211,7 +14122,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 879957233177809882
         ChildIds: 5089147436543021372
         Collidable_v2 {
@@ -14386,7 +14297,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: -2400
+            Y: -1200
             Z: 1200
           }
           Rotation {
@@ -14397,7 +14308,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 15260753058673503042
         ChildIds: 13180423930801617054
         ChildIds: 17420379836683034040
@@ -14634,7 +14545,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -2400
+            Y: -1200
             Z: 1200
           }
           Rotation {
@@ -14645,7 +14556,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 275933649648278286
         ChildIds: 18246387520141683768
         Collidable_v2 {
@@ -14819,11 +14730,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -1600
+            Y: -400.000061
             Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -14831,7 +14742,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 17198741554330445096
         ChildIds: 7653900356897413737
         Collidable_v2 {
@@ -15005,10 +14916,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: 1200
             Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -15016,7 +14928,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16212716102342698009
         ChildIds: 4635103609451952027
         Collidable_v2 {
@@ -15191,7 +15103,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: 1600
+            Y: 2800
             Z: 1200
           }
           Rotation {
@@ -15203,7 +15115,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16052043884186252412
         ChildIds: 8971694231221686096
         ChildIds: 14451413881043453307
@@ -15441,11 +15353,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -800
+            Y: 399.999939
             Z: 1200
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -15453,7 +15365,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 17545601886241140422
         ChildIds: 13764728842503502816
         Collidable_v2 {
@@ -15628,7 +15540,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 800
+            Y: 2000
             Z: 1200
           }
           Rotation {
@@ -15640,7 +15552,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 14894455179479104329
         ChildIds: 11536229948117350680
         Collidable_v2 {
@@ -15815,7 +15727,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: 1600
+            Y: 2800
             Z: 1200
           }
           Rotation {
@@ -15827,7 +15739,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 7551165141224421786
         ChildIds: 2532929988133959220
         Collidable_v2 {
@@ -16002,7 +15914,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -2400
+            Y: -1200
             Z: 1200
           }
           Rotation {
@@ -16013,7 +15925,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16799112231481623531
         ChildIds: 18234690429973543481
         ChildIds: 12363036027796447016
@@ -16250,11 +16162,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: 399.999939
             Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -16262,7 +16174,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 1171373427511394107
         ChildIds: 3660909975246024087
         Collidable_v2 {
@@ -16437,6 +16349,7 @@ Assets {
         Transform {
           Location {
             X: 4000
+            Y: 1200
             Z: 1200
           }
           Rotation {
@@ -16448,7 +16361,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 18242193822952612817
         ChildIds: 5871450217536766531
         Collidable_v2 {
@@ -16623,7 +16536,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: 1600
+            Y: 2800
             Z: 1200
           }
           Rotation {
@@ -16635,7 +16548,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 17534613398116488377
         ChildIds: 3384923188101990139
         Collidable_v2 {
@@ -16810,6 +16723,7 @@ Assets {
         Transform {
           Location {
             X: 4000
+            Y: 1200
             Z: -600
           }
           Rotation {
@@ -16821,7 +16735,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9116825772681437109
         ChildIds: 8680824192730480323
         Collidable_v2 {
@@ -16995,10 +16909,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
+            Y: 1200
             Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -17006,7 +16921,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 15131459746940340306
         ChildIds: 7131626364915661181
         Collidable_v2 {
@@ -17181,7 +17096,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: 1600
+            Y: 2800
             Z: -1200
           }
           Rotation {
@@ -17193,7 +17108,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 613984774803611451
         ChildIds: 14810431203590370238
         ChildIds: 3465485450167599255
@@ -17430,11 +17345,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -1600
+            Y: -400.000061
             Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -17442,7 +17357,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 560615005570195230
         ChildIds: 10119840711686615622
         Collidable_v2 {
@@ -17616,7 +17531,7 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -2400
+            Y: -1200
             Z: -1200
           }
           Rotation {
@@ -17627,7 +17542,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 15239644155714730844
         ChildIds: 11306614678355310759
         Collidable_v2 {
@@ -17802,7 +17717,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: -2400
+            Y: -1200
             Z: -1200
           }
           Rotation {
@@ -17813,7 +17728,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 3801743597599723211
         ChildIds: 16696221038435266554
         ChildIds: 9204890597008356730
@@ -18051,7 +17966,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -800
+            Y: 399.999939
             Z: -1200
           }
           Rotation {
@@ -18063,7 +17978,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 14873601434904767460
         ChildIds: 11373477500134780860
         Collidable_v2 {
@@ -18237,11 +18152,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: -800
+            Y: 399.999939
             Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -18249,7 +18164,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 18260983540074780004
         ChildIds: 8767237541800941673
         Collidable_v2 {
@@ -18424,7 +18339,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: 1600
+            Y: 2800
             Z: -1200
           }
           Rotation {
@@ -18436,7 +18351,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 8084652270406831415
         ChildIds: 2734921112449034624
         Collidable_v2 {
@@ -18611,7 +18526,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -2400
+            Y: -1200
             Z: -1200
           }
           Rotation {
@@ -18622,7 +18537,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 6943353593063117199
         ChildIds: 4839051854517237200
         ChildIds: 16536840647576239283
@@ -18860,7 +18775,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: 1600
+            Y: 2800
             Z: -1200
           }
           Rotation {
@@ -18872,7 +18787,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4962165037870318890
         ChildIds: 9502507765143304959
         Collidable_v2 {
@@ -19047,7 +18962,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 800
+            Y: 2000
             Z: -1200
           }
           Rotation {
@@ -19059,7 +18974,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 17460686495527782191
         ChildIds: 12374265666645211877
         Collidable_v2 {
@@ -19234,6 +19149,7 @@ Assets {
         Transform {
           Location {
             X: 4000
+            Y: 1200
             Z: -1200
           }
           Rotation {
@@ -19245,7 +19161,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 12662608931162721626
         ChildIds: 10306035046366332584
         Collidable_v2 {
@@ -19420,7 +19336,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: -2400
+            Y: -1200
             Z: 600
           }
           Rotation {
@@ -19431,7 +19347,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 11399967583761721894
         ChildIds: 17563674471410945085
         Collidable_v2 {
@@ -19606,7 +19522,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: -2400
+            Y: -1200
             Z: 1200
           }
           Rotation {
@@ -19617,7 +19533,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9251200902144939945
         ChildIds: 14526907348242031575
         Collidable_v2 {
@@ -19792,7 +19708,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: -2400
+            Y: -1200
             Z: 600
           }
           Rotation {
@@ -19803,7 +19719,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16829951535367807283
         ChildIds: 16089583750439635573
         Collidable_v2 {
@@ -19978,7 +19894,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: -2400
+            Y: -1200
             Z: 1200
           }
           Rotation {
@@ -19989,7 +19905,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 271612306460314487
         ChildIds: 1977198992041787832
         Collidable_v2 {
@@ -20164,7 +20080,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: -2400
+            Y: -1200
           }
           Rotation {
           }
@@ -20174,7 +20090,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 8378578948165056231
         ChildIds: 14162348877712110062
         Collidable_v2 {
@@ -20349,7 +20265,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: -2400
+            Y: -1200
             Z: -1200
           }
           Rotation {
@@ -20360,7 +20276,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16523565043156948128
         ChildIds: 11113762202006897860
         Collidable_v2 {
@@ -20535,7 +20451,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: -2400
+            Y: -1200
             Z: -1200
           }
           Rotation {
@@ -20546,7 +20462,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 12011320777444726655
         ChildIds: 578670941815170929
         Collidable_v2 {
@@ -20721,7 +20637,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: -2400
+            Y: -1200
             Z: -600
           }
           Rotation {
@@ -20732,7 +20648,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 1006434273451648459
         ChildIds: 6694392551162793335
         Collidable_v2 {
@@ -20907,7 +20823,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: -2400
+            Y: -1200
             Z: -600
           }
           Rotation {
@@ -20918,7 +20834,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9903038003604029661
         ChildIds: 16058411822929722550
         Collidable_v2 {
@@ -21093,7 +21009,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: -2400
+            Y: -1200
           }
           Rotation {
           }
@@ -21103,7 +21019,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 7842152326646214526
         ChildIds: 3406830391583174317
         Collidable_v2 {
@@ -21277,11 +21193,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: 2000
             Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -21289,7 +21205,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 4330410818502055228
         ChildIds: 15823861481714442341
         Collidable_v2 {
@@ -21463,11 +21379,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: 2000
             Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -21475,7 +21391,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 100305063318157718
         ChildIds: 15267108009790042228
         Collidable_v2 {
@@ -21649,10 +21565,10 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: 2000
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -21660,7 +21576,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 13022964260249700476
         ChildIds: 5249218635765908424
         Collidable_v2 {
@@ -21834,11 +21750,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: 2000
             Z: -600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -21846,7 +21762,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 2191839156332221639
         ChildIds: 8735605740549332506
         Collidable_v2 {
@@ -22020,11 +21936,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 800
+            Y: 2000
             Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22032,7 +21948,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 16313547353133129646
         ChildIds: 17122729661806630050
         Collidable_v2 {
@@ -22206,11 +22122,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1600
+            Y: 2800
             Z: 1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22218,7 +22134,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 328517034228697186
         ChildIds: 6929500011442791219
         Collidable_v2 {
@@ -22392,11 +22308,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1600
+            Y: 2800
             Z: 600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22404,7 +22320,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 3430519570729725394
         ChildIds: 14002019579031231076
         Collidable_v2 {
@@ -22578,10 +22494,10 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1600
+            Y: 2800
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22589,7 +22505,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 684795946559332295
         ChildIds: 2112549734960869637
         Collidable_v2 {
@@ -22763,11 +22679,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1600
+            Y: 2800
             Z: -600
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22775,7 +22691,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9869611224248160927
         ChildIds: 14413354862793638884
         Collidable_v2 {
@@ -22949,11 +22865,11 @@ Assets {
         Name: "Stone Brick Wall - Basic"
         Transform {
           Location {
-            Y: 1600
+            Y: 2800
             Z: -1200
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
             X: 1
@@ -22961,7 +22877,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 12336498395420812281
         ChildIds: 3789582887556146161
         Collidable_v2 {
@@ -23136,11 +23052,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -2400
+            Y: -1200
             Z: -600
           }
           Rotation {
-            Yaw: 90
+            Yaw: 89.9999924
           }
           Scale {
             X: 1
@@ -23148,7 +23064,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 5879095855086609180
         ChildIds: 2197426791524957251
         ChildIds: 2308219658977132943
@@ -23386,11 +23302,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -800
+            Y: 399.999939
             Z: -600
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -23398,7 +23314,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9948411377805417702
         ChildIds: 1989987164485195011
         ChildIds: 938517714186159274
@@ -23636,11 +23552,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -1600
+            Y: -400.000061
             Z: -1200
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -23648,7 +23564,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 5718560483354958648
         ChildIds: 16097546743248328928
         ChildIds: 6385438059327103660
@@ -23886,7 +23802,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -1600
+            Y: -400.000061
           }
           Rotation {
             Yaw: 89.9999542
@@ -23897,7 +23813,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 1782888713747804044
         ChildIds: 10507668807643702158
         ChildIds: 6139231718047725905
@@ -24135,7 +24051,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -800
+            Y: 399.999939
             Z: 600
           }
           Rotation {
@@ -24147,7 +24063,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 8701018902199724671
         ChildIds: 4763045356518301877
         ChildIds: 13348122118165729294
@@ -24385,11 +24301,11 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -1600
+            Y: -400.000061
             Z: 1200
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -24397,7 +24313,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 15867777302628057202
         ChildIds: 3399720292911538581
         Collidable_v2 {
@@ -24572,7 +24488,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -2400
+            Y: -1200
             Z: 1200
           }
           Rotation {
@@ -24584,7 +24500,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 17996676184409219267
         ChildIds: 1607565224977230983
         Collidable_v2 {
@@ -24759,7 +24675,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -2400
+            Y: -1200
             Z: 600
           }
           Rotation {
@@ -24771,7 +24687,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9505135260521252034
         ChildIds: 13044081191427158568
         Collidable_v2 {
@@ -24946,7 +24862,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -2400
+            Y: -1200
           }
           Rotation {
             Yaw: 89.9999542
@@ -24957,7 +24873,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 5419920148715267868
         ChildIds: 2977697411804376688
         Collidable_v2 {
@@ -25132,7 +25048,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: -2400
+            Y: -1200
             Z: -1200
           }
           Rotation {
@@ -25144,7 +25060,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 7000333205437721365
         ChildIds: 9949671994501363943
         Collidable_v2 {
@@ -25319,7 +25235,7 @@ Assets {
         Transform {
           Location {
             X: 2400
-            Y: 1600
+            Y: 2800
             Z: 600
           }
           Rotation {
@@ -25331,7 +25247,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 15208566841786848844
         ChildIds: 13548625475439152075
         ChildIds: 15933678940984058005
@@ -25569,7 +25485,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 1600
+            Y: 2800
             Z: 600
           }
           Rotation {
@@ -25581,7 +25497,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 9936818255953811184
         ChildIds: 8436549995103799321
         ChildIds: 5200940573480580398
@@ -25819,7 +25735,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 1600
+            Y: 2800
             Z: 1200
           }
           Rotation {
@@ -25831,7 +25747,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 5404720114142306055
         ChildIds: 15940054098517258163
         ChildIds: 9306518489010842690
@@ -26069,7 +25985,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: 1600
+            Y: 2800
             Z: 1200
           }
           Rotation {
@@ -26081,7 +25997,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 5155358028598073811
         ChildIds: 9717079844358313419
         ChildIds: 9926449473818837012
@@ -26319,10 +26235,10 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 1600
+            Y: 2800
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -26330,7 +26246,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 14284197468952566536
         ChildIds: 12581885594052557557
         Collidable_v2 {
@@ -26505,7 +26421,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: 1600
+            Y: 2800
           }
           Rotation {
             Yaw: -179.999954
@@ -26516,7 +26432,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 14026501721571172554
         ChildIds: 17377663297266425789
         Collidable_v2 {
@@ -26691,7 +26607,7 @@ Assets {
         Transform {
           Location {
             X: 800
-            Y: 1600
+            Y: 2800
             Z: -600
           }
           Rotation {
@@ -26703,7 +26619,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 2834901165142630185
         ChildIds: 1695108894599802338
         Collidable_v2 {
@@ -26878,7 +26794,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Y: 1600
+            Y: 2800
             Z: -600
           }
           Rotation {
@@ -26890,7 +26806,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 13898223286993699450
         ChildIds: 6354343457251667010
         ChildIds: 2282573713251811372
@@ -27128,7 +27044,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: 1600
+            Y: 2800
             Z: -1200
           }
           Rotation {
@@ -27140,7 +27056,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 18405151037547047182
         ChildIds: 18222922424133758502
         ChildIds: 12177762521100696387
@@ -27378,7 +27294,7 @@ Assets {
         Transform {
           Location {
             X: 4000
-            Y: 1600
+            Y: 2800
             Z: -1200
           }
           Rotation {
@@ -27390,7 +27306,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5040371337432364811
+        ParentId: 1158294784205042370
         ChildIds: 8468531649705512896
         ChildIds: 8296636136017532126
         ChildIds: 11586304228799575841

@@ -7,7 +7,7 @@ Assets {
       RootId: 12391975203656095436
       Objects {
         Id: 12391975203656095436
-        Name: "The Celtisword"
+        Name: "The Twig of Sprigdrasil"
         Transform {
           Scale {
             X: 1
@@ -114,7 +114,7 @@ Assets {
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 24
+            Float: 64
           }
           Overrides {
             Name: "ma:Shared_Trim:utile"
@@ -140,6 +140,12 @@ Assets {
               G: 0.0565759912
               B: 0.0565759912
               A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 12446131267530965574
             }
           }
         }
@@ -1293,6 +1299,20 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 12446131267530965574
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 24
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 64
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1331,6 +1351,15 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_weap_fan_grip_sword_001"
+      }
+    }
+    Assets {
+      Id: 12446131267530965574
+      Name: "Wood Raw"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_wood_raw_001_uv"
       }
     }
     Assets {

@@ -3,6 +3,7 @@ local PHYSICS_BITS = script:GetCustomProperty("PhysicsBits"):WaitForObject()
 
 local START_COLLAPSING_VFX = script:GetCustomProperty("StartCollapsingVFX")
 local COLLAPSE_VFX = script:GetCustomProperty("CollapseVFX")
+local REASSEMBLE_VFX = script:GetCustomProperty("ReassembleVFX")
 
 local physicsBits = PHYSICS_BITS:GetChildren()
 local collapsed = false
@@ -50,6 +51,10 @@ function uncollapse(triggerId)
   for i, bit in ipairs(physicsBits) do
     bit.isSimulatingDebrisPhysics = false
     bit:SetTransform(bit.clientUserData["InitialTransform"])
+  end
+
+  if REASSEMBLE_VFX then
+    World.SpawnAsset(REASSEMBLE_VFX, {position = COLLAPSE_TRIGGER:GetWorldPosition() - Vector3.UP * 50})
   end
 
   collapsed = false

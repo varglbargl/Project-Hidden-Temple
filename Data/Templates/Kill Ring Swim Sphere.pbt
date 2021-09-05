@@ -16,14 +16,14 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 12394703882323435467
+        ChildIds: 17947561933515704604
         ChildIds: 11567551731610919935
         ChildIds: 6902110302690501186
         ChildIds: 17117833035366191802
         ChildIds: 13620804477510060178
         ChildIds: 2092613065472557124
         ChildIds: 7694915274911655930
-        ChildIds: 12385730019192544118
+        ChildIds: 2404027843999810521
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -42,18 +42,17 @@ Assets {
         }
       }
       Objects {
-        Id: 12394703882323435467
-        Name: "NewFolder"
+        Id: 17947561933515704604
+        Name: "Group"
         Transform {
           Location {
-            Z: -29
           }
           Rotation {
           }
           Scale {
-            X: 0.2
-            Y: 0.2
-            Z: 0.2
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 66467296663242158
@@ -74,8 +73,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "NewFolder"
+          IsGroup: true
         }
       }
       Objects {
@@ -83,17 +81,18 @@ Assets {
         Name: "Waterfall 90 Inner Corner"
         Transform {
           Location {
-            X: -1600
+            X: -320
+            Z: -29
           }
           Rotation {
           }
           Scale {
-            X: 4
-            Y: 4
-            Z: 11.9765263
+            X: 0.8
+            Y: 0.8
+            Z: 2.3953054
           }
         }
-        ParentId: 12394703882323435467
+        ParentId: 17947561933515704604
         UnregisteredParameters {
           Overrides {
             Name: "ma:waterfall:color"
@@ -138,19 +137,19 @@ Assets {
         Name: "Waterfall 90 Inner Corner"
         Transform {
           Location {
-            Y: -1600
-            Z: 0.00122070312
+            Y: -320
+            Z: -28.9997559
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 89.9999847
           }
           Scale {
-            X: 4
-            Y: 4
-            Z: 11.9765263
+            X: 0.8
+            Y: 0.8
+            Z: 2.3953054
           }
         }
-        ParentId: 12394703882323435467
+        ParentId: 17947561933515704604
         UnregisteredParameters {
           Overrides {
             Name: "ma:waterfall:color"
@@ -195,19 +194,20 @@ Assets {
         Name: "Waterfall 90 Inner Corner"
         Transform {
           Location {
-            X: 1599.99878
-            Y: -6.10351562e-05
+            X: 319.999756
+            Y: -1.52587891e-05
+            Z: -29
           }
           Rotation {
-            Yaw: -179.999985
+            Yaw: -179.999969
           }
           Scale {
-            X: 4
-            Y: 4
-            Z: 11.9765263
+            X: 0.8
+            Y: 0.8
+            Z: 2.3953054
           }
         }
-        ParentId: 12394703882323435467
+        ParentId: 17947561933515704604
         UnregisteredParameters {
           Overrides {
             Name: "ma:waterfall:color"
@@ -252,19 +252,20 @@ Assets {
         Name: "Waterfall 90 Inner Corner"
         Transform {
           Location {
-            X: -0.00122070312
-            Y: 1600
+            X: -0.000244140625
+            Y: 320
+            Z: -29
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999924
           }
           Scale {
-            X: 4
-            Y: 4
-            Z: 11.9765263
+            X: 0.8
+            Y: 0.8
+            Z: 2.3953054
           }
         }
-        ParentId: 12394703882323435467
+        ParentId: 17947561933515704604
         UnregisteredParameters {
           Overrides {
             Name: "ma:waterfall:color"
@@ -511,7 +512,7 @@ Assets {
           Overrides {
             Name: "cs:RingFolder"
             ObjectReference {
-              SubObjectId: 12385730019192544118
+              SubObjectId: 2404027843999810521
             }
           }
           Overrides {
@@ -654,7 +655,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12385730019192544118
+        Id: 2404027843999810521
         Name: "Rings"
         Transform {
           Location {
@@ -676,14 +677,13 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Rings"
+          IsGroup: true
         }
       }
       Objects {
@@ -701,7 +701,7 @@ Assets {
             Z: 29.9999924
           }
         }
-        ParentId: 12385730019192544118
+        ParentId: 2404027843999810521
         ChildIds: 15913355508738242872
         UnregisteredParameters {
           Overrides {

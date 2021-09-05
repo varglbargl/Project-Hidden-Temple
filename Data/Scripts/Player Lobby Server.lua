@@ -9,6 +9,7 @@ function showTreasure(player, playersTreasure)
       treasure.collision = Collision.INHERIT
       treasure.cameraCollision = Collision.INHERIT
     else
+      table.remove(playersTreasure, i)
       warn("There is no treasure named \""..treasureName.."\".")
     end
   end

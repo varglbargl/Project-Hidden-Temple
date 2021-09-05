@@ -16,7 +16,7 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 14784327428723085426
+        ChildIds: 13857165684081200522
         ChildIds: 11499302148425232831
         ChildIds: 11427703031749050175
         ChildIds: 7702809041007600089
@@ -48,8 +48,8 @@ Assets {
         }
       }
       Objects {
-        Id: 14784327428723085426
-        Name: "NewFolder"
+        Id: 13857165684081200522
+        Name: "Group"
         Transform {
           Location {
             Z: 304
@@ -81,7 +81,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -89,12 +89,12 @@ Assets {
         Name: "Spotlight"
         Transform {
           Location {
-            X: 4.21455193
-            Y: 19.9998
+            X: 4.21440935
+            Y: 19.9997959
             Z: 1.86523426
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -89.9999847
           }
           Scale {
             X: 1
@@ -102,7 +102,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14784327428723085426
+        ParentId: 13857165684081200522
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -157,7 +157,7 @@ Assets {
           Location {
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -89.9999771
             Roll: -179.999954
           }
           Scale {
@@ -166,7 +166,7 @@ Assets {
             Z: 1.9000001
           }
         }
-        ParentId: 14784327428723085426
+        ParentId: 13857165684081200522
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -230,22 +230,22 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: 34.9999619
-            Y: 0.863114893
+            X: 34.9999962
+            Y: 0.86310488
             Z: 0.99989146
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: -89.9999924
+            Yaw: -89.9999847
             Roll: 89.9999466
           }
           Scale {
-            X: 0.699999928
-            Y: 0.699999928
+            X: 0.699999869
+            Y: 0.699999869
             Z: 0.4
           }
         }
-        ParentId: 14784327428723085426
+        ParentId: 13857165684081200522
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -288,21 +288,22 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: -34.9998894
-            Y: 0.863121569
+            X: -34.9999962
+            Y: 0.86310488
             Z: 0.99989146
           }
           Rotation {
-            Yaw: -89.9999847
-            Roll: -89.9999847
+            Pitch: 6.83018879e-06
+            Yaw: -89.9999695
+            Roll: -89.9999695
           }
           Scale {
-            X: 0.699999928
-            Y: 0.699999928
+            X: 0.699999869
+            Y: 0.699999869
             Z: 0.4
           }
         }
-        ParentId: 14784327428723085426
+        ParentId: 13857165684081200522
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -345,12 +346,12 @@ Assets {
         Name: "Urban Skylight"
         Transform {
           Location {
-            X: 0.440774292
-            Y: -19.9999199
+            X: 0.440538168
+            Y: -19.9999313
             Z: 0.120713972
           }
           Rotation {
-            Roll: -89.9999847
+            Roll: -89.9999771
           }
           Scale {
             X: 0.0820800886
@@ -358,7 +359,7 @@ Assets {
             Z: 0.18187499
           }
         }
-        ParentId: 14784327428723085426
+        ParentId: 13857165684081200522
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

@@ -15,9 +15,9 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 10045885269598533116
         ChildIds: 361627506684267068
-        ChildIds: 18309481271635303911
+        ChildIds: 4712595482695897760
         ChildIds: 17785558215133807862
         ChildIds: 18221801405830561251
         ChildIds: 11188585804424078170
@@ -26,7 +26,7 @@ Assets {
         ChildIds: 10220166808421500447
         ChildIds: 13565744986942226657
         ChildIds: 10020357102428229792
-        ChildIds: 6964253501762636882
+        ChildIds: 9897872668336145266
         ChildIds: 5815122560875307287
         ChildIds: 3248494239260881443
         ChildIds: 3821563268983763204
@@ -318,12 +318,12 @@ Assets {
         }
       }
       Objects {
-        Id: 18309481271635303911
+        Id: 4712595482695897760
         Name: "Ladder"
         Transform {
           Location {
             X: -607.295776
-            Y: -132.58223
+            Y: -132.582275
             Z: 35.8026581
           }
           Rotation {
@@ -363,7 +363,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -376,7 +376,7 @@ Assets {
             Z: 245.647263
           }
           Rotation {
-            Roll: 17.7961864
+            Roll: 17.796196
           }
           Scale {
             X: 1
@@ -384,7 +384,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         ChildIds: 14409875882259366471
         ChildIds: 16958363835079063391
         ChildIds: 15958864507885533662
@@ -645,7 +645,7 @@ Assets {
             Z: 321.64917
           }
           Rotation {
-            Roll: 17.7961864
+            Roll: 17.796196
           }
           Scale {
             X: 1
@@ -653,7 +653,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         ChildIds: 13061120359458878613
         ChildIds: 15618638364632256863
         ChildIds: 5101737039859443767
@@ -914,7 +914,7 @@ Assets {
             Z: 397.650574
           }
           Rotation {
-            Roll: 17.7961864
+            Roll: 17.796196
           }
           Scale {
             X: 1
@@ -922,7 +922,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         ChildIds: 4536918938610256626
         ChildIds: 13349359817071033137
         ChildIds: 8697216622847493241
@@ -1183,7 +1183,7 @@ Assets {
             Z: 473.652283
           }
           Rotation {
-            Roll: 17.7961864
+            Roll: 17.796196
           }
           Scale {
             X: 1
@@ -1191,7 +1191,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         ChildIds: 11995473247185220015
         ChildIds: 4762089783661995249
         ChildIds: 14343495898738003287
@@ -1452,7 +1452,7 @@ Assets {
             Z: 549.653931
           }
           Rotation {
-            Roll: 17.7961864
+            Roll: 17.796196
           }
           Scale {
             X: 1
@@ -1460,7 +1460,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         ChildIds: 12163044788419999515
         ChildIds: 15103325641204075047
         ChildIds: 2080956295791327534
@@ -1721,7 +1721,7 @@ Assets {
             Z: 648.341125
           }
           Rotation {
-            Roll: 17.7962055
+            Roll: 17.7962151
           }
           Scale {
             X: 1
@@ -1729,7 +1729,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         ChildIds: 1165186926238471079
         ChildIds: 11384796909129627815
         ChildIds: 14141151644476387183
@@ -1990,9 +1990,9 @@ Assets {
             Z: 1.50028229
           }
           Rotation {
-            Pitch: 72.3316269
-            Yaw: 89.9998856
-            Roll: 89.3416214
+            Pitch: 72.3316116
+            Yaw: 89.9998779
+            Roll: 89.3416061
           }
           Scale {
             X: 1.61731374
@@ -2000,7 +2000,7 @@ Assets {
             Z: 1.13571429
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Accent:id"
@@ -2067,7 +2067,7 @@ Assets {
             Z: 659.852
           }
           Rotation {
-            Pitch: -20.1760902
+            Pitch: -20.1760845
             Yaw: 89.9999466
             Roll: -179.999954
           }
@@ -2077,7 +2077,7 @@ Assets {
             Z: 0.188669056
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Accent:id"
@@ -2190,8 +2190,8 @@ Assets {
           }
           Rotation {
             Pitch: 16.5479279
-            Yaw: -89.9999237
-            Roll: -179.999969
+            Yaw: -89.9999313
+            Roll: -179.999954
           }
           Scale {
             X: 0.227036417
@@ -2199,7 +2199,7 @@ Assets {
             Z: 0.227036104
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2266,7 +2266,7 @@ Assets {
             Z: 0.188669056
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Building_Accent:id"
@@ -2378,7 +2378,7 @@ Assets {
             Z: 626.010864
           }
           Rotation {
-            Pitch: 16.5479279
+            Pitch: 16.5479145
             Yaw: -89.9999313
             Roll: -179.999954
           }
@@ -2388,7 +2388,7 @@ Assets {
             Z: 0.227036104
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2453,7 +2453,7 @@ Assets {
             Z: 0.56133759
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -2492,7 +2492,7 @@ Assets {
             Y: -106.417725
           }
           Rotation {
-            Yaw: -89.9999313
+            Yaw: -89.9999161
             Roll: -179.999954
           }
           Scale {
@@ -2501,7 +2501,7 @@ Assets {
             Z: 0.56133759
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -2549,7 +2549,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2614,7 +2614,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 18309481271635303911
+        ParentId: 4712595482695897760
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6693,12 +6693,12 @@ Assets {
         }
       }
       Objects {
-        Id: 6964253501762636882
+        Id: 9897872668336145266
         Name: "Books"
         Transform {
           Location {
-            X: 20.0702114
-            Y: 14.0312662
+            X: 20
+            Y: 14
             Z: 123
           }
           Rotation {
@@ -6882,7 +6882,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -6890,8 +6890,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 737.707275
-            Y: 7.96875
+            X: 737.777466
+            Y: 8
             Z: 377.19696
           }
           Rotation {
@@ -6903,7 +6903,7 @@ Assets {
             Z: 1.21828496
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -6958,14 +6958,14 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 538.92981
-            Y: 7.96875
+            X: 539
+            Y: 8
             Z: 448
           }
           Rotation {
             Pitch: 90
-            Yaw: -2.73207552e-05
-            Roll: -179.999985
+            Yaw: 1.82138374e-05
+            Roll: -179.999924
           }
           Scale {
             X: 0.6
@@ -6973,7 +6973,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7028,14 +7028,14 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 321.929871
-            Y: 7.96875
+            X: 322.000061
+            Y: 8
             Z: 593
           }
           Rotation {
             Pitch: -90
-            Yaw: 2.73207552e-05
-            Roll: -179.999985
+            Yaw: -1.82138374e-05
+            Roll: -179.999924
           }
           Scale {
             X: 0.6
@@ -7043,7 +7043,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7098,8 +7098,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 538.92981
-            Y: 7.96875
+            X: 539
+            Y: 8
             Z: 524
           }
           Rotation {
@@ -7111,7 +7111,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7166,8 +7166,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -99.0702057
-            Y: 7.96875
+            X: -99
+            Y: 8
             Z: 452
           }
           Rotation {
@@ -7179,7 +7179,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7234,14 +7234,13 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -313.576904
-            Y: 7.96875
+            X: -313.506714
+            Y: 8
             Z: 307
           }
           Rotation {
             Pitch: 90
-            Yaw: 1.82138374e-05
-            Roll: -179.999924
+            Roll: -179.999939
           }
           Scale {
             X: 0.6
@@ -7249,7 +7248,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7304,8 +7303,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -317.07019
-            Y: 7.96875
+            X: -317
+            Y: 8
             Z: 522
           }
           Rotation {
@@ -7317,7 +7316,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7372,14 +7371,13 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -524.070129
-            Y: 7.96875
+            X: -523.999939
+            Y: 8
             Z: 662
           }
           Rotation {
             Pitch: -90
-            Yaw: -1.82138374e-05
-            Roll: -179.999924
+            Roll: -179.999939
           }
           Scale {
             X: 0.6
@@ -7387,7 +7385,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7442,8 +7440,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 325.92981
-            Y: 2.96875
+            X: 326
+            Y: 3
             Z: 352
           }
           Rotation {
@@ -7455,7 +7453,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7490,8 +7488,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: 323.92981
-            Y: -2.03125
+            X: 324
+            Y: -2
             Z: 282
           }
           Rotation {
@@ -7503,7 +7501,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7538,8 +7536,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 537.92981
-            Y: 2.96875
+            X: 538
+            Y: 3
             Z: 352
           }
           Rotation {
@@ -7551,7 +7549,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -7615,8 +7613,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 541.92981
-            Y: 2.96875
+            X: 542
+            Y: 3
             Z: 282
           }
           Rotation {
@@ -7628,7 +7626,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7663,8 +7661,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: 540.92981
-            Y: -2.03125
+            X: 541
+            Y: -2
             Z: 213
           }
           Rotation {
@@ -7676,7 +7674,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -7738,8 +7736,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 323.92981
-            Y: -0.03125
+            X: 324
             Z: 71
           }
           Rotation {
@@ -7751,7 +7748,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -7815,8 +7812,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: 325.92981
-            Y: -2.03125
+            X: 326
+            Y: -2
             Z: 142
           }
           Rotation {
@@ -7828,7 +7825,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -7892,8 +7889,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 541.92981
-            Y: -1.03125
+            X: 542
+            Y: -1
             Z: 144
           }
           Rotation {
@@ -7905,7 +7902,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -7967,8 +7964,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -312.07019
-            Y: -0.03125
+            X: -312
             Z: 73
           }
           Rotation {
@@ -7980,7 +7976,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -8042,8 +8038,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -313.07019
-            Y: -3.03125
+            X: -313
+            Y: -3
             Z: 142
           }
           Rotation {
@@ -8055,7 +8051,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -8118,8 +8114,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -528.07019
-            Y: 0.96875
+            X: -528
+            Y: 1
             Z: 281
           }
           Rotation {
@@ -8131,7 +8127,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8166,8 +8162,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -528.07019
-            Y: -2.03125
+            X: -528
+            Y: -2
             Z: 71
           }
           Rotation {
@@ -8179,7 +8175,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -8243,8 +8239,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -530.07019
-            Y: 0.96875
+            X: -530
+            Y: 1
           }
           Rotation {
             Yaw: -179.999954
@@ -8255,7 +8251,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -8319,8 +8315,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: 108.929794
-            Y: -2.03125
+            X: 109
+            Y: -2
             Z: 282
           }
           Rotation {
@@ -8332,7 +8328,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -8395,8 +8391,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 109.929794
-            Y: -0.03125
+            X: 110
             Z: 493
           }
           Rotation {
@@ -8408,7 +8403,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -8472,8 +8467,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: 111.929794
-            Y: -2.03125
+            X: 112
+            Y: -2
             Z: 353
           }
           Rotation {
@@ -8485,7 +8480,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -8549,8 +8544,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 111.929794
-            Y: -1.03125
+            X: 112
+            Y: -1
             Z: 213
           }
           Rotation {
@@ -8562,7 +8557,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -8624,8 +8619,8 @@ Assets {
         Name: "Fantasy Book Pile 03"
         Transform {
           Location {
-            X: 238.99852
-            Y: 1.65722656
+            X: 239.068726
+            Y: 1.68847656
             Z: 448.936462
           }
           Rotation {
@@ -8638,7 +8633,7 @@ Assets {
             Z: 1.00000012
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8673,8 +8668,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: 400.92981
-            Y: -3.48596191
+            X: 401
+            Y: -3.45471191
             Z: 421.155701
           }
           Rotation {
@@ -8686,7 +8681,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8721,8 +8716,8 @@ Assets {
         Name: "Fantasy Book Pile 04"
         Transform {
           Location {
-            X: 203.929794
-            Y: 0.96875
+            X: 204
+            Y: 1
             Z: 449
           }
           Rotation {
@@ -8736,7 +8731,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8771,8 +8766,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 69.9297943
-            Y: 1.96875
+            X: 70
+            Y: 2
             Z: 421
           }
           Rotation {
@@ -8784,7 +8779,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8819,8 +8814,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 133.929794
-            Y: 1.96875
+            X: 134
+            Y: 2
             Z: 141
           }
           Rotation {
@@ -8832,7 +8827,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8867,8 +8862,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: 58.9297943
-            Y: 0.96875
+            X: 59
+            Y: 1
             Z: 141
           }
           Rotation {
@@ -8880,7 +8875,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8915,8 +8910,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 347.92981
-            Y: 0.96875
+            X: 348
+            Y: 1
             Z: 213
           }
           Rotation {
@@ -8928,7 +8923,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8963,8 +8958,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: 246.929794
-            Y: -1.03125
+            X: 247
+            Y: -1
             Z: 212
           }
           Rotation {
@@ -8976,7 +8971,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -9039,8 +9034,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -100.070206
-            Y: 7.96875
+            X: -100
+            Y: 8
             Z: 666
           }
           Rotation {
@@ -9052,7 +9047,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9107,8 +9102,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -741.07019
-            Y: 7.96875
+            X: -741
+            Y: 8
             Z: 596
           }
           Rotation {
@@ -9120,7 +9115,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9175,14 +9170,14 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -732.07019
-            Y: 4.96875
+            X: -732
+            Y: 5
             Z: 517
           }
           Rotation {
             Pitch: 90
-            Yaw: 5.02285767
-            Roll: -175.051193
+            Yaw: -177.455811
+            Roll: 2.47015381
           }
           Scale {
             X: 0.599959195
@@ -9190,7 +9185,7 @@ Assets {
             Z: 1.79995859
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9245,12 +9240,12 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -816.258118
-            Y: -2.03125
+            X: -816.187927
+            Y: -2
             Z: 520
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 89.9999847
             Roll: -1.86596656
           }
           Scale {
@@ -9259,7 +9254,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9294,8 +9289,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -552.801758
-            Y: 0.285400391
+            X: -552.731567
+            Y: 0.316650391
             Z: 660.464294
           }
           Rotation {
@@ -9308,7 +9303,7 @@ Assets {
             Z: 0.938190818
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9343,8 +9338,8 @@ Assets {
         Name: "Fantasy Book 02"
         Transform {
           Location {
-            X: -18.460083
-            Y: -9.55114746
+            X: -18.3898773
+            Y: -9.51989746
             Z: 453.632141
           }
           Rotation {
@@ -9356,7 +9351,7 @@ Assets {
             Z: 1.09211135
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -9402,8 +9397,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -328.07019
-            Y: 1.30786133
+            X: -328
+            Y: 1.33911133
             Z: 308.919769
           }
           Rotation {
@@ -9417,7 +9412,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -9463,8 +9458,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -271.576904
-            Y: 1.30786133
+            X: -271.506714
+            Y: 1.33911133
             Z: 310.603485
           }
           Rotation {
@@ -9478,7 +9473,7 @@ Assets {
             Z: 0.999999702
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -9533,8 +9528,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 552.790344
-            Y: -0.916381836
+            X: 552.860535
+            Y: -0.885131836
             Z: 451.041138
           }
           Rotation {
@@ -9548,7 +9543,7 @@ Assets {
             Z: 0.999999702
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -9603,14 +9598,14 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 279.755981
-            Y: 1.30786133
+            X: 279.826172
+            Y: 1.33911133
             Z: 590.860352
           }
           Rotation {
-            Pitch: -0.0144042969
+            Pitch: -0.0144048678
             Yaw: 89.3904495
-            Roll: -1.39556885
+            Roll: -1.39556897
           }
           Scale {
             X: 1.00000012
@@ -9618,7 +9613,7 @@ Assets {
             Z: 1.08212733
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -9673,8 +9668,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 325.914734
-            Y: 2.96875
+            X: 325.984924
+            Y: 3
             Z: 0.738204956
           }
           Rotation {
@@ -9686,7 +9681,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9721,8 +9716,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 541.687195
-            Y: -0.03125
+            X: 541.757385
             Z: 4.14044189
           }
           Rotation {
@@ -9734,7 +9728,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -9798,8 +9792,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 500.708
-            Y: 1.96875
+            X: 500.778198
+            Y: 2
             Z: 73.3381042
           }
           Rotation {
@@ -9811,7 +9805,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9846,8 +9840,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: 606.812866
-            Y: 0.96875
+            X: 606.883057
+            Y: 1
             Z: 73.3381042
           }
           Rotation {
@@ -9859,7 +9853,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9894,8 +9888,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 110.195053
-            Y: -0.03125
+            X: 110.265259
             Z: 72.4006653
           }
           Rotation {
@@ -9907,7 +9900,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -9971,8 +9964,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: 187.767212
-            Y: -3.48596191
+            X: 187.837418
+            Y: -3.45471191
             Z: 1.35192871
           }
           Rotation {
@@ -9984,7 +9977,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10019,8 +10012,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 72.7845459
-            Y: 0.96875
+            X: 72.8547516
+            Y: 1
             Z: 1.05975342
           }
           Rotation {
@@ -10032,7 +10025,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10067,8 +10060,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: -139.277603
-            Y: 1.96875
+            X: -139.207397
+            Y: 2
             Z: 141.75827
           }
           Rotation {
@@ -10080,7 +10073,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail3:color"
@@ -10143,8 +10136,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: -34.5422974
-            Y: 0.96875
+            X: -34.4720917
+            Y: 1
             Z: 141.75827
           }
           Rotation {
@@ -10156,7 +10149,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail3:color"
@@ -10220,8 +10213,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -99.240921
-            Y: -2.03125
+            X: -99.1707153
+            Y: -2
             Z: 211.890259
           }
           Rotation {
@@ -10233,7 +10226,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -10296,8 +10289,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -96.7272491
-            Y: 2.96875
+            X: -96.6570435
+            Y: 3
             Z: 353.081238
           }
           Rotation {
@@ -10309,7 +10302,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10344,8 +10337,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -99.7476349
-            Y: 2.96875
+            X: -99.6774292
+            Y: 3
             Z: 281.565948
           }
           Rotation {
@@ -10357,7 +10350,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail3:color"
@@ -10421,14 +10414,13 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 754.154846
-            Y: 7.96875
+            X: 754.225037
+            Y: 8
             Z: 663.5401
           }
           Rotation {
             Pitch: -90
-            Yaw: -1.82138374e-05
-            Roll: -179.999924
+            Roll: -179.999939
           }
           Scale {
             X: 0.6
@@ -10436,7 +10428,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10491,14 +10483,14 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 818.85
-            Y: -0.586792
+            X: 818.920166
+            Y: -0.555542
             Z: 562.85022
           }
           Rotation {
             Pitch: -0.0144048678
             Yaw: -179.032959
-            Roll: -1.39556837
+            Roll: -1.39556825
           }
           Scale {
             X: 1.00000155
@@ -10506,7 +10498,7 @@ Assets {
             Z: 0.999999702
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -10552,14 +10544,13 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 726.47345
-            Y: 7.96875
+            X: 726.54364
+            Y: 8
             Z: 587.975586
           }
           Rotation {
             Pitch: 90
-            Yaw: 1.82138374e-05
-            Roll: -179.999924
+            Roll: -179.999939
           }
           Scale {
             X: 0.6
@@ -10567,7 +10558,7 @@ Assets {
             Z: 1.23117328
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10622,8 +10613,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 749.05542
-            Y: 2.00854492
+            X: 749.12561
+            Y: 2.03979492
             Z: 591.028564
           }
           Rotation {
@@ -10636,7 +10627,7 @@ Assets {
             Z: 1.06375492
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10671,8 +10662,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 778.92981
-            Y: 7.85693359
+            X: 779
+            Y: 7.88818359
             Z: 492.345947
           }
           Rotation {
@@ -10684,7 +10675,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10719,8 +10710,8 @@ Assets {
         Name: "Office Book Collection 05"
         Transform {
           Location {
-            X: 708.92981
-            Y: 0.96875
+            X: 709
+            Y: 1
             Z: 492
           }
           Rotation {
@@ -10732,7 +10723,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -10795,12 +10786,11 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 671.92981
-            Y: -0.03125
+            X: 672
             Z: 519
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 0.900000036
@@ -10808,7 +10798,7 @@ Assets {
             Z: 0.900000036
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10843,8 +10833,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: 831.912476
-            Y: -2.03125
+            X: 831.982666
+            Y: -2
             Z: 72.2921753
           }
           Rotation {
@@ -10856,7 +10846,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10891,8 +10881,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 716.92981
-            Y: -2.03125
+            X: 717
+            Y: -2
             Z: 72
           }
           Rotation {
@@ -10904,7 +10894,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10939,8 +10929,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: 754.92981
-            Y: -2.03125
+            X: 755
+            Y: -2
             Z: 422
           }
           Rotation {
@@ -10952,7 +10942,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -11015,8 +11005,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 753.92981
-            Y: 0.96875
+            X: 754
+            Y: 1
             Z: 2
           }
           Rotation {
@@ -11028,7 +11018,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11063,8 +11053,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 753.92981
-            Y: -0.03125
+            X: 754
             Z: 212
           }
           Rotation {
@@ -11076,7 +11065,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -11140,8 +11129,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 753.92981
-            Y: -1.03125
+            X: 754
+            Y: -1
             Z: 281
           }
           Rotation {
@@ -11153,7 +11142,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -11215,8 +11204,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -315.07019
-            Y: -2.03125
+            X: -315
+            Y: -2
             Z: 422
           }
           Rotation {
@@ -11228,7 +11217,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -11292,8 +11281,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -319.07019
-            Y: 7.96875
+            X: -319
+            Y: 8
             Z: 588
           }
           Rotation {
@@ -11305,7 +11294,7 @@ Assets {
             Z: 1.7
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11360,8 +11349,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -310.07019
-            Y: -2.03125
+            X: -310
+            Y: -2
             Z: 591.525452
           }
           Rotation {
@@ -11374,7 +11363,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11420,13 +11409,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -323.450623
-            Y: -2.03125
+            X: -323.380432
+            Y: -2
             Z: 590
           }
           Rotation {
-            Yaw: 89.9999619
-            Roll: -1.69049025
+            Yaw: 89.9999542
+            Roll: -1.69049037
           }
           Scale {
             X: 1
@@ -11434,7 +11423,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11480,13 +11469,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -231.827744
-            Y: 0.287231445
+            X: -231.757538
+            Y: 0.318481445
             Z: 590.779236
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -11494,7 +11483,7 @@ Assets {
             Z: 1.11051679
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11538,13 +11527,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -689.755127
-            Y: -2.33813477
+            X: -689.684937
+            Y: -2.30688477
             Z: 519.505188
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -11552,7 +11541,7 @@ Assets {
             Z: 1.11051559
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11596,13 +11585,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -704.562622
-            Y: -2.33813477
+            X: -704.492432
+            Y: -2.30688477
             Z: 519.505188
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -11610,7 +11599,7 @@ Assets {
             Z: 1.11051559
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11654,8 +11643,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 552.790344
-            Y: 1.30786133
+            X: 552.860535
+            Y: 1.33911133
             Z: 661.518066
           }
           Rotation {
@@ -11669,7 +11658,7 @@ Assets {
             Z: 0.999999702
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11724,14 +11713,13 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 538.92981
-            Y: 7.96875
+            X: 539
+            Y: 8
             Z: 658.476929
           }
           Rotation {
             Pitch: 90
-            Yaw: 1.82138374e-05
-            Roll: -179.999924
+            Roll: -179.999939
           }
           Scale {
             X: 0.6
@@ -11739,7 +11727,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11794,8 +11782,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 567.609253
-            Y: 2.00854492
+            X: 567.679443
+            Y: 2.03979492
             Z: 660.781799
           }
           Rotation {
@@ -11808,7 +11796,7 @@ Assets {
             Z: 1.06375492
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11843,13 +11831,13 @@ Assets {
         Name: "Fantasy Book 02"
         Transform {
           Location {
-            X: 726.997131
-            Y: 0.356689453
+            X: 727.067322
+            Y: 0.387939453
             Z: 660.984863
           }
           Rotation {
             Pitch: -0.13431567
-            Yaw: 84.0566101
+            Yaw: 84.0566
             Roll: -1.28396595
           }
           Scale {
@@ -11858,7 +11846,7 @@ Assets {
             Z: 1.04912889
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11904,13 +11892,13 @@ Assets {
         Name: "Fantasy Book 02"
         Transform {
           Location {
-            X: 742.438
-            Y: 0.356689453
+            X: 742.508179
+            Y: 0.387939453
             Z: 660.984863
           }
           Rotation {
             Pitch: -0.13431567
-            Yaw: 84.0566
+            Yaw: 84.0565948
             Roll: -1.28396595
           }
           Scale {
@@ -11919,7 +11907,7 @@ Assets {
             Z: 1.04912889
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -11965,8 +11953,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: -662.179504
-            Y: -3.48596191
+            X: -662.109314
+            Y: -3.45471191
             Z: 144.129333
           }
           Rotation {
@@ -11978,7 +11966,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12013,8 +12001,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: -777.16217
-            Y: 0.96875
+            X: -777.092
+            Y: 1
             Z: 143.837158
           }
           Rotation {
@@ -12026,7 +12014,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12061,8 +12049,8 @@ Assets {
         Name: "Fantasy Book Pile 04"
         Transform {
           Location {
-            X: -646.07019
-            Y: 2.30883789
+            X: -646
+            Y: 2.34008789
             Z: 100
           }
           Rotation {
@@ -12076,7 +12064,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12111,8 +12099,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: -779.07019
-            Y: -4.03125
+            X: -779
+            Y: -4
             Z: 72
           }
           Rotation {
@@ -12124,7 +12112,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12159,12 +12147,12 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -822.07019
-            Y: -6.03125
+            X: -822
+            Y: -6
             Z: 101
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -12172,7 +12160,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12207,8 +12195,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -750.07019
-            Y: -6.03125
+            X: -750
+            Y: -6
             Z: 101
           }
           Rotation {
@@ -12220,7 +12208,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12255,8 +12243,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -736.07019
-            Y: -6.03125
+            X: -736
+            Y: -6
             Z: 101
           }
           Rotation {
@@ -12268,7 +12256,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12303,8 +12291,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -721.07019
-            Y: -6.03125
+            X: -721
+            Y: -6
             Z: 101
           }
           Rotation {
@@ -12316,7 +12304,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12351,8 +12339,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: -157.070206
-            Y: -4.03125
+            X: -157
+            Y: -4
             Z: 2
           }
           Rotation {
@@ -12364,7 +12352,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12399,8 +12387,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -86.0702057
-            Y: -6.03125
+            X: -86
+            Y: -6
             Z: 31
           }
           Rotation {
@@ -12412,7 +12400,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -12457,8 +12445,8 @@ Assets {
         Name: "Fantasy Book Pile 04"
         Transform {
           Location {
-            X: -79.0702057
-            Y: 2.30883789
+            X: -79
+            Y: 2.34008789
             Z: 30
           }
           Rotation {
@@ -12472,7 +12460,7 @@ Assets {
             Z: -1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12507,8 +12495,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -101.070206
-            Y: -6.03125
+            X: -101
+            Y: -6
             Z: 31
           }
           Rotation {
@@ -12520,7 +12508,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -12565,8 +12553,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -115.070206
-            Y: -6.03125
+            X: -115
+            Y: -6
             Z: 31
           }
           Rotation {
@@ -12578,7 +12566,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12613,8 +12601,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -187.070206
-            Y: -6.03125
+            X: -187
+            Y: -6
             Z: 31
           }
           Rotation {
@@ -12626,7 +12614,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12661,8 +12649,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: -593.07019
-            Y: -4.03125
+            X: -593
+            Y: -4
             Z: 353
           }
           Rotation {
@@ -12674,7 +12662,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12709,8 +12697,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -537.07019
-            Y: -6.03125
+            X: -537
+            Y: -6
             Z: 382
           }
           Rotation {
@@ -12722,7 +12710,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -12767,8 +12755,8 @@ Assets {
         Name: "Fantasy Book Pile 04"
         Transform {
           Location {
-            X: -515.07019
-            Y: 2.30883789
+            X: -515
+            Y: 2.34008789
             Z: 381
           }
           Rotation {
@@ -12782,7 +12770,7 @@ Assets {
             Z: -1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12817,8 +12805,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -522.07019
-            Y: -6.03125
+            X: -522
+            Y: -6
             Z: 382
           }
           Rotation {
@@ -12830,7 +12818,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -12875,8 +12863,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -551.07019
-            Y: -6.03125
+            X: -551
+            Y: -6
             Z: 382
           }
           Rotation {
@@ -12888,7 +12876,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12923,8 +12911,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -443.07019
-            Y: -6.03125
+            X: -443
+            Y: -6
             Z: 382
           }
           Rotation {
@@ -12936,7 +12924,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12971,12 +12959,12 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -245.070206
-            Y: -7.03125
+            X: -245
+            Y: -7
             Z: 171
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -12984,7 +12972,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -13019,8 +13007,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: -291.985657
-            Y: 0.96875
+            X: -291.915466
+            Y: 1
             Z: 353.334045
           }
           Rotation {
@@ -13032,7 +13020,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -13067,8 +13055,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: -352.130371
-            Y: -3.48596191
+            X: -352.060181
+            Y: -3.45471191
             Z: 353.626221
           }
           Rotation {
@@ -13080,7 +13068,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -13115,8 +13103,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: -699.07019
-            Y: 3.96875
+            X: -699
+            Y: 4
             Z: 631.979553
           }
           Rotation {
@@ -13128,7 +13116,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail3:color"
@@ -13191,14 +13179,14 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -768.027527
-            Y: 7.96875
+            X: -767.957336
+            Y: 8
             Z: 659
           }
           Rotation {
             Pitch: 90
-            Yaw: -165.148911
-            Roll: -165.148911
+            Yaw: 3.37228703
+            Roll: 3.37228823
           }
           Scale {
             X: 0.600000083
@@ -13206,7 +13194,7 @@ Assets {
             Z: 1.19006383
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13261,12 +13249,12 @@ Assets {
         Name: "Fantasy Book Pile 03"
         Transform {
           Location {
-            X: -456.07019
-            Y: 1.65722656
+            X: -456
+            Y: 1.68847656
             Z: 448.136536
           }
           Rotation {
-            Pitch: 4.15450335
+            Pitch: 4.15448952
             Yaw: 89.9999466
             Roll: -84.1852493
           }
@@ -13276,7 +13264,7 @@ Assets {
             Z: -0.900000036
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -13311,8 +13299,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: -580.07019
-            Y: 1.09008789
+            X: -580
+            Y: 1.12133789
             Z: 421.155701
           }
           Rotation {
@@ -13324,7 +13312,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -13359,12 +13347,12 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -446.07019
-            Y: -1.03125
+            X: -446
+            Y: -1
             Z: 448
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -13372,7 +13360,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -13407,8 +13395,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -527.41449
-            Y: -1.03125
+            X: -527.344299
+            Y: -1
             Z: 141.163116
           }
           Rotation {
@@ -13420,7 +13408,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -13482,8 +13470,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -525.049805
-            Y: -1.03125
+            X: -524.979614
+            Y: -1
             Z: 213.117279
           }
           Rotation {
@@ -13495,7 +13483,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -13558,8 +13546,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -98.0740204
-            Y: -1.03125
+            X: -98.0038147
+            Y: -1
             Z: 491.303467
           }
           Rotation {
@@ -13571,7 +13559,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -13634,8 +13622,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 113.743332
-            Y: -2.03125
+            X: 113.813538
+            Y: -2
             Z: 591.525452
           }
           Rotation {
@@ -13648,7 +13636,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -13692,8 +13680,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 104.743324
-            Y: 7.96875
+            X: 104.81353
+            Y: 8
             Z: 588
           }
           Rotation {
@@ -13705,7 +13693,7 @@ Assets {
             Z: 1.7
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -13760,8 +13748,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 190.944748
-            Y: -2.03125
+            X: 191.014954
+            Y: -2
             Z: 591.525452
           }
           Rotation {
@@ -13774,7 +13762,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -13818,8 +13806,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 326.711792
-            Y: -1.03125
+            X: 326.781982
+            Y: -1
             Z: 491.303467
           }
           Rotation {
@@ -13831,7 +13819,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -13894,8 +13882,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: 543.684753
-            Y: -1.03125
+            X: 543.754944
+            Y: -1
             Z: 561.194824
           }
           Rotation {
@@ -13907,7 +13895,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -13969,8 +13957,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: 321.929871
-            Y: 7.96875
+            X: 322.000061
+            Y: 8
             Z: 663
           }
           Rotation {
@@ -13982,7 +13970,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14037,14 +14025,14 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 312.92981
-            Y: 1.30786133
+            X: 313
+            Y: 1.33911133
             Z: 661.188293
           }
           Rotation {
             Pitch: -0.0144048678
             Yaw: 89.3904343
-            Roll: -3.10962129
+            Roll: -3.10962176
           }
           Scale {
             X: 1.00000048
@@ -14052,7 +14040,7 @@ Assets {
             Z: 1.0821265
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -14107,8 +14095,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 256.512817
-            Y: 1.30786133
+            X: 256.583
+            Y: 1.33911133
             Z: 661.188293
           }
           Rotation {
@@ -14122,7 +14110,7 @@ Assets {
             Z: 1.0821265
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -14177,8 +14165,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -100.117386
-            Y: 1.52111816
+            X: -100.04718
+            Y: 1.55236816
             Z: 71.6926117
           }
           Rotation {
@@ -14190,7 +14178,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -14253,8 +14241,8 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -740.263184
-            Y: 2.96875
+            X: -740.193
+            Y: 3
             Z: 211.93692
           }
           Rotation {
@@ -14266,7 +14254,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail3:color"
@@ -14330,8 +14318,8 @@ Assets {
         Name: "Office Book Collection 05"
         Transform {
           Location {
-            X: 825.713196
-            Y: -1.13745117
+            X: 825.783386
+            Y: -1.10620117
             Z: 351.999512
           }
           Rotation {
@@ -14343,7 +14331,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -14406,8 +14394,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 672.617676
-            Y: 1.30786133
+            X: 672.687866
+            Y: 1.33911133
             Z: 380.269592
           }
           Rotation {
@@ -14421,7 +14409,7 @@ Assets {
             Z: 0.999999702
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -14475,8 +14463,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -738.931824
-            Y: -2.03125
+            X: -738.861633
+            Y: -2
             Z: 2.18156433
           }
           Rotation {
@@ -14488,7 +14476,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -14551,8 +14539,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: 135.87117
-            Y: 1.96875
+            X: 135.941376
+            Y: 2
             Z: 633.413818
           }
           Rotation {
@@ -14564,7 +14552,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -14628,8 +14616,8 @@ Assets {
         Name: "Fantasy Book Pile 04"
         Transform {
           Location {
-            X: 86.36203
-            Y: 0.96875
+            X: 86.4322357
+            Y: 1
             Z: 661.339661
           }
           Rotation {
@@ -14643,7 +14631,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -14707,14 +14695,13 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -313.72522
-            Y: 7.96875
+            X: -313.655029
+            Y: 8
             Z: 660
           }
           Rotation {
             Pitch: 90
-            Yaw: -26.565033
-            Roll: -116.564972
+            Roll: -89.999939
           }
           Scale {
             X: 0.6
@@ -14722,7 +14709,7 @@ Assets {
             Z: 0.4
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -14777,8 +14764,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -395.711426
-            Y: 0.285400391
+            X: -395.641235
+            Y: 0.316650391
             Z: 660.464294
           }
           Rotation {
@@ -14791,7 +14778,7 @@ Assets {
             Z: 0.938190818
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -14837,8 +14824,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -293.07019
-            Y: 0.285400391
+            X: -293
+            Y: 0.316650391
             Z: 660.464294
           }
           Rotation {
@@ -14851,7 +14838,7 @@ Assets {
             Z: 0.938190818
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -14897,8 +14884,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -233.070206
-            Y: 2.96875
+            X: -233
+            Y: 3
             Z: 520
           }
           Rotation {
@@ -14910,7 +14897,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -14945,13 +14932,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -313.07019
-            Y: 0.287231445
+            X: -313
+            Y: 0.318481445
             Z: 521
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -14959,7 +14946,7 @@ Assets {
             Z: 1.11051679
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -15003,8 +14990,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -101.070206
-            Y: 0.96875
+            X: -101
+            Y: 1
             Z: 561
           }
           Rotation {
@@ -15016,7 +15003,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -15062,13 +15049,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -229.57692
-            Y: 0.287231445
+            X: -229.506714
+            Y: 0.318481445
             Z: 309
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -15076,7 +15063,7 @@ Assets {
             Z: 1.11051679
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -15120,8 +15107,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -740.07019
-            Y: -0.03125
+            X: -740
             Z: 282
           }
           Rotation {
@@ -15133,7 +15119,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -15197,8 +15183,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -315.07019
-            Y: -0.03125
+            X: -315
             Z: 2
           }
           Rotation {
@@ -15210,7 +15195,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -15274,8 +15259,8 @@ Assets {
         Name: "Cube - Chamfered Small Polished"
         Transform {
           Location {
-            X: -524.070129
-            Y: 7.96875
+            X: -523.999939
+            Y: 8
             Z: 520
           }
           Rotation {
@@ -15288,7 +15273,7 @@ Assets {
             Z: 1.80000007
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -15343,13 +15328,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -522.07019
-            Y: 0.287231445
+            X: -522
+            Y: 0.318481445
             Z: 521
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -15357,7 +15342,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -15403,12 +15388,12 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -536.643311
-            Y: -3.97497559
+            X: -536.57312
+            Y: -3.94372559
             Z: 521
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999466
             Roll: -0.321380407
           }
           Scale {
@@ -15417,7 +15402,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -15463,13 +15448,13 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: -551.07019
-            Y: 0.287231445
+            X: -551
+            Y: 0.318481445
             Z: 521
           }
           Rotation {
             Yaw: 90
-            Roll: -1.46929836
+            Roll: -1.46929812
           }
           Scale {
             X: 1
@@ -15477,7 +15462,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -15523,8 +15508,8 @@ Assets {
         Name: "Fantasy Book Collection 01"
         Transform {
           Location {
-            X: -742.786377
-            Y: -3.03125
+            X: -742.716187
+            Y: -3
             Z: 352.616272
           }
           Rotation {
@@ -15536,7 +15521,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail1:color"
@@ -15599,8 +15584,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: -674.786255
-            Y: -7.03125
+            X: -674.716064
+            Y: -7
             Z: 381.616272
           }
           Rotation {
@@ -15612,7 +15597,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -15647,8 +15632,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -737.764282
-            Y: -0.03125
+            X: -737.694092
             Z: 421.581299
           }
           Rotation {
@@ -15660,7 +15644,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -15722,8 +15706,7 @@ Assets {
         Name: "Fantasy Book Collection 02"
         Transform {
           Location {
-            X: -309.408691
-            Y: -0.03125
+            X: -309.338501
             Z: 211.640808
           }
           Rotation {
@@ -15735,7 +15718,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:color"
@@ -15797,8 +15780,8 @@ Assets {
         Name: "Fantasy Book Collection 05"
         Transform {
           Location {
-            X: -449.588745
-            Y: -3.48596191
+            X: -449.518555
+            Y: -3.45471191
             Z: 565.702759
           }
           Rotation {
@@ -15810,7 +15793,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail3:color"
@@ -15856,8 +15839,8 @@ Assets {
         Name: "Fantasy Book Collection 03"
         Transform {
           Location {
-            X: -564.571411
-            Y: 0.96875
+            X: -564.501221
+            Y: 1
             Z: 565.410583
           }
           Rotation {
@@ -15869,7 +15852,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -15904,13 +15887,13 @@ Assets {
         Name: "Fantasy Book 02"
         Transform {
           Location {
-            X: 474.053894
-            Y: 0.356689453
+            X: 474.124084
+            Y: 0.387939453
             Z: 519.679199
           }
           Rotation {
             Pitch: -0.13431567
-            Yaw: 84.0566
+            Yaw: 84.0565948
             Roll: -1.28396595
           }
           Scale {
@@ -15919,7 +15902,7 @@ Assets {
             Z: 1.04912889
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -15963,8 +15946,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 487.721
-            Y: 2.00854492
+            X: 487.791199
+            Y: 2.03979492
             Z: 521.267151
           }
           Rotation {
@@ -15977,7 +15960,7 @@ Assets {
             Z: 1.06375492
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -16012,14 +15995,14 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 566.649536
-            Y: 1.30786133
+            X: 566.719727
+            Y: 1.33911133
             Z: 451.041138
           }
           Rotation {
             Pitch: -0.0144048678
             Yaw: 89.3904419
-            Roll: -3.90112638
+            Roll: -3.90112686
           }
           Scale {
             X: 1.00000155
@@ -16027,7 +16010,7 @@ Assets {
             Z: 0.999999702
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -16082,12 +16065,12 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 96.3129425
-            Y: -8.03125
+            X: 96.3831482
+            Y: -8
             Z: 311.254883
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -16095,7 +16078,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -16130,12 +16113,12 @@ Assets {
         Name: "Fantasy Book 02"
         Transform {
           Location {
-            X: 378.92981
-            Y: -15.03125
+            X: 379
+            Y: -15
             Z: 311
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 0.6
@@ -16143,7 +16126,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -16189,8 +16172,8 @@ Assets {
         Name: "Fantasy Book 02"
         Transform {
           Location {
-            X: 342.92981
-            Y: -15.03125
+            X: 343
+            Y: -15
             Z: 170
           }
           Rotation {
@@ -16202,7 +16185,7 @@ Assets {
             Z: 1.1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -16248,8 +16231,8 @@ Assets {
         Name: "Fantasy Book Pile 04"
         Transform {
           Location {
-            X: 778.92981
-            Y: 2.30883789
+            X: 779
+            Y: 2.34008789
             Z: 168
           }
           Rotation {
@@ -16263,7 +16246,7 @@ Assets {
             Z: -1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -16298,8 +16281,8 @@ Assets {
         Name: "Fantasy Book Collection 04"
         Transform {
           Location {
-            X: 700.92981
-            Y: -4.03125
+            X: 701
+            Y: -4
             Z: 141
           }
           Rotation {
@@ -16311,7 +16294,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -16346,8 +16329,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 771.92981
-            Y: -6.03125
+            X: 772
+            Y: -6
             Z: 170
           }
           Rotation {
@@ -16359,7 +16342,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -16404,8 +16387,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 756.92981
-            Y: -6.03125
+            X: 757
+            Y: -6
             Z: 170
           }
           Rotation {
@@ -16417,7 +16400,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -16462,8 +16445,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 742.92981
-            Y: -6.03125
+            X: 743
+            Y: -6
             Z: 170
           }
           Rotation {
@@ -16475,7 +16458,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -16510,8 +16493,8 @@ Assets {
         Name: "Fantasy Book 03"
         Transform {
           Location {
-            X: 670.92981
-            Y: -6.03125
+            X: 671
+            Y: -6
             Z: 170
           }
           Rotation {
@@ -16523,7 +16506,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -16558,8 +16541,8 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 798.839
-            Y: 2.96875
+            X: 798.90918
+            Y: 3
             Z: 659.034241
           }
           Rotation {
@@ -16572,7 +16555,7 @@ Assets {
             Z: 1.06375492
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -16618,14 +16601,14 @@ Assets {
         Name: "Fantasy Book 01"
         Transform {
           Location {
-            X: 294.639832
-            Y: 1.30786133
+            X: 294.710022
+            Y: 1.33911133
             Z: 591.283569
           }
           Rotation {
-            Pitch: -0.0144042969
+            Pitch: -0.0144048678
             Yaw: 89.3904266
-            Roll: -1.8923645
+            Roll: -1.89236462
           }
           Scale {
             X: 0.999999225
@@ -16633,7 +16616,7 @@ Assets {
             Z: 1.05719244
           }
         }
-        ParentId: 6964253501762636882
+        ParentId: 9897872668336145266
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"

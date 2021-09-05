@@ -22,7 +22,7 @@ Assets {
         ChildIds: 3172666679739840912
         ChildIds: 706678672436171819
         ChildIds: 13720284998781035096
-        ChildIds: 8429142634879668841
+        ChildIds: 2485814191554092002
         ChildIds: 13530382083921309842
         ChildIds: 2567374318291466808
         ChildIds: 11777749328369658103
@@ -79,13 +79,13 @@ Assets {
           Overrides {
             Name: "cs:ChestForceField"
             ObjectReference {
-              SubObjectId: 8429142634879668841
+              SubObjectId: 2485814191554092002
             }
           }
           Overrides {
             Name: "cs:ReturnTeleporterLocation"
             ObjectReference {
-              SubObjectId: 13165484342954811160
+              SubObjectId: 1244717172855501708
             }
           }
           Overrides {
@@ -135,7 +135,7 @@ Assets {
           }
         }
         ParentId: 16361160000876816866
-        ChildIds: 4894721193434237059
+        ChildIds: 13168841234850618133
         ChildIds: 16071934356675939874
         ChildIds: 14331349183541213725
         ChildIds: 12780720110085921252
@@ -171,7 +171,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4894721193434237059
+        Id: 13168841234850618133
         Name: "Stone Eye"
         Transform {
           Location {
@@ -180,12 +180,11 @@ Assets {
             Z: -67.6276855
           }
           Rotation {
-            Yaw: -90
           }
           Scale {
-            X: 0.976003885
-            Y: 0.976003885
-            Z: 0.976003885
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 3267654851739401956
@@ -209,8 +208,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "Stone Eye"
+          IsGroup: true
         }
       }
       Objects {
@@ -220,14 +218,15 @@ Assets {
           Location {
           }
           Rotation {
+            Yaw: -89.9999847
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.976003885
+            Y: 0.976003885
+            Z: 0.976003885
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -251,18 +250,20 @@ Assets {
         Name: "Sphere"
         Transform {
           Location {
-            X: -0.399603575
+            Y: 0.390014648
           }
           Rotation {
-            Pitch: 94.8985367
+            Pitch: 85.1013412
+            Yaw: 89.9999161
+            Roll: 179.999954
           }
           Scale {
-            X: 1.65840161
-            Y: 1.65840161
-            Z: 1.65840161
+            X: 1.61860645
+            Y: 1.61860645
+            Z: 1.61860645
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -318,19 +319,21 @@ Assets {
         Name: "Ellipsoid - Truncated Hollow"
         Transform {
           Location {
-            X: 72.9338455
-            Z: 6.23928785
+            Y: -71.1837158
+            Z: 6.08959961
           }
           Rotation {
-            Pitch: 94.8985825
+            Pitch: 85.1014175
+            Yaw: 90
+            Roll: -179.999985
           }
           Scale {
-            X: 0.670887589
-            Y: 0.670887887
-            Z: 0.0835839063
+            X: 0.654788911
+            Y: 0.654789209
+            Z: 0.0815782174
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -389,19 +392,21 @@ Assets {
         Name: "Sphere"
         Transform {
           Location {
-            X: 74.8864594
-            Z: 6.4054141
+            Y: -73.0894775
+            Z: 6.25170898
           }
           Rotation {
-            Pitch: 94.8987045
+            Pitch: 85.101181
+            Yaw: 89.9999161
+            Roll: 179.999985
           }
           Scale {
-            X: 0.441235214
-            Y: 0.441235363
-            Z: 0.164835677
+            X: 0.430647284
+            Y: 0.430647433
+            Z: 0.160880268
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -457,18 +462,20 @@ Assets {
         Name: "Sphere - Half"
         Transform {
           Location {
-            X: -0.399603575
+            Y: 0.390014648
           }
           Rotation {
-            Pitch: 22.0150032
+            Pitch: 22.0149956
+            Yaw: -89.9999924
+            Roll: 9.20921877e-07
           }
           Scale {
-            X: 1.72472334
-            Y: 1.72472334
-            Z: 1.72472334
+            X: 1.68333673
+            Y: 1.68333673
+            Z: 1.68333673
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -524,19 +531,21 @@ Assets {
         Name: "Sphere - Half"
         Transform {
           Location {
-            X: -0.258147657
-            Z: -0.350043982
+            Y: 0.251953125
+            Z: -0.341674805
           }
           Rotation {
-            Pitch: 22.0150032
+            Pitch: 22.0149956
+            Yaw: -89.9999924
+            Roll: 9.20921877e-07
           }
           Scale {
-            X: 1.75778806
-            Y: 1.75778854
-            Z: 0.0375579
+            X: 1.715608
+            Y: 1.71560848
+            Z: 0.0366566554
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -596,18 +605,20 @@ Assets {
         Name: "Sphere - Half"
         Transform {
           Location {
-            X: -0.399603575
+            Y: 0.390014648
           }
           Rotation {
-            Pitch: 144.805145
+            Pitch: 35.1948433
+            Yaw: 90.0000076
+            Roll: -180
           }
           Scale {
-            X: 1.71784127
-            Y: 1.71784127
-            Z: 1.71784127
+            X: 1.67661977
+            Y: 1.67661977
+            Z: 1.67661977
           }
         }
-        ParentId: 4894721193434237059
+        ParentId: 13168841234850618133
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -4278,7 +4289,7 @@ Assets {
           }
         }
         ParentId: 16361160000876816866
-        ChildIds: 13165484342954811160
+        ChildIds: 1244717172855501708
         ChildIds: 4624077655932355331
         ChildIds: 6757741045028834561
         ChildIds: 7362893769940813086
@@ -4399,7 +4410,7 @@ Assets {
         }
       }
       Objects {
-        Id: 13165484342954811160
+        Id: 1244717172855501708
         Name: "Return Teleporter Location"
         Transform {
           Location {
@@ -4429,7 +4440,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -26417,7 +26428,7 @@ Assets {
           }
         }
         ParentId: 17834906343546454308
-        ChildIds: 15316159697014167391
+        ChildIds: 17817763799564593634
         ChildIds: 13937936267546800398
         ChildIds: 10785357996468320949
         ChildIds: 7622461383791198640
@@ -26449,14 +26460,13 @@ Assets {
         }
       }
       Objects {
-        Id: 15316159697014167391
-        Name: "NewFolder"
+        Id: 17817763799564593634
+        Name: "Group"
         Transform {
           Location {
             Z: 304.04538
           }
           Rotation {
-            Roll: -5.56762695
           }
           Scale {
             X: 1
@@ -26484,8 +26494,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "NewFolder_1"
+          IsGroup: true
         }
       }
       Objects {
@@ -26493,12 +26502,14 @@ Assets {
         Name: "Spotlight"
         Transform {
           Location {
-            X: 4.21455193
-            Y: 19.9998
-            Z: 1.86523426
+            X: 4.21480131
+            Y: 19.7241726
+            Z: 3.7966578
           }
           Rotation {
-            Yaw: -89.9999924
+            Pitch: -5.56762838
+            Yaw: -89.9999695
+            Roll: -8.5782051e-07
           }
           Scale {
             X: 1
@@ -26506,7 +26517,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15316159697014167391
+        ParentId: 17817763799564593634
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -26559,12 +26570,13 @@ Assets {
         Name: "Military Tank Modern Light 02"
         Transform {
           Location {
-            X: 0.190177679
-            Y: -8.42053223
-            Z: 0.0054734787
+            X: 0.19047524
+            Y: -8.38172054
+            Z: -0.811631918
           }
           Rotation {
-            Yaw: -90
+            Pitch: -5.56762838
+            Yaw: -89.9999847
             Roll: -179.999954
           }
           Scale {
@@ -26573,7 +26585,7 @@ Assets {
             Z: 1.90000141
           }
         }
-        ParentId: 15316159697014167391
+        ParentId: 17817763799564593634
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -26638,14 +26650,14 @@ Assets {
         Name: "Sci-fi Base Breakout Box 04"
         Transform {
           Location {
-            X: 0.0242005102
-            Y: 4.33727789
-            Z: -0.00353106484
+            X: 0.0244304854
+            Y: 4.31683254
+            Z: 0.417209178
           }
           Rotation {
-            Pitch: 90
-            Yaw: 0.000145710699
-            Roll: -0.00103759766
+            Pitch: 84.4322128
+            Yaw: -89.9998932
+            Roll: -90.0010529
           }
           Scale {
             X: 0.266889066
@@ -26653,7 +26665,7 @@ Assets {
             Z: 0.201765195
           }
         }
-        ParentId: 15316159697014167391
+        ParentId: 17817763799564593634
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -26717,22 +26729,22 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: 34.9999619
-            Y: 0.863114893
-            Z: 0.99989146
+            X: 34.9999924
+            Y: 0.761960328
+            Z: 1.07910144
           }
           Rotation {
-            Pitch: 6.83018879e-06
-            Yaw: -89.9999924
-            Roll: 89.9999466
+            Pitch: -5.56762838
+            Yaw: -89.9999771
+            Roll: 89.999939
           }
           Scale {
-            X: 0.699999928
-            Y: 0.699999928
+            X: 0.699999869
+            Y: 0.699999869
             Z: 0.4
           }
         }
-        ParentId: 15316159697014167391
+        ParentId: 17817763799564593634
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -26775,21 +26787,22 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: -34.9998894
-            Y: 0.863121569
-            Z: 0.99989146
+            X: -35.0002174
+            Y: 0.76246047
+            Z: 1.07910144
           }
           Rotation {
-            Yaw: -89.9999847
-            Roll: -89.9999847
+            Pitch: -5.56762838
+            Yaw: -89.9999619
+            Roll: -89.9999542
           }
           Scale {
-            X: 0.699999928
-            Y: 0.699999928
+            X: 0.699999869
+            Y: 0.699999869
             Z: 0.4
           }
         }
-        ParentId: 15316159697014167391
+        ParentId: 17817763799564593634
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -26832,12 +26845,14 @@ Assets {
         Name: "Urban Skylight"
         Transform {
           Location {
-            X: 0.440774292
-            Y: -19.9999199
-            Z: 0.120713972
+            X: 0.440849692
+            Y: -19.917387
+            Z: -1.8202039
           }
           Rotation {
-            Roll: -89.9999847
+            Pitch: -6.83018879e-06
+            Yaw: -2.29470402e-06
+            Roll: -95.5675888
           }
           Scale {
             X: 0.0820800886
@@ -26845,7 +26860,7 @@ Assets {
             Z: 0.18187499
           }
         }
-        ParentId: 15316159697014167391
+        ParentId: 17817763799564593634
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -27811,7 +27826,7 @@ Assets {
           }
         }
         ParentId: 17834906343546454308
-        ChildIds: 15701183533720248458
+        ChildIds: 13039961723891779951
         ChildIds: 15313600125741849760
         ChildIds: 11625821245723076835
         ChildIds: 16798840692988950084
@@ -27843,14 +27858,13 @@ Assets {
         }
       }
       Objects {
-        Id: 15701183533720248458
-        Name: "NewFolder"
+        Id: 13039961723891779951
+        Name: "Group"
         Transform {
           Location {
             Z: 304.04538
           }
           Rotation {
-            Roll: -9.24319458
           }
           Scale {
             X: 1
@@ -27878,8 +27892,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "NewFolder"
+          IsGroup: true
         }
       }
       Objects {
@@ -27887,12 +27900,14 @@ Assets {
         Name: "Spotlight"
         Transform {
           Location {
-            X: 4.21455193
-            Y: 19.9998
-            Z: 1.86523426
+            X: 4.21417856
+            Y: 19.4403305
+            Z: 5.05371046
           }
           Rotation {
-            Yaw: -89.9999924
+            Pitch: -9.24320602
+            Yaw: -89.9999847
+            Roll: -2.16251328e-06
           }
           Scale {
             X: 1
@@ -27900,7 +27915,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15701183533720248458
+        ParentId: 13039961723891779951
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -27953,12 +27968,13 @@ Assets {
         Name: "Military Tank Modern Light 02"
         Transform {
           Location {
-            X: 0.190177679
-            Y: -8.42053223
-            Z: 0.0054734787
+            X: 0.189746216
+            Y: -8.31229305
+            Z: -1.34711361
           }
           Rotation {
-            Yaw: -90
+            Pitch: -9.24319935
+            Yaw: -89.9999847
             Roll: -179.999954
           }
           Scale {
@@ -27967,7 +27983,7 @@ Assets {
             Z: 1.90000141
           }
         }
-        ParentId: 15701183533720248458
+        ParentId: 13039961723891779951
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -28032,14 +28048,14 @@ Assets {
         Name: "Sci-fi Base Breakout Box 04"
         Transform {
           Location {
-            X: 0.0242005102
-            Y: 4.33727789
-            Z: -0.00353106484
+            X: 0.024422273
+            Y: 4.28162
+            Z: 0.693359315
           }
           Rotation {
-            Pitch: 90
-            Yaw: 0.000145710699
-            Roll: -0.00103759766
+            Pitch: 80.7567444
+            Yaw: -90.0000381
+            Roll: -90.001236
           }
           Scale {
             X: 0.266889066
@@ -28047,7 +28063,7 @@ Assets {
             Z: 0.201765195
           }
         }
-        ParentId: 15701183533720248458
+        ParentId: 13039961723891779951
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -28111,22 +28127,22 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: 34.9999619
-            Y: 0.863114893
-            Z: 0.99989146
+            X: 34.9999352
+            Y: 0.691305757
+            Z: 1.12575948
           }
           Rotation {
-            Pitch: 6.83018879e-06
-            Yaw: -89.9999924
-            Roll: 89.9999466
+            Pitch: -9.24319172
+            Yaw: -89.9999771
+            Roll: 89.999939
           }
           Scale {
-            X: 0.699999928
-            Y: 0.699999928
+            X: 0.699999869
+            Y: 0.699999869
             Z: 0.4
           }
         }
-        ParentId: 15701183533720248458
+        ParentId: 13039961723891779951
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -28169,21 +28185,22 @@ Assets {
         Name: "Urban Pipe Flange 01"
         Transform {
           Location {
-            X: -34.9998894
-            Y: 0.863121569
-            Z: 0.99989146
+            X: -35.0002251
+            Y: 0.691102326
+            Z: 1.12575948
           }
           Rotation {
-            Yaw: -89.9999847
-            Roll: -89.9999847
+            Pitch: -9.24319935
+            Yaw: -89.9999619
+            Roll: -89.9999619
           }
           Scale {
-            X: 0.699999928
-            Y: 0.699999928
+            X: 0.699999869
+            Y: 0.699999869
             Z: 0.4
           }
         }
-        ParentId: 15701183533720248458
+        ParentId: 13039961723891779951
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -28226,12 +28243,13 @@ Assets {
         Name: "Urban Skylight"
         Transform {
           Location {
-            X: 0.440774292
-            Y: -19.9999199
-            Z: 0.120713972
+            X: 0.441150635
+            Y: -19.7594013
+            Z: -3.0935328
           }
           Rotation {
-            Roll: -89.9999847
+            Yaw: 1.1062051e-06
+            Roll: -99.243187
           }
           Scale {
             X: 0.0820800886
@@ -28239,7 +28257,7 @@ Assets {
             Z: 0.18187499
           }
         }
-        ParentId: 15701183533720248458
+        ParentId: 13039961723891779951
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -33828,7 +33846,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8429142634879668841
+        Id: 2485814191554092002
         Name: "Chest Force Field"
         Transform {
           Location {
@@ -33861,7 +33879,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -33878,7 +33896,7 @@ Assets {
             Z: 5.27795458
           }
         }
-        ParentId: 8429142634879668841
+        ParentId: 2485814191554092002
         ChildIds: 2563029325600808324
         WantsNetworking: true
         Collidable_v2 {
@@ -33961,7 +33979,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8429142634879668841
+        ParentId: 2485814191554092002
         ChildIds: 16299132798303290919
         ChildIds: 10379918335624779897
         WantsNetworking: true

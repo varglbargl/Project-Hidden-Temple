@@ -1,58 +1,16 @@
 Name: "Game Settings and Server Scripts"
-RootId: 10101019267138098118
+RootId: 4616486078644751084
 Objects {
-  Id: 16066586634770074488
-  Name: "Exit Trigger"
-  Transform {
-    Location {
-      X: -2226.78735
-      Y: -10
-      Z: -334.898438
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 10101019267138098118
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Trigger {
-    Interactable: true
-    InteractionLabel: "Return to Lobby"
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-}
-Objects {
-  Id: 8867811692130207898
+  Id: 12983503429088545979
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -1580
-      Y: -80
-      Z: -450
+      X: -1525
+      Y: 1775
+      Z: 150
     }
     Rotation {
+      Yaw: -89.9999847
     }
     Scale {
       X: 1
@@ -60,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -78,33 +36,222 @@ Objects {
     PlayerScaleMultiplier: 1
     SpawnKey: "Start"
     SpawnEffectsTemplate {
-      Id: 841534158063459245
+      Id: 14672173053290844747
     }
   }
 }
 Objects {
-  Id: 4893947686716779173
-  Name: "Return To Lobby Server"
+  Id: 12403008965679156786
+  Name: "Spawn Point"
   Transform {
     Location {
-      X: -2226.78735
-      Y: -10
-      Z: -334.898438
+      X: -1950
+      Y: 1350
+      Z: 150
     }
     Rotation {
     }
     Scale {
-      X: 2
-      Y: 2
-      Z: 2
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnKey: "Start"
+    SpawnEffectsTemplate {
+      Id: 14672173053290844747
+    }
+  }
+}
+Objects {
+  Id: 12955536938708282915
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: 1550
+      Y: -600
+      Z: 150
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4616486078644751084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnKey: "Start"
+    SpawnEffectsTemplate {
+      Id: 14672173053290844747
+    }
+  }
+}
+Objects {
+  Id: 15024629313852747655
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: 1550
+      Y: 1450
+      Z: 150
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4616486078644751084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnKey: "Start"
+    SpawnEffectsTemplate {
+      Id: 14672173053290844747
+    }
+  }
+}
+Objects {
+  Id: 8988452034924070505
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: 1200
+      Y: 1736
+      Z: 150
+    }
+    Rotation {
+      Yaw: -89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4616486078644751084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnKey: "Start"
+    SpawnEffectsTemplate {
+      Id: 14672173053290844747
+    }
+  }
+}
+Objects {
+  Id: 10183916752987025240
+  Name: "Level Select Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4616486078644751084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8072747467065357230
+    }
+  }
+}
+Objects {
+  Id: 10858165823988287503
+  Name: "Player Lobby Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4616486078644751084
   UnregisteredParameters {
     Overrides {
-      Name: "cs:ExitTrigger"
+      Name: "cs:Treasures"
       ObjectReference {
-        SelfId: 16066586634770074488
+        SelfId: 13188470692436809950
       }
     }
   }
@@ -122,12 +269,12 @@ Objects {
   }
   Script {
     ScriptAsset {
-      Id: 2537366613387480298
+      Id: 15703659448271571220
     }
   }
 }
 Objects {
-  Id: 1253461468845750727
+  Id: 7706874623848782617
   Name: "Player Respawn Server"
   Transform {
     Location {
@@ -140,7 +287,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -160,48 +307,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8391711556865841140
-  Name: "Level Generator Server"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10101019267138098118
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:RoomSlots"
-      ObjectReference {
-        SelfId: 1678967271314006770
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 16551761007791673641
-    }
-  }
-}
-Objects {
-  Id: 9639546381406199195
+  Id: 820947942725826153
   Name: "Player Resource Server"
   Transform {
     Location {
@@ -214,7 +320,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -234,7 +340,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10917532843127924748
+  Id: 5950407130601431158
   Name: "Game State Server"
   Transform {
     Location {
@@ -247,7 +353,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -267,7 +373,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8194734943372715955
+  Id: 14930918434237942179
   Name: "Third Person Player Settings"
   Transform {
     Location {
@@ -280,7 +386,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -347,7 +453,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7880853890231076751
+  Id: 15263440130130127263
   Name: "Spawn Settings"
   Transform {
     Location {
@@ -360,7 +466,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -387,7 +493,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13427413271521597473
+  Id: 349884445094491697
   Name: "Player Start"
   Transform {
     Location {
@@ -401,7 +507,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -422,7 +528,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11156589767533408904
+  Id: 2619090017732369560
   Name: "Game Settings"
   Transform {
     Location {
@@ -435,7 +541,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
+  ParentId: 4616486078644751084
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -481,7 +587,7 @@ Objects {
         value {
           LowDistance: 4500
           MediumDistance: 7000
-          HighDistance: 9000
+          HighDistance: 20000
         }
       }
       RelevanceSettings {
@@ -492,6 +598,7 @@ Objects {
           HighDistance: 9000
         }
       }
+      EnableInGameSocialUI: true
       VoiceChatSettings {
         VoiceChatMode {
           Value: "mc:evoicechatmode:all"
@@ -528,7 +635,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12743745119910483370
+  Id: 1033061116886023098
   Name: "Sprint"
   Transform {
     Location {
@@ -541,8 +648,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10101019267138098118
-  ChildIds: 5448332769344848550
+  ParentId: 4616486078644751084
+  ChildIds: 17658780163393465526
   UnregisteredParameters {
     Overrides {
       Name: "cs:isEnabled"
@@ -591,7 +698,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5448332769344848550
+  Id: 17658780163393465526
   Name: "ServerContext"
   Transform {
     Location {
@@ -604,9 +711,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12743745119910483370
-  ChildIds: 10281081902796501004
-  ChildIds: 11491563424381451921
+  ParentId: 1033061116886023098
+  ChildIds: 3468183698984295964
+  ChildIds: 2447415278737494145
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -621,7 +728,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11491563424381451921
+  Id: 2447415278737494145
   Name: "Sprint"
   Transform {
     Location {
@@ -634,12 +741,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5448332769344848550
+  ParentId: 17658780163393465526
   UnregisteredParameters {
     Overrides {
       Name: "cs:Root"
       ObjectReference {
-        SelfId: 12743745119910483370
+        SelfId: 1033061116886023098
       }
     }
   }
@@ -659,7 +766,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10281081902796501004
+  Id: 3468183698984295964
   Name: "InitGlobals"
   Transform {
     Location {
@@ -672,7 +779,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5448332769344848550
+  ParentId: 17658780163393465526
   UnregisteredParameters {
   }
   Collidable_v2 {

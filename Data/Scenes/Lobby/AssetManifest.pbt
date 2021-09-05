@@ -26,6 +26,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16048367406070731799
+  Name: "Plane 1m - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_1m_001"
+  }
+}
+Assets {
   Id: 14321179348205592444
   Name: "Icon Checkmark"
   PlatformAssetType: 9
