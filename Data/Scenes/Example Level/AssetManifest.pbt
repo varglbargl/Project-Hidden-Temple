@@ -1,27 +1,63 @@
 Assets {
-  Id: 13072369037111211217
-  Name: "Whitebox Wall 01"
+  Id: 15086047187098665940
+  Name: "Vinyl Floor Diamond 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_urb_vinyl_floor_004_uv_ref"
+  }
+}
+Assets {
+  Id: 11049358012930972197
+  Name: "Japanese Stone Lantern Roof Small 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_gen_whitebox_wall_001"
+    AssetId: "sm_prop_jpn_lantern_stone_small_roof_001_ref"
   }
 }
 Assets {
-  Id: 7405585834121208146
-  Name: "Invisible"
+  Id: 9501471890628041237
+  Name: "Metal Gold 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_invisible_001"
+    AssetId: "mi_metal_gold_001"
   }
 }
 Assets {
-  Id: 2982978207571695945
-  Name: "Bricks Stone Block 01"
-  PlatformAssetType: 2
+  Id: 9402715505665064608
+  Name: "Fantasy Sack Tied"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_bricks_stone_block_001"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_sack_002_ref"
+  }
+}
+Assets {
+  Id: 7572676268412653318
+  Name: "Japanese Temple Torii Gate Rope 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_jpn_tem_torii_rope_001_ref"
+  }
+}
+Assets {
+  Id: 4199776750539678640
+  Name: "Military Tank Historic Maingun 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_mil_tank_hst_maingun_001_ref"
+  }
+}
+Assets {
+  Id: 3048475015587492539
+  Name: "Coral Tubes Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_coral_tube_small_01"
   }
 }

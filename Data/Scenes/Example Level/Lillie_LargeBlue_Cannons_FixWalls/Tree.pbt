@@ -3622,15 +3622,14 @@ Objects {
           Vector {
             X: 6400.00195
             Y: 10350
-            Z: 1219.99988
+            Z: 1230
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {
@@ -3705,15 +3704,14 @@ Objects {
           Vector {
             X: 5999.99707
             Y: 10350.002
-            Z: 1219.99939
+            Z: 1229.99951
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {
@@ -3770,15 +3768,14 @@ Objects {
           Vector {
             X: 5599.99609
             Y: 10350.002
-            Z: 1219.99939
+            Z: 1229.99951
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {
@@ -3835,15 +3832,14 @@ Objects {
           Vector {
             X: 5200.00195
             Y: 10350
-            Z: 1219.99988
+            Z: 1230
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {
@@ -3900,15 +3896,14 @@ Objects {
           Vector {
             X: 4000.00098
             Y: 10349.998
-            Z: 1220
+            Z: 1230.00012
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {
@@ -3965,15 +3960,14 @@ Objects {
           Vector {
             X: 4399.99805
             Y: 10350.002
-            Z: 1219.99939
+            Z: 1229.99951
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {
@@ -4030,15 +4024,14 @@ Objects {
           Vector {
             X: 4799.99707
             Y: 10350
-            Z: 1219.99988
+            Z: 1230
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: 15.9999971
-            Yaw: -89.9999924
-            Roll: -8.88180182e-07
+            Yaw: -90
           }
         }
         Overrides {

@@ -1,4 +1,4 @@
-Name: "Lillie_SmallBlue_Template_1"
+Name: "Lillie_SmallBlue_Template"
 RootId: 7531899860391718795
 Objects {
   Id: 4172645874672580000
@@ -590,6 +590,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "WallsAndDoors_1"
+    FilePartitionName: "WallsAndDoors_2"
   }
 }
