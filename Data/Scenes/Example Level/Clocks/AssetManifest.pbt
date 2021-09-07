@@ -26,30 +26,30 @@ Assets {
   }
 }
 Assets {
-  Id: 15897705887741699672
-  Name: "Urban Pipe Straight"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_urb_pipes_straight_001_ref"
-  }
-}
-Assets {
-  Id: 15111088108475705581
-  Name: "Urban Pipe Cap 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_urb_pipes_acc_cap_001_ref"
-  }
-}
-Assets {
   Id: 15101971749179857171
   Name: "Concrete Panels 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_gen_concrete_panels_001"
+  }
+}
+Assets {
+  Id: 14614056576813174129
+  Name: "Metal Diamond Plates 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_rust_diamond-plate_001"
+  }
+}
+Assets {
+  Id: 13877856592080960583
+  Name: "Urban Water Tower Base"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_watertower_base_002"
   }
 }
 Assets {
@@ -71,21 +71,21 @@ Assets {
   }
 }
 Assets {
-  Id: 12632251234297570874
-  Name: "Urban Pipe Cap 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_urb_pipes_acc_cap_003_ref"
-  }
-}
-Assets {
   Id: 12268363716180601522
   Name: "Gear - generic small solid"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_gen_gear_small_001"
+  }
+}
+Assets {
+  Id: 11493609586151530401
+  Name: "Brick Red Old 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_red_old_001_uv"
   }
 }
 Assets {
@@ -134,30 +134,12 @@ Assets {
   }
 }
 Assets {
-  Id: 5469617673551445743
-  Name: "Japanese Common Chest Lid 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_jpn_chest_small_lid_001_ref"
-  }
-}
-Assets {
   Id: 4429360912145563014
   Name: "Urban Pipe Flange 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_urb_pipes_acc_flange_002_ref"
-  }
-}
-Assets {
-  Id: 3132375973162475584
-  Name: "Grid Basic"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "grid_blue_001"
   }
 }
 Assets {
