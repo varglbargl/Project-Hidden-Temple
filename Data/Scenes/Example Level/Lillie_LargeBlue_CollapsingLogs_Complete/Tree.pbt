@@ -795,7 +795,7 @@ Objects {
           Vector {
             X: -800
             Y: 3000
-            Z: 2350
+            Z: 2200
           }
         }
         Overrides {
@@ -2622,14 +2622,14 @@ Objects {
   Transform {
     Location {
       X: -800
-      Y: 3800
+      Y: 3000
       Z: -1400
     }
     Rotation {
       Yaw: -90
     }
     Scale {
-      X: 3
+      X: 2
       Y: 1
       Z: 6
     }

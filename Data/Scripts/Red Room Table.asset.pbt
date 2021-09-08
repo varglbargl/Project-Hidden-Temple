@@ -10,6 +10,12 @@ Assets {
           Id: 15075470373866638386
         }
       }
+      Overrides {
+        Name: "cs:LilliesMirrorMaze"
+        AssetReference {
+          Id: 2954232478792555746
+        }
+      }
     }
   }
   SerializationVersion: 97

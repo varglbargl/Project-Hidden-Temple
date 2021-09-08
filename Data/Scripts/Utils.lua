@@ -32,6 +32,20 @@ end
 
 -- EVENT THROTTLING
 
+function Utils.updatePrivateNetworkedData(player, key)
+  if not Object.IsValid(player) then
+    Task.Wait(0.1)
+    return Utils.updatePrivateNetworkedData(player, key)
+  end
+
+  local result = player:SetPrivateNetworkedData(key, player.serverUserData[key])
+
+  if result == PrivateNetworkedDataResultCode.FAILURE then
+    Task.Wait(0.1)
+    Utils.updatePrivateNetworkedData(player, key)
+  end
+end
+
 function Utils.throttleToServer(evtName, ...)
   local result = Events.BroadcastToServer(evtName, ...)
 
@@ -122,6 +136,14 @@ function Utils.groundBelowPoint(vec3)
   end
 end
 
+function Utils.hasUniformScale(obj)
+  if Object.IsValid(obj) and obj:GetScale().x * Vector3.ONE == obj:GetScale() then
+    return true
+  else
+    return false
+  end
+end
+
 function Utils.playSoundEffect(audio, params)
   if not audio then return end
 
@@ -143,7 +165,16 @@ function Utils.playSoundEffect(audio, params)
   sfx.stopTime = params.stopTime or 0
   sfx.isAutoRepeatEnabled = params.isAutoRepeatEnabled or params.loop or false
 
-  if params.position then
+  if params.parent then
+    sfx.parent = params.parent
+
+    params.position = params.position or params.parent:GetWorldPosition()
+    params.isOcclusionEnabled = params.isOcclusionEnabled or params.occlusion or false
+  end
+
+  sfx.isOcclusionEnabled = params.isOcclusionEnabled or params.occlusion or false
+
+  if params.position or params.parent then
     sfx:SetWorldPosition(params.position)
     sfx.radius = params.radius or 500
     sfx.radius = sfx.radius * sfx.volume
@@ -151,12 +182,11 @@ function Utils.playSoundEffect(audio, params)
     sfx.falloff = sfx.falloff * sfx.volume
   else
     sfx.isAttenuationEnabled = params.isAttenuationEnabled or params.attenuation or false
-    sfx.isOcclusionEnabled = params.isOcclusionEnabled or params.occlusion or false
     sfx.isSpatializationEnabled = params.isSpatializationEnabled or params.spatialization or false
   end
 
 
-  if params.isAutoPlayEnabled == true or params.autoPlay == true or (params.isAutoPlayEnabled == nil and params.autoPlay == nil) then
+  if params.isAutoPlayEnabled ~= false and params.autoPlay ~= false then
     sfx:Play()
   end
 
