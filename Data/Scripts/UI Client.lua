@@ -38,13 +38,25 @@ function initGameUI()
   Utils.throttleToServer("PlayerStart")
 end
 
+function showMoney()
+  UI_Tween.move_y(MONEY_AMOUNT, MONEY_AMOUNT.y * -1, 0.25, UI_Tween.In_Out_Quad)
+end
+
+function hideMoney()
+  ADDED_MONEY.text = ""
+  UI_Tween.move_y(MONEY_AMOUNT, -110, 0.25, UI_Tween.In_Out_Quad)
+end
+
+Events.Connect("ShowMoney", showMoney)
+Events.Connect("HideMoney", hideMoney)
+
 function addMoney(amount)
   if countMoneyTask then
     countMoneyTask:Cancel()
   end
 
   countMoneyTask = Task.Spawn(function()
-    UI_Tween.move_y(MONEY_AMOUNT, MONEY_AMOUNT.y * -1, 0.25, UI_Tween.In_Out_Quad)
+    showMoney()
 
     while myMoney < amount - 3 do
       myMoney = myMoney + 3
@@ -60,8 +72,7 @@ function addMoney(amount)
 
     Task.Wait(3)
 
-    ADDED_MONEY.text = ""
-    UI_Tween.move_y(MONEY_AMOUNT, -110, 0.25, UI_Tween.In_Out_Quad)
+    hideMoney()
   end)
 end
 

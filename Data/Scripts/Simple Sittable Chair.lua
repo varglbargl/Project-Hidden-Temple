@@ -1,7 +1,6 @@
 local SITTING_STANCE = script:GetCustomProperty("SittingStance")
 local TRIGGER = script:GetCustomProperty("Trigger"):WaitForObject()
 
-local sitTransform = Transform.New(TRIGGER:GetWorldRotation(), script:GetWorldPosition(), Vector3.ONE)
 local sittingPlayer = nil
 local previousStance = nil
 
@@ -26,7 +25,7 @@ function sitDown(thisTrigger, other)
       previousStance = "unarmed_idle_relaxed_look_around"
     end
 
-    other:SetWorldTransform(sitTransform)
+    other:SetWorldTransform(Transform.New(TRIGGER:GetWorldRotation(), script:GetWorldPosition(), Vector3.ONE))
     other.animationStance = SITTING_STANCE
     sittingPlayer = other
     TRIGGER.collision = Collision.FORCE_OFF
