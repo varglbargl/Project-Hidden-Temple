@@ -117,5 +117,9 @@ Assets {
       VirtualFolderPath: "Tresure Rooms"
       PlatformAssetType: 5
     }
+    Folders {
+      VirtualFolderPath: "Props"
+      PlatformAssetType: 5
+    }
   }
 }
