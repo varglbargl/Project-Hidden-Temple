@@ -44,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8060706051863791920
+  Name: "Casual & Fun Music Score Set 01"
+  PlatformAssetType: 10
+  PrimaryAsset {
+    AssetType: "AudioBlueprintAssetRef"
+    AssetId: "abp_CasualMusic_ref"
+  }
+}
+Assets {
   Id: 6667281334460469440
   Name: "Wallpaper Moroccan 01"
   PlatformAssetType: 2

@@ -1,13 +1,2702 @@
-Name: "Clocks"
+Name: "Lillie_RedRoom_ClockTower_Complete"
 RootId: 4304441598958603359
+Objects {
+  Id: 17995652744375064483
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 14800
+      Y: 24600
+      Z: 600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 12
+      Y: 5
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14800
+            Y: 26600
+            Z: 3600
+          }
+        }
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 14614056576813174129
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 12
+            Y: 3
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 17621729694100545522
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 19200
+            Y: 20600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
+  }
+}
+Objects {
+  Id: 6557552137863572130
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14800
+            Y: 24600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 14614056576813174129
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 12
+            Y: 5
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 13083488164358242741
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 17200
+            Y: 26000
+            Z: 7200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7744098822516518054
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1
+            Y: -0.999999642
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
+  }
+}
+Objects {
+  Id: 15884699577154916213
+  Name: "Main Street Stairs 01 - 1.5m"
+  Transform {
+    Location {
+      X: 17299.9961
+      Y: 24400
+      Z: 4000
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6023105047490337935
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7806098429097052923
+  Name: "Main Street Landing 01 4m x 4m"
+  Transform {
+    Location {
+      X: 17500
+      Y: 24800
+      Z: 4075
+    }
+    Rotation {
+    }
+    Scale {
+      X: 5.50000048
+      Y: 1
+      Z: 0.5
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18379924532194096666
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17408127774017391366
+  Name: "Main Street Stairs 01 - 1.5m"
+  Transform {
+    Location {
+      X: 19900
+      Y: 24800
+      Z: 4000
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6023105047490337935
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16828619727459231406
+  Name: "Main Street Stairs 01 - 1.5m"
+  Transform {
+    Location {
+      X: 20050
+      Y: 24800
+      Z: 3875
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6023105047490337935
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2146575529352794675
+  Name: "Main Street Stairs 01 - 1.5m"
+  Transform {
+    Location {
+      X: 20200
+      Y: 24800
+      Z: 3750
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6023105047490337935
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3558556126199193778
+  Name: "Main Street Stairs 01 - 1.5m"
+  Transform {
+    Location {
+      X: 20350
+      Y: 24800
+      Z: 3625
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6023105047490337935
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8623097684349280501
+  Name: "Gear - generic small"
+  Transform {
+    Location {
+      X: 16630
+      Y: 25020
+      Z: 3755
+    }
+    Rotation {
+      Pitch: 14.9609413
+      Yaw: 0.897599638
+      Roll: 80.156044
+    }
+    Scale {
+      X: 8
+      Y: 8
+      Z: 8
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2842503829902383062
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12645221436262056842
+  Name: "Gear - generic small"
+  Transform {
+    Location {
+      X: 16935
+      Y: 25085
+      Z: 3700
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 8
+      Y: 8
+      Z: 8
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6020912316856289484
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4726145168106495380
+  Name: "Gear - generic large five-spoked"
+  Transform {
+    Location {
+      X: 16850
+      Y: 25025
+      Z: 3625
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 8
+      Y: 8
+      Z: 8
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18214249785932020522
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8407270738284400636
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: 14800
+      Y: 24600
+      Z: 600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 12
+      Y: 5
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14800
+            Y: 26000
+            Z: 8400
+          }
+        }
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 14614056576813174129
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 12
+            Y: 7
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "ma:Building_Ceiling:id"
+          AssetReference {
+            Id: 14614056576813174129
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 1464843456845976419
+  Name: "Exit Location"
+  Transform {
+    Location {
+      X: 16800
+      Y: 26000
+      Z: 7200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4304441598958603359
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 18136843244933031411
+  Name: "Gear - generic large solid"
+  Transform {
+    Location {
+      X: 17905
+      Y: 25500
+      Z: 6925
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: 4.07110625e-13
+      Roll: 1.02452796e-05
+    }
+    Scale {
+      X: 12.0999918
+      Y: 12.1
+      Z: 12.1
+    }
+  }
+  ParentId: 4304441598958603359
+  ChildIds: 9569459147229029034
+  ChildIds: 2877636572113910795
+  ChildIds: 10340536921693678513
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10099318447560165816
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10340536921693678513
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+      X: 88.3333282
+      Z: -36.6666641
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.333333284
+      Y: 0.333333284
+      Z: 0.333333284
+    }
+  }
+  ParentId: 18136843244933031411
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: -2
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 2877636572113910795
+  Name: "GearStuff"
+  Transform {
+    Location {
+      X: -5.28502785e-14
+      Y: -7.43801641
+      Z: -1.33002038e-06
+    }
+    Rotation {
+      Pitch: -6.10351562e-05
+      Yaw: 8.75288297e-12
+    }
+    Scale {
+      X: 0.495868117
+      Y: 0.49586761
+      Z: 0.495867729
+    }
+  }
+  ParentId: 18136843244933031411
+  ChildIds: 11945154013984300223
+  ChildIds: 7428788613061775714
+  ChildIds: 537252961519822873
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 537252961519822873
+  Name: "Urban Pipe Flange 02"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 0.571428657
+      Y: 0.571428657
+      Z: 0.571428657
+    }
+  }
+  ParentId: 2877636572113910795
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7942501235823074501
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.671
+        G: 0.671
+        B: 0.671
+        A: 1
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4429360912145563014
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7428788613061775714
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      Y: 6.66666937
+    }
+    Rotation {
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2877636572113910795
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11945154013984300223
+  Name: "Urban Pipe Coupling 02"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999542
+    }
+    Scale {
+      X: 0.49999997
+      Y: 0.49999997
+      Z: 0.49999997
+    }
+  }
+  ParentId: 2877636572113910795
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.275
+        G: 0.260485798
+        B: 0.196224049
+        A: 1
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9569459147229029034
+  Name: "Platform"
+  Transform {
+    Location {
+      X: 34.2975464
+      Y: -34.1666107
+      Z: 0.413212925
+    }
+    Rotation {
+      Pitch: -6.10351562e-05
+      Yaw: 8.75288297e-12
+    }
+    Scale {
+      X: 0.297520578
+      Y: 0.297520638
+      Z: 0.297520339
+    }
+  }
+  ParentId: 18136843244933031411
+  ChildIds: 2435072999319639488
+  ChildIds: 14687772032968942444
+  ChildIds: 8883570335628472282
+  ChildIds: 11193031581318858120
+  ChildIds: 1123728526233189181
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1123728526233189181
+  Name: "Urban Pipe Flange 02"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.300000042
+      Y: 0.300000042
+      Z: 0.300000042
+    }
+  }
+  ParentId: 9569459147229029034
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4429360912145563014
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11193031581318858120
+  Name: "Urban Pipe Coupling 02"
+  Transform {
+    Location {
+      Y: 115.000008
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 2.4
+    }
+  }
+  ParentId: 9569459147229029034
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8883570335628472282
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.600000083
+      Y: 0.600000083
+      Z: 1.00000012
+    }
+  }
+  ParentId: 9569459147229029034
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14687772032968942444
+  Name: "Cube - Chamfered Small Polished"
+  Transform {
+    Location {
+      Y: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.4000001
+      Y: 0.800000131
+      Z: 0.300000042
+    }
+  }
+  ParentId: 9569459147229029034
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2765850825678035830
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2435072999319639488
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9569459147229029034
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: 2
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 11773605308704149793
+  Name: "Gear - generic large solid"
+  Transform {
+    Location {
+      X: 18110
+      Y: 25475
+      Z: 6115
+    }
+    Rotation {
+      Pitch: 22.5000019
+    }
+    Scale {
+      X: 11.9999876
+      Y: 7.19999743
+      Z: 11.9999876
+    }
+  }
+  ParentId: 4304441598958603359
+  ChildIds: 15516878550474520580
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6020912316856289484
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15516878550474520580
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+      X: 88.3333282
+      Z: -36.6666641
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.333333284
+      Y: 0.333333284
+      Z: 0.333333284
+    }
+  }
+  ParentId: 11773605308704149793
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: 4
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 17039837388929421674
+  Name: "Gear - generic large solid"
+  Transform {
+    Location {
+      X: 18945
+      Y: 25500
+      Z: 6240
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: 4.07110625e-13
+      Roll: 1.02452796e-05
+    }
+    Scale {
+      X: 12.0999918
+      Y: 12.1
+      Z: 12.1
+    }
+  }
+  ParentId: 4304441598958603359
+  ChildIds: 16727130761419335098
+  ChildIds: 10660563492386991043
+  ChildIds: 1695558273744715291
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10099318447560165816
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1695558273744715291
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+      X: 88.3333282
+      Z: -36.6666641
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.333333284
+      Y: 0.333333284
+      Z: 0.333333284
+    }
+  }
+  ParentId: 17039837388929421674
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: -2
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 10660563492386991043
+  Name: "GearStuff"
+  Transform {
+    Location {
+      X: -5.28502785e-14
+      Y: -7.43801641
+      Z: -1.33002038e-06
+    }
+    Rotation {
+      Pitch: -6.10351562e-05
+      Yaw: 8.75288297e-12
+    }
+    Scale {
+      X: 0.495868117
+      Y: 0.49586761
+      Z: 0.495867729
+    }
+  }
+  ParentId: 17039837388929421674
+  ChildIds: 10936263893664973127
+  ChildIds: 652338224143581687
+  ChildIds: 6437058093762109880
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6437058093762109880
+  Name: "Urban Pipe Flange 02"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 0.571428657
+      Y: 0.571428657
+      Z: 0.571428657
+    }
+  }
+  ParentId: 10660563492386991043
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7942501235823074501
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.671
+        G: 0.671
+        B: 0.671
+        A: 1
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4429360912145563014
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 652338224143581687
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      Y: 6.66666937
+    }
+    Rotation {
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10660563492386991043
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10936263893664973127
+  Name: "Urban Pipe Coupling 02"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999542
+    }
+    Scale {
+      X: 0.49999997
+      Y: 0.49999997
+      Z: 0.49999997
+    }
+  }
+  ParentId: 10660563492386991043
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.275
+        G: 0.260485798
+        B: 0.196224049
+        A: 1
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16727130761419335098
+  Name: "Platform"
+  Transform {
+    Location {
+      X: -23.5537357
+      Y: -34.1666107
+      Z: -1.65289581
+    }
+    Rotation {
+      Pitch: -6.10351562e-05
+      Yaw: 8.75288297e-12
+    }
+    Scale {
+      X: 0.297520578
+      Y: 0.297520638
+      Z: 0.297520339
+    }
+  }
+  ParentId: 17039837388929421674
+  ChildIds: 5255997544616722277
+  ChildIds: 11643486575190185535
+  ChildIds: 4813715016186607184
+  ChildIds: 7895764516381115043
+  ChildIds: 122595820824479475
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 122595820824479475
+  Name: "Urban Pipe Flange 02"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.300000042
+      Y: 0.300000042
+      Z: 0.300000042
+    }
+  }
+  ParentId: 16727130761419335098
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4429360912145563014
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7895764516381115043
+  Name: "Urban Pipe Coupling 02"
+  Transform {
+    Location {
+      Y: 115.000008
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 2.4
+    }
+  }
+  ParentId: 16727130761419335098
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4813715016186607184
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.600000083
+      Y: 0.600000083
+      Z: 1.00000012
+    }
+  }
+  ParentId: 16727130761419335098
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11643486575190185535
+  Name: "Cube - Chamfered Small Polished"
+  Transform {
+    Location {
+      Y: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.4000001
+      Y: 0.800000131
+      Z: 0.300000042
+    }
+  }
+  ParentId: 16727130761419335098
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2765850825678035830
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5255997544616722277
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16727130761419335098
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: 2
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 4786094084536791503
+  Name: "Gear - generic large solid"
+  Transform {
+    Location {
+      X: 19820
+      Y: 25500
+      Z: 5500
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: 4.07110679e-13
+      Roll: 1.02452796e-05
+    }
+    Scale {
+      X: 12.0999918
+      Y: 12.1
+      Z: 12.1
+    }
+  }
+  ParentId: 4304441598958603359
+  ChildIds: 9856858337128419155
+  ChildIds: 8467384861447578622
+  ChildIds: 11021637678721216342
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10099318447560165816
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11021637678721216342
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+      X: 88.3333282
+      Z: -36.6666641
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.333333284
+      Y: 0.333333284
+      Z: 0.333333284
+    }
+  }
+  ParentId: 4786094084536791503
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: 2
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 8467384861447578622
+  Name: "GearStuff"
+  Transform {
+    Location {
+      X: -5.28502785e-14
+      Y: -7.43801641
+      Z: -1.33002038e-06
+    }
+    Rotation {
+      Pitch: -6.10351562e-05
+      Yaw: 8.75288297e-12
+    }
+    Scale {
+      X: 0.495868117
+      Y: 0.49586761
+      Z: 0.495867729
+    }
+  }
+  ParentId: 4786094084536791503
+  ChildIds: 1515076618397491868
+  ChildIds: 12696324743199321695
+  ChildIds: 8940312521773085105
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8940312521773085105
+  Name: "Urban Pipe Flange 02"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 0.571428657
+      Y: 0.571428657
+      Z: 0.571428657
+    }
+  }
+  ParentId: 8467384861447578622
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7942501235823074501
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.671
+        G: 0.671
+        B: 0.671
+        A: 1
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4429360912145563014
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12696324743199321695
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      Y: 6.66666937
+    }
+    Rotation {
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8467384861447578622
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1515076618397491868
+  Name: "Urban Pipe Coupling 02"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999542
+    }
+    Scale {
+      X: 0.49999997
+      Y: 0.49999997
+      Z: 0.49999997
+    }
+  }
+  ParentId: 8467384861447578622
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 697130077529532955
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.275
+        G: 0.260485798
+        B: 0.196224049
+        A: 1
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9856858337128419155
+  Name: "Platform"
+  Transform {
+    Location {
+      X: -22.7272892
+      Y: -34.1666107
+      Z: -6.19835
+    }
+    Rotation {
+      Pitch: -6.10351562e-05
+      Yaw: 8.75288297e-12
+    }
+    Scale {
+      X: 0.297520578
+      Y: 0.297520638
+      Z: 0.297520339
+    }
+  }
+  ParentId: 4786094084536791503
+  ChildIds: 417095354801125724
+  ChildIds: 15138789204045436979
+  ChildIds: 2818270160408090843
+  ChildIds: 4712555805056912707
+  ChildIds: 3223778203705758858
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3223778203705758858
+  Name: "Urban Pipe Flange 02"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.300000042
+      Y: 0.300000042
+      Z: 0.300000042
+    }
+  }
+  ParentId: 9856858337128419155
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4429360912145563014
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4712555805056912707
+  Name: "Urban Pipe Coupling 02"
+  Transform {
+    Location {
+      Y: 115.000008
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 2.4
+    }
+  }
+  ParentId: 9856858337128419155
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2818270160408090843
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.600000083
+      Y: 0.600000083
+      Z: 1.00000012
+    }
+  }
+  ParentId: 9856858337128419155
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15138789204045436979
+  Name: "Cube - Chamfered Small Polished"
+  Transform {
+    Location {
+      Y: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.4000001
+      Y: 0.800000131
+      Z: 0.300000042
+    }
+  }
+  ParentId: 9856858337128419155
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2765850825678035830
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 417095354801125724
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9856858337128419155
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Y: -2
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
 Objects {
   Id: 4934632234252933822
   Name: "Gear - generic large solid"
   Transform {
     Location {
-      X: 17975
+      X: 17660
       Y: 25500
-      Z: 4525
+      Z: 5160
     }
     Rotation {
       Pitch: 6.83018879e-06
@@ -512,6 +3201,18 @@ Objects {
     }
   }
   ParentId: 2252081425123575180
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -593,12 +3294,12 @@ Objects {
   Name: "Gear - generic large solid"
   Transform {
     Location {
-      X: 19000
+      X: 18790
       Y: 25500
-      Z: 5045
+      Z: 4980
     }
     Rotation {
-      Pitch: -44.9999809
+      Pitch: -44.9999695
       Yaw: 5.89635274e-13
       Roll: 1.68701088e-12
     }
@@ -840,6 +3541,18 @@ Objects {
     }
   }
   ParentId: 12995882008242240006
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -927,7 +3640,6 @@ Objects {
     }
     Rotation {
       Pitch: 44.9999313
-      Yaw: -2.30296489e-12
       Roll: 1.02452786e-05
     }
     Scale {
@@ -1157,577 +3869,6 @@ Objects {
     Overrides {
       Name: "cs:IsLocal"
       Bool: true
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5358125184516124331
-    }
-  }
-}
-Objects {
-  Id: 9718475238155680990
-  Name: "Gear - generic large solid"
-  Transform {
-    Location {
-      X: 21100
-      Y: 25500
-      Z: 6815
-    }
-    Rotation {
-      Pitch: 67.499794
-      Yaw: -179.999954
-      Roll: -179.999954
-    }
-    Scale {
-      X: 12.0999908
-      Y: 12.1
-      Z: 12.0999908
-    }
-  }
-  ParentId: 4304441598958603359
-  ChildIds: 15368742212331913634
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12268363716180601522
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 15368742212331913634
-  Name: "Simple Rotate Parent"
-  Transform {
-    Location {
-      X: 88.3333282
-      Z: -36.6666641
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.333333284
-      Y: 0.333333284
-      Z: 0.333333284
-    }
-  }
-  ParentId: 9718475238155680990
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Speed"
-      Vector {
-        Y: 4
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5358125184516124331
-    }
-  }
-}
-Objects {
-  Id: 1527174450406553466
-  Name: "Gear - generic large solid"
-  Transform {
-    Location {
-      X: 21100
-      Y: 25425
-      Z: 6815
-    }
-    Rotation {
-      Pitch: 67.4997406
-      Yaw: -179.999954
-      Roll: -179.999954
-    }
-    Scale {
-      X: 12.0999908
-      Y: 12.1
-      Z: 12.0999908
-    }
-  }
-  ParentId: 4304441598958603359
-  ChildIds: 4518657015890964638
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10552323616834569307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 4518657015890964638
-  Name: "Simple Rotate Parent"
-  Transform {
-    Location {
-      X: 88.3333282
-      Z: -36.6666641
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.333333284
-      Y: 0.333333284
-      Z: 0.333333284
-    }
-  }
-  ParentId: 1527174450406553466
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Speed"
-      Vector {
-        Y: 4
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5358125184516124331
-    }
-  }
-}
-Objects {
-  Id: 8412347946694802414
-  Name: "Gear - generic large solid"
-  Transform {
-    Location {
-      X: 20535
-      Y: 25505
-      Z: 6855
-    }
-    Rotation {
-      Pitch: 67.499794
-      Yaw: -179.999969
-      Roll: -179.999969
-    }
-    Scale {
-      X: 12.0999908
-      Y: 12.1
-      Z: 12.0999908
-    }
-  }
-  ParentId: 4304441598958603359
-  ChildIds: 9190822565306021911
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12268363716180601522
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 9190822565306021911
-  Name: "Simple Rotate Parent"
-  Transform {
-    Location {
-      X: 88.3333282
-      Z: -36.6666641
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.333333284
-      Y: 0.333333284
-      Z: 0.333333284
-    }
-  }
-  ParentId: 8412347946694802414
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Speed"
-      Vector {
-        Y: -4
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5358125184516124331
-    }
-  }
-}
-Objects {
-  Id: 2633003350223871590
-  Name: "Gear - generic large solid"
-  Transform {
-    Location {
-      X: 20065
-      Y: 25505
-      Z: 6540
-    }
-    Rotation {
-      Pitch: -44.9999695
-      Yaw: -179.999985
-      Roll: -179.999985
-    }
-    Scale {
-      X: 12.0999908
-      Y: 12.1
-      Z: 12.0999908
-    }
-  }
-  ParentId: 4304441598958603359
-  ChildIds: 3269169219065735547
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12268363716180601522
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 3269169219065735547
-  Name: "Simple Rotate Parent"
-  Transform {
-    Location {
-      X: 88.3333282
-      Z: -36.6666641
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.333333284
-      Y: 0.333333284
-      Z: 0.333333284
-    }
-  }
-  ParentId: 2633003350223871590
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Speed"
-      Vector {
-        Y: 4
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5358125184516124331
-    }
-  }
-}
-Objects {
-  Id: 13630566688003829304
-  Name: "Gear - generic large solid"
-  Transform {
-    Location {
-      X: 19625
-      Y: 25500
-      Z: 6175
-    }
-    Rotation {
-      Pitch: -90
-    }
-    Scale {
-      X: 12.0999908
-      Y: 12.1
-      Z: 12.0999908
-    }
-  }
-  ParentId: 4304441598958603359
-  ChildIds: 7348539855187876881
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12268363716180601522
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 7348539855187876881
-  Name: "Simple Rotate Parent"
-  Transform {
-    Location {
-      X: 88.3333282
-      Z: -36.6666641
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.333333284
-      Y: 0.333333284
-      Z: 0.333333284
-    }
-  }
-  ParentId: 13630566688003829304
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Speed"
-      Vector {
-        Y: -4
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5358125184516124331
-    }
-  }
-}
-Objects {
-  Id: 5312015864208916689
-  Name: "Gear - generic large solid"
-  Transform {
-    Location {
-      X: 19625
-      Y: 25500
-      Z: 5615
-    }
-    Rotation {
-    }
-    Scale {
-      X: 12.0999908
-      Y: 12.1
-      Z: 12.0999908
-    }
-  }
-  ParentId: 4304441598958603359
-  ChildIds: 17589313581925513331
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12268363716180601522
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 17589313581925513331
-  Name: "Simple Rotate Parent"
-  Transform {
-    Location {
-      X: 88.3333282
-      Z: -36.6666641
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.333333284
-      Y: 0.333333284
-      Z: 0.333333284
-    }
-  }
-  ParentId: 5312015864208916689
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Speed"
-      Vector {
-        Y: 4
-      }
     }
   }
   WantsNetworking: true
@@ -2208,6 +4349,18 @@ Objects {
     }
   }
   ParentId: 15791848562392225535
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2824,6 +4977,18 @@ Objects {
     }
   }
   ParentId: 6153352626014307901
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -3876,6 +6041,18 @@ Objects {
     }
   }
   ParentId: 9071097541082257969
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -4294,6 +6471,18 @@ Objects {
     }
   }
   ParentId: 1689144255487501439
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -5060,6 +7249,18 @@ Objects {
     }
   }
   ParentId: 65580732727484975
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -5691,6 +7892,18 @@ Objects {
     }
   }
   ParentId: 7261522656960119005
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -6602,6 +8815,18 @@ Objects {
     }
   }
   ParentId: 16956210561759503429
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7325,6 +9550,18 @@ Objects {
     }
   }
   ParentId: 17869117915973700577
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7904,6 +10141,18 @@ Objects {
     }
   }
   ParentId: 4956140444300654958
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -8240,9 +10489,6 @@ Objects {
   Name: "Walls and Floors"
   Transform {
     Location {
-      X: 19775
-      Y: 25975
-      Z: 600
     }
     Rotation {
     }
@@ -8253,82 +10499,23 @@ Objects {
     }
   }
   ParentId: 4304441598958603359
-  ChildIds: 11870953573034034643
-  ChildIds: 1277514498233490370
-  ChildIds: 2399207909535424775
-  ChildIds: 1885181182967901795
-  ChildIds: 14037262797456860331
-  ChildIds: 9390290987850869251
-  ChildIds: 11827632342721275507
-  ChildIds: 1009128865321582041
-  ChildIds: 11837563606750445688
-  ChildIds: 13438968176758351729
-  ChildIds: 17446757145020881984
-  ChildIds: 4897256289832604605
-  ChildIds: 2314388548327039177
-  ChildIds: 4324022001334269930
-  ChildIds: 1048668928145988587
-  ChildIds: 1784257923800470416
-  ChildIds: 6368007926650998239
-  ChildIds: 3379418755402965525
-  ChildIds: 11244134396844182178
-  ChildIds: 11590347123529168685
-  ChildIds: 2870718434990486489
-  ChildIds: 16264637729952533938
-  ChildIds: 9710825672796068722
-  ChildIds: 703947607036917626
-  ChildIds: 9282848954580753967
-  ChildIds: 9766237761445287800
-  ChildIds: 15831962661447383228
-  ChildIds: 15248381503253809353
-  ChildIds: 13879137578510995360
-  ChildIds: 7143319715676013699
-  ChildIds: 11792321576626293790
-  ChildIds: 11471122455625452742
-  ChildIds: 5544633024514835549
-  ChildIds: 536090888796818211
-  ChildIds: 7214729891166901333
-  ChildIds: 7670735874649092838
-  ChildIds: 2236162646809106257
-  ChildIds: 14154166798591987086
-  ChildIds: 6920346307552085831
-  ChildIds: 8065673141113377612
-  ChildIds: 10442261228195643191
-  ChildIds: 1195228024228524579
-  ChildIds: 6435958608374236907
-  ChildIds: 2633561771385534274
-  ChildIds: 11872643134265628675
-  ChildIds: 18098094966926304622
-  ChildIds: 2648196188799636069
-  ChildIds: 13324420376710305457
-  ChildIds: 8057582050413205411
-  ChildIds: 9606279731531813410
-  ChildIds: 15247687082808973771
-  ChildIds: 4548949444383905696
-  ChildIds: 13764616737126887965
-  ChildIds: 3538944235545394711
-  ChildIds: 8363498417903254599
-  ChildIds: 12908614446851096768
-  ChildIds: 585315947465302585
-  ChildIds: 9992604725851131627
-  ChildIds: 14097361198047834474
-  ChildIds: 2107010844790366793
-  ChildIds: 141739943007352940
-  ChildIds: 6733000944428340287
-  ChildIds: 12743421742794023177
-  ChildIds: 13384628945948959900
   ChildIds: 1838981431487179660
   ChildIds: 10617055551678942786
-  ChildIds: 13824204349578073634
   ChildIds: 14374047957556987842
-  ChildIds: 11114755388826795019
-  ChildIds: 895739624922391257
-  ChildIds: 12507028021759549422
-  ChildIds: 15178063735831508947
-  ChildIds: 12406651855630458964
-  ChildIds: 4115138681717613536
-  ChildIds: 10861908832735676824
   ChildIds: 3935502597615817257
+  ChildIds: 16272102414860101672
+  ChildIds: 1822322199323423846
+  ChildIds: 8778618891860350317
+  ChildIds: 16031688448167517464
+  ChildIds: 11370474806430949312
+  ChildIds: 14432655040841554336
+  ChildIds: 18090983594685799863
+  ChildIds: 5319384973314306997
+  ChildIds: 10121989690382901722
+  ChildIds: 7675055266735917083
+  ChildIds: 5331011211570955649
+  ChildIds: 4237102436368148604
+  ChildIds: 2561119502065376501
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8346,639 +10533,343 @@ Objects {
   }
 }
 Objects {
-  Id: 3935502597615817257
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3375
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 10861908832735676824
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 4115138681717613536
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 12406651855630458964
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 15178063735831508947
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 12507028021759549422
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 21200
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 895739624922391257
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 22000
-      Y: 26400
-      Z: 7200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11114755388826795019
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 22000
-      Y: 25800
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: 425
-            Z: 6600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 14374047957556987842
+  Id: 2561119502065376501
   Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: 4625
-      Y: -5375
+      X: 24400
+      Y: 26200
+      Z: 3600
     }
     Rotation {
-      Yaw: 180
+      Yaw: -90
+    }
+    Scale {
+      X: 7
+      Y: 1
+      Z: 8
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4237102436368148604
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 14800
+      Y: 20600
+      Z: 3600
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 7
+      Y: 1
+      Z: 8
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5331011211570955649
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 14800
+      Y: 20600
+      Z: 600
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 5
+      Y: 1
+      Z: 5
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7675055266735917083
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 16400
+      Y: 26000
+      Z: 7800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10121989690382901722
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 17200
+      Y: 26000
+      Z: 7200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 9
+      Y: 1
+      Z: 2
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5319384973314306997
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 14800
+      Y: 24600
+      Z: 600
+    }
+    Rotation {
     }
     Scale {
       X: 12
@@ -9035,13 +10926,474 @@ Objects {
   }
 }
 Objects {
-  Id: 13824204349578073634
+  Id: 18090983594685799863
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 14800
+      Y: 26000
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 12
+      Y: 1
+      Z: 6
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14432655040841554336
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 24400
+      Y: 24600
+      Z: 600
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 5
+      Y: 1
+      Z: 5
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11370474806430949312
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 20000
+      Y: 20600
+      Z: 1200
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16031688448167517464
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 19200
+      Y: 20600
+      Z: 600
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 2.5
+      Y: 1
+      Z: 2
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8778618891860350317
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 22000
+      Y: 20600
+      Z: 600
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 2.5
+      Y: 1
+      Z: 2
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1822322199323423846
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 17200
+      Y: 20600
+      Z: 600
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 3
+      Y: 1
+      Z: 2
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16272102414860101672
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 24400
+      Y: 20600
+      Z: 600
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 3
+      Y: 1
+      Z: 2
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3935502597615817257
   Name: "Cobblestone Floor - Basic"
   Transform {
     Location {
-      X: 20400
-      Y: 23800
-      Z: 600
+      X: 17200
+      Y: 26400
+      Z: 7200
     }
     Rotation {
     }
@@ -9069,8 +11421,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 625
-            Y: -1388
+            X: 16400
+            Y: 26000
+            Z: 7200
           }
         }
         Overrides {
@@ -9081,8 +11434,8 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 1
+            X: 1.49999988
+            Y: 0.5
             Z: 1
           }
         }
@@ -9096,6 +11449,14 @@ Objects {
           Name: "ma:Building_Floor:smart"
           Bool: true
         }
+        Overrides {
+          Name: "ma:Building_Floor:utile"
+          Float: 0.5
+        }
+        Overrides {
+          Name: "ma:Building_Floor:vtile"
+          Float: 0.5
+        }
       }
     }
     TemplateAsset {
@@ -9104,20 +11465,86 @@ Objects {
   }
 }
 Objects {
-  Id: 10617055551678942786
+  Id: 14374047957556987842
   Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: -4775
-      Y: 25
-      Z: 2875
+      X: 24400
+      Y: 20600
+      Z: 1800
     }
     Rotation {
+      Yaw: -179.999985
     }
     Scale {
       X: 12
       Y: 1
-      Z: 5
+      Z: 11
+    }
+  }
+  ParentId: 15908502080487801554
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 11493609586151530401
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13072369037111211217
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10617055551678942786
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 14800
+      Y: 26000
+      Z: 7200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 1
+      Z: 2
     }
   }
   ParentId: 15908502080487801554
@@ -9173,8 +11600,9 @@ Objects {
   Name: "Water Towers"
   Transform {
     Location {
-      X: -175
-      Y: -1575
+      X: 19600
+      Y: 24400
+      Z: 600
     }
     Rotation {
     }
@@ -9429,8 +11857,6 @@ Objects {
   ChildIds: 17288744764777998236
   ChildIds: 17860927443726967222
   ChildIds: 17947233143021646442
-  ChildIds: 2037083223884110602
-  ChildIds: 1863078364117876439
   ChildIds: 11117642056815560752
   ChildIds: 12555245328932887540
   ChildIds: 14935201276094884326
@@ -9464,8 +11890,6 @@ Objects {
   ChildIds: 2823693055164765700
   ChildIds: 2122100316539995561
   ChildIds: 2335041214736081348
-  ChildIds: 16300049461398356234
-  ChildIds: 14852868901663101808
   ChildIds: 13350931196721847724
   ChildIds: 6133473804419067928
   ChildIds: 4431683961280766712
@@ -11435,101 +13859,6 @@ Objects {
   }
 }
 Objects {
-  Id: 14852868901663101808
-  Name: "Urban Water Tower Base"
-  Transform {
-    Location {
-      X: -200
-      Y: -3600
-    }
-    Rotation {
-      Yaw: 89.9999847
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1838981431487179660
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13877856592080960583
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 16300049461398356234
-  Name: "Urban Water Tower Base"
-  Transform {
-    Location {
-      X: -200
-      Y: -3600
-      Z: 600
-    }
-    Rotation {
-      Yaw: 89.9999847
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1838981431487179660
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13877856592080960583
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
   Id: 2335041214736081348
   Name: "Urban Water Tower Base"
   Transform {
@@ -13067,101 +15396,6 @@ Objects {
       X: 600
       Y: -3600
       Z: 2400
-    }
-    Rotation {
-      Yaw: 89.9999847
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1838981431487179660
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13877856592080960583
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 1863078364117876439
-  Name: "Urban Water Tower Base"
-  Transform {
-    Location {
-      X: 200
-      Y: -3599.99414
-    }
-    Rotation {
-      Yaw: 89.9999847
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1838981431487179660
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13877856592080960583
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 2037083223884110602
-  Name: "Urban Water Tower Base"
-  Transform {
-    Location {
-      X: 200
-      Y: -3599.99414
-      Z: 600
     }
     Rotation {
       Yaw: 89.9999847
@@ -20947,6 +23181,32 @@ Objects {
   ChildIds: 3446797113044965062
   ChildIds: 13593160250299281971
   ChildIds: 4274469030917243369
+  ChildIds: 1651603441680815267
+  ChildIds: 6159220742172585548
+  ChildIds: 10180042262337855131
+  ChildIds: 15305062897148904492
+  ChildIds: 5657317906321355737
+  ChildIds: 15827678115920117122
+  ChildIds: 15544784421108635836
+  ChildIds: 1022565512133266112
+  ChildIds: 1699739768170162712
+  ChildIds: 13913509775771663245
+  ChildIds: 10184491419448999638
+  ChildIds: 3544456869314758897
+  ChildIds: 4538924316773801195
+  ChildIds: 12907025333705038094
+  ChildIds: 5566676215516004169
+  ChildIds: 14401077031898438942
+  ChildIds: 7545585012985413126
+  ChildIds: 18177942672020665618
+  ChildIds: 998811316247900969
+  ChildIds: 3863204552263025712
+  ChildIds: 17913651748293537563
+  ChildIds: 14320960401344520920
+  ChildIds: 5079450144241174815
+  ChildIds: 10830384516703255552
+  ChildIds: 2550155690583572785
+  ChildIds: 17969520024720894500
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -20961,6 +23221,1202 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 17969520024720894500
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 3000
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2550155690583572785
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 2600
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10830384516703255552
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -1400
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5079450144241174815
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -1800
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14320960401344520920
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -600
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17913651748293537563
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -1000
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3863204552263025712
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -200
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 998811316247900969
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 600
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 18177942672020665618
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 200
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7545585012985413126
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 1000
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14401077031898438942
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 1800
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5566676215516004169
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 1400
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12907025333705038094
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 2200
+      Z: 4200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4538924316773801195
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -1400
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3544456869314758897
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -1800
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10184491419448999638
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -600
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 13913509775771663245
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -1000
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1699739768170162712
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: -200
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1022565512133266112
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 600
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15544784421108635836
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 200
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15827678115920117122
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 1000
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5657317906321355737
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 1800
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15305062897148904492
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 1400
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10180042262337855131
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 2600
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6159220742172585548
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 2200
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1651603441680815267
+  Name: "Urban Water Tower Base"
+  Transform {
+    Location {
+      X: 3000
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7417464752990217153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13877856592080960583
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
   }
 }
 Objects {
@@ -29013,4587 +32469,6 @@ Objects {
   CoreMesh {
     MeshAsset {
       Id: 13877856592080960583
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 13384628945948959900
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 22000
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 12743421742794023177
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 21200
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 6733000944428340287
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 141739943007352940
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2107010844790366793
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 14097361198047834474
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 9992604725851131627
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 585315947465302585
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 16400
-      Y: 25000
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3375
-            Y: -175
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 12908614446851096768
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17800
-      Y: 25400
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 8363498417903254599
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17000
-      Y: 25400
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 3538944235545394711
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 16400
-      Y: 25400
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 13764616737126887965
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 22000
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 4548949444383905696
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 21200
-      Y: 23000
-      Z: 600
-    }
-    Rotation {
-      Yaw: 89.9999771
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: -3775
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999542
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 15247687082808973771
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 9606279731531813410
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 8057582050413205411
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 13324420376710305457
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2648196188799636069
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 18098094966926304622
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 16400
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3375
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11872643134265628675
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 23800
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3375
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2633561771385534274
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 24600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3375
-            Y: -1375
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 6435958608374236907
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18200
-      Y: 25400
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 1195228024228524579
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17400
-      Y: 25400
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 10442261228195643191
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 16600
-      Y: 25400
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 8065673141113377612
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 16600
-      Y: 25200
-      Z: 3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3375
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 6920346307552085831
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: -975
-            Z: 3000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-        Overrides {
-          Name: "ma:Building_Floor:utile"
-          Float: 0.5
-        }
-        Overrides {
-          Name: "ma:Building_Floor:vtile"
-          Float: 0.5
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 14154166798591987086
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: 2425
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2236162646809106257
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 21200
-      Y: 22800
-      Z: 600
-    }
-    Rotation {
-      Yaw: 89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: 1625
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999771
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 7670735874649092838
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: 2425
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 7214729891166901333
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: 2425
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 536090888796818211
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: 2425
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 5544633024514835549
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 22000
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: 2425
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11471122455625452742
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: 2425
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11792321576626293790
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 7143319715676013699
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 27600
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3025
-            Y: 1625
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 13879137578510995360
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 26800
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3025
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 15248381503253809353
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 26000
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3025
-            Y: 25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 15831962661447383228
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 17200
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: -1375
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 9766237761445287800
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 9282848954580753967
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 27600
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: 1625
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 703947607036917626
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 26800
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 9710825672796068722
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 26000
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: 25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 16264637729952533938
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2575
-            Y: -1375
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2870718434990486489
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11590347123529168685
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 21200
-      Y: 23600
-      Z: 600
-    }
-    Rotation {
-      Yaw: 89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: -2975
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999771
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11244134396844182178
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 3379418755402965525
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 6368007926650998239
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 1784257923800470416
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 21200
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-      Yaw: 89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: -2175
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999771
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 1048668928145988587
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 26800
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: 1625
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 4324022001334269930
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2314388548327039177
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 26000
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: -775
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999771
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 4897256289832604605
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 17446757145020881984
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18000
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2225
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 13438968176758351729
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 25200
-      Z: 600
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1425
-            Y: 25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999771
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11837563606750445688
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 625
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 1009128865321582041
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1775
-            Y: -1375
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 11827632342721275507
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 18800
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: 825
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 9390290987850869251
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: 25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 14037262797456860331
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 19600
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -975
-            Y: -1375
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 1885181182967901795
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Location {
-      X: 20400
-      Y: 24400
-      Z: 600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15908502080487801554
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -175
-            Y: -1375
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:id"
-          AssetReference {
-            Id: 14614056576813174129
-          }
-        }
-        Overrides {
-          Name: "ma:Building_Floor:smart"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
-  Id: 2399207909535424775
-  Name: "Whitebox Wall 01"
-  Transform {
-    Location {
-      X: 1486.68359
-      Y: 825
-      Z: 1056.94165
-    }
-    Rotation {
-      Pitch: -44.9999619
-      Yaw: -179.999954
-    }
-    Scale {
-      X: 3
-      Y: 1
-      Z: 4
-    }
-  }
-  ParentId: 15908502080487801554
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 7405585834121208146
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner:id"
-      AssetReference {
-        Id: 15101971749179857171
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13072369037111211217
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 1277514498233490370
-  Name: "Whitebox Wall 01"
-  Transform {
-    Location {
-      X: -975
-      Y: 1165
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 3
-      Y: 1
-      Z: 4
-    }
-  }
-  ParentId: 15908502080487801554
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 7405585834121208146
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner:id"
-      AssetReference {
-        Id: 15101971749179857171
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13072369037111211217
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 11870953573034034643
-  Name: "Whitebox Wall 01"
-  Transform {
-    Location {
-      X: -4775
-      Y: -1375
-    }
-    Rotation {
-    }
-    Scale {
-      X: 12
-      Y: 1
-      Z: 5
-    }
-  }
-  ParentId: 15908502080487801554
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 7405585834121208146
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner:id"
-      AssetReference {
-        Id: 11493609586151530401
-      }
-    }
-    Overrides {
-      Name: "ma:Building_WallInner:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13072369037111211217
     }
     Teams {
       IsTeamCollisionEnabled: true
