@@ -7,12 +7,12 @@ Assets {
       RootId: 8173585214867451857
       Objects {
         Id: 8173585214867451857
-        Name: "A Fancy Folding Fan"
+        Name: "The Sensu of Sesshomaru"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.99999994
+            Y: 0.99999994
+            Z: 0.99999994
           }
         }
         ParentId: 4781671109827199097
@@ -54,7 +54,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail2:id"
             AssetReference {
-              Id: 6667281334460469440
+              Id: 3951878902125146760
             }
           }
           Overrides {
@@ -72,9 +72,9 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:color"
             Color {
-              R: 0.089782
-              G: 0.371000022
-              B: 0.19758226
+              R: 0.357000023
+              G: 0.0110669862
+              B: 0.0110669862
               A: 1
             }
           }
@@ -83,6 +83,15 @@ Assets {
             Color {
               R: 0.229000017
               G: 0.0239958
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_Detail2:color"
+            Color {
+              R: 0.357000023
+              G: 0.0110669862
+              B: 0.0110669862
               A: 1
             }
           }
@@ -128,12 +137,12 @@ Assets {
       }
     }
     Assets {
-      Id: 6667281334460469440
-      Name: "Wallpaper Moroccan 01"
+      Id: 3951878902125146760
+      Name: "Wallpaper Japanese Hex 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_gen_wallpaper_002"
+        AssetId: "mi_jpn_wallpaper_hex_001_uv_ref"
       }
     }
     PrimaryAssetId {
@@ -141,6 +150,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Treasure"
 }

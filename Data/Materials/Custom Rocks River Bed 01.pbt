@@ -2,7 +2,7 @@ Assets {
   Id: 15093710052642923098
   Name: "Composite River Bed/Dirt"
   PlatformAssetType: 13
-  SerializationVersion: 97
+  SerializationVersion: 98
   CustomMaterialAsset {
     BaseMaterialId: 12312014821452986176
     ParameterOverrides {

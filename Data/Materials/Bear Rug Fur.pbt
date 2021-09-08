@@ -1,8 +1,8 @@
 Assets {
   Id: 13044315311747132940
-  Name: "Custom Branch from Tree Redwood Big"
+  Name: "Bear Rug Fur"
   PlatformAssetType: 13
-  SerializationVersion: 97
+  SerializationVersion: 98
   CustomMaterialAsset {
     BaseMaterialId: 18131593055415217096
     ParameterOverrides {

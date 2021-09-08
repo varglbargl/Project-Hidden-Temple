@@ -18,6 +18,6 @@ Assets {
       }
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Item Tables"
 }
