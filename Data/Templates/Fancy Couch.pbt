@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 10045885269598533116
         ChildIds: 5211063050946554210
         ChildIds: 16590157316552120873
         ChildIds: 11778061669484007760
@@ -34,7 +34,7 @@ Assets {
         ChildIds: 1677613166287096287
         ChildIds: 9742309051124878437
         ChildIds: 16323755739567517296
-        ChildIds: 810352267388747307
+        ChildIds: 14459965479939588744
         ChildIds: 654826323810049586
         ChildIds: 6535466444317481876
         ChildIds: 5549466661316834568
@@ -798,7 +798,7 @@ Assets {
           }
           Overrides {
             Name: "ma:Prop_Cushion:utile"
-            Float: 1.125
+            Float: 1.035
           }
           Overrides {
             Name: "ma:Prop_Cushion:vtile"
@@ -840,7 +840,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: -112
+            X: -113
             Y: -44.0001221
             Z: 69.0000076
           }
@@ -909,7 +909,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: -112
+            X: -113
             Y: -20.0001221
             Z: 69.0000076
           }
@@ -979,7 +979,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: -112
+            X: -113
             Y: 9.99987793
             Z: 69.0000076
           }
@@ -1048,7 +1048,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: 114
+            X: 113
             Y: -44.0001221
             Z: 69.0000076
           }
@@ -1116,7 +1116,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: 114
+            X: 113
             Y: -20.0001221
             Z: 69.0000076
           }
@@ -1186,7 +1186,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: 114
+            X: 113
             Y: 9.99987793
             Z: 69.0000076
           }
@@ -1392,7 +1392,6 @@ Assets {
         Name: "Cube - Rounded Bottom-Aligned"
         Transform {
           Location {
-            X: -0.620483398
             Y: 34.8104248
             Z: 15.9549942
           }
@@ -1448,7 +1447,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: -112
+            X: -113
             Y: 33.9998779
             Z: 69
           }
@@ -1517,7 +1516,7 @@ Assets {
         Name: "Ring - Extra Thick"
         Transform {
           Location {
-            X: 114
+            X: 113
             Y: 33.9998779
             Z: 69
           }
@@ -1585,7 +1584,7 @@ Assets {
         Name: "Cylinder - Rounded"
         Transform {
           Location {
-            X: 114
+            X: 113
             Y: -4.22363281
             Z: 69.0000076
           }
@@ -1653,7 +1652,7 @@ Assets {
         Name: "Cylinder - Rounded"
         Transform {
           Location {
-            X: -112
+            X: -113
             Y: -4.22363281
             Z: 69.0000076
           }
@@ -1793,15 +1792,15 @@ Assets {
           Location {
             X: 108.45929
             Y: -1
-            Z: 53.4889603
+            Z: 53.489
           }
           Rotation {
-            Pitch: -9.99999714
+            Pitch: -10
           }
           Scale {
-            X: 0.3
+            X: 0.275
             Y: 0.900000036
-            Z: 0.5
+            Z: 0.49999997
           }
         }
         ParentId: 6048689032506712493
@@ -1809,7 +1808,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6317686127120768600
+              Id: 13753713247237946221
             }
           }
           Overrides {
@@ -1823,6 +1822,15 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
             Float: 0.25
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.286
+              G: 0.0457599908
+              B: 0.0457599908
+              A: 1
+            }
           }
         }
         Collidable_v2 {
@@ -1855,21 +1863,21 @@ Assets {
         }
       }
       Objects {
-        Id: 810352267388747307
+        Id: 14459965479939588744
         Name: "Cube - Rounded"
         Transform {
           Location {
             X: -108.45929
             Y: -1
-            Z: 53.4889603
+            Z: 53.489
           }
           Rotation {
             Pitch: 9.99999714
           }
           Scale {
-            X: -0.3
+            X: 0.275
             Y: 0.900000036
-            Z: 0.5
+            Z: 0.49999997
           }
         }
         ParentId: 6048689032506712493
@@ -1877,7 +1885,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6317686127120768600
+              Id: 13753713247237946221
             }
           }
           Overrides {
@@ -1891,6 +1899,15 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
             Float: 0.25
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.286
+              G: 0.0457599908
+              B: 0.0457599908
+              A: 1
+            }
           }
         }
         Collidable_v2 {
@@ -1933,8 +1950,8 @@ Assets {
             Yaw: -90
           }
           Scale {
-            X: 0.747422397
-            Y: 1.29383183
+            X: 0.747422278
+            Y: 1.43815827
             Z: 0.6
           }
         }
@@ -2011,8 +2028,8 @@ Assets {
             Yaw: 89.9999847
           }
           Scale {
-            X: 0.747422397
-            Y: 1.29383183
+            X: 0.747422278
+            Y: 1.43815827
             Z: 0.6
           }
         }

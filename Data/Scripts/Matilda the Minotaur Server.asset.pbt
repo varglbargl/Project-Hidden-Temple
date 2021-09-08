@@ -11,9 +11,20 @@ Assets {
         }
       }
       Overrides {
+        Name: "cs:ChargeSFX"
+        AssetReference {
+          Id: 841534158063459245
+        }
+      }
+      Overrides {
         Name: "cs:CrashVFX"
         AssetReference {
           Id: 4402666491527902022
+        }
+      }
+      Overrides {
+        Name: "cs:PatrolNodes"
+        ObjectReference {
         }
       }
     }

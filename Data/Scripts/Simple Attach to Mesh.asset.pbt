@@ -9,6 +9,11 @@ Assets {
         ObjectReference {
         }
       }
+      Overrides {
+        Name: "cs:Parts"
+        ObjectReference {
+        }
+      }
     }
   }
   Marketplace {
