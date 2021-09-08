@@ -1770,7 +1770,7 @@ Objects {
 }
 Objects {
   Id: 14997911474131759342
-  Name: "Infinite Jest"
+  Name: "INFINITE JEST"
   Transform {
     Location {
     }
@@ -1880,7 +1880,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -1936,7 +1935,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -1998,7 +1996,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Pitch: -900
       Volume: 1
       Falloff: 5000
@@ -2061,7 +2058,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2123,7 +2119,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2185,7 +2180,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2247,7 +2241,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Pitch: 300
       Volume: 1
       Falloff: 5000
@@ -2310,7 +2303,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2372,7 +2364,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2434,7 +2425,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2496,7 +2486,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2558,7 +2547,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2620,7 +2608,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2682,7 +2669,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2744,7 +2730,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2806,7 +2791,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2868,7 +2852,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2930,7 +2913,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -2992,7 +2974,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -3054,7 +3035,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500
@@ -3116,7 +3096,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      Repeat: true
       Volume: 1
       Falloff: 5000
       Radius: 500

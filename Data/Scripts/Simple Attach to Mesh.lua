@@ -1,9 +1,10 @@
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
+local PARTS = script:GetCustomProperty("Parts"):WaitForObject()
 
-local parts = script.parent:GetChildren()
+local parts = PARTS:GetChildren()
 
 for _, part in pairs(parts) do
-  if part:IsA("Folder") then
+  if part:IsA("CoreObject") then
     MESH:AttachCoreObject(part, part.name)
   end
 end
