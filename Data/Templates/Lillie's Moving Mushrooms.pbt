@@ -4879,7 +4879,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Blue Rooms"
   VirtualFolderPath: "Small"

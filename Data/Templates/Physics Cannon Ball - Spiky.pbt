@@ -45,6 +45,10 @@ Assets {
           Radius: 32
           DamageSettings {
             StartImmortal: true
+            DestroyOnDeathClientTemplateId {
+            }
+            DestroyOnDeathNetworkedTemplateId {
+            }
           }
         }
       }
@@ -942,6 +946,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Game Components"
 }

@@ -1,6 +1,137 @@
 Name: "Treasures"
 RootId: 13188470692436809950
 Objects {
+  Id: 12845963937989778249
+  Name: "The Knewtonian Knowledge Bomb"
+  Transform {
+    Location {
+      X: -1257.21545
+      Y: -240.966263
+      Z: 145.181412
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13188470692436809950
+  ChildIds: 8617680269170047070
+  ChildIds: 2911102261346950342
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2911102261346950342
+  Name: "World Text"
+  Transform {
+    Location {
+      X: -44.7845459
+      Y: -1.21890259
+      Z: -4.76486206
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.347803652
+      Y: 0.31101647
+      Z: 0.347803682
+    }
+  }
+  ParentId: 12845963937989778249
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Text {
+    Text: "Knewtonian\r\nKnowledge Bomb"
+    FontAsset {
+      Id: 5981501947638568954
+    }
+    Color {
+      A: 1
+    }
+    HorizontalSize: 1
+    VerticalSize: 1
+    HorizontalAlignment {
+      Value: "mc:ecoretexthorizontalalign:center"
+    }
+    VerticalAlignment {
+      Value: "mc:ecoretextverticalalign:center"
+    }
+    IsLit: true
+  }
+}
+Objects {
+  Id: 8617680269170047070
+  Name: "Knewtonian Knowledge Bomb"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12845963937989778249
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 955405065187939649
+      value {
+        Overrides {
+          Name: "Name"
+          String: "The Knewtonian Knowledge Bomb"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 49.196022
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16916804581460918812
+    }
+  }
+}
+Objects {
   Id: 3486807327342357656
   Name: "A Mysterious Unlabeled Can"
   Transform {
@@ -1737,15 +1868,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.99999994
-            Y: 0.99999994
-            Z: 0.99999994
           }
         }
       }

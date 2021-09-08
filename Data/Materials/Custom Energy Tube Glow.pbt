@@ -2,7 +2,7 @@ Assets {
   Id: 13410066306967035517
   Name: "Diamondillium"
   PlatformAssetType: 13
-  SerializationVersion: 97
+  SerializationVersion: 98
   CustomMaterialAsset {
     BaseMaterialId: 15689920773156568587
     ParameterOverrides {

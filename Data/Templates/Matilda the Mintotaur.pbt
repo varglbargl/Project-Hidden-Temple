@@ -613,6 +613,7 @@ Assets {
         ChildIds: 18411906416258798011
         ChildIds: 10235587827227182985
         ChildIds: 4359686245249562572
+        ChildIds: 14814057955278546704
         ChildIds: 10425554141663334732
         ChildIds: 2094308170820144032
         ChildIds: 7936705228159169817
@@ -5387,6 +5388,475 @@ Assets {
         }
       }
       Objects {
+        Id: 14814057955278546704
+        Name: "lower_spine"
+        Transform {
+          Location {
+            X: -1.96250618
+            Y: 1.52587893e-06
+            Z: 141.663803
+          }
+          Rotation {
+            Pitch: 4.09811328e-05
+            Yaw: 3.41509294e-05
+            Roll: 1.4582632e-11
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15256428793649130519
+        ChildIds: 1959841970411983091
+        ChildIds: 17936831338156655307
+        ChildIds: 18085089685182885654
+        ChildIds: 17763215237865218481
+        ChildIds: 13360224577694263501
+        ChildIds: 2961584391667266708
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 1959841970411983091
+        Name: "Horn Curved Double - Vertical"
+        Transform {
+          Location {
+            X: -3.69551015
+            Y: -0.000139355645
+            Z: -13.7738
+          }
+          Rotation {
+            Pitch: 180
+            Yaw: 90
+            Roll: 45
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.3
+          }
+        }
+        ParentId: 14814057955278546704
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 9404375057288629025
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.499
+              G: 0.401453823
+              B: 0.340817
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 1.64111888
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.171077192
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 1143724032409582778
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17936831338156655307
+        Name: "Basic Pepper 01"
+        Transform {
+          Location {
+            X: -46.4104118
+            Y: -0.629072368
+            Z: -44.1919479
+          }
+          Rotation {
+            Pitch: 12.5044022
+            Yaw: -70.5506287
+            Roll: 106.623299
+          }
+          Scale {
+            X: 0.146394476
+            Y: 0.182468563
+            Z: 0.129722476
+          }
+        }
+        ParentId: 14814057955278546704
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 14741232207024064728
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.499
+              G: 0.401453823
+              B: 0.340817
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15731588490220163360
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18085089685182885654
+        Name: "Basic Pepper 01"
+        Transform {
+          Location {
+            X: -46.63908
+            Y: 0.843706787
+            Z: -44.5680809
+          }
+          Rotation {
+            Pitch: -14.3519592
+            Yaw: -109.460785
+            Roll: 93.720665
+          }
+          Scale {
+            X: 0.146394476
+            Y: 0.182468563
+            Z: 0.129722491
+          }
+        }
+        ParentId: 14814057955278546704
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 14741232207024064728
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.499
+              G: 0.401453823
+              B: 0.340817
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15731588490220163360
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17763215237865218481
+        Name: "Basic Pepper 01"
+        Transform {
+          Location {
+            X: -47.9396172
+            Y: 0.160850108
+            Z: -43.9679222
+          }
+          Rotation {
+            Pitch: 1.52813184
+            Yaw: -92.9675598
+            Roll: 104.533569
+          }
+          Scale {
+            X: 0.146394372
+            Y: 0.182468563
+            Z: 0.182468295
+          }
+        }
+        ParentId: 14814057955278546704
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 14741232207024064728
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.499
+              G: 0.401453823
+              B: 0.340817
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15731588490220163360
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13360224577694263501
+        Name: "Basic Pepper 01"
+        Transform {
+          Location {
+            X: -47.1348305
+            Y: 0.20300661
+            Z: -47.0143852
+          }
+          Rotation {
+            Pitch: -0.209838867
+            Yaw: -93.1530762
+            Roll: 87.1765518
+          }
+          Scale {
+            X: 0.0867468044
+            Y: 0.108122759
+            Z: 0.108122587
+          }
+        }
+        ParentId: 14814057955278546704
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 14741232207024064728
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.499
+              G: 0.401453823
+              B: 0.340817
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 15731588490220163360
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 2961584391667266708
+        Name: "2D Basic Shapes Decal"
+        Transform {
+          Location {
+            X: -51.7028
+            Y: 0.207915053
+            Z: -45.1713524
+          }
+          Rotation {
+            Roll: -92.1344299
+          }
+          Scale {
+            X: 0.0912370086
+            Y: 0.0970614851
+            Z: 0.125954464
+          }
+        }
+        ParentId: 14814057955278546704
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Stroke Width"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Blur"
+            Float: 1
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 1
+              G: 1
+              B: 0.614
+              A: 0.316
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 349046981903190460
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:high"
+        }
+      }
+      Objects {
         Id: 10425554141663334732
         Name: "left_knee"
         Transform {
@@ -6177,11 +6647,38 @@ Assets {
         AssetId: "dcl_basicShapes"
       }
     }
+    Assets {
+      Id: 1143724032409582778
+      Name: "Horn Curved Double - Vertical"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_prim_horn_v_curve_double_001_ref"
+      }
+    }
+    Assets {
+      Id: 9404375057288629025
+      Name: "Hay 02"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_fan_hay_002_uv"
+      }
+    }
+    Assets {
+      Id: 15731588490220163360
+      Name: "Basic Pepper 01"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_prim_org_pepper_001_ref"
+      }
+    }
     PrimaryAssetId {
       AssetType: "None"
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "NPCs"
 }
