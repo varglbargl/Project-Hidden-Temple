@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Two simple little props, perfect for any camping or foresty setting.\r\n\r\nThis pack includes the lantern itself and there\'s a wooden lamp post with one attached."
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
 }

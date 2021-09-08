@@ -2,7 +2,7 @@ Assets {
   Id: 4096729604259603915
   Name: "Wood Raw Sideways Dark"
   PlatformAssetType: 13
-  SerializationVersion: 97
+  SerializationVersion: 98
   CustomMaterialAsset {
     BaseMaterialId: 12446131267530965574
     ParameterOverrides {

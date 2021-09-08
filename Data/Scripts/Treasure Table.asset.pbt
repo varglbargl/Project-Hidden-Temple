@@ -76,8 +76,14 @@ Assets {
           Id: 16747213006726994244
         }
       }
+      Overrides {
+        Name: "cs:TheKnewtonianKnowledgeBomb"
+        AssetReference {
+          Id: 16916804581460918812
+        }
+      }
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Item Tables"
 }
