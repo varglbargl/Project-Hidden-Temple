@@ -5,7 +5,7 @@ Objects {
   Name: "Casual & Fun Music Score Set 01"
   Transform {
     Location {
-      Z: 980
+      Z: 800
     }
     Rotation {
     }
@@ -46,8 +46,9 @@ Objects {
       AutoPlay: true
       Repeat: true
       Volume: 1
-      Falloff: 600
-      Radius: 2000
+      Falloff: 500
+      Radius: 800
+      EnableOcclusion: true
       IsSpatializationEnabled: true
       IsAttenuationEnabled: true
     }
