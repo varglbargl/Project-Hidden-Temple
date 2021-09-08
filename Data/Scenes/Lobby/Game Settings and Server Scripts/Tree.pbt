@@ -275,7 +275,7 @@ Objects {
 }
 Objects {
   Id: 7706874623848782617
-  Name: "Player Respawn Server"
+  Name: "Player State Server"
   Transform {
     Location {
     }
@@ -490,41 +490,6 @@ Objects {
         Value: "mc:espawnmode:random"
       }
     }
-  }
-}
-Objects {
-  Id: 349884445094491697
-  Name: "Player Start"
-  Transform {
-    Location {
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4616486078644751084
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:alwaysvisible"
-  }
-  PlayerSpawnPoint {
-    TeamInt: 1
-    PlayerScaleMultiplier: 1
   }
 }
 Objects {

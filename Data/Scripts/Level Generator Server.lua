@@ -1,9 +1,9 @@
 local Utils = require(script:GetCustomProperty("Utils"))
 
-local SMALL_BLUE_ROOM_TABLE = require(script:GetCustomProperty("SmallBlueRoomTable"))
-local LARGE_BLUE_ROOM_TABLE = require(script:GetCustomProperty("LargeBlueRoomTable"))
-local RED_ROOM_TABLE = require(script:GetCustomProperty("RedRoomTable"))
-local TREASURE_ROOM_TABLE = require(script:GetCustomProperty("TreasureRoomTable"))
+local SMALL_BLUE_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomProperty("SmallBlueRoomTable")))
+local LARGE_BLUE_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomProperty("LargeBlueRoomTable")))
+local RED_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomProperty("RedRoomTable")))
+local TREASURE_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomProperty("TreasureRoomTable")))
 local EXIT_ROOM = script:GetCustomProperty("ExitRoom")
 
 local ROOM_SLOTS = script:GetCustomProperty("RoomSlots"):WaitForObject()
@@ -32,15 +32,15 @@ for _, roomSlot in ipairs(roomSlots) do
 
   if roomType == "Small" then
     if exitPlaced then
-      roomToSpawn = SMALL_BLUE_ROOM_TABLE[math.random(1, #SMALL_BLUE_ROOM_TABLE)]
+      roomToSpawn = table.remove(SMALL_BLUE_ROOM_TABLE, 1)
     else
       roomToSpawn = EXIT_ROOM
       exitPlaced = true
     end
   elseif roomType == "Large" then
-    roomToSpawn = LARGE_BLUE_ROOM_TABLE[math.random(1, #LARGE_BLUE_ROOM_TABLE)]
+    roomToSpawn = table.remove(LARGE_BLUE_ROOM_TABLE, 1)
   elseif roomType == "Puzzle" then
-    roomToSpawn = RED_ROOM_TABLE[math.random(1, #RED_ROOM_TABLE)]
+    roomToSpawn = table.remove(RED_ROOM_TABLE, 1)
   end
 
   local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot})

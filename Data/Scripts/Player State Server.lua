@@ -1,3 +1,5 @@
+local Utils = require(script:GetCustomProperty("Utils"))
+
 local RESPAWN_VFX = script:GetCustomProperty("RespawnVFX")
 
 function onPlayerSpawned(player)
@@ -6,6 +8,7 @@ end
 
 function onPlayerDied(player)
   Task.Wait(1.5)
+
   if not Object.IsValid(player) then return end
   local spawnPoint = player.serverUserData["SpawnPoint"]
 
@@ -20,6 +23,9 @@ end
 
 function onPlayerStart(player)
   player:Spawn({spawnKey = "Start"})
+
+  Events.Broadcast("ShowTreasure", player, player.serverUserData["RecentTreasure"])
+  Utils.updatePrivateNetworkedData(player, "OwnedTracks")
 end
 
 Game.playerJoinedEvent:Connect(onPlayerJoined)

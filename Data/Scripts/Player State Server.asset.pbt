@@ -1,6 +1,6 @@
 Assets {
-  Id: 5042235459458063914
-  Name: "Player Resource Server"
+  Id: 7181877701682370511
+  Name: "Player State Server"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
@@ -8,6 +8,12 @@ Assets {
         Name: "cs:Utils"
         AssetReference {
           Id: 8431391566871556229
+        }
+      }
+      Overrides {
+        Name: "cs:RespawnVFX"
+        AssetReference {
+          Id: 13778294889728319172
         }
       }
     }

@@ -1,18 +1,18 @@
 Assets {
-  Id: 17558220794799786746
-  Name: "Painting Scrooge"
+  Id: 305961399047135334
+  Name: "Painting Ace Pirate"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 15998703344631201486
       Objects {
         Id: 15998703344631201486
-        Name: "Painting Scrooge"
+        Name: "Painting Ace Pirate"
         Transform {
           Scale {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ChildIds: 11767265781139816154
@@ -198,19 +198,19 @@ Assets {
           }
           Overrides {
             Name: "ma:Shared_Detail2:utile"
-            Float: 2
+            Float: 4
           }
           Overrides {
             Name: "ma:Shared_Detail2:vtile"
-            Float: 2
+            Float: 4
           }
           Overrides {
             Name: "ma:Shared_Detail1:utile"
-            Float: 2
+            Float: 4
           }
           Overrides {
             Name: "ma:Shared_Detail1:vtile"
-            Float: 2
+            Float: 4
           }
         }
         Collidable_v2 {
@@ -335,10 +335,10 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Control {
-          Width: 2360
-          Height: 1572
-          UIX: 447.92688
-          UIY: -476.172546
+          Width: 1173
+          Height: 706
+          UIX: -92.120842
+          UIY: 40.3274918
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -430,6 +430,5 @@ Assets {
     }
   }
   SerializationVersion: 97
-  VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Props"
 }

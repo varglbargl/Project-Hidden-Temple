@@ -1,6 +1,78 @@
 Name: "Lillie_LargeBlue_LavaPlatforms_Complete"
 RootId: 8480623522666132382
 Objects {
+  Id: 17687189013934167062
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -1200
+      Y: -1200
+      Z: 3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3
+      Y: -3
+      Z: 1
+    }
+  }
+  ParentId: 8480623522666132382
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 9919644819108266555
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 17687189013934167062
+    SubobjectId: 14135500536414441149
+    InstanceId: 14550948612371572330
+    TemplateId: 8481417515541518942
+    WasRoot: true
+  }
+}
+Objects {
   Id: 567727025842002027
   Name: "Full Skull"
   Transform {
@@ -3639,60 +3711,6 @@ Objects {
   }
 }
 Objects {
-  Id: 8251976895639241757
-  Name: "Cobblestone Floor - Basic"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8480623522666132382
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14135500536414441149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Cobblestone Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1999.99902
-            Y: 400
-            Z: 1200
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -1.02452805e-05
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8481417515541518942
-    }
-  }
-}
-Objects {
   Id: 7439069208198307618
   Name: "Cobblestone Floor - Basic"
   Transform {
@@ -3741,6 +3759,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "ma:Building_Ceiling:id"
+          AssetReference {
+            Id: 7405585834121208146
           }
         }
       }

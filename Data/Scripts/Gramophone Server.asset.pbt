@@ -1,13 +1,13 @@
 Assets {
-  Id: 7181877701682370511
-  Name: "Player Respawn Server"
+  Id: 17016742278312310609
+  Name: "Gramophone Server"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
       Overrides {
-        Name: "cs:RespawnVFX"
+        Name: "cs:Utils"
         AssetReference {
-          Id: 13778294889728319172
+          Id: 8431391566871556229
         }
       }
     }
