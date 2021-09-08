@@ -8,6 +8,33 @@ Assets {
   }
 }
 Assets {
+  Id: 18393437648231545508
+  Name: "Urban Pipe Flange 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_flange_001_ref"
+  }
+}
+Assets {
+  Id: 18246925530231308007
+  Name: "Bone Raw"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_bone_raw_001_uv_ref"
+  }
+}
+Assets {
+  Id: 18245026119017443118
+  Name: "Survival Animal Hide 001"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Survival_Equip_AnimalHide_001"
+  }
+}
+Assets {
   Id: 18033297229984528543
   Name: "Wood Planks"
   PlatformAssetType: 2
@@ -26,12 +53,48 @@ Assets {
   }
 }
 Assets {
+  Id: 17747599886783101097
+  Name: "Raptor Mob"
+  PlatformAssetType: 17
+  PrimaryAsset {
+    AssetType: "AnimatedMeshAssetRef"
+    AssetId: "npc_raptor_default_basic_001_ref"
+  }
+}
+Assets {
   Id: 17712531388953091553
   Name: "Castle Part - Grate 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_part_grate_001_ref"
+  }
+}
+Assets {
+  Id: 17692361980536268816
+  Name: "Japanese Tea Set - Pot 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_tea_set_tea_pot_001_ref"
+  }
+}
+Assets {
+  Id: 17651676792060187340
+  Name: "Small Crate Lid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_narrow_lid_simple_160cm_001"
+  }
+}
+Assets {
+  Id: 17650752665315833616
+  Name: "Japanese Tea Set - Caddy 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_tea_set_caddy_001_ref"
   }
 }
 Assets {
@@ -134,6 +197,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16502982908661970752
+  Name: "Cylinder - Bottom-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_001"
+  }
+}
+Assets {
   Id: 16198346205888411814
   Name: "Urban Fence Door"
   PlatformAssetType: 1
@@ -152,6 +224,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16133439225381659022
+  Name: "Craftsman End Table"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_end_table_001"
+  }
+}
+Assets {
   Id: 16099301820737994320
   Name: "Large Round Wood Beam 8m"
   PlatformAssetType: 1
@@ -167,6 +248,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_plane_1m_001"
+  }
+}
+Assets {
+  Id: 15874881930191261567
+  Name: "Military Walkie"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_mil_walkie_01_ref"
   }
 }
 Assets {
@@ -194,6 +284,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_carpet_tile_002"
+  }
+}
+Assets {
+  Id: 15044739087899138083
+  Name: "Branches Cluster Big"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gen_branches_big_001"
   }
 }
 Assets {
@@ -242,6 +341,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14313158924400997641
+  Name: "Branches Cluster Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gen_branches_small_001"
+  }
+}
+Assets {
   Id: 14259933626985448498
   Name: "Japanese Temple Foundation 02 Half"
   PlatformAssetType: 1
@@ -278,6 +386,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14116967166774385300
+  Name: "Fantasy Book 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fan_book_001_ref"
+  }
+}
+Assets {
   Id: 14107746637106868094
   Name: "Japanese Sitting Pillow 01"
   PlatformAssetType: 1
@@ -293,6 +410,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_container_square_thin_ref"
+  }
+}
+Assets {
+  Id: 14016091310668426151
+  Name: "Forest Floor 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "forest-floor_002"
+  }
+}
+Assets {
+  Id: 13973970250640934361
+  Name: "Bottle 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_004"
   }
 }
 Assets {
@@ -341,6 +476,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13600787232614132941
+  Name: "Birch Leaves 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_leaves_birch_001"
+  }
+}
+Assets {
   Id: 13571313298713186772
   Name: "Cube - Bottom-Aligned"
   PlatformAssetType: 1
@@ -356,6 +500,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_arch_001"
+  }
+}
+Assets {
+  Id: 13174789148195749610
+  Name: "Japanese Tea Set - Cup 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_tea_set_tea_cup_001_ref"
   }
 }
 Assets {
@@ -392,6 +545,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_rounded_002"
+  }
+}
+Assets {
+  Id: 12792782839306732671
+  Name: "Japanese Tea Set - Ladle 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_tea_set_ladle_001_ref"
   }
 }
 Assets {
@@ -440,6 +602,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12379310943325381842
+  Name: "Fantasy Sack Laying"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_sack_003_ref"
+  }
+}
+Assets {
   Id: 12370810959415697183
   Name: "Main Street Pillar 01"
   PlatformAssetType: 1
@@ -449,12 +620,66 @@ Assets {
   }
 }
 Assets {
+  Id: 12200059168900896290
+  Name: "Glass 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_glass_refrac_001"
+  }
+}
+Assets {
+  Id: 12148720894562039167
+  Name: "Fantasy Book Collection 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fan_book_collection_003_ref"
+  }
+}
+Assets {
+  Id: 12097486505343943722
+  Name: "Wood Planks"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_planks_001_uv"
+  }
+}
+Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 11998789677416293696
+  Name: "Simple Crate 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_simple_150cm_001"
+  }
+}
+Assets {
+  Id: 11669907384621599619
+  Name: "Coral Branches Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_coral_branch_small_01"
+  }
+}
+Assets {
+  Id: 11618309356681495191
+  Name: "Fox Mob"
+  PlatformAssetType: 17
+  PrimaryAsset {
+    AssetType: "AnimatedMeshAssetRef"
+    AssetId: "npc_fox_default_basic_001_ref"
   }
 }
 Assets {
@@ -476,6 +701,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11343781392449978746
+  Name: "Flower Bellflower 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_flower_bell_002_ref"
+  }
+}
+Assets {
   Id: 11049358012930972197
   Name: "Japanese Stone Lantern Roof Small 01"
   PlatformAssetType: 1
@@ -494,12 +728,30 @@ Assets {
   }
 }
 Assets {
+  Id: 10685445326521847494
+  Name: "Fantasy Chest Treasure Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_chest_treasure_pile_001_ref"
+  }
+}
+Assets {
   Id: 10512577683718946604
   Name: "Scorch Mark Decal"
   PlatformAssetType: 14
   PrimaryAsset {
     AssetType: "DecalBlueprintAssetRef"
     AssetId: "bp_decal_scorchmark"
+  }
+}
+Assets {
+  Id: 10496721494974789174
+  Name: "Wood Strand Board 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_mil_wood_strand_001_uv_ref"
   }
 }
 Assets {
@@ -518,6 +770,24 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Fantasy_Equip_Map_001"
+  }
+}
+Assets {
+  Id: 10091967667474104028
+  Name: "Japanese Water Lantern 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_lantern_water_001_ref"
+  }
+}
+Assets {
+  Id: 10045317522087876486
+  Name: "Bottle 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_003"
   }
 }
 Assets {
@@ -566,6 +836,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9381248077573981814
+  Name: "Chest Big Closed"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_chest_003"
+  }
+}
+Assets {
   Id: 9371577894033454909
   Name: "Frame Medium  Straight - Neon 2 Sided Ending"
   PlatformAssetType: 1
@@ -575,12 +854,48 @@ Assets {
   }
 }
 Assets {
+  Id: 9364533443650044160
+  Name: "Fantasy Book Collection 05"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fan_book_collection_004_ref"
+  }
+}
+Assets {
   Id: 9243070650073005170
   Name: "Humanoid 1 Sonia"
   PlatformAssetType: 26
   PrimaryAsset {
     AssetType: "SkinnedMeshAssetRef"
     AssetId: "npc_human_gal_head_sport_001_ref"
+  }
+}
+Assets {
+  Id: 9199751096616988864
+  Name: "Candle Flame VFX"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "fxsm_candleflame"
+  }
+}
+Assets {
+  Id: 9199586036260003831
+  Name: "Bottle 06"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_006"
+  }
+}
+Assets {
+  Id: 9188351867310556903
+  Name: "Fantasy Chest Lid 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_chest_lid_001_ref"
   }
 }
 Assets {
@@ -620,6 +935,42 @@ Assets {
   }
 }
 Assets {
+  Id: 8589032280689222978
+  Name: "Fantasy Clay Pot 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_clay_pot_003_ref"
+  }
+}
+Assets {
+  Id: 8566122841147550186
+  Name: "Bottle 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_002"
+  }
+}
+Assets {
+  Id: 8511729318458013285
+  Name: "Fantasy Shield 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_shield_002"
+  }
+}
+Assets {
+  Id: 8452502681248844190
+  Name: "Fantasy Chest Base 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_chest_002_ref"
+  }
+}
+Assets {
   Id: 7942501235823074501
   Name: "Metal Basic 01"
   PlatformAssetType: 2
@@ -635,6 +986,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_jpn_kunai_handle_001"
+  }
+}
+Assets {
+  Id: 7860337081218852475
+  Name: "Japanese Tea Set - Whisk Bowl 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_tea_set_whisk_bowl_001_ref"
   }
 }
 Assets {
@@ -728,6 +1088,24 @@ Assets {
   }
 }
 Assets {
+  Id: 6888255164699252233
+  Name: "Candle Group 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_candles_group_001"
+  }
+}
+Assets {
+  Id: 6835672899669053556
+  Name: "Flower Bellflower Patch 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_flower_bell_patch_001_ref"
+  }
+}
+Assets {
   Id: 6747614045051753376
   Name: "Cylinder - Bottom-Aligned"
   PlatformAssetType: 1
@@ -773,12 +1151,30 @@ Assets {
   }
 }
 Assets {
+  Id: 5886611034140500769
+  Name: "Fantasy Bookshelf Top"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bookshelf_top_001_ref"
+  }
+}
+Assets {
   Id: 5754562299227578214
   Name: "Craftsman Part - Doorway"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_sub_craftsman_part_doorway_001"
+  }
+}
+Assets {
+  Id: 5708891816673411301
+  Name: "Tree Redwood Big"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_redwood_001"
   }
 }
 Assets {
@@ -818,12 +1214,48 @@ Assets {
   }
 }
 Assets {
+  Id: 5113278490719783875
+  Name: "Chain Ceiling Anchor"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_chain_top_001"
+  }
+}
+Assets {
   Id: 4949046684914789731
   Name: "Humanoid 1 Yasmine Hair"
   PlatformAssetType: 26
   PrimaryAsset {
     AssetType: "SkinnedMeshAssetRef"
     AssetId: "npc_human_gal_hair_basic_007_ref"
+  }
+}
+Assets {
+  Id: 4940513130547301682
+  Name: "Fantasy Bookshelf Bottom"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bookshelf_base_001_ref"
+  }
+}
+Assets {
+  Id: 4914027778279010537
+  Name: "Cone - Truncated Wide"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_003"
+  }
+}
+Assets {
+  Id: 4679114171005356007
+  Name: "Bone Human Skull 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_01_ref"
   }
 }
 Assets {
@@ -845,6 +1277,33 @@ Assets {
   }
 }
 Assets {
+  Id: 3846525402213664653
+  Name: "Branches Cluster Medium"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gen_branches_medium_001"
+  }
+}
+Assets {
+  Id: 3753434009625901326
+  Name: "Fantasy Chest Base 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_chest_001_ref"
+  }
+}
+Assets {
+  Id: 3697271826593255962
+  Name: "Fire and Flame Burning Loop Set 01 SFX"
+  PlatformAssetType: 10
+  PrimaryAsset {
+    AssetType: "AudioBlueprintAssetRef"
+    AssetId: "sfxabp_nature_fireloops_ref"
+  }
+}
+Assets {
   Id: 3682206342183528038
   Name: "Fantasy Sword Grip 01"
   PlatformAssetType: 1
@@ -860,6 +1319,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_Neon3_Ender_1s"
+  }
+}
+Assets {
+  Id: 3007033251064531162
+  Name: "Japanese - Stand Katana - Base 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_stand_katana_base_001_ref"
+  }
+}
+Assets {
+  Id: 3004047462944977121
+  Name: "Bottle 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_001"
   }
 }
 Assets {
@@ -890,12 +1367,39 @@ Assets {
   }
 }
 Assets {
+  Id: 2616613278967634593
+  Name: "Cylinder - Chamfered Small Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_hq_003"
+  }
+}
+Assets {
+  Id: 2571457165868365240
+  Name: "Candle Group Melted 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_candles_melted_001"
+  }
+}
+Assets {
   Id: 2561297505778815319
   Name: "Shield 03"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_shield_003"
+  }
+}
+Assets {
+  Id: 2417406625467012805
+  Name: "Fantasy Castle Trim - Battlement 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_battlement_001"
   }
 }
 Assets {
@@ -923,6 +1427,15 @@ Assets {
   PrimaryAsset {
     AssetType: "DecalBlueprintAssetRef"
     AssetId: "bp_decal_burned_streak_002_ref"
+  }
+}
+Assets {
+  Id: 2160476303725884379
+  Name: "Chandelier"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_chandelier_001"
   }
 }
 Assets {
@@ -962,6 +1475,15 @@ Assets {
   }
 }
 Assets {
+  Id: 1909548803215530403
+  Name: "Fantasy Bookshelf Middle"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bookshelf_middle_001_ref"
+  }
+}
+Assets {
   Id: 1679745791041877462
   Name: "Humanoid 1 Hockey Gear Pants"
   PlatformAssetType: 26
@@ -998,12 +1520,30 @@ Assets {
   }
 }
 Assets {
+  Id: 1137112816547272582
+  Name: "Cylinder"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_002"
+  }
+}
+Assets {
   Id: 1068712669931740096
   Name: "Cylinder - Polished"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_hq_test_001"
+  }
+}
+Assets {
+  Id: 1029773343709135169
+  Name: "Chain Tile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_chain_001"
   }
 }
 Assets {
@@ -1016,6 +1556,24 @@ Assets {
   }
 }
 Assets {
+  Id: 547699855050996244
+  Name: "Small Open Crate"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_narrow_open_simple_160cm_001"
+  }
+}
+Assets {
+  Id: 484599174979014815
+  Name: "Lens"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_lense_001"
+  }
+}
+Assets {
   Id: 461796175785413307
   Name: "Craftsman Porch Fence Post 01"
   PlatformAssetType: 1
@@ -1025,12 +1583,48 @@ Assets {
   }
 }
 Assets {
+  Id: 415773675815963383
+  Name: "Flower Bellflower 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_flower_bell_001_ref"
+  }
+}
+Assets {
+  Id: 279969531587649288
+  Name: "Japanese Tea Set - Tray 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_tea_set_tray_001_ref"
+  }
+}
+Assets {
   Id: 189212190271993885
   Name: "Fantasy Shield Strap 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_fan_shield_strap_001"
+  }
+}
+Assets {
+  Id: 132672053610873933
+  Name: "Plastic Matte"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_matte_001"
+  }
+}
+Assets {
+  Id: 69844939897041847
+  Name: "Emissive Glow Opaque"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_opaque_emissive"
   }
 }
 Assets {

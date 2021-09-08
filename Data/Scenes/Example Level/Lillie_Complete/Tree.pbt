@@ -36,41 +36,6 @@ Objects {
   }
 }
 Objects {
-  Id: 7535846522083836280
-  Name: "Lillie.RedRoom.MirrorMaze.Complete"
-  Transform {
-    Location {
-      X: -43200
-      Y: 4400
-      Z: -3600
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10736749405717629058
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_RedRoom_MirrorMaze_Complete"
-  }
-}
-Objects {
   Id: 8949849743083735974
   Name: "Lillie.LargeBlue.CollapsingLogs.Complete"
   Transform {

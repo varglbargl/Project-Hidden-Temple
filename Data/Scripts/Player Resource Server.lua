@@ -1,7 +1,10 @@
+local Utils = require(script:GetCustomProperty("Utils"))
+
 function savePlayerStorage(player)
   local playerData = {
     money = player:GetResource("Money"),
-    recentTreasure = player.serverUserData["RecentTreasure"]
+    recentTreasure = player.serverUserData["RecentTreasure"],
+    ownedTracks = player.serverUserData["OwnedTracks"]
   }
 
   return Storage.SetPlayerData(player, playerData)
@@ -19,15 +22,19 @@ function onPlayerJoined(player)
   if savedPlayerData.money then
     player:SetResource("Money", savedPlayerData.money)
   else
-    player:SetResource("Money", 0)
+    player:SetResource("Money", 100)
   end
 
   if savedPlayerData.recentTreasure then
     player.serverUserData["RecentTreasure"] = savedPlayerData.recentTreasure
-    Task.Wait()
-    Events.Broadcast("ShowTreasure", player, player.serverUserData["RecentTreasure"])
   else
     player.serverUserData["RecentTreasure"] = {}
+  end
+
+  if savedPlayerData.ownedTracks then
+    player.serverUserData["OwnedTracks"] = savedPlayerData.ownedTracks
+  else
+    player.serverUserData["OwnedTracks"] = {}
   end
 end
 

@@ -868,7 +868,7 @@ Objects {
 }
 Objects {
   Id: 17355675367784341653
-  Name: "The Manticornian Mantisword"
+  Name: "The  Mantisword"
   Transform {
     Location {
       X: -1985.49072
@@ -977,7 +977,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "The Manticornian Mantisword"
+          String: "The  Mantisword"
         }
         Overrides {
           Name: "Position"
