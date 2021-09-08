@@ -1,13 +1,10 @@
 Name: "Lillie_Complete"
 RootId: 1314173204896775892
 Objects {
-  Id: 10232095149695623691
-  Name: "Lillie.SmallBlue.SpinningThrones.FIx"
+  Id: 4304441598958603359
+  Name: "Lillie.RedRoom.ClockTower.Complete"
   Transform {
     Location {
-      X: -6200
-      Y: 24400
-      Z: -3600
     }
     Rotation {
     }
@@ -18,6 +15,14 @@ Objects {
     }
   }
   ParentId: 1314173204896775892
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:ExitLocation"
+      ObjectReference {
+        SelfId: 1464843456845976419
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -32,7 +37,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lillie_SmallBlue_SpinningThrones_FIx"
+    FilePartitionName: "Lillie_RedRoom_ClockTower_Complete"
   }
 }
 Objects {
@@ -16951,5 +16956,40 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Lillie_LargeBlue_LavaBlockFloor_Complete"
+  }
+}
+Objects {
+  Id: 10232095149695623691
+  Name: "Lillie.SmallBlue.SpinningThrones.FIx"
+  Transform {
+    Location {
+      X: -6200
+      Y: 24400
+      Z: -3600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1314173204896775892
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lillie_SmallBlue_SpinningThrones_FIx"
   }
 }
