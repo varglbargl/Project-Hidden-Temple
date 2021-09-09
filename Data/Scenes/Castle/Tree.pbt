@@ -146,6 +146,7 @@ Objects {
   ParentId: 4781671109827199097
   ChildIds: 10929350936391742798
   ChildIds: 14079295227001473412
+  ChildIds: 14812748733951437833
   ChildIds: 13981310805808893201
   ChildIds: 1491360838992769342
   Collidable_v2 {
@@ -181,6 +182,7 @@ Objects {
   ChildIds: 18111567436991446219
   ChildIds: 457646399428680653
   ChildIds: 14338934854809737898
+  ChildIds: 4880163757958583491
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -220,6 +222,64 @@ Objects {
       TargetAnchor {
         Anchor {
           Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 4880163757958583491
+  Name: "Activity Feed"
+  Transform {
+    Location {
+      X: 61.6367226
+      Y: 290.881195
+      Z: 375.064697
+    }
+    Rotation {
+      Yaw: -130.602463
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1491360838992769342
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Control {
+    Width: 300
+    Height: 300
+    UIX: -20
+    UIY: 20
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Panel {
+      Opacity: 1
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topright"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topright"
         }
       }
     }
@@ -1609,6 +1669,47 @@ Objects {
     Volume: 0.75
     Falloff: -1
     Radius: -1
+  }
+}
+Objects {
+  Id: 14812748733951437833
+  Name: "Activity Feed Client"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10232082603014648264
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:FeedPanel"
+      ObjectReference {
+        SelfId: 4880163757958583491
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 18241324273332827484
+    }
   }
 }
 Objects {

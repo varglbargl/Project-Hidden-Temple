@@ -65,6 +65,10 @@ Assets {
               SubObjectId: 11924228750217137029
             }
           }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was impaled on some spikes"
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

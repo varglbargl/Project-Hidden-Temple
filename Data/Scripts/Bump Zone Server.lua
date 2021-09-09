@@ -1,6 +1,11 @@
+local Utils = require(script:GetCustomProperty("Utils"))
+
 local FORCE = script:GetCustomProperty("Force")
 local PHYSICS_BUMPER = script:GetCustomProperty("PhysicsBumper")
 local KILL_PLAYER = script:GetCustomProperty("KillPlayer")
+
+local CAUSE_OF_DEATH = script:GetCustomProperty("CauseOfDeath")
+local KILL_FEED_ICON = script:GetCustomProperty("KillFeedIcon")
 
 local physicsBumper = nil
 
@@ -28,8 +33,10 @@ function onBeginOverlap(whichTrigger, other)
     if KILL_PLAYER then
       Task.Wait(0.05)
 
-      if Object.IsValid(other) then
+      if Object.IsValid(other) and not other.isDead then
         other:Die()
+
+        Utils.throttleToAllPlayers("PlayerDied", other, CAUSE_OF_DEATH, KILL_FEED_ICON)
       end
     end
 	end
