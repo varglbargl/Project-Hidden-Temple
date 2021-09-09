@@ -1,8 +1,11 @@
 local PICKUP_TRIGGER = script:GetCustomProperty("PickupTrigger"):WaitForObject()
 local COLLISION_OBJECT = script:GetCustomProperty("CollisionObject"):WaitForObject()
 local DESTROY_VFX = script:GetCustomProperty("DestroyVFX")
+local RESPAWN_VFX = script:GetCustomProperty("RespawnVFX")
 
 local throwableProp = script:FindAncestorByType("Weapon")
+local spawnPoint = throwableProp:GetWorldPosition()
+local spawnRotation = throwableProp:GetWorldRotation()
 local throwEvent = nil
 
 throwableProp.parent:SetWorldScale(Vector3.ONE)
@@ -26,11 +29,21 @@ function onPropThrown(thisWeapon, projectile)
     projectile.owner.serverUserData["Carrying"] = false
   end
 
-  throwEvent:Disconnect()
-  thisWeapon:Destroy()
+  thisWeapon.visibility = Visibility.FORCE_OFF
+  thisWeapon:SetWorldPosition(spawnPoint)
+  thisWeapon:SetWorldRotation(spawnRotation)
+  thisWeapon.currentAmmo = 1
 
   -- handler params: Projectile_projectile, Object_other, HitResult_pointOfContact
   projectile.impactEvent:Connect(onTargetImpacted)
+
+  Task.Wait(10 + math.random() * 5)
+
+  thisWeapon.visibility = Visibility.INHERIT
+  COLLISION_OBJECT.collision = Collision.INHERIT
+  PICKUP_TRIGGER.collision = Collision.INHERIT
+
+  World.SpawnAsset(RESPAWN_VFX, {position = spawnPoint + Vector3.UP * 50})
 end
 
 function onEquipped(thisTrigger, player)

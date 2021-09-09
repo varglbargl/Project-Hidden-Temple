@@ -1,6 +1,65 @@
 Name: "Level Geo"
 RootId: 16067840293383514247
 Objects {
+  Id: 15752524152692925217
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -800
+      Y: 4400
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -800
+            Y: 3600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
   Id: 7690191476212473004
   Name: "Gold Mine Wall - Lantern"
   Transform {
@@ -581,16 +640,16 @@ Objects {
   }
 }
 Objects {
-  Id: 13534090318107410873
+  Id: 1496570247752558707
   Name: "Gold Mine Floor - Roots"
   Transform {
     Location {
-      X: 3200
-      Y: -5200
-      Z: 600
+      X: 6400
+      Y: -6800
+      Z: -600
     }
     Rotation {
-      Yaw: 89.9999924
+      Yaw: -179.999985
     }
     Scale {
       X: 1
@@ -599,96 +658,588 @@ Objects {
     }
   }
   ParentId: 16067840293383514247
+  ChildIds: 18271600516648783735
+  ChildIds: 11668540101348068426
+  ChildIds: 12327467790198842002
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2025602851528972035
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Gold Mine Floor - Roots"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 6400
-            Y: -6800
-            Z: -600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999985
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12193068143502046010
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 318.063538
-            Y: -767.359253
-            Z: 30.6188965
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 15.5477228
-            Yaw: -153.792
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17674731215684595719
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 311.750671
-            Y: -773.669495
-            Z: 30.6188965
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -110.474396
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7922736511161490104
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 1496570247752558707
+    SubobjectId: 2025602851528972035
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+    WasRoot: true
   }
 }
 Objects {
-  Id: 8962101424871759124
+  Id: 12327467790198842002
+  Name: "Whitebox Floor 01 8m x 8m"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1496570247752558707
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 3692237107628534099
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 15093710052642923098
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 12327467790198842002
+    SubobjectId: 11802658217258753506
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 11668540101348068426
+  Name: "Glowshroom"
+  Transform {
+    Location {
+      X: 318.063538
+      Y: -767.359253
+      Z: 30.6188965
+    }
+    Rotation {
+      Pitch: 15.5477228
+      Yaw: -153.792
+    }
+    Scale {
+      X: 0.895969808
+      Y: 0.895969808
+      Z: 0.895969808
+    }
+  }
+  ParentId: 1496570247752558707
+  ChildIds: 5467109752142516003
+  ChildIds: 299381257879215886
+  ChildIds: 16396568524660403014
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 11668540101348068426
+    SubobjectId: 12193068143502046010
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 16396568524660403014
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -18.7383423
+      Z: 57.9902344
+    }
+    Rotation {
+      Pitch: -1.73312378
+      Yaw: -51.5140381
+      Roll: -172.558716
+    }
+    Scale {
+      X: 0.165435091
+      Y: 0.165434882
+      Z: 0.866225958
+    }
+  }
+  ParentId: 11668540101348068426
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16396568524660403014
+    SubobjectId: 16957408891692995638
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 299381257879215886
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -15.0259094
+      Z: 54.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11668540101348068426
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 299381257879215886
+    SubobjectId: 936498116580761726
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 5467109752142516003
+  Name: "Ring - Quarter Thick"
+  Transform {
+    Location {
+      Y: 33.8982849
+      Z: 43.0849609
+    }
+    Rotation {
+      Pitch: 12.7457466
+      Yaw: -91.7946167
+      Roll: -90.8948669
+    }
+    Scale {
+      X: 1.23882806
+      Y: 1.23882806
+      Z: 1.23882806
+    }
+  }
+  ParentId: 11668540101348068426
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5482194773017849499
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 5467109752142516003
+    SubobjectId: 4829990630095974483
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 18271600516648783735
+  Name: "Glowshroom"
+  Transform {
+    Location {
+      X: 311.750671
+      Y: -773.669495
+      Z: 30.6188965
+    }
+    Rotation {
+      Yaw: -110.474396
+    }
+    Scale {
+      X: 0.611995935
+      Y: 0.611995935
+      Z: 0.611995935
+    }
+  }
+  ParentId: 1496570247752558707
+  ChildIds: 15961206008213897034
+  ChildIds: 1557576645288106008
+  ChildIds: 10049494125965645514
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 18271600516648783735
+    SubobjectId: 17674731215684595719
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 10049494125965645514
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -18.7383423
+      Z: 57.9902344
+    }
+    Rotation {
+      Pitch: -1.73312378
+      Yaw: -51.5140381
+      Roll: -172.558716
+    }
+    Scale {
+      X: 0.165435091
+      Y: 0.165434882
+      Z: 0.866225958
+    }
+  }
+  ParentId: 18271600516648783735
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 10049494125965645514
+    SubobjectId: 9488653475120949690
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 1557576645288106008
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -15.0259094
+      Z: 54.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18271600516648783735
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 1557576645288106008
+    SubobjectId: 2109125043404744552
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 15961206008213897034
+  Name: "Ring - Quarter Thick"
+  Transform {
+    Location {
+      Y: 33.8982849
+      Z: 43.0849609
+    }
+    Rotation {
+      Pitch: 12.7457466
+      Yaw: -91.7946167
+      Roll: -90.8948669
+    }
+    Scale {
+      X: 1.23882806
+      Y: 1.23882806
+      Z: 1.23882806
+    }
+  }
+  ParentId: 18271600516648783735
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5482194773017849499
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 15961206008213897034
+    SubobjectId: 15373347346716409914
+    InstanceId: 13534090318107410873
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 17638189730146131197
   Name: "Gold Mine Floor - Basic"
   Transform {
     Location {
       X: 7200
       Y: -6000
-      Z: 600
     }
     Rotation {
     }
@@ -699,45 +1250,143 @@ Objects {
     }
   }
   ParentId: 16067840293383514247
+  ChildIds: 1409540885630748020
+  ChildIds: 14923430070057935487
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14575809002132888382
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Gold Mine Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 7200
-            Y: -6000
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 17638189730146131197
+    SubobjectId: 14575809002132888382
+    InstanceId: 8962101424871759124
+    TemplateId: 18067679436320315355
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 14923430070057935487
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: 668.682129
+      Y: -188.749802
+      Z: 26
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.01
+    }
+  }
+  ParentId: 17638189730146131197
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+  InstanceHistory {
+    SelfId: 14923430070057935487
+    SubobjectId: 17409352107352417724
+    InstanceId: 8962101424871759124
+    TemplateId: 18067679436320315355
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 1409540885630748020
+  Name: "Whitebox Floor 01 8m x 8m"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17638189730146131197
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 3692237107628534099
       }
     }
-    TemplateAsset {
-      Id: 18067679436320315355
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 15093710052642923098
+      }
     }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1409540885630748020
+    SubobjectId: 3246933582131151543
+    InstanceId: 8962101424871759124
+    TemplateId: 18067679436320315355
   }
 }
 Objects {
@@ -1133,13 +1782,13 @@ Objects {
   }
 }
 Objects {
-  Id: 16522594410759206189
+  Id: 7004318025841842960
   Name: "Gold Mine Floor - Roots"
   Transform {
     Location {
       X: 3200
       Y: -5200
-      Z: 1200
+      Z: 600
     }
     Rotation {
       Yaw: 89.9999924
@@ -1151,47 +1800,579 @@ Objects {
     }
   }
   ParentId: 16067840293383514247
+  ChildIds: 9827267016211266580
+  ChildIds: 15284742086459277097
+  ChildIds: 16060753471808311793
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2025602851528972035
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Gold Mine Floor - Roots"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3200
-            Y: -5200
-            Z: 600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 7004318025841842960
+    SubobjectId: 2025602851528972035
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 16060753471808311793
+  Name: "Whitebox Floor 01 8m x 8m"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7004318025841842960
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 3692237107628534099
       }
     }
-    TemplateAsset {
-      Id: 7922736511161490104
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 15093710052642923098
+      }
     }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16060753471808311793
+    SubobjectId: 11802658217258753506
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 15284742086459277097
+  Name: "Glowshroom"
+  Transform {
+    Location {
+      X: 318.063721
+      Y: -767.359497
+      Z: 30.6188965
+    }
+    Rotation {
+      Pitch: 15.5477228
+      Yaw: 161.208008
+    }
+    Scale {
+      X: 0.895969808
+      Y: 0.895969808
+      Z: 0.895969808
+    }
+  }
+  ParentId: 7004318025841842960
+  ChildIds: 4480984661121170496
+  ChildIds: 8203070595342167149
+  ChildIds: 10843793408999643173
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 15284742086459277097
+    SubobjectId: 12193068143502046010
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 10843793408999643173
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -18.7383423
+      Z: 57.9902344
+    }
+    Rotation {
+      Pitch: -1.73312378
+      Yaw: -51.5140381
+      Roll: -172.558716
+    }
+    Scale {
+      X: 0.165435091
+      Y: 0.165434882
+      Z: 0.866225958
+    }
+  }
+  ParentId: 15284742086459277097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 10843793408999643173
+    SubobjectId: 16957408891692995638
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 8203070595342167149
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -15.0259094
+      Z: 54.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15284742086459277097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 8203070595342167149
+    SubobjectId: 936498116580761726
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 4480984661121170496
+  Name: "Ring - Quarter Thick"
+  Transform {
+    Location {
+      Y: 33.8982849
+      Z: 43.0849609
+    }
+    Rotation {
+      Pitch: 12.7457466
+      Yaw: -91.7946167
+      Roll: -90.8948669
+    }
+    Scale {
+      X: 1.23882806
+      Y: 1.23882806
+      Z: 1.23882806
+    }
+  }
+  ParentId: 15284742086459277097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5482194773017849499
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 4480984661121170496
+    SubobjectId: 4829990630095974483
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 9827267016211266580
+  Name: "Glowshroom"
+  Transform {
+    Location {
+      X: 309.137207
+      Y: -767.359497
+      Z: 30.6188965
+    }
+    Rotation {
+      Yaw: -155.474411
+    }
+    Scale {
+      X: 0.611995935
+      Y: 0.611995935
+      Z: 0.611995935
+    }
+  }
+  ParentId: 7004318025841842960
+  ChildIds: 12137531777987497001
+  ChildIds: 6948257218727324539
+  ChildIds: 18340431460660422057
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 9827267016211266580
+    SubobjectId: 17674731215684595719
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 18340431460660422057
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -18.7383423
+      Z: 57.9902344
+    }
+    Rotation {
+      Pitch: -1.73312378
+      Yaw: -51.5140381
+      Roll: -172.558716
+    }
+    Scale {
+      X: 0.165435091
+      Y: 0.165434882
+      Z: 0.866225958
+    }
+  }
+  ParentId: 9827267016211266580
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 18340431460660422057
+    SubobjectId: 9488653475120949690
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 6948257218727324539
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -15.0259094
+      Z: 54.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9827267016211266580
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 6948257218727324539
+    SubobjectId: 2109125043404744552
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 12137531777987497001
+  Name: "Ring - Quarter Thick"
+  Transform {
+    Location {
+      Y: 33.8982849
+      Z: 43.0849609
+    }
+    Rotation {
+      Pitch: 12.7457466
+      Yaw: -91.7946167
+      Roll: -90.8948669
+    }
+    Scale {
+      X: 1.23882806
+      Y: 1.23882806
+      Z: 1.23882806
+    }
+  }
+  ParentId: 9827267016211266580
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5482194773017849499
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 12137531777987497001
+    SubobjectId: 15373347346716409914
+    InstanceId: 16522594410759206189
+    TemplateId: 7922736511161490104
   }
 }
 Objects {
@@ -1257,7 +2438,164 @@ Objects {
   }
 }
 Objects {
-  Id: 12508405938679005456
+  Id: 224876649630700499
+  Name: "Gold Mine Floor - Basic"
+  Transform {
+    Location {
+      X: 3200
+      Y: -6000
+      Z: 600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  ChildIds: 16453388812385520218
+  ChildIds: 4090166283459800401
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 224876649630700499
+    SubobjectId: 14575809002132888382
+    InstanceId: 12508405938679005456
+    TemplateId: 18067679436320315355
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 4090166283459800401
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: 668.682129
+      Y: -188.749802
+      Z: 26
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.01
+    }
+  }
+  ParentId: 224876649630700499
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+  InstanceHistory {
+    SelfId: 4090166283459800401
+    SubobjectId: 17409352107352417724
+    InstanceId: 12508405938679005456
+    TemplateId: 18067679436320315355
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 16453388812385520218
+  Name: "Whitebox Floor 01 8m x 8m"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 224876649630700499
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 3692237107628534099
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 15093710052642923098
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16453388812385520218
+    SubobjectId: 3246933582131151543
+    InstanceId: 12508405938679005456
+    TemplateId: 18067679436320315355
+  }
+}
+Objects {
+  Id: 8918455721834571194
   Name: "Gold Mine Floor - Basic"
   Transform {
     Location {
@@ -1274,56 +2612,86 @@ Objects {
     }
   }
   ParentId: 16067840293383514247
+  ChildIds: 11280525128680307763
+  ChildIds: 4618833623051524920
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14575809002132888382
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Gold Mine Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3200
-            Y: -6000
-            Z: 600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18067679436320315355
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 8918455721834571194
+    SubobjectId: 14575809002132888382
+    InstanceId: 11740249280747869493
+    TemplateId: 18067679436320315355
+    WasRoot: true
   }
 }
 Objects {
-  Id: 11740249280747869493
-  Name: "Gold Mine Floor - Basic"
+  Id: 4618833623051524920
+  Name: "Decal Dirt Patch"
   Transform {
     Location {
-      X: 3200
-      Y: -4400
-      Z: 600
+      X: 668.682129
+      Y: -188.749802
+      Z: 26
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.01
+    }
+  }
+  ParentId: 8918455721834571194
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+  InstanceHistory {
+    SelfId: 4618833623051524920
+    SubobjectId: 17409352107352417724
+    InstanceId: 11740249280747869493
+    TemplateId: 18067679436320315355
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 11280525128680307763
+  Name: "Whitebox Floor 01 8m x 8m"
+  Transform {
+    Location {
     }
     Rotation {
     }
@@ -1333,47 +2701,54 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16067840293383514247
+  ParentId: 8918455721834571194
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 3692237107628534099
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 15093710052642923098
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14575809002132888382
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Gold Mine Floor - Basic"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3200
-            Y: -5200
-            Z: 600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
+      BoundsScale: 1
     }
-    TemplateAsset {
-      Id: 18067679436320315355
-    }
+  }
+  InstanceHistory {
+    SelfId: 11280525128680307763
+    SubobjectId: 3246933582131151543
+    InstanceId: 11740249280747869493
+    TemplateId: 18067679436320315355
   }
 }
 Objects {
@@ -1438,9 +2813,17 @@ Objects {
   }
 }
 Objects {
-  Id: 4763072278127282253
+  Id: 6149079539096928771
   Name: "Gold Mine Floor - Roots"
   Transform {
+    Location {
+      X: 3200
+      Y: -5200
+      Z: 1200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
     Scale {
       X: 1
       Y: 1
@@ -1448,47 +2831,291 @@ Objects {
     }
   }
   ParentId: 16067840293383514247
+  ChildIds: 16898349474384201954
+  ChildIds: 15721495858710806669
+  ChildIds: 12343578997093922937
+  ChildIds: 16869736772116565600
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2025602851528972035
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Gold Mine Floor - Roots"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3200
-            Y: -5200
-            Z: 1200
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6149079539096928771
+    SubobjectId: 2025602851528972035
+    InstanceId: 4763072278127282253
+    TemplateId: 7922736511161490104
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 16869736772116565600
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 425
+      Y: -156.738525
+      Z: -53.5805664
+    }
+    Rotation {
+      Pitch: 5.86221457
+      Yaw: 88.2373886
+      Roll: 83.5058594
+    }
+    Scale {
+      X: 1.1
+      Y: 1.4
+      Z: 3.20000029
+    }
+  }
+  ParentId: 6149079539096928771
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.854000032
+        G: 0.77287
+        B: 0.725900054
+        A: 1
       }
     }
-    TemplateAsset {
-      Id: 7922736511161490104
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1425321740097104278
     }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16869736772116565600
+    SubobjectId: 11769260955849169760
+    InstanceId: 4763072278127282253
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 12343578997093922937
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 430
+      Y: -680
+      Z: -49.5258789
+    }
+    Rotation {
+      Pitch: 8.43383503
+      Yaw: -90.1341553
+      Roll: -83.4704
+    }
+    Scale {
+      X: 1.1
+      Y: 1.4
+      Z: 3.20000029
+    }
+  }
+  ParentId: 6149079539096928771
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.854000032
+        G: 0.77287
+        B: 0.725900054
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13345775581118003980
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 12343578997093922937
+    SubobjectId: 16286348859068165497
+    InstanceId: 4763072278127282253
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 15721495858710806669
+  Name: "Branches Cluster Big"
+  Transform {
+    Location {
+      X: 407.610352
+      Y: -403.981201
+      Z: -11.5847168
+    }
+    Rotation {
+      Roll: -179.999969
+    }
+    Scale {
+      X: 0.700778484
+      Y: 0.700778484
+      Z: 0.700778484
+    }
+  }
+  ParentId: 6149079539096928771
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Branch:id"
+      AssetReference {
+        Id: 1385858654310809660
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15044739087899138083
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 15721495858710806669
+    SubobjectId: 10620738490157127053
+    InstanceId: 4763072278127282253
+    TemplateId: 7922736511161490104
+  }
+}
+Objects {
+  Id: 16898349474384201954
+  Name: "Whitebox Floor 01 8m x 8m"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6149079539096928771
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 3692237107628534099
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 15093710052642923098
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7207757223016895409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16898349474384201954
+    SubobjectId: 11802658217258753506
+    InstanceId: 4763072278127282253
+    TemplateId: 7922736511161490104
   }
 }
 Objects {
