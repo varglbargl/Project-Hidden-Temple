@@ -222,6 +222,18 @@ Assets {
           }
         }
         ParentId: 7913356562966027295
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "tried to swim in some lava"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 2040044343117508018
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -558,6 +570,15 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "fxmi_burning_erode"
+      }
+    }
+    Assets {
+      Id: 2040044343117508018
+      Name: "Icon Player Swim"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_PlayerSwim"
       }
     }
     Assets {

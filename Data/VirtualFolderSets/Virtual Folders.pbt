@@ -116,5 +116,9 @@ Assets {
       VirtualFolderPath: "Treasure"
       PlatformAssetType: 5
     }
+    Folders {
+      VirtualFolderPath: "UI Templates"
+      PlatformAssetType: 5
+    }
   }
 }

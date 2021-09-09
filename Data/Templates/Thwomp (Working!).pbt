@@ -7,7 +7,7 @@ Assets {
       RootId: 5734853048270674047
       Objects {
         Id: 5734853048270674047
-        Name: "Thwomp"
+        Name: "Thwomp (Working!)"
         Transform {
           Scale {
             X: 1
@@ -721,6 +721,18 @@ Assets {
           }
         }
         ParentId: 8552269901109037519
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was stomped by a thwomp"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 5894056441828342197
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

@@ -22026,6 +22026,18 @@ Assets {
           }
         }
         ParentId: 7412746102705617365
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "fell into a pit of spikes"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 14606651667337095068
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -28590,6 +28602,15 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_ts_fan_cas_pillar_002_mid"
+      }
+    }
+    Assets {
+      Id: 14606651667337095068
+      Name: "Electric Loop"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Scifi_Icon_044"
       }
     }
     Assets {

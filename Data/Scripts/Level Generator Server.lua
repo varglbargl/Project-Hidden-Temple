@@ -13,6 +13,10 @@ local spawnedRooms = {}
 local treasuresPlaced = 0
 local exitPlaced = false
 
+local smallRoomsPlaced = 0
+local largeRoomsPlaced = 0
+local redRoomsPlaced = 0
+
 function placeTreasureRoom(spawedRoom)
   local exitLocation = spawedRoom:GetCustomProperty("ExitLocation"):WaitForObject()
   local treasureRoomToSpawn = TREASURE_ROOM_TABLE[math.random(1, #TREASURE_ROOM_TABLE)]
@@ -32,15 +36,18 @@ for _, roomSlot in ipairs(roomSlots) do
 
   if roomType == "Small" then
     if exitPlaced then
-      roomToSpawn = table.remove(SMALL_BLUE_ROOM_TABLE, 1)
+      smallRoomsPlaced = smallRoomsPlaced % #SMALL_BLUE_ROOM_TABLE + 1
+      roomToSpawn = SMALL_BLUE_ROOM_TABLE[smallRoomsPlaced]
     else
       roomToSpawn = EXIT_ROOM
       exitPlaced = true
     end
   elseif roomType == "Large" then
-    roomToSpawn = table.remove(LARGE_BLUE_ROOM_TABLE, 1)
+    largeRoomsPlaced = largeRoomsPlaced % #LARGE_BLUE_ROOM_TABLE + 1
+    roomToSpawn = LARGE_BLUE_ROOM_TABLE[largeRoomsPlaced]
   elseif roomType == "Puzzle" then
-    roomToSpawn = table.remove(RED_ROOM_TABLE, 1)
+    redRoomsPlaced = redRoomsPlaced % #RED_ROOM_TABLE + 1
+    roomToSpawn = RED_ROOM_TABLE[redRoomsPlaced]
   end
 
   local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot})
