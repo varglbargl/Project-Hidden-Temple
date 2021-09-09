@@ -557,5 +557,5 @@ Assets {
     }
   }
   SerializationVersion: 98
-  VirtualFolderPath: "Game Components"
+  VirtualFolderPath: "UI Templates"
 }

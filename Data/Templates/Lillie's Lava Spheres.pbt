@@ -5443,6 +5443,18 @@ Assets {
           }
         }
         ParentId: 7325801916050359881
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -5765,6 +5777,18 @@ Assets {
           }
         }
         ParentId: 2377045747181255087
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -6087,6 +6111,18 @@ Assets {
           }
         }
         ParentId: 149004915597823141
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -6409,6 +6445,18 @@ Assets {
           }
         }
         ParentId: 8640043287220436459
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -6810,6 +6858,18 @@ Assets {
           }
         }
         ParentId: 8760740666930394273
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7067,6 +7127,18 @@ Assets {
           }
         }
         ParentId: 3435663644727412115
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7324,6 +7396,18 @@ Assets {
           }
         }
         ParentId: 2312541904240554650
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7581,6 +7665,18 @@ Assets {
           }
         }
         ParentId: 7374514371035281382
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 12533572122646290961
+            }
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hit by a ball of lava"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7883,6 +7979,18 @@ Assets {
           }
         }
         ParentId: 8688855894098038646
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "tried to swim in some lava"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 2040044343117508018
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -8099,6 +8207,24 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_sphere_002"
+      }
+    }
+    Assets {
+      Id: 12533572122646290961
+      Name: "Icon Fireball"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Fireball"
+      }
+    }
+    Assets {
+      Id: 2040044343117508018
+      Name: "Icon Player Swim"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_PlayerSwim"
       }
     }
     PrimaryAssetId {

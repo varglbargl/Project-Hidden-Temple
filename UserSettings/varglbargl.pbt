@@ -1424,7 +1424,6 @@ ObjectSettings {
   ObjectStates {
     key: 457646399428680653
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -15768,6 +15767,12 @@ ObjectSettings {
   ObjectStates {
     key: 5129422150323148784
     value {
+    }
+  }
+  ObjectStates {
+    key: 5130828969459709144
+    value {
+      IsHidden: true
     }
   }
   ObjectStates {
@@ -45235,6 +45240,12 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 14887527160401969292
+    value {
+      IsHidden: true
+    }
+  }
+  ObjectStates {
     key: 14891758371251516677
     value {
     }
@@ -55068,7 +55079,6 @@ ObjectSettings {
   ObjectStates {
     key: 18111567436991446219
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -56207,4 +56217,4 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Lobby"
+LastSavedScene: "Castle"

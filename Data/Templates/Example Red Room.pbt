@@ -10784,6 +10784,10 @@ Assets {
             Name: "cs:KillPlayer"
             Bool: true
           }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was mulched by a spiky log trap"
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -12528,6 +12532,10 @@ Assets {
           Overrides {
             Name: "cs:KillPlayer"
             Bool: true
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was mulched by a spiky log trap"
           }
         }
         WantsNetworking: true
@@ -15201,9 +15209,9 @@ Assets {
         Name: "Physics Prop Launcher"
         Transform {
           Location {
-            X: -164.853638
+            X: -179.096924
             Y: -6.10351562e-05
-            Z: 141.890137
+            Z: 145.952637
           }
           Rotation {
             Pitch: 166.296951
@@ -18344,6 +18352,10 @@ Assets {
           Overrides {
             Name: "cs:KillPlayer"
             Bool: true
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was mulched by a spiky log trap"
           }
         }
         WantsNetworking: true

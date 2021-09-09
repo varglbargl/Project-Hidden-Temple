@@ -145,6 +145,16 @@ Assets {
             Name: "cs:KillPlayer"
             Bool: true
           }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was hugged by a minotaur"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 16737201788430173059
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -6294,6 +6304,15 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_capsule_001"
+      }
+    }
+    Assets {
+      Id: 16737201788430173059
+      Name: "Destroy"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Urban_Icon_045"
       }
     }
     Assets {

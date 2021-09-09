@@ -138,6 +138,18 @@ Assets {
           }
         }
         ParentId: 4356782336833115113
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -5443,6 +5455,15 @@ Assets {
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_heavy_mechanical_door_airlock_02_Cue_ref"
+      }
+    }
+    Assets {
+      Id: 15603238010945390078
+      Name: "Icon Random"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Random"
       }
     }
     Assets {

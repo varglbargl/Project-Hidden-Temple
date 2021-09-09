@@ -4836,6 +4836,18 @@ Assets {
           }
         }
         ParentId: 16981965868166550929
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "sank in some poison ooze"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 10320015854653614954
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -12939,6 +12951,15 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_coral_table_02"
+      }
+    }
+    Assets {
+      Id: 10320015854653614954
+      Name: "Cauldron"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Fantasy_Icon_Cauldron"
       }
     }
     Assets {
