@@ -22026,6 +22026,18 @@ Assets {
           }
         }
         ParentId: 7412746102705617365
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "fell into a pit of spikes"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 14606651667337095068
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -28593,6 +28605,15 @@ Assets {
       }
     }
     Assets {
+      Id: 14606651667337095068
+      Name: "Electric Loop"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Scifi_Icon_044"
+      }
+    }
+    Assets {
       Id: 9505772752897726232
       Name: "Stone Block Standard"
       PlatformAssetType: 1
@@ -28624,7 +28645,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Blue Rooms"
   VirtualFolderPath: "Small"

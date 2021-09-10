@@ -556,6 +556,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
-  VirtualFolderPath: "Game Components"
+  SerializationVersion: 98
+  VirtualFolderPath: "UI Templates"
 }

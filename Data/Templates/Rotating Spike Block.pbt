@@ -138,6 +138,18 @@ Assets {
           }
         }
         ParentId: 4356782336833115113
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -5446,6 +5458,15 @@ Assets {
       }
     }
     Assets {
+      Id: 15603238010945390078
+      Name: "Icon Random"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Random"
+      }
+    }
+    Assets {
       Id: 12095835209017042614
       Name: "Cube"
       PlatformAssetType: 1
@@ -5495,6 +5516,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Game Components"
 }

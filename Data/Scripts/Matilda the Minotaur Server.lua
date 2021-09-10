@@ -17,6 +17,12 @@ local currentPatrolNode = 1
 local patrolDirection = 1
 local isCharging = false
 
+function walkToPoint(walkDistance)
+  matilda:MoveTo(walkDestination, walkDistance / 200)
+  script:LookAt(walkDestination)
+  matilda:RotateTo(Rotation.New(0, 0, script:GetWorldRotation().z), 0.25)
+end
+
 function Tick()
   local matildaPos = matilda:GetWorldPosition()
   local sightPos = script:GetWorldPosition()
@@ -80,17 +86,12 @@ function Tick()
   end
 
   if not isCharging then
+    local walkDistance = (matildaPos - walkDestination).size
+
     if patrolNodes then
       -- PATROL
-      walkDestination = Utils.groundBelowPoint(patrolNodes[currentPatrolNode]:GetWorldPosition())
-      local patrolDistance = (matildaPos - walkDestination).size
-
-      if patrolDistance > 50 then
-
-        matilda:MoveTo(walkDestination, patrolDistance / 200)
-        script:LookAt(walkDestination)
-        script:SetWorldRotation(Rotation.New(0, 0, script:GetWorldRotation().z))
-        matilda:RotateTo(script:GetWorldRotation(), 0.25)
+      if walkDistance > 50 then
+        walkToPoint(walkDistance)
       else
         if currentPatrolNode == 1 then
           patrolDirection = 1
@@ -98,17 +99,13 @@ function Tick()
           patrolDirection = -1
         end
 
+        walkDestination = Utils.groundBelowPoint(patrolNodes[currentPatrolNode]:GetWorldPosition())
         currentPatrolNode = currentPatrolNode + patrolDirection
       end
     else
       -- WANDER
-      local wanderDistance = (matildaPos - walkDestination).size
-
-      if wanderDistance > 50 then
-        matilda:MoveTo(walkDestination, wanderDistance / 200)
-        script:LookAt(walkDestination)
-        script:SetWorldRotation(Rotation.New(0, 0, script:GetWorldRotation().z))
-        matilda:RotateTo(script:GetWorldRotation(), 0.25)
+      if walkDistance > 50 then
+        walkToPoint(walkDistance)
       else
         walkDestination = Utils.groundBelowPoint(spawnPoint + Vector3.New(math.random(-500, 500), math.random(-500, 500), 50))
       end

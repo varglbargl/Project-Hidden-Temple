@@ -222,6 +222,18 @@ Assets {
           }
         }
         ParentId: 7913356562966027295
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "tried to swim in some lava"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 2040044343117508018
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -561,6 +573,15 @@ Assets {
       }
     }
     Assets {
+      Id: 2040044343117508018
+      Name: "Icon Player Swim"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_PlayerSwim"
+      }
+    }
+    Assets {
       Id: 10190673120971646998
       Name: "Gibs Explosion VFX"
       PlatformAssetType: 8
@@ -601,6 +622,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Game Components"
 }

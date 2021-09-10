@@ -3443,6 +3443,18 @@ Assets {
           }
         }
         ParentId: 53642008958318140
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "sank in some poison ooze"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 10320015854653614954
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -4848,6 +4860,15 @@ Assets {
       }
     }
     Assets {
+      Id: 10320015854653614954
+      Name: "Cauldron"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Fantasy_Icon_Cauldron"
+      }
+    }
+    Assets {
       Id: 12631099074368817868
       Name: "Teardrop - Truncated"
       PlatformAssetType: 1
@@ -4879,7 +4900,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Blue Rooms"
   VirtualFolderPath: "Small"

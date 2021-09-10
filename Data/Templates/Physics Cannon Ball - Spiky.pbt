@@ -7,7 +7,7 @@ Assets {
       RootId: 17471752085939592091
       Objects {
         Id: 17471752085939592091
-        Name: "Physics Cannon Ball"
+        Name: "Physics Cannon Ball - Spiky"
         Transform {
           Scale {
             X: 1
@@ -45,6 +45,10 @@ Assets {
           Radius: 32
           DamageSettings {
             StartImmortal: true
+            DestroyOnDeathClientTemplateId {
+            }
+            DestroyOnDeathNetworkedTemplateId {
+            }
           }
         }
       }
@@ -116,6 +120,16 @@ Assets {
           Overrides {
             Name: "cs:KillPlayer"
             Bool: true
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was shot by a cannon ball"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 11251536002322722410
+            }
           }
         }
         WantsNetworking: true
@@ -902,6 +916,15 @@ Assets {
       }
     }
     Assets {
+      Id: 11251536002322722410
+      Name: "Cannon"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Cannon"
+      }
+    }
+    Assets {
       Id: 13894445539016998719
       Name: "Sphere"
       PlatformAssetType: 1
@@ -942,6 +965,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Game Components"
 }

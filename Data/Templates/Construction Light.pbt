@@ -1434,7 +1434,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
-  VirtualFolderPath: "Rooms"
+  SerializationVersion: 98
   VirtualFolderPath: "Props"
 }

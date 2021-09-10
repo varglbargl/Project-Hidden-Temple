@@ -29537,6 +29537,18 @@ Assets {
           }
         }
         ParentId: 11359983093052125968
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -34973,6 +34985,18 @@ Assets {
           }
         }
         ParentId: 16156378665331386637
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -40409,6 +40433,18 @@ Assets {
           }
         }
         ParentId: 8122629816435651168
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -45847,6 +45883,18 @@ Assets {
           }
         }
         ParentId: 12225933240491727123
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -51284,6 +51332,18 @@ Assets {
           }
         }
         ParentId: 16007110969865515147
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -56722,6 +56782,18 @@ Assets {
           }
         }
         ParentId: 6825004521242416222
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -62160,6 +62232,18 @@ Assets {
           }
         }
         ParentId: 15110224340372162396
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "stepped on a spike block"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 15603238010945390078
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -67513,6 +67597,12 @@ Assets {
           }
         }
         ParentId: 13243638274938647209
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was impaled on some spikes"
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -67687,6 +67777,15 @@ Assets {
       }
     }
     Assets {
+      Id: 15603238010945390078
+      Name: "Icon Random"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Random"
+      }
+    }
+    Assets {
       Id: 14525364215432239736
       Name: "Decal Sci-fi Details 01"
       PlatformAssetType: 14
@@ -67700,7 +67799,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Blue Rooms"
   VirtualFolderPath: "Small"

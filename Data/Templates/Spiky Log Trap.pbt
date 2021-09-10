@@ -169,6 +169,7 @@ Assets {
         ParentId: 4739550771273911369
         ChildIds: 3554706945084840276
         ChildIds: 8986584370576817521
+        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -249,6 +250,10 @@ Assets {
           Overrides {
             Name: "cs:KillPlayer"
             Bool: true
+          }
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "was mulched by a spiky log trap"
           }
         }
         WantsNetworking: true
@@ -1878,6 +1883,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 97
+  SerializationVersion: 98
   VirtualFolderPath: "Game Components"
 }
