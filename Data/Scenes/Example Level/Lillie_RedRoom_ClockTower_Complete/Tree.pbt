@@ -354,7 +354,7 @@ Objects {
       Z: 4000
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -402,7 +402,7 @@ Objects {
       Z: 3875
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -450,7 +450,7 @@ Objects {
       Z: 3750
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -498,7 +498,7 @@ Objects {
       Z: 3625
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1

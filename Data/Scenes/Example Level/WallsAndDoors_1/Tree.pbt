@@ -4194,7 +4194,7 @@ Objects {
       Y: -400
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4259,7 +4259,7 @@ Objects {
       Y: 400
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4324,7 +4324,7 @@ Objects {
       Y: 1200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4390,7 +4390,7 @@ Objects {
       Z: 600
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4456,7 +4456,7 @@ Objects {
       Z: 600
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4522,7 +4522,7 @@ Objects {
       Z: 600
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4588,7 +4588,7 @@ Objects {
       Z: 1200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4654,7 +4654,7 @@ Objects {
       Z: 1800
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4720,7 +4720,7 @@ Objects {
       Z: 1800
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4786,7 +4786,7 @@ Objects {
       Z: 1800
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4852,7 +4852,7 @@ Objects {
       Z: 1200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -4944,7 +4944,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -89.9999924
+            Yaw: -90
           }
         }
         Overrides {

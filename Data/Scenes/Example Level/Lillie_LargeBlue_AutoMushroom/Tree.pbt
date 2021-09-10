@@ -10,7 +10,7 @@ Objects {
       Z: 200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 8
@@ -109,8 +109,8 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -89.9999924
-            Roll: -22.4999828
+            Yaw: -90
+            Roll: -22.4999695
           }
         }
         Overrides {
@@ -138,9 +138,9 @@ Objects {
       Z: -300
     }
     Rotation {
-      Pitch: -67.4999313
+      Pitch: -67.499939
       Yaw: 4.46202876e-06
-      Roll: -89.9999771
+      Roll: -89.9999695
     }
     Scale {
       X: 2
@@ -204,7 +204,7 @@ Objects {
       Z: -200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 2
@@ -268,7 +268,7 @@ Objects {
       Z: -200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 2
@@ -459,7 +459,7 @@ Objects {
       Z: 200
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 8
@@ -995,7 +995,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -89.9999847
+            Yaw: -90
             Roll: 89.9999847
           }
         }
@@ -1150,7 +1150,7 @@ Objects {
       Z: 400
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1257,7 +1257,7 @@ Objects {
       Z: 400
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -1364,7 +1364,7 @@ Objects {
       Z: -800
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 5
@@ -1471,7 +1471,7 @@ Objects {
       Z: 400
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 3
@@ -1578,7 +1578,7 @@ Objects {
       Z: 1600
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 5
@@ -1711,7 +1711,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -89.9999924
+            Yaw: -90
           }
         }
         Overrides {

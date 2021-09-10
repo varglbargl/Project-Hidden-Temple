@@ -1,4 +1,4 @@
-Name: "Lillie_SmallBlue_SpinningThrones_FIx"
+Name: "Lillie_SmallBlue_SpinningThrones_Complete"
 RootId: 10232095149695623691
 Objects {
   Id: 1581592229843032033
@@ -1092,7 +1092,7 @@ Objects {
     }
     Rotation {
       Yaw: -179.999969
-      Roll: -89.9999847
+      Roll: -90
     }
     Scale {
       X: 1.44444442
@@ -1147,7 +1147,7 @@ Objects {
       Z: 361.111084
     }
     Rotation {
-      Roll: -89.9999924
+      Roll: -90
     }
     Scale {
       X: 1.44444442
@@ -1202,7 +1202,7 @@ Objects {
       Z: -55.5555534
     }
     Rotation {
-      Roll: -89.9999924
+      Roll: -90
     }
     Scale {
       X: 10.1111021
@@ -1258,7 +1258,7 @@ Objects {
     }
     Rotation {
       Yaw: -179.999969
-      Roll: -89.9999847
+      Roll: -90
     }
     Scale {
       X: 10.1111021
@@ -1313,7 +1313,7 @@ Objects {
     }
     Rotation {
       Yaw: -179.999985
-      Roll: -89.9999847
+      Roll: -90
     }
     Scale {
       X: 3.77777815
@@ -1367,7 +1367,7 @@ Objects {
     Location {
     }
     Rotation {
-      Roll: -89.9999924
+      Roll: -90
     }
     Scale {
       X: 3.77777815
@@ -1542,7 +1542,6 @@ Objects {
       Z: -20
     }
     Rotation {
-      Yaw: -1.02452796e-05
     }
     Scale {
       X: 21

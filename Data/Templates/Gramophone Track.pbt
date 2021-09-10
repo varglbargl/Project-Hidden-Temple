@@ -557,5 +557,9 @@ Assets {
     }
   }
   SerializationVersion: 98
+<<<<<<< Updated upstream
   VirtualFolderPath: "UI Templates"
+=======
+  VirtualFolderPath: "Game Components"
+>>>>>>> Stashed changes
 }

@@ -72,6 +72,16 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 952427535680432759
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 3017003455874663382
       value {
         Overrides {
@@ -604,6 +614,16 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 952427535680432759
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 3017003455874663382
       value {
@@ -3194,7 +3214,6 @@ Objects {
       Z: -0.00048828125
     }
     Rotation {
-      Yaw: -1.36603694e-05
       Roll: 1.36603658e-05
     }
     Scale {
@@ -7215,7 +7234,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -89.9999924
+            Yaw: -90
           }
         }
         Overrides {
