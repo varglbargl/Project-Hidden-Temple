@@ -20,6 +20,12 @@ Assets {
           Id: 841534158063459245
         }
       }
+      Overrides {
+        Name: "cs:RespawnVFX"
+        AssetReference {
+          Id: 4048767687044730201
+        }
+      }
     }
   }
   SerializationVersion: 98

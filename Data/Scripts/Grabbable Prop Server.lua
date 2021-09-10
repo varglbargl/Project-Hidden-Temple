@@ -1,8 +1,11 @@
 local PICKUP_TRIGGER = script:GetCustomProperty("PickupTrigger"):WaitForObject()
 local COLLISION_OBJECT = script:GetCustomProperty("CollisionObject"):WaitForObject()
 local DESTROY_VFX = script:GetCustomProperty("DestroyVFX")
+local RESPAWN_VFX = script:GetCustomProperty("RespawnVFX")
 
 local throwableProp = script:FindAncestorByType("Weapon")
+local spawnPoint = throwableProp:GetWorldPosition()
+local spawnRotation = throwableProp:GetWorldRotation()
 local throwEvent = nil
 
 throwableProp.parent:SetWorldScale(Vector3.ONE)
@@ -31,11 +34,10 @@ function onPropThrown(thisWeapon, projectile)
     projectile.owner.serverUserData["Carrying"] = false
   end
 
-  throwEvent:Disconnect()
-  thisWeapon:Destroy()
-
   -- handler params: Projectile_projectile, Object_other, HitResult_pointOfContact
   projectile.impactEvent:Connect(onTargetImpacted)
+
+  resetPropTimer()
 end
 
 function onEquipped(thisTrigger, player)
@@ -64,16 +66,33 @@ function onEquipped(thisTrigger, player)
   end)
 end
 
+function resetPropTimer()
+  throwableProp.visibility = Visibility.FORCE_OFF
+  throwableProp:SetWorldPosition(spawnPoint)
+  throwableProp:SetWorldRotation(spawnRotation)
+  throwableProp.currentAmmo = 1
+
+  Task.Wait(10 + math.random() * 5)
+
+  throwableProp.visibility = Visibility.INHERIT
+  COLLISION_OBJECT.collision = Collision.INHERIT
+  PICKUP_TRIGGER.collision = Collision.INHERIT
+
+  if RESPAWN_VFX then
+    World.SpawnAsset(RESPAWN_VFX, {position = spawnPoint + Vector3.UP * 50})
+  end
+end
+
 function destroyProp(collidedObject)
   if collidedObject ~= COLLISION_OBJECT then return end
-
-  if Object.IsValid(COLLISION_OBJECT) then COLLISION_OBJECT.collision = Collision.FORCE_OFF end
-  if Object.IsValid(PICKUP_TRIGGER) then PICKUP_TRIGGER.collision = Collision.FORCE_OFF end
-  if Object.IsValid(throwableProp) then throwableProp:Destroy() end
 
   if DESTROY_VFX then
     World.SpawnAsset(DESTROY_VFX, {position = COLLISION_OBJECT:GetWorldPosition()})
   end
+
+  COLLISION_OBJECT.collision = Collision.FORCE_OFF
+  PICKUP_TRIGGER.collision = Collision.FORCE_OFF
+  resetPropTimer()
 end
 
 PICKUP_TRIGGER.interactedEvent:Connect(onEquipped)

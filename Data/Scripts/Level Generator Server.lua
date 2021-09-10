@@ -5,6 +5,7 @@ local LARGE_BLUE_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomPropert
 local RED_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomProperty("RedRoomTable")))
 local TREASURE_ROOM_TABLE = Utils.shuffleArray(require(script:GetCustomProperty("TreasureRoomTable")))
 local EXIT_ROOM = script:GetCustomProperty("ExitRoom")
+local SOLVED_SYMBOL = script:GetCustomProperty("SolvedSymbol")
 
 local ROOM_SLOTS = script:GetCustomProperty("RoomSlots"):WaitForObject()
 
@@ -17,14 +18,27 @@ local smallRoomsPlaced = 0
 local largeRoomsPlaced = 0
 local redRoomsPlaced = 0
 
-function placeTreasureRoom(spawedRoom)
-  local exitLocation = spawedRoom:GetCustomProperty("ExitLocation"):WaitForObject()
-  local treasureRoomToSpawn = TREASURE_ROOM_TABLE[math.random(1, #TREASURE_ROOM_TABLE)]
+function placeTreasureRoom(spawnedRoom)
 
+  local exitLocation = spawnedRoom:GetCustomProperty("ExitLocation"):WaitForObject()
+  local treasureRoomToSpawn = TREASURE_ROOM_TABLE[math.random(1, #TREASURE_ROOM_TABLE)]
   local spawnedTreasureRoom = World.SpawnAsset(treasureRoomToSpawn, {position = exitLocation:GetWorldPosition(), rotation = exitLocation:GetWorldRotation()})
 
   treasuresPlaced = treasuresPlaced + 1
   spawnedTreasureRoom:SetNetworkedCustomProperty("SymbolIndex", treasuresPlaced)
+
+  local solvedSymbol = World.SpawnAsset(SOLVED_SYMBOL, {position = spawnedRoom:GetWorldPosition(), rotation = spawnedRoom:GetWorldRotation()})
+  local solvedSymbolSymbol = solvedSymbol:GetCustomProperty("Symbol"):WaitForObject()
+
+  solvedSymbolSymbol:SetSmartProperty("Shape Index", treasuresPlaced)
+
+  local thisSymbolIndex = treasuresPlaced
+
+  Events.Connect("IlluminateSymbol", function(symbolIndex)
+    if thisSymbolIndex == symbolIndex then
+      solvedSymbolSymbol:SetSmartProperty("Emissive Boost", 25)
+    end
+  end)
 end
 
 for _, roomSlot in ipairs(roomSlots) do
@@ -50,13 +64,13 @@ for _, roomSlot in ipairs(roomSlots) do
     roomToSpawn = RED_ROOM_TABLE[redRoomsPlaced]
   end
 
-  local spawedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot})
+  local spawnedRoom = World.SpawnAsset(roomToSpawn, {position = roomSlotPos, rotation = roomSlotRot})
 
   if roomType == "Puzzle" then
-    placeTreasureRoom(spawedRoom)
+    placeTreasureRoom(spawnedRoom)
   end
 
-  table.insert(spawnedRooms, spawedRoom)
+  table.insert(spawnedRooms, spawnedRoom)
 end
 
 Task.Wait()

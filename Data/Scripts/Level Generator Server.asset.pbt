@@ -47,6 +47,12 @@ Assets {
         }
       }
       Overrides {
+        Name: "cs:SolvedSymbol"
+        AssetReference {
+          Id: 5448224956879422387
+        }
+      }
+      Overrides {
         Name: "cs:RoomSlots"
         ObjectReference {
         }
