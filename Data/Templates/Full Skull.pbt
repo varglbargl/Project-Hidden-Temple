@@ -145,9 +145,5 @@ Assets {
     }
   }
   SerializationVersion: 98
-<<<<<<< Updated upstream
-=======
-  VirtualFolderPath: "Rooms"
->>>>>>> Stashed changes
   VirtualFolderPath: "Props"
 }
