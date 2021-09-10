@@ -71,41 +71,6 @@ Objects {
   }
 }
 Objects {
-  Id: 12286868498901491412
-  Name: "Lillie.LargeBlue.LavaBalls.Complete"
-  Transform {
-    Location {
-      X: -17200
-      Y: 57600
-      Z: -1800
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10736749405717629058
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lillie_LargeBlue_LavaBalls_Complete"
-  }
-}
-Objects {
   Id: 8480623522666132382
   Name: "Lillie.LargeBlue.LavaPlatforms.Complete"
   Transform {

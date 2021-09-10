@@ -24,6 +24,11 @@ end
 function onPropThrown(thisWeapon, projectile)
   thisWeapon:Unequip()
 
+  if throwEvent then
+    throwEvent:Disconnect()
+    throwEvent = nil
+  end
+
   if projectile.owner then
     projectile.owner.animationStance = "unarmed_stance"
     projectile.owner.serverUserData["Carrying"] = false
@@ -55,6 +60,21 @@ function onEquipped(thisTrigger, player)
 
   COLLISION_OBJECT.collision = Collision.FORCE_OFF
   PICKUP_TRIGGER.collision = Collision.FORCE_OFF
+
+  if throwEvent then
+    throwEvent:Disconnect()
+    throwEvent = nil
+  end
+
+  Task.Wait()
+
+  -- handler params: Player_player, string_binding
+  throwEvent = player.bindingPressedEvent:Connect(function(thisPlayer, keyCode)
+    -- print(keyCode)
+    if keyCode == "ability_extra_33" or keyCode == "ability_secondary" then
+      throwableProp:Attack()
+    end
+  end)
 end
 
 function destroyProp(collidedObject)
@@ -72,6 +92,6 @@ end
 PICKUP_TRIGGER.interactedEvent:Connect(onEquipped)
 
 -- handler params: Weapon_weapon, Projectile_projectile
-throwEvent = throwableProp.projectileSpawnedEvent:Connect(onPropThrown)
+throwableProp.projectileSpawnedEvent:Connect(onPropThrown)
 
 Events.Connect("DestroyProp", destroyProp)

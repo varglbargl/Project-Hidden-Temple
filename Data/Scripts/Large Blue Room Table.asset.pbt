@@ -10,6 +10,18 @@ Assets {
           Id: 11570463464842790063
         }
       }
+      Overrides {
+        Name: "cs:VanessasInvisibleBridgeJarTossRoom"
+        AssetReference {
+          Id: 18071817129401883471
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesLavaOrbSpinner"
+        AssetReference {
+          Id: 14727277910855989400
+        }
+      }
     }
   }
   SerializationVersion: 98
