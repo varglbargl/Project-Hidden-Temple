@@ -5,10 +5,6 @@ Assets {
   SerializationVersion: 98
   VirtualFolderSetAsset {
     Folders {
-      VirtualFolderPath: "Props"
-      PlatformAssetType: 5
-    }
-    Folders {
       VirtualFolderPath: "VFX"
       PlatformAssetType: 5
     }
@@ -92,16 +88,6 @@ Assets {
     }
     Folders {
       VirtualFolderPath: "Rooms"
-      VirtualFolderPath: "Tresure Rooms"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Rooms"
-      VirtualFolderPath: "Room Slots"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Rooms"
       VirtualFolderPath: "Blue Rooms"
       VirtualFolderPath: "Small"
       PlatformAssetType: 5
@@ -114,6 +100,25 @@ Assets {
     }
     Folders {
       VirtualFolderPath: "Treasure"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Props"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Room Slots"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Rooms"
+      VirtualFolderPath: "Tresure Rooms"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Props"
       PlatformAssetType: 5
     }
     Folders {

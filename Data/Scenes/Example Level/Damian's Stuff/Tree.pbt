@@ -31,6 +31,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_6"
+    FilePartitionName: "NewFolder_8"
   }
 }

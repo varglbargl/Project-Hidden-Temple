@@ -99,7 +99,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lillie_SmallBlue_Template_1"
+    FilePartitionName: "Lillie_SmallBlue_Template"
   }
 }
 Objects {
