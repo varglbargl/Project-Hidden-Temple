@@ -16,6 +16,12 @@ Assets {
           Id: 2954232478792555746
         }
       }
+      Overrides {
+        Name: "cs:InvisibridgeJarThrowWithATwist"
+        AssetReference {
+          Id: 9037669109305018708
+        }
+      }
     }
   }
   SerializationVersion: 98
