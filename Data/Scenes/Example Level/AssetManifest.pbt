@@ -1,4 +1,13 @@
 Assets {
+  Id: 18072441586075509399
+  Name: "Japanese Ceiling Lamp 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_light_interior_001_ref"
+  }
+}
+Assets {
   Id: 17590704869240401704
   Name: "Bricks Cobblestone Floor 01"
   PlatformAssetType: 2
@@ -44,15 +53,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15377096960086681777
-  Name: "Marble Basic 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_gen_marble_tiles_001_uv"
-  }
-}
-Assets {
   Id: 15089487538220634502
   Name: "Jungle Vine (end)"
   PlatformAssetType: 2
@@ -62,12 +62,30 @@ Assets {
   }
 }
 Assets {
-  Id: 15086047187098665940
-  Name: "Vinyl Floor Diamond 02"
+  Id: 14837806385582177047
+  Name: "Japanese Wood Lantern - Base 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_lantern_wood_base_001_ref"
+  }
+}
+Assets {
+  Id: 14614056576813174129
+  Name: "Metal Diamond Plates 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_urb_vinyl_floor_004_uv_ref"
+    AssetId: "mi_metal_rust_diamond-plate_001"
+  }
+}
+Assets {
+  Id: 14516949605198846196
+  Name: "Japanese Temple Wall 01 "
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_jpn_tem_wall_001_ref"
   }
 }
 Assets {
@@ -89,12 +107,30 @@ Assets {
   }
 }
 Assets {
+  Id: 13815700145085645545
+  Name: "Wallpaper Japanese Stars 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_jpn_wallpaper_stars_001_uv_ref"
+  }
+}
+Assets {
   Id: 13072369037111211217
   Name: "Whitebox Wall 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_gen_whitebox_wall_001"
+  }
+}
+Assets {
+  Id: 12195040419695464685
+  Name: "Pipe - Quarter Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_quarter-pipe_002"
   }
 }
 Assets {
@@ -107,21 +143,30 @@ Assets {
   }
 }
 Assets {
+  Id: 11581547176158804410
+  Name: "Ball"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sphere_001"
+  }
+}
+Assets {
+  Id: 11564448295315603049
+  Name: "Shoji Screen 03"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_jpn_wood_shoji_screen_003_uv"
+  }
+}
+Assets {
   Id: 11548056621048754161
   Name: "Stone Basic"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "stone_001"
-  }
-}
-Assets {
-  Id: 11049358012930972197
-  Name: "Japanese Stone Lantern Roof Small 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_jpn_lantern_stone_small_roof_001_ref"
   }
 }
 Assets {
@@ -143,21 +188,21 @@ Assets {
   }
 }
 Assets {
-  Id: 9501471890628041237
-  Name: "Metal Gold 01"
+  Id: 9718814182095018805
+  Name: "Metal Grates 03"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_001"
+    AssetId: "mi_scf_grates_006_uv"
   }
 }
 Assets {
-  Id: 9402715505665064608
-  Name: "Fantasy Sack Tied"
+  Id: 9505772752897726232
+  Name: "Stone Block Standard"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_sack_002_ref"
+    AssetId: "sm_fantasy_block_01"
   }
 }
 Assets {
@@ -170,6 +215,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9141166204897324945
+  Name: "Japanese Temple Pillar 01 - Top 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_jpn_tem_pillar_001_top_01_ref"
+  }
+}
+Assets {
   Id: 8681899656752834670
   Name: "Craftsman Wall Interior 01 Doorway"
   PlatformAssetType: 1
@@ -179,21 +233,21 @@ Assets {
   }
 }
 Assets {
+  Id: 8559890112237135502
+  Name: "Japanese Floor Lamp 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_jpn_light_interior_002_ref"
+  }
+}
+Assets {
   Id: 7710153546265779182
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_001_door_02"
-  }
-}
-Assets {
-  Id: 7572676268412653318
-  Name: "Japanese Temple Torii Gate Rope 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_torii_rope_001_ref"
   }
 }
 Assets {
@@ -215,21 +269,39 @@ Assets {
   }
 }
 Assets {
+  Id: 6954370053071083141
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
+  }
+}
+Assets {
+  Id: 6000681835192046231
+  Name: "Pipe - Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_004"
+  }
+}
+Assets {
+  Id: 4940465360098048295
+  Name: "Shoji Screen 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_jpn_wood_shoji_screen_002_uv"
+  }
+}
+Assets {
   Id: 4679114171005356007
   Name: "Bone Human Skull 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_skull_01_ref"
-  }
-}
-Assets {
-  Id: 4199776750539678640
-  Name: "Military Tank Historic Maingun 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_mil_tank_hst_maingun_001_ref"
   }
 }
 Assets {
@@ -242,21 +314,12 @@ Assets {
   }
 }
 Assets {
-  Id: 3048475015587492539
-  Name: "Coral Tubes Small"
-  PlatformAssetType: 1
+  Id: 3207209794344723515
+  Name: "Vehicle Plastic Switch Panel Button Click 04 SFX"
+  PlatformAssetType: 7
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_coral_tube_small_01"
-  }
-}
-Assets {
-  Id: 2993797797839504347
-  Name: "Main Street Wall 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_urb_dtn_mst_wall_003_ref"
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_vehicle_plastic_switch_panel_button_click_04a_Cue_ref"
   }
 }
 Assets {
@@ -302,5 +365,23 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
+  }
+}
+Assets {
+  Id: 69844939897041847
+  Name: "Emissive Glow Opaque"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_opaque_emissive"
+  }
+}
+Assets {
+  Id: 42714158796796980
+  Name: "Wood Painted 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_painted_white_001_uv"
   }
 }
