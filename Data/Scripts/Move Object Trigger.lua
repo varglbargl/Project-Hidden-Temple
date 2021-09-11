@@ -15,8 +15,8 @@ local initialRot = OBJECT_TO_MOVE:GetRotation()
 local resetTask = nil
 local resetEvent = nil
 
-local moveLoopSfx = Utils.playSoundEffect(MOVE_LOOP_SFX, {loop = true, transient = false, autoPlay = false, parent = OBJECT_TO_MOVE, })
-local stopMoveSFX = Utils.playSoundEffect(STOP_MOVE_SFX, {transient = false, autoPlay = false, parent = OBJECT_TO_MOVE, })
+local moveLoopSfx = Utils.playSoundEffect(MOVE_LOOP_SFX, {loop = true, transient = false, autoPlay = false, position = initialPos})
+local stopMoveSFX = Utils.playSoundEffect(STOP_MOVE_SFX, {transient = false, autoPlay = false, position = initialPos})
 
 function resetObject()
   if resetEvent then
@@ -41,10 +41,8 @@ function resetObject()
 
     Task.Wait(MOVE_TIME)
 
-    if Object.IsValid(moveLoopSfx) then
-      moveLoopSfx:Stop()
-      stopMoveSFX:Play()
-    end
+    if Object.IsValid(moveLoopSfx) then moveLoopSfx:Stop() end
+    if Object.IsValid(stopMoveSFX) then stopMoveSFX:Play() end
   end)
 end
 
@@ -53,10 +51,11 @@ function startMove(thisTrigger, other)
 
   if (OBJECT_TO_MOVE:GetPosition() ~= MOVED_POSITION or OBJECT_TO_MOVE:GetRotation() ~= MOVED_ROTATION) and Object.IsValid(moveLoopSfx) then
     moveLoopSfx:Play()
+    moveLoopSfx:MoveTo(MOVED_POSITION, MOVE_TIME, true)
 
     Task.Spawn(function()
-      moveLoopSfx:Stop()
-      stopMoveSFX:Play()
+      if Object.IsValid(moveLoopSfx) then moveLoopSfx:Stop() end
+      if Object.IsValid(stopMoveSFX) then stopMoveSFX:Play() end
     end, MOVE_TIME)
   end
 

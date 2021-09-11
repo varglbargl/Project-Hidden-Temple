@@ -7424,7 +7424,7 @@ Objects {
   Name: "Multiplayer Trigger"
   Transform {
     Location {
-      X: -515
+      X: -197
       Y: 1180
       Z: 155
     }
@@ -7466,7 +7466,7 @@ Objects {
   Name: "Single Player Trigger"
   Transform {
     Location {
-      X: -260.000031
+      X: 57.9999695
       Y: 1170
       Z: 155
     }

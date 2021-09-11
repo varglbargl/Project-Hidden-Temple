@@ -26,11 +26,29 @@ Assets {
   }
 }
 Assets {
+  Id: 6150973405607526898
+  Name: "Icon Keybinding"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Keybinding"
+  }
+}
+Assets {
   Id: 4546426645344071837
   Name: "Pirata One"
   PlatformAssetType: 28
   PrimaryAsset {
     AssetType: "FontAssetRef"
     AssetId: "PirataOneRegular_ref"
+  }
+}
+Assets {
+  Id: 4454023385564948936
+  Name: "BG Flat 004"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "BackgroundNoOutline_22"
   }
 }

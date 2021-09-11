@@ -33926,7 +33926,6 @@ ObjectSettings {
   ObjectStates {
     key: 10232082603014648264
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -61144,4 +61143,4 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Example Level"
+LastSavedScene: "Castle"
