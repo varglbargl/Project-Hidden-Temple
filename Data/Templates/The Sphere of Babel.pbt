@@ -1437,4 +1437,5 @@ Assets {
     }
   }
   SerializationVersion: 98
+  VirtualFolderPath: "Treasure"
 }
