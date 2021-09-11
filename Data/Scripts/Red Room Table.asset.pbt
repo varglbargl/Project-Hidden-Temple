@@ -22,6 +22,12 @@ Assets {
           Id: 9037669109305018708
         }
       }
+      Overrides {
+        Name: "cs:VanessasEscherStairsVomitorium"
+        AssetReference {
+          Id: 10668649241861837542
+        }
+      }
     }
   }
   SerializationVersion: 98

@@ -57,7 +57,7 @@ function onFinalTreasureInteracted(thisTrigger, other)
     thisPlayer:AddResource("Money", 1000)
   end
 
-  Utils.throttleToAllPlayers("GotTreasure", other.name, "The Grand Prize")
+  Utils.throttleToAllPlayers("GotTreasure", other, "The Grand Prize")
 end
 
 Events.Connect("TreasuresPlaced", initSymbols)

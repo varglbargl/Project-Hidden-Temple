@@ -175,11 +175,12 @@ Assets {
         Name: "Stone Eye"
         Transform {
           Location {
-            X: 1224.56519
+            X: 1224.56543
             Y: 1131.78418
             Z: -67.6276855
           }
           Rotation {
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -218,12 +219,11 @@ Assets {
           Location {
           }
           Rotation {
-            Yaw: -89.9999847
           }
           Scale {
-            X: 0.976003885
-            Y: 0.976003885
-            Z: 0.976003885
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 13168841234850618133
@@ -253,9 +253,7 @@ Assets {
             Y: 0.390014648
           }
           Rotation {
-            Pitch: 85.1013412
-            Yaw: 89.9999161
-            Roll: 179.999954
+            Pitch: 94.8986588
           }
           Scale {
             X: 1.61860645
@@ -319,13 +317,12 @@ Assets {
         Name: "Ellipsoid - Truncated Hollow"
         Transform {
           Location {
-            Y: -71.1837158
+            X: 71.5737305
+            Y: 0.390136719
             Z: 6.08959961
           }
           Rotation {
-            Pitch: 85.1014175
-            Yaw: 90
-            Roll: -179.999985
+            Pitch: 94.8986588
           }
           Scale {
             X: 0.654788911
@@ -392,13 +389,12 @@ Assets {
         Name: "Sphere"
         Transform {
           Location {
-            Y: -73.0894775
+            X: 73.4794922
+            Y: 0.390136719
             Z: 6.25170898
           }
           Rotation {
-            Pitch: 85.101181
-            Yaw: 89.9999161
-            Roll: 179.999985
+            Pitch: 94.8987808
           }
           Scale {
             X: 0.430647284
@@ -465,9 +461,7 @@ Assets {
             Y: 0.390014648
           }
           Rotation {
-            Pitch: 22.0149956
-            Yaw: -89.9999924
-            Roll: 9.20921877e-07
+            Pitch: 22.0149822
           }
           Scale {
             X: 1.68333673
@@ -531,13 +525,12 @@ Assets {
         Name: "Sphere - Half"
         Transform {
           Location {
-            Y: 0.251953125
-            Z: -0.341674805
+            X: 0.138183594
+            Y: 0.390014648
+            Z: -0.341552734
           }
           Rotation {
-            Pitch: 22.0149956
-            Yaw: -89.9999924
-            Roll: 9.20921877e-07
+            Pitch: 22.0149822
           }
           Scale {
             X: 1.715608
@@ -609,8 +602,8 @@ Assets {
           }
           Rotation {
             Pitch: 35.1948433
-            Yaw: 90.0000076
-            Roll: -180
+            Yaw: 180
+            Roll: 180
           }
           Scale {
             X: 1.67661977

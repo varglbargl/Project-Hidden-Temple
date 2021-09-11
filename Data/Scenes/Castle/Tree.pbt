@@ -1404,7 +1404,7 @@ Objects {
 }
 Objects {
   Id: 18111567436991446219
-  Name: "UI Panel"
+  Name: "Money"
   Transform {
     Location {
     }
