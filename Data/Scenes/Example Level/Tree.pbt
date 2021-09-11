@@ -57,6 +57,8 @@ Objects {
   ChildIds: 4871591399685217367
   ChildIds: 4304441598958603359
   ChildIds: 5690920618281033963
+  ChildIds: 11516410870097055328
+  ChildIds: 8777473272607470547
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -71,6 +73,25554 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 8777473272607470547
+  Name: "Lillie.RedRoom.SwimTube.Complete"
+  Transform {
+    Location {
+      X: -36000
+      Y: 24200
+      Z: 2300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11015650469849047765
+  ChildIds: 438785164713262028
+  ChildIds: 17995847570627235558
+  ChildIds: 13976954521196372715
+  ChildIds: 16659577775759997513
+  ChildIds: 9408599115110962618
+  ChildIds: 18086830272772696575
+  ChildIds: 12350167724985210476
+  ChildIds: 14215206731253530410
+  ChildIds: 4772552429939313259
+  ChildIds: 7931450339658131399
+  ChildIds: 9181804315669095932
+  ChildIds: 811930860868898046
+  ChildIds: 10572423237171044381
+  ChildIds: 5747847096132873854
+  ChildIds: 15761495383630291176
+  ChildIds: 2415116713255103266
+  ChildIds: 9309780785681767466
+  ChildIds: 13667400207125211319
+  ChildIds: 9566150763122850379
+  ChildIds: 17988420469844417849
+  ChildIds: 15673017229136002009
+  ChildIds: 18050262708654610056
+  ChildIds: 17286480752500836477
+  ChildIds: 5071365234378979320
+  ChildIds: 3841925886101855366
+  ChildIds: 16249807730289402931
+  ChildIds: 12455720668099748723
+  ChildIds: 15913398994697163073
+  ChildIds: 10662616200470659936
+  ChildIds: 16919876721073070585
+  ChildIds: 11234773446951950841
+  ChildIds: 1052616271923428278
+  ChildIds: 8995979761923891519
+  ChildIds: 12880203742209028830
+  ChildIds: 1462134033416003441
+  ChildIds: 10895870294043551986
+  ChildIds: 15519224974637857316
+  ChildIds: 8518660954903963175
+  ChildIds: 2953564388575413848
+  ChildIds: 11415555343606140043
+  ChildIds: 3281204226541737032
+  ChildIds: 708707095000812634
+  ChildIds: 18265601992601011698
+  ChildIds: 15486035905162645757
+  ChildIds: 3695238835084438595
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3695238835084438595
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Location {
+      X: -42400
+      Y: 24600
+      Z: 2800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -8000
+            Y: 400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7744098822516518054
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1
+            Y: -0.999999642
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
+  }
+}
+Objects {
+  Id: 15486035905162645757
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -43200
+      Y: 24600
+      Z: 2800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7200
+            Y: 400
+            Z: 1100
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 18265601992601011698
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -44000
+      Y: 24600
+      Z: 2800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -8000
+            Y: 400
+            Z: 1100
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 708707095000812634
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -43200
+      Y: 24600
+      Z: 2800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -8000
+            Y: 400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 3281204226541737032
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -42400
+      Y: 24600
+      Z: 2800
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7200
+            Y: 400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11415555343606140043
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -43200
+      Y: 23800
+      Z: 2800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -8000
+            Y: -400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2953564388575413848
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -43200
+      Y: 23800
+      Z: 2800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -6400
+            Y: 400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8518660954903963175
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7200
+            Y: -400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15519224974637857316
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -6400
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 18.4999962
+      Y: 18.4999962
+      Z: 19.4999962
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3759612212115224882
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10895870294043551986
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -6400
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 13.000001
+      Y: 13.000001
+      Z: 14
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3759612212115224882
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1462134033416003441
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -6400
+            Y: 400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7744098822516518054
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1
+            Y: -0.999999642
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
+  }
+}
+Objects {
+  Id: 12880203742209028830
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7200
+            Y: 400
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 8995979761923891519
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -6400
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 27
+      Y: 27
+      Z: 30
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3759612212115224882
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1052616271923428278
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -6400
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 8
+      Y: 8
+      Z: 8.5
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3759612212115224882
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11234773446951950841
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -2600
+      Z: 380
+    }
+    Rotation {
+      Pitch: 44.9999809
+      Yaw: 1.36603767e-05
+      Roll: 180
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10648521133569735545
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16919876721073070585
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -2600
+      Z: 380
+    }
+    Rotation {
+      Pitch: -44.9999733
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10648521133569735545
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10662616200470659936
+  Name: "Kill Ring Swim Sphere"
+  Transform {
+    Location {
+      X: 3600
+      Z: 3920
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Kill Ring Swim Sphere"
+  }
+  InstanceHistory {
+    SelfId: 7488246564598796173
+    SubobjectId: 66467296663242158
+    InstanceId: 1132736822196550452
+    TemplateId: 12877507870951912592
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 15913398994697163073
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -3520
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+      Yaw: -4.55345935e-06
+      Roll: -179.999969
+    }
+    Scale {
+      X: 27
+      Y: 27
+      Z: 27
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3759612212115224882
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12455720668099748723
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -3520
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+      Roll: -179.999985
+    }
+    Scale {
+      X: 17
+      Y: 17
+      Z: 17
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3759612212115224882
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16249807730289402931
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -30000
+      Y: 24600
+      Z: 5200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6800
+            Y: 400
+            Z: 2900
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 3841925886101855366
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6800
+      Y: 400
+      Z: 2300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5071365234378979320
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 7600
+      Y: -400
+      Z: 2300
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17286480752500836477
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Z: 2900
+    }
+    Rotation {
+      Yaw: 89.9999771
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 18050262708654610056
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Y: -800
+      Z: 2900
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15673017229136002009
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6800
+      Y: -400
+      Z: 2300
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17988420469844417849
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Y: -1200
+      Z: 2300
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9566150763122850379
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Y: 400
+      Z: 2300
+    }
+    Rotation {
+      Yaw: 89.9999771
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 13667400207125211319
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Z: 1700
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9309780785681767466
+  Name: "Kill Ring Swim Sphere"
+  Transform {
+    Location {
+      X: -5120
+      Z: 780
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 0.4
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Kill Ring Swim Sphere_1"
+  }
+  InstanceHistory {
+    SelfId: 6121272604157128780
+    SubobjectId: 66467296663242158
+    InstanceId: 2222163449832473255
+    TemplateId: 12877507870951912592
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 2415116713255103266
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -3520
+      Z: 780
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 28.7000046
+      Y: 28.7000046
+      Z: 28.7000046
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13966329916801816008
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 15761495383630291176
+  Name: "Kill Ring Swim Sphere"
+  Transform {
+    Location {
+      X: -900
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Kill Ring Swim Sphere_2"
+  }
+  InstanceHistory {
+    SelfId: 6121272604157128780
+    SubobjectId: 66467296663242158
+    InstanceId: 2222163449832473255
+    TemplateId: 12877507870951912592
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 5747847096132873854
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: -400
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13966329916801816008
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10572423237171044381
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: 900
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13966329916801816008
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 811930860868898046
+  Name: "Kill Ring Swim Sphere"
+  Transform {
+    Location {
+      X: 900
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Kill Ring Swim Sphere_3"
+  }
+  InstanceHistory {
+    SelfId: 6121272604157128780
+    SubobjectId: 66467296663242158
+    InstanceId: 2222163449832473255
+    TemplateId: 12877507870951912592
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 9181804315669095932
+  Name: "Kill Ring Swim Sphere"
+  Transform {
+    Location {
+      X: 2500
+    }
+    Rotation {
+      Pitch: -90
+    }
+    Scale {
+      X: 0.2
+      Y: 0.2
+      Z: 0.2
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Kill Ring Swim Sphere_4"
+  }
+  InstanceHistory {
+    SelfId: 6121272604157128780
+    SubobjectId: 66467296663242158
+    InstanceId: 2222163449832473255
+    TemplateId: 12877507870951912592
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 7931450339658131399
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: 2200
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13966329916801816008
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4772552429939313259
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: 3500
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13966329916801816008
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14215206731253530410
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: 4700
+      Z: 1300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15094177371815899877
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12350167724985210476
+  Name: "Pipe"
+  Transform {
+    Location {
+      X: 4700
+      Z: 1300
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: 180
+    }
+    Scale {
+      X: 13
+      Y: 13
+      Z: 13
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 13153931648933666638
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15094177371815899877
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 18086830272772696575
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Y: -800
+      Z: 1700
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9408599115110962618
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 6000
+      Y: 400
+      Z: 2300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16659577775759997513
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -13200
+      Y: 24600
+      Z: -2600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6000
+            Y: 400
+            Z: 2900
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 13976954521196372715
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -12400
+      Y: 24600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6000
+            Y: 400
+            Z: 2300
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 17995847570627235558
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 7600
+            Y: -400
+            Z: 2300
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7744098822516518054
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.99999994
+            Y: -0.999999821
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12645645151077920185
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 699.999878
+            Y: 40.000061
+            Z: 230
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.999939
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13925807450198522316
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 99.9999924
+            Y: 40
+            Z: 230
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.999939
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15932121396489174539
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 424.996094
+            Y: 54.9980469
+            Z: 310
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
+  }
+}
+Objects {
+  Id: 438785164713262028
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8777473272607470547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6800
+            Y: 400
+            Z: 2300
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 11516410870097055328
+  Name: "Lillie.RedRoom.TimedGauntlet.Complete"
+  Transform {
+    Location {
+      X: -25864
+      Y: -5490
+      Z: -3750
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11015650469849047765
+  ChildIds: 16643303360971537713
+  ChildIds: 1678918341007484410
+  ChildIds: 7160539651972252138
+  ChildIds: 16517684613886375146
+  ChildIds: 15091072180131464215
+  ChildIds: 5681663586034992625
+  ChildIds: 10829115736758439263
+  ChildIds: 8017149921857774918
+  ChildIds: 11927605334805799296
+  ChildIds: 8054956323870498370
+  ChildIds: 3998294527224980106
+  ChildIds: 17184888765458488677
+  ChildIds: 10350686393659090228
+  ChildIds: 4256265890039270159
+  ChildIds: 10406212844867917805
+  ChildIds: 9944054270282825316
+  ChildIds: 10926188752391334998
+  ChildIds: 3447167595576608802
+  ChildIds: 14688643535657645881
+  ChildIds: 8172474981417667040
+  ChildIds: 3549846982143328433
+  ChildIds: 8251159575372768937
+  ChildIds: 1184288170662381655
+  ChildIds: 9144323059309432000
+  ChildIds: 5505112956181770833
+  ChildIds: 17289878371429326674
+  ChildIds: 1058048424126622753
+  ChildIds: 4803530383345459943
+  ChildIds: 3244679715275013370
+  ChildIds: 2686989725517080747
+  ChildIds: 8023383381076312818
+  ChildIds: 16436071889148864748
+  ChildIds: 12063165859989044729
+  ChildIds: 572954277841021878
+  ChildIds: 11915769638448000657
+  ChildIds: 17343019281770304313
+  ChildIds: 4385931938612085937
+  ChildIds: 9623657619685407891
+  ChildIds: 3564890473449295386
+  ChildIds: 16994540806769767836
+  ChildIds: 806843691502484231
+  ChildIds: 11299237744745940001
+  ChildIds: 4487232237804683110
+  ChildIds: 13188648625681450835
+  ChildIds: 3869957866922863078
+  ChildIds: 7941812598416888901
+  ChildIds: 10682545006496037834
+  ChildIds: 5833106763030187224
+  ChildIds: 3337746425901065723
+  ChildIds: 11561362173291241589
+  ChildIds: 6883478778939908000
+  ChildIds: 10184178314648205218
+  ChildIds: 10580646683948193547
+  ChildIds: 10958526299974000941
+  ChildIds: 117464072176883579
+  ChildIds: 4418444663952992150
+  ChildIds: 9075945356774093153
+  ChildIds: 5993285362138629226
+  ChildIds: 9106630821276780288
+  ChildIds: 14476327364815482177
+  ChildIds: 6473594000154281222
+  ChildIds: 10437257739019936345
+  ChildIds: 14706162807940032304
+  ChildIds: 4797133763037515447
+  ChildIds: 17871905330357483527
+  ChildIds: 3384005192194051040
+  ChildIds: 12970891158493361611
+  ChildIds: 1113509526082418197
+  ChildIds: 2159394922367852720
+  ChildIds: 25495211064499467
+  ChildIds: 5644850020106274325
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5644850020106274325
+  Name: "ExitLocation"
+  Transform {
+    Location {
+      X: 10
+      Y: -9310
+      Z: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 25495211064499467
+  Name: "Spawn Point Setter"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 952427535680432759
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Spawn Point Setter"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 20290
+            Z: 750
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2855776763475118471
+    }
+  }
+}
+Objects {
+  Id: 2159394922367852720
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7740822562121442945
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Doorway - Skull Sconces"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 410
+            Y: 20290
+            Z: 550
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4910062730671523301
+    }
+  }
+}
+Objects {
+  Id: 1113509526082418197
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 14800
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -390
+            Y: 19490
+            Z: 550
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 12970891158493361611
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -390
+            Y: 20290
+            Z: 550
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 3384005192194051040
+  Name: "Pressure Plate"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10499324729792989337
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pressure Plate"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 210
+            Y: -1540
+            Z: 550
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2376235668536570317
+    }
+  }
+}
+Objects {
+  Id: 17871905330357483527
+  Name: "Triggerable Door"
+  Transform {
+    Location {
+      X: -16400
+      Y: -5400
+      Z: -3150
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 2.5
+      Y: 2.5
+      Z: 2.5
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3220962468246517527
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Triggerable Door"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: -7810
+            Z: 560
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.5
+            Y: 2.5
+            Z: 2.5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17790870902728575710
+      value {
+        Overrides {
+          Name: "cs:Trigger"
+          ObjectReference {
+            SelfId: 5079922249713991939
+            SubObjectId: 4661869649812006856
+            InstanceId: 3384005192194051040
+            TemplateId: 2376235668536570317
+          }
+        }
+        Overrides {
+          Name: "cs:HoldTime"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:MoveTime"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18336161167167724523
+    }
+  }
+}
+Objects {
+  Id: 4797133763037515447
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -7210
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 9.2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14706162807940032304
+  Name: "Stone Brick Doorway - Skull Sconces"
+  Transform {
+    Location {
+      X: -390
+      Y: -9310
+      Z: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 6463752731322835561
+  ChildIds: 16795097666072438738
+  ChildIds: 2588778721257724459
+  ChildIds: 16249448790703113442
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 14032830420129297869
+    SubobjectId: 7740822562121442945
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 16249448790703113442
+  Name: "Curtains Straight"
+  Transform {
+    Location {
+      X: 425.000031
+      Y: 54.9999847
+      Z: 310
+    }
+    Rotation {
+      Yaw: 6.83018879e-06
+    }
+    Scale {
+      X: 6.20000029
+      Y: -0.49999997
+      Z: 1
+    }
+  }
+  ParentId: 14706162807940032304
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15089487538220634502
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 6
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10410624715350118267
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 8414991361491266887
+    SubobjectId: 15932121396489174539
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 2588778721257724459
+  Name: "Skull Sconce"
+  Transform {
+    Location {
+      X: 100
+      Y: 39.9999962
+      Z: 230
+    }
+    Rotation {
+      Yaw: -89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14706162807940032304
+  ChildIds: 15697894538365950845
+  ChildIds: 14863485101407671611
+  ChildIds: 4544902740500119581
+  ChildIds: 3532135258868682390
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 7534563857270565504
+    SubobjectId: 13925807450198522316
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 3532135258868682390
+  Name: "Candle 03"
+  Transform {
+    Location {
+      X: -41.6760864
+      Y: 1.65924072
+      Z: 52.2035217
+    }
+    Rotation {
+      Pitch: -5.38253689
+      Yaw: 135.254684
+      Roll: -5.40664911
+    }
+    Scale {
+      X: 0.936208844
+      Y: 0.936208844
+      Z: 0.728162289
+    }
+  }
+  ParentId: 2588778721257724459
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.254
+        G: 0.199084789
+        B: 0.054239545
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1423268074024780909
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableCastShadows: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7923470564439897007
+    SubobjectId: 14134441396085317859
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 4544902740500119581
+  Name: "Bone Human Skull 01"
+  Transform {
+    Location {
+      X: -37.4520264
+      Y: 1.92895508
+      Z: 33.2257385
+    }
+    Rotation {
+      Pitch: 6.19320536
+      Yaw: 89.2132797
+      Roll: -21.3093739
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2588778721257724459
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4679114171005356007
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableCastShadows: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 10599488439476661184
+    SubobjectId: 4236408832732199052
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 14863485101407671611
+  Name: "Sconce 01"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 0.8
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2588778721257724459
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13972110979182650321
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7836521792857560538
+    SubobjectId: 14200596182830941846
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 15697894538365950845
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2588778721257724459
+  ChildIds: 15896908572927720152
+  ChildIds: 14479294611172842931
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 5527099523492708075
+    SubobjectId: 16530038343259041191
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 14479294611172842931
+  Name: "Candle Flame VFX"
+  Transform {
+    Location {
+      X: -41.3261719
+      Y: 3.1864624
+      Z: 65.7838135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2696147
+      Y: 1.2696147
+      Z: 1.2696147
+    }
+  }
+  ParentId: 15697894538365950845
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9199751096616988864
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 8430470931744104605
+    SubobjectId: 15937466493325079505
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 15896908572927720152
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -39.6618538
+      Y: 3.00009918
+      Z: 65.4718
+    }
+    Rotation {
+      Roll: 7.62364483
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15697894538365950845
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 1
+    Color {
+      R: 1
+      G: 1
+      B: 1
+      A: 1
+    }
+    CastShadows: true
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      UseTemperature: true
+      Temperature: 2250
+      LocalLight {
+        AttenuationRadius: 1000
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+    CastVolumetricShadows: true
+  }
+  InstanceHistory {
+    SelfId: 11485663714009208152
+    SubobjectId: 3942632900307256852
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 16795097666072438738
+  Name: "Skull Sconce"
+  Transform {
+    Location {
+      X: 699.999878
+      Y: 39.999939
+      Z: 230
+    }
+    Rotation {
+      Yaw: -89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14706162807940032304
+  ChildIds: 3131733847555962640
+  ChildIds: 6741786978874052372
+  ChildIds: 17933423892155380401
+  ChildIds: 10043537121474251078
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 480784220359900917
+    SubobjectId: 12645645151077920185
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 10043537121474251078
+  Name: "Candle 03"
+  Transform {
+    Location {
+      X: -41.6760864
+      Y: 1.65924072
+      Z: 52.2035217
+    }
+    Rotation {
+      Pitch: -5.38253689
+      Yaw: 135.254684
+      Roll: -5.40664911
+    }
+    Scale {
+      X: 0.936208844
+      Y: 0.936208844
+      Z: 0.728162289
+    }
+  }
+  ParentId: 16795097666072438738
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.254
+        G: 0.199084789
+        B: 0.054239545
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1423268074024780909
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableCastShadows: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 300973659331581778
+    SubobjectId: 12537748693895119902
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 17933423892155380401
+  Name: "Bone Human Skull 01"
+  Transform {
+    Location {
+      X: -37.4520264
+      Y: 1.92895508
+      Z: 33.2257385
+    }
+    Rotation {
+      Pitch: 6.19320536
+      Yaw: 89.2132797
+      Roll: -21.3093739
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16795097666072438738
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4679114171005356007
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableCastShadows: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 12228665002318576087
+    SubobjectId: 28921515369753243
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 6741786978874052372
+  Name: "Sconce 01"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 0.8
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16795097666072438738
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13972110979182650321
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 12049695136379400684
+    SubobjectId: 1075040978092204704
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 3131733847555962640
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16795097666072438738
+  ChildIds: 901179188713997383
+  ChildIds: 8531628019522297390
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 13131301197355629610
+    SubobjectId: 2299524310345379686
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 8531628019522297390
+  Name: "Candle Flame VFX"
+  Transform {
+    Location {
+      X: -41.3261719
+      Y: 3.1864624
+      Z: 65.7838135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2696147
+      Y: 1.2696147
+      Z: 1.2696147
+    }
+  }
+  ParentId: 3131733847555962640
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9199751096616988864
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 2308881103948513414
+    SubobjectId: 9932837210388648906
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 901179188713997383
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -39.6618538
+      Y: 4.00052643
+      Z: 65.4718
+    }
+    Rotation {
+      Roll: 7.62364483
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3131733847555962640
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 1
+    Color {
+      R: 1
+      G: 1
+      B: 1
+      A: 1
+    }
+    CastShadows: true
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      UseTemperature: true
+      Temperature: 2250
+      LocalLight {
+        AttenuationRadius: 1000
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+    CastVolumetricShadows: true
+  }
+  InstanceHistory {
+    SelfId: 304387060684421715
+    SubobjectId: 12532158336295512351
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 6463752731322835561
+  Name: "Fantasy Castle Wall 01 - Doorway 02"
+  Transform {
+    Location {
+      X: 1
+      Y: -0.999999642
+    }
+    Rotation {
+      Yaw: -6.83018879e-06
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14706162807940032304
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_TrimOuter:color"
+      Color {
+        R: 0.365671664
+        G: 0.401000023
+        B: 0.308839142
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimOuter:color"
+      Color {
+        R: 0.313236
+        G: 0.452000022
+        B: 0.384930819
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallOuter:color"
+      Color {
+        R: 0.197505012
+        G: 0.285000026
+        B: 0.242710814
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7710153546265779182
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 14027267161053462506
+    SubobjectId: 7744098822516518054
+    InstanceId: 10198915157377306096
+    TemplateId: 4910062730671523301
+  }
+}
+Objects {
+  Id: 10437257739019936345
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -5410
+      Z: 550
+    }
+    Rotation {
+      Yaw: -135
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6473594000154281222
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 85
+      Y: -5285
+      Z: 550
+    }
+    Rotation {
+      Yaw: -135
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14476327364815482177
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -5010
+      Z: 550
+    }
+    Rotation {
+      Yaw: -135
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9106630821276780288
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -48.578125
+      Y: -5151.4209
+      Z: 550
+    }
+    Rotation {
+      Yaw: -135
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5993285362138629226
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -4710
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9075945356774093153
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -4910
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4418444663952992150
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -90
+      Y: -4410
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 117464072176883579
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -90
+      Y: -4610
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10958526299974000941
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -4310
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999969
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10580646683948193547
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -4110
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999969
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10184178314648205218
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 110
+      Y: -4010
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999985
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6883478778939908000
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 110
+      Y: -3810
+      Z: 550
+    }
+    Rotation {
+      Yaw: -179.999985
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11561362173291241589
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -3710.00098
+      Z: 550
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: 180
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3337746425901065723
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210.000977
+      Y: -3510.00098
+      Z: 550
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: 180
+      Roll: 180
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5833106763030187224
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -2510
+      Z: 550
+    }
+    Rotation {
+      Yaw: 89.9999619
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 10682545006496037834
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -2310
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7941812598416888901
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -2510
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999969
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3869957866922863078
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -2110
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 13188648625681450835
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -1910
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4487232237804683110
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -1710
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11299237744745940001
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 92.8408203
+      Y: -6810
+      Z: 550
+    }
+    Rotation {
+      Yaw: 44.9999733
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 806843691502484231
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -48.578125
+      Y: -6668.57812
+      Z: 550
+    }
+    Rotation {
+      Yaw: 44.9999733
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16994540806769767836
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -6527.15723
+      Z: 550
+    }
+    Rotation {
+      Yaw: 44.9999733
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3564890473449295386
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -131.421875
+      Y: -6468.57812
+      Z: 550
+    }
+    Rotation {
+      Yaw: -45
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9623657619685407891
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 151.420898
+      Y: -6185.73633
+      Z: 550
+    }
+    Rotation {
+      Yaw: -45
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4385931938612085937
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -6327.15723
+      Z: 550
+    }
+    Rotation {
+      Yaw: -45
+      Roll: -179.999969
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17343019281770304313
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -5810
+      Z: 550
+    }
+    Rotation {
+      Yaw: 44.9999847
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11915769638448000657
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -48.578125
+      Y: -5951.4209
+      Z: 550
+    }
+    Rotation {
+      Yaw: 44.9999847
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 572954277841021878
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 92.8408203
+      Y: -6092.84277
+      Z: 550
+    }
+    Rotation {
+      Yaw: 44.9999847
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 12063165859989044729
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -5610
+      Z: 550
+    }
+    Rotation {
+      Yaw: -45
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 16436071889148864748
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 151.420898
+      Y: -5468.5791
+      Z: 550
+    }
+    Rotation {
+      Yaw: -45
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 8023383381076312818
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -131.421875
+      Y: -5751.4209
+      Z: 550
+    }
+    Rotation {
+      Yaw: -45
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 2686989725517080747
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -3310
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3244679715275013370
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -3310
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 4803530383345459943
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 10
+      Y: -3310
+      Z: 550
+    }
+    Rotation {
+      Yaw: 89.9999847
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1058048424126622753
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -3110
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17289878371429326674
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -2910
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 5505112956181770833
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -2710
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9144323059309432000
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: -190
+      Y: -2510
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 1184288170662381655
+  Name: "Climbable Ladder"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8885695570493759589
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Climbable Ladder"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: -1360
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8638228199455460828
+    }
+  }
+}
+Objects {
+  Id: 8251159575372768937
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 210
+      Y: -1500
+      Z: 550
+    }
+    Rotation {
+      Roll: -179.999985
+    }
+    Scale {
+      X: 2
+      Y: 3
+      Z: 2
+    }
+  }
+  ParentId: 11516410870097055328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 183152300358340459
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13571313298713186772
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3549846982143328433
+  Name: "Conveyor Logs"
+  Transform {
+    Location {
+      X: -16550
+      Y: -3050
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 990
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 8172474981417667040
+  Name: "Conveyor Logs"
+  Transform {
+    Location {
+      X: -16250
+      Y: -2250
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -140
+            Y: 2440
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 14688643535657645881
+  Name: "Conveyor Logs"
+  Transform {
+    Location {
+      X: -16400
+      Y: -1450
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 160
+            Y: 3240
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 3447167595576608802
+  Name: "Conveyor Logs"
+  Transform {
+    Location {
+      X: -16550
+      Y: -650
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 4040
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 10926188752391334998
+  Name: "Conveyor Logs"
+  Transform {
+    Location {
+      X: -16400
+      Y: 150
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -140
+            Y: 4840
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 9944054270282825316
+  Name: "Conveyor Logs"
+  Transform {
+    Location {
+      X: -16250
+      Y: 950
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 5640
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 10406212844867917805
+  Name: "Conveyor Logs"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 625704263607087999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Conveyor Logs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 160
+            Y: 6440
+            Z: 500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13461167631980377594
+      value {
+        Overrides {
+          Name: "cs:Speed"
+          Float: 4
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4958938872251553149
+    }
+  }
+}
+Objects {
+  Id: 4256265890039270159
+  Name: "Triggerable Door"
+  Transform {
+    Location {
+      X: -16400
+      Y: 2300
+      Z: -3150
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 2.5
+      Y: 2.5
+      Z: 2.5
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3220962468246517527
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Triggerable Door"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 90
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.5
+            Y: 2.5
+            Z: 2.5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17790870902728575710
+      value {
+        Overrides {
+          Name: "cs:Trigger"
+          ObjectReference {
+            SelfId: 808022899341205927
+            SubObjectId: 4661869649812006856
+            InstanceId: 10350686393659090228
+            TemplateId: 2376235668536570317
+          }
+        }
+        Overrides {
+          Name: "cs:HoldTime"
+          Float: 6
+        }
+        Overrides {
+          Name: "cs:MoveTime"
+          Float: 1
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18336161167167724523
+    }
+  }
+}
+Objects {
+  Id: 10350686393659090228
+  Name: "Pressure Plate"
+  Transform {
+    Location {
+      X: -16400
+      Y: 6750
+      Z: -3150
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10499324729792989337
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pressure Plate"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 160
+            Y: 6515
+            Z: 575
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2376235668536570317
+    }
+  }
+}
+Objects {
+  Id: 17184888765458488677
+  Name: "Triggerable Door"
+  Transform {
+    Location {
+      X: -16400
+      Y: 8400
+      Z: -3150
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 2.5
+      Y: 2.5
+      Z: 2.5
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3220962468246517527
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Triggerable Door"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 7790
+            Z: 580
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.5
+            Y: 2.5
+            Z: 2.5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17790870902728575710
+      value {
+        Overrides {
+          Name: "cs:Trigger"
+          ObjectReference {
+            SelfId: 725197415472491640
+            SubObjectId: 4661869649812006856
+            InstanceId: 3998294527224980106
+            TemplateId: 2376235668536570317
+          }
+        }
+        Overrides {
+          Name: "cs:HoldTime"
+          Float: 9
+        }
+        Overrides {
+          Name: "cs:MoveTime"
+          Float: 1
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18336161167167724523
+    }
+  }
+}
+Objects {
+  Id: 3998294527224980106
+  Name: "Pressure Plate"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10499324729792989337
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pressure Plate"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 12240
+            Z: 580
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2376235668536570317
+    }
+  }
+}
+Objects {
+  Id: 8054956323870498370
+  Name: "Star - Faceted 5-Pointed"
+  Transform {
+    Location {
+      X: 10
+      Y: 11110
+      Z: 950
+    }
+    Rotation {
+      Roll: 89.9999771
+    }
+    Scale {
+      X: 7.50000048
+      Y: 7.50000048
+      Z: 7.50000048
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 9131421633508398092
+  ChildIds: 3440643137115816973
+  ChildIds: 12702042940674011353
+  ChildIds: 17807530208783662394
+  ChildIds: 14059084474498268055
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5092665937078544436
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13522318910393458048
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 14059084474498268055
+  Name: "Star - Faceted 5-Pointed"
+  Transform {
+    Location {
+      Y: -0.000195312488
+      Z: -399.999847
+    }
+    Rotation {
+      Roll: -3.05175781e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8054956323870498370
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5092665937078544436
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13522318910393458048
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 17807530208783662394
+  Name: "Simple Rotate Parent"
+  Transform {
+    Location {
+      X: 941.176514
+      Y: -176.470627
+      Z: -664.705872
+    }
+    Rotation {
+      Roll: -89.9999924
+    }
+    Scale {
+      X: 0.0588235296
+      Y: 0.0588235296
+      Z: 0.0588235296
+    }
+  }
+  ParentId: 8054956323870498370
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Z: 1.5
+      }
+    }
+    Overrides {
+      Name: "cs:IsLocal"
+      Bool: true
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5358125184516124331
+    }
+  }
+}
+Objects {
+  Id: 12702042940674011353
+  Name: "Star - Faceted 5-Pointed"
+  Transform {
+    Location {
+      Y: -9.76562442e-05
+      Z: -299.999969
+    }
+    Rotation {
+      Roll: -2.39056608e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8054956323870498370
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5092665937078544436
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13522318910393458048
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3440643137115816973
+  Name: "Star - Faceted 5-Pointed"
+  Transform {
+    Location {
+      Y: -6.51041628e-05
+      Z: -199.999985
+    }
+    Rotation {
+      Roll: -2.39056608e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8054956323870498370
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5092665937078544436
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13522318910393458048
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9131421633508398092
+  Name: "Star - Faceted 5-Pointed"
+  Transform {
+    Location {
+      Y: -3.25520814e-05
+      Z: -99.9999924
+    }
+    Rotation {
+      Roll: -6.83018834e-06
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8054956323870498370
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5092665937078544436
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13522318910393458048
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11927605334805799296
+  Name: "Group"
+  Transform {
+    Location {
+      X: -265
+      Y: 14890
+      Z: 700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 18344073063698783687
+  ChildIds: 1518210046541080928
+  ChildIds: 13410355315072734911
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13410355315072734911
+  Name: "Simple Moving Platform"
+  Transform {
+    Location {
+      X: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11927605334805799296
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Platform"
+      ObjectReference {
+        SelfId: 11927605334805799296
+      }
+    }
+    Overrides {
+      Name: "cs:Destination"
+      ObjectReference {
+        SelfId: 13410355315072734911
+      }
+    }
+    Overrides {
+      Name: "cs:WaitTime"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:TravelTime"
+      Float: 0.5
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 14359719413353357775
+    }
+  }
+}
+Objects {
+  Id: 1518210046541080928
+  Name: "Cube"
+  Transform {
+    Location {
+      Y: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1
+      Z: 3
+    }
+  }
+  ParentId: 11927605334805799296
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4584477183304593272
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 18344073063698783687
+  Name: "Jellyshroom"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11927605334805799296
+  ChildIds: 2818846285709557178
+  ChildIds: 17015929618919546591
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13938396102352237788
+    SubobjectId: 8635504081326361454
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 17015929618919546591
+  Name: "Trigger"
+  Transform {
+    Location {
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.00538468
+      Y: 2.00538468
+      Z: 2.00538468
+    }
+  }
+  ParentId: 18344073063698783687
+  ChildIds: 16012183305881949326
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:sphere"
+    }
+  }
+  InstanceHistory {
+    SelfId: 8826016143240049339
+    SubobjectId: 14754943250165894409
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 16012183305881949326
+  Name: "Bump Zone Server"
+  Transform {
+    Location {
+      Z: -266.046631
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17015929618919546591
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:KillPlayer"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:Force"
+      Float: 1500
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8137025574885759575
+    }
+  }
+  InstanceHistory {
+    SelfId: 2272412001966703134
+    SubobjectId: 12191634451684359596
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 2818846285709557178
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18344073063698783687
+  ChildIds: 4655162391265699513
+  ChildIds: 6828053548223860621
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 16514675426657243924
+    SubobjectId: 6023478262259723430
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 6828053548223860621
+  Name: "Simple VFX Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2818846285709557178
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 17015929618919546591
+      }
+    }
+    Overrides {
+      Name: "cs:VFXTemplate"
+      AssetReference {
+        Id: 4243895573009973615
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 17592175945540610035
+    }
+  }
+  InstanceHistory {
+    SelfId: 2666195009716574360
+    SubobjectId: 10644365891205293866
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 4655162391265699513
+  Name: "Group"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2818846285709557178
+  ChildIds: 6953291362338948143
+  ChildIds: 2880364754303915227
+  ChildIds: 7354902754284035043
+  ChildIds: 10750439770401596820
+  ChildIds: 16585461884996157895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6079564549051051763
+    SubobjectId: 16349944486844879169
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 16585461884996157895
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -5.02590942
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4655162391265699513
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278680309080706139
+    SubobjectId: 1080583804482679785
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 10750439770401596820
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -0.258575439
+      Z: 81.9591064
+    }
+    Rotation {
+      Pitch: 1.03298414
+      Yaw: -51.5758438
+      Roll: 178.733261
+    }
+    Scale {
+      X: 0.769605577
+      Y: 0.769605637
+      Z: 1.77864838
+    }
+  }
+  ParentId: 4655162391265699513
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7771960332289961591
+    SubobjectId: 15952828376936468933
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 7354902754284035043
+  Name: "Teardrop - Truncated"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.805536568
+    }
+  }
+  ParentId: 4655162391265699513
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12631099074368817868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1705664238839490679
+    SubobjectId: 11606872225505695685
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 2880364754303915227
+  Name: "Simple Swing Parent"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4655162391265699513
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Float: 0.25
+    }
+    Overrides {
+      Name: "cs:MinAmplitude"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:MaxAmplitude"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 4774256623264947271
+    }
+  }
+  InstanceHistory {
+    SelfId: 10344431980011101292
+    SubobjectId: 4122647751987078110
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 6953291362338948143
+  Name: "Dust Motes Volume VFX"
+  Transform {
+    Location {
+      Z: 65.56604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 1.8
+      Z: 0.6
+    }
+  }
+  ParentId: 4655162391265699513
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.189999938
+        G: 1
+        B: 0.919000089
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 10
+        Y: 7
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        X: 0.5
+        Y: 0.1
+        Z: 0.2
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 0.75
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: -0.1
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 4
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1565420669897413203
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 15918765423790665009
+    SubobjectId: 7661336078087885443
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 8017149921857774918
+  Name: "Group"
+  Transform {
+    Location {
+      X: 285
+      Y: 15890
+      Z: 700
+    }
+    Rotation {
+    }
+    Scale {
+      X: -1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 895481546118681273
+  ChildIds: 10365268132142226436
+  ChildIds: 710193389333595933
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 710193389333595933
+  Name: "Simple Moving Platform"
+  Transform {
+    Location {
+      X: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8017149921857774918
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Platform"
+      ObjectReference {
+        SelfId: 8017149921857774918
+      }
+    }
+    Overrides {
+      Name: "cs:Destination"
+      ObjectReference {
+        SelfId: 710193389333595933
+      }
+    }
+    Overrides {
+      Name: "cs:WaitTime"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:TravelTime"
+      Float: 1
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 14359719413353357775
+    }
+  }
+}
+Objects {
+  Id: 10365268132142226436
+  Name: "Cube"
+  Transform {
+    Location {
+      Y: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1
+      Z: 3
+    }
+  }
+  ParentId: 8017149921857774918
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4584477183304593272
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 895481546118681273
+  Name: "Jellyshroom"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8017149921857774918
+  ChildIds: 14559987915015795056
+  ChildIds: 91711733541226409
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13938396102352237788
+    SubobjectId: 8635504081326361454
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 91711733541226409
+  Name: "Trigger"
+  Transform {
+    Location {
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.00538468
+      Y: 2.00538468
+      Z: 2.00538468
+    }
+  }
+  ParentId: 895481546118681273
+  ChildIds: 1680304195754027956
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:sphere"
+    }
+  }
+  InstanceHistory {
+    SelfId: 8826016143240049339
+    SubobjectId: 14754943250165894409
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 1680304195754027956
+  Name: "Bump Zone Server"
+  Transform {
+    Location {
+      Z: -266.046631
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 91711733541226409
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:KillPlayer"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:Force"
+      Float: 1500
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8137025574885759575
+    }
+  }
+  InstanceHistory {
+    SelfId: 2272412001966703134
+    SubobjectId: 12191634451684359596
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 14559987915015795056
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 895481546118681273
+  ChildIds: 11814725916777053627
+  ChildIds: 1018705724889930024
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 16514675426657243924
+    SubobjectId: 6023478262259723430
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 1018705724889930024
+  Name: "Simple VFX Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14559987915015795056
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 91711733541226409
+      }
+    }
+    Overrides {
+      Name: "cs:VFXTemplate"
+      AssetReference {
+        Id: 4243895573009973615
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 17592175945540610035
+    }
+  }
+  InstanceHistory {
+    SelfId: 2666195009716574360
+    SubobjectId: 10644365891205293866
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 11814725916777053627
+  Name: "Group"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14559987915015795056
+  ChildIds: 14965378129342281821
+  ChildIds: 14623657288343798280
+  ChildIds: 9199894426448662611
+  ChildIds: 4179763797929949401
+  ChildIds: 3523799833576139379
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6079564549051051763
+    SubobjectId: 16349944486844879169
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 3523799833576139379
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -5.02590942
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11814725916777053627
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278680309080706139
+    SubobjectId: 1080583804482679785
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 4179763797929949401
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -0.258575439
+      Z: 81.9591064
+    }
+    Rotation {
+      Pitch: 1.03298414
+      Yaw: -51.5758438
+      Roll: 178.733261
+    }
+    Scale {
+      X: 0.769605577
+      Y: 0.769605637
+      Z: 1.77864838
+    }
+  }
+  ParentId: 11814725916777053627
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7771960332289961591
+    SubobjectId: 15952828376936468933
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 9199894426448662611
+  Name: "Teardrop - Truncated"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.805536568
+    }
+  }
+  ParentId: 11814725916777053627
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12631099074368817868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1705664238839490679
+    SubobjectId: 11606872225505695685
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 14623657288343798280
+  Name: "Simple Swing Parent"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11814725916777053627
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Float: 0.25
+    }
+    Overrides {
+      Name: "cs:MinAmplitude"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:MaxAmplitude"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 4774256623264947271
+    }
+  }
+  InstanceHistory {
+    SelfId: 10344431980011101292
+    SubobjectId: 4122647751987078110
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 14965378129342281821
+  Name: "Dust Motes Volume VFX"
+  Transform {
+    Location {
+      Z: 65.56604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 1.8
+      Z: 0.6
+    }
+  }
+  ParentId: 11814725916777053627
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.189999938
+        G: 1
+        B: 0.919000089
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 10
+        Y: 7
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        X: 0.5
+        Y: 0.1
+        Z: 0.2
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 0.75
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: -0.1
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 4
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1565420669897413203
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 15918765423790665009
+    SubobjectId: 7661336078087885443
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 10829115736758439263
+  Name: "Group"
+  Transform {
+    Location {
+      X: -265
+      Y: 16890
+      Z: 700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 6236916548876182089
+  ChildIds: 4686779716413845656
+  ChildIds: 3030537006912875098
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3030537006912875098
+  Name: "Simple Moving Platform"
+  Transform {
+    Location {
+      X: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10829115736758439263
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Platform"
+      ObjectReference {
+        SelfId: 10829115736758439263
+      }
+    }
+    Overrides {
+      Name: "cs:Destination"
+      ObjectReference {
+        SelfId: 3030537006912875098
+      }
+    }
+    Overrides {
+      Name: "cs:WaitTime"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:TravelTime"
+      Float: 2
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 14359719413353357775
+    }
+  }
+}
+Objects {
+  Id: 4686779716413845656
+  Name: "Cube"
+  Transform {
+    Location {
+      Y: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1
+      Z: 3
+    }
+  }
+  ParentId: 10829115736758439263
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4584477183304593272
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 6236916548876182089
+  Name: "Jellyshroom"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10829115736758439263
+  ChildIds: 11799087612717287010
+  ChildIds: 11288451364354200430
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13938396102352237788
+    SubobjectId: 8635504081326361454
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 11288451364354200430
+  Name: "Trigger"
+  Transform {
+    Location {
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.00538468
+      Y: 2.00538468
+      Z: 2.00538468
+    }
+  }
+  ParentId: 6236916548876182089
+  ChildIds: 1184324096244883171
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:sphere"
+    }
+  }
+  InstanceHistory {
+    SelfId: 8826016143240049339
+    SubobjectId: 14754943250165894409
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 1184324096244883171
+  Name: "Bump Zone Server"
+  Transform {
+    Location {
+      Z: -266.046631
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11288451364354200430
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:KillPlayer"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:Force"
+      Float: 1500
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8137025574885759575
+    }
+  }
+  InstanceHistory {
+    SelfId: 2272412001966703134
+    SubobjectId: 12191634451684359596
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 11799087612717287010
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6236916548876182089
+  ChildIds: 8999909342615578813
+  ChildIds: 5240167497981865747
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 16514675426657243924
+    SubobjectId: 6023478262259723430
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 5240167497981865747
+  Name: "Simple VFX Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11799087612717287010
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 11288451364354200430
+      }
+    }
+    Overrides {
+      Name: "cs:VFXTemplate"
+      AssetReference {
+        Id: 4243895573009973615
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 17592175945540610035
+    }
+  }
+  InstanceHistory {
+    SelfId: 2666195009716574360
+    SubobjectId: 10644365891205293866
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 8999909342615578813
+  Name: "Group"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11799087612717287010
+  ChildIds: 16141664858122088357
+  ChildIds: 12989182072898890939
+  ChildIds: 7533071108656869041
+  ChildIds: 763565987994321359
+  ChildIds: 8893525485092516753
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6079564549051051763
+    SubobjectId: 16349944486844879169
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 8893525485092516753
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -5.02590942
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8999909342615578813
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278680309080706139
+    SubobjectId: 1080583804482679785
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 763565987994321359
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -0.258575439
+      Z: 81.9591064
+    }
+    Rotation {
+      Pitch: 1.03298414
+      Yaw: -51.5758438
+      Roll: 178.733261
+    }
+    Scale {
+      X: 0.769605577
+      Y: 0.769605637
+      Z: 1.77864838
+    }
+  }
+  ParentId: 8999909342615578813
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7771960332289961591
+    SubobjectId: 15952828376936468933
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 7533071108656869041
+  Name: "Teardrop - Truncated"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.805536568
+    }
+  }
+  ParentId: 8999909342615578813
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12631099074368817868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1705664238839490679
+    SubobjectId: 11606872225505695685
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 12989182072898890939
+  Name: "Simple Swing Parent"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8999909342615578813
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Float: 0.25
+    }
+    Overrides {
+      Name: "cs:MinAmplitude"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:MaxAmplitude"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 4774256623264947271
+    }
+  }
+  InstanceHistory {
+    SelfId: 10344431980011101292
+    SubobjectId: 4122647751987078110
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 16141664858122088357
+  Name: "Dust Motes Volume VFX"
+  Transform {
+    Location {
+      Z: 65.56604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 1.8
+      Z: 0.6
+    }
+  }
+  ParentId: 8999909342615578813
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.189999938
+        G: 1
+        B: 0.919000089
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 10
+        Y: 7
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        X: 0.5
+        Y: 0.1
+        Z: 0.2
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 0.75
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: -0.1
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 4
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1565420669897413203
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 15918765423790665009
+    SubobjectId: 7661336078087885443
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 5681663586034992625
+  Name: "Group"
+  Transform {
+    Location {
+      X: -265
+      Y: 15490
+      Z: 700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 11904918162002612085
+  ChildIds: 10276814476930369641
+  ChildIds: 8245778371678406719
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8245778371678406719
+  Name: "Simple Moving Platform"
+  Transform {
+    Location {
+      X: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5681663586034992625
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Platform"
+      ObjectReference {
+        SelfId: 5681663586034992625
+      }
+    }
+    Overrides {
+      Name: "cs:Destination"
+      ObjectReference {
+        SelfId: 8245778371678406719
+      }
+    }
+    Overrides {
+      Name: "cs:WaitTime"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:TravelTime"
+      Float: 1.25
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 14359719413353357775
+    }
+  }
+}
+Objects {
+  Id: 10276814476930369641
+  Name: "Cube"
+  Transform {
+    Location {
+      Y: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1
+      Z: 3
+    }
+  }
+  ParentId: 5681663586034992625
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4584477183304593272
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 11904918162002612085
+  Name: "Jellyshroom"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5681663586034992625
+  ChildIds: 12619052696244940481
+  ChildIds: 8711880476496345198
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13938396102352237788
+    SubobjectId: 8635504081326361454
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 8711880476496345198
+  Name: "Trigger"
+  Transform {
+    Location {
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.00538468
+      Y: 2.00538468
+      Z: 2.00538468
+    }
+  }
+  ParentId: 11904918162002612085
+  ChildIds: 17678831111796769380
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:sphere"
+    }
+  }
+  InstanceHistory {
+    SelfId: 8826016143240049339
+    SubobjectId: 14754943250165894409
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 17678831111796769380
+  Name: "Bump Zone Server"
+  Transform {
+    Location {
+      Z: -266.046631
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8711880476496345198
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:KillPlayer"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:Force"
+      Float: 1500
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8137025574885759575
+    }
+  }
+  InstanceHistory {
+    SelfId: 2272412001966703134
+    SubobjectId: 12191634451684359596
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 12619052696244940481
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11904918162002612085
+  ChildIds: 18281530549487147793
+  ChildIds: 1431135605973073731
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 16514675426657243924
+    SubobjectId: 6023478262259723430
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 1431135605973073731
+  Name: "Simple VFX Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12619052696244940481
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 8711880476496345198
+      }
+    }
+    Overrides {
+      Name: "cs:VFXTemplate"
+      AssetReference {
+        Id: 4243895573009973615
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 17592175945540610035
+    }
+  }
+  InstanceHistory {
+    SelfId: 2666195009716574360
+    SubobjectId: 10644365891205293866
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 18281530549487147793
+  Name: "Group"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12619052696244940481
+  ChildIds: 2032800577969171437
+  ChildIds: 11251985204983435148
+  ChildIds: 10213601283895528494
+  ChildIds: 13453585521870583548
+  ChildIds: 13936253820871333895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6079564549051051763
+    SubobjectId: 16349944486844879169
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 13936253820871333895
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -5.02590942
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18281530549487147793
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278680309080706139
+    SubobjectId: 1080583804482679785
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 13453585521870583548
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -0.258575439
+      Z: 81.9591064
+    }
+    Rotation {
+      Pitch: 1.03298414
+      Yaw: -51.5758438
+      Roll: 178.733261
+    }
+    Scale {
+      X: 0.769605577
+      Y: 0.769605637
+      Z: 1.77864838
+    }
+  }
+  ParentId: 18281530549487147793
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7771960332289961591
+    SubobjectId: 15952828376936468933
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 10213601283895528494
+  Name: "Teardrop - Truncated"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.805536568
+    }
+  }
+  ParentId: 18281530549487147793
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12631099074368817868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1705664238839490679
+    SubobjectId: 11606872225505695685
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 11251985204983435148
+  Name: "Simple Swing Parent"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18281530549487147793
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Float: 0.25
+    }
+    Overrides {
+      Name: "cs:MinAmplitude"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:MaxAmplitude"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 4774256623264947271
+    }
+  }
+  InstanceHistory {
+    SelfId: 10344431980011101292
+    SubobjectId: 4122647751987078110
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 2032800577969171437
+  Name: "Dust Motes Volume VFX"
+  Transform {
+    Location {
+      Z: 65.56604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 1.8
+      Z: 0.6
+    }
+  }
+  ParentId: 18281530549487147793
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.189999938
+        G: 1
+        B: 0.919000089
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 10
+        Y: 7
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        X: 0.5
+        Y: 0.1
+        Z: 0.2
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 0.75
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: -0.1
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 4
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1565420669897413203
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 15918765423790665009
+    SubobjectId: 7661336078087885443
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 15091072180131464215
+  Name: "Group"
+  Transform {
+    Location {
+      X: 285
+      Y: 16490
+      Z: 700
+    }
+    Rotation {
+    }
+    Scale {
+      X: -1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 3013908558812478047
+  ChildIds: 17918379203365778343
+  ChildIds: 15836364639554257785
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15836364639554257785
+  Name: "Simple Moving Platform"
+  Transform {
+    Location {
+      X: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15091072180131464215
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Platform"
+      ObjectReference {
+        SelfId: 15091072180131464215
+      }
+    }
+    Overrides {
+      Name: "cs:Destination"
+      ObjectReference {
+        SelfId: 15836364639554257785
+      }
+    }
+    Overrides {
+      Name: "cs:WaitTime"
+      Float: 1.25
+    }
+    Overrides {
+      Name: "cs:TravelTime"
+      Float: 0.25
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 14359719413353357775
+    }
+  }
+}
+Objects {
+  Id: 17918379203365778343
+  Name: "Cube"
+  Transform {
+    Location {
+      Y: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1
+      Z: 3
+    }
+  }
+  ParentId: 15091072180131464215
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4584477183304593272
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 3013908558812478047
+  Name: "Jellyshroom"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15091072180131464215
+  ChildIds: 13604959515180753336
+  ChildIds: 531463968256426297
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13938396102352237788
+    SubobjectId: 8635504081326361454
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 531463968256426297
+  Name: "Trigger"
+  Transform {
+    Location {
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.00538468
+      Y: 2.00538468
+      Z: 2.00538468
+    }
+  }
+  ParentId: 3013908558812478047
+  ChildIds: 180774940342168501
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:sphere"
+    }
+  }
+  InstanceHistory {
+    SelfId: 8826016143240049339
+    SubobjectId: 14754943250165894409
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 180774940342168501
+  Name: "Bump Zone Server"
+  Transform {
+    Location {
+      Z: -266.046631
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 531463968256426297
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:KillPlayer"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:Force"
+      Float: 1500
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8137025574885759575
+    }
+  }
+  InstanceHistory {
+    SelfId: 2272412001966703134
+    SubobjectId: 12191634451684359596
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 13604959515180753336
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3013908558812478047
+  ChildIds: 10100910963538461288
+  ChildIds: 7466871445759869167
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 16514675426657243924
+    SubobjectId: 6023478262259723430
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 7466871445759869167
+  Name: "Simple VFX Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13604959515180753336
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 531463968256426297
+      }
+    }
+    Overrides {
+      Name: "cs:VFXTemplate"
+      AssetReference {
+        Id: 4243895573009973615
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 17592175945540610035
+    }
+  }
+  InstanceHistory {
+    SelfId: 2666195009716574360
+    SubobjectId: 10644365891205293866
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 10100910963538461288
+  Name: "Group"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13604959515180753336
+  ChildIds: 9492481841381635250
+  ChildIds: 164446534913337378
+  ChildIds: 13958450967174346565
+  ChildIds: 17904975364839366965
+  ChildIds: 11557083214922853105
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6079564549051051763
+    SubobjectId: 16349944486844879169
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 11557083214922853105
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -5.02590942
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10100910963538461288
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278680309080706139
+    SubobjectId: 1080583804482679785
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 17904975364839366965
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -0.258575439
+      Z: 81.9591064
+    }
+    Rotation {
+      Pitch: 1.03298414
+      Yaw: -51.5758438
+      Roll: 178.733261
+    }
+    Scale {
+      X: 0.769605577
+      Y: 0.769605637
+      Z: 1.77864838
+    }
+  }
+  ParentId: 10100910963538461288
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7771960332289961591
+    SubobjectId: 15952828376936468933
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 13958450967174346565
+  Name: "Teardrop - Truncated"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.805536568
+    }
+  }
+  ParentId: 10100910963538461288
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12631099074368817868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1705664238839490679
+    SubobjectId: 11606872225505695685
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 164446534913337378
+  Name: "Simple Swing Parent"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10100910963538461288
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Float: 0.25
+    }
+    Overrides {
+      Name: "cs:MinAmplitude"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:MaxAmplitude"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 4774256623264947271
+    }
+  }
+  InstanceHistory {
+    SelfId: 10344431980011101292
+    SubobjectId: 4122647751987078110
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 9492481841381635250
+  Name: "Dust Motes Volume VFX"
+  Transform {
+    Location {
+      Z: 65.56604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 1.8
+      Z: 0.6
+    }
+  }
+  ParentId: 10100910963538461288
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.189999938
+        G: 1
+        B: 0.919000089
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 10
+        Y: 7
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        X: 0.5
+        Y: 0.1
+        Z: 0.2
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 0.75
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: -0.1
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 4
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1565420669897413203
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 15918765423790665009
+    SubobjectId: 7661336078087885443
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 16517684613886375146
+  Name: "Group"
+  Transform {
+    Location {
+      X: -265
+      Y: 17490
+      Z: 700
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 7662773119118544396
+  ChildIds: 6739953630462028246
+  ChildIds: 10017169779395250054
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10017169779395250054
+  Name: "Simple Moving Platform"
+  Transform {
+    Location {
+      X: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16517684613886375146
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Platform"
+      ObjectReference {
+        SelfId: 16517684613886375146
+      }
+    }
+    Overrides {
+      Name: "cs:Destination"
+      ObjectReference {
+        SelfId: 10017169779395250054
+      }
+    }
+    Overrides {
+      Name: "cs:WaitTime"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:TravelTime"
+      Float: 1.5
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 14359719413353357775
+    }
+  }
+}
+Objects {
+  Id: 6739953630462028246
+  Name: "Cube"
+  Transform {
+    Location {
+      Y: -50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.5
+      Y: 1
+      Z: 3
+    }
+  }
+  ParentId: 16517684613886375146
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4584477183304593272
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 7662773119118544396
+  Name: "Jellyshroom"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Roll: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16517684613886375146
+  ChildIds: 13678457167137530457
+  ChildIds: 973050823427223288
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13938396102352237788
+    SubobjectId: 8635504081326361454
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 973050823427223288
+  Name: "Trigger"
+  Transform {
+    Location {
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.00538468
+      Y: 2.00538468
+      Z: 2.00538468
+    }
+  }
+  ParentId: 7662773119118544396
+  ChildIds: 15510425707948915293
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:sphere"
+    }
+  }
+  InstanceHistory {
+    SelfId: 8826016143240049339
+    SubobjectId: 14754943250165894409
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 15510425707948915293
+  Name: "Bump Zone Server"
+  Transform {
+    Location {
+      Z: -266.046631
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 973050823427223288
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:KillPlayer"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:Force"
+      Float: 1500
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8137025574885759575
+    }
+  }
+  InstanceHistory {
+    SelfId: 2272412001966703134
+    SubobjectId: 12191634451684359596
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 13678457167137530457
+  Name: "ClientContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7662773119118544396
+  ChildIds: 8513627881273814261
+  ChildIds: 4716167627236413385
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 16514675426657243924
+    SubobjectId: 6023478262259723430
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 4716167627236413385
+  Name: "Simple VFX Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13678457167137530457
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 973050823427223288
+      }
+    }
+    Overrides {
+      Name: "cs:VFXTemplate"
+      AssetReference {
+        Id: 4243895573009973615
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 17592175945540610035
+    }
+  }
+  InstanceHistory {
+    SelfId: 2666195009716574360
+    SubobjectId: 10644365891205293866
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 8513627881273814261
+  Name: "Group"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13678457167137530457
+  ChildIds: 18144288122844932363
+  ChildIds: 6698822233899581307
+  ChildIds: 4235262386475483585
+  ChildIds: 9581448864949493810
+  ChildIds: 12074143104153687384
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 6079564549051051763
+    SubobjectId: 16349944486844879169
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 12074143104153687384
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: -0.610595703
+      Y: -5.02590942
+      Z: 50
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8513627881273814261
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Light {
+    Intensity: 2
+    Color {
+      R: 0.24999994
+      G: 1
+      B: 0.762500048
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 200
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278680309080706139
+    SubobjectId: 1080583804482679785
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 9581448864949493810
+  Name: "Coral Table 01"
+  Transform {
+    Location {
+      X: -0.627685547
+      Y: -0.258575439
+      Z: 81.9591064
+    }
+    Rotation {
+      Pitch: 1.03298414
+      Yaw: -51.5758438
+      Roll: 178.733261
+    }
+    Scale {
+      X: 0.769605577
+      Y: 0.769605637
+      Z: 1.77864838
+    }
+  }
+  ParentId: 8513627881273814261
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3001586577837027788
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7054676361656468100
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7771960332289961591
+    SubobjectId: 15952828376936468933
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 4235262386475483585
+  Name: "Teardrop - Truncated"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.805536568
+    }
+  }
+  ParentId: 8513627881273814261
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 69844939897041847
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 1
+        B: 0.933333397
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12631099074368817868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1705664238839490679
+    SubobjectId: 11606872225505695685
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 6698822233899581307
+  Name: "Simple Swing Parent"
+  Transform {
+    Location {
+      Z: -24.43396
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8513627881273814261
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Float: 0.25
+    }
+    Overrides {
+      Name: "cs:MinAmplitude"
+      Float: 0
+    }
+    Overrides {
+      Name: "cs:MaxAmplitude"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 4774256623264947271
+    }
+  }
+  InstanceHistory {
+    SelfId: 10344431980011101292
+    SubobjectId: 4122647751987078110
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+}
+Objects {
+  Id: 18144288122844932363
+  Name: "Dust Motes Volume VFX"
+  Transform {
+    Location {
+      Z: 65.56604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 1.8
+      Z: 0.6
+    }
+  }
+  ParentId: 8513627881273814261
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.189999938
+        G: 1
+        B: 0.919000089
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 10
+        Y: 7
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        X: 0.5
+        Y: 0.1
+        Z: 0.2
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 0.75
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: -0.1
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 4
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1565420669897413203
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 15918765423790665009
+    SubobjectId: 7661336078087885443
+    InstanceId: 9547701246827714653
+    TemplateId: 14917342582873736582
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 7160539651972252138
+  Name: "Pressure Plate"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8816164571255376391
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -2.75
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10499324729792989337
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pressure Plate"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 18090
+            Z: 590
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2376235668536570317
+    }
+  }
+}
+Objects {
+  Id: 1678918341007484410
+  Name: "Triggerable Door"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3220962468246517527
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Triggerable Door"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10
+            Y: 13890
+            Z: 570
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999985
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.5
+            Y: 2.5
+            Z: 2.5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17790870902728575710
+      value {
+        Overrides {
+          Name: "cs:Trigger"
+          ObjectReference {
+            SelfId: 6004855578187759400
+            SubObjectId: 4661869649812006856
+            InstanceId: 7160539651972252138
+            TemplateId: 2376235668536570317
+          }
+        }
+        Overrides {
+          Name: "cs:HoldTime"
+          Float: 6
+        }
+        Overrides {
+          Name: "cs:MoveTime"
+          Float: 1.5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18336161167167724523
+    }
+  }
+}
+Objects {
+  Id: 16643303360971537713
+  Name: "Walls/Floors"
+  Transform {
+    Location {
+      X: -190
+      Y: 5290
+      Z: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11516410870097055328
+  ChildIds: 10967218677831162556
+  ChildIds: 1146987893802094555
+  ChildIds: 4399558598558451778
+  ChildIds: 11222358518474017260
+  ChildIds: 13269400208445998717
+  ChildIds: 13793207830698900580
+  ChildIds: 14007308785454339674
+  ChildIds: 8442266661462287453
+  ChildIds: 1604328420775336894
+  ChildIds: 15292510001015052822
+  ChildIds: 8508445004699216611
+  ChildIds: 374305730052073541
+  ChildIds: 5842802351961802769
+  ChildIds: 17915354840293966475
+  ChildIds: 9598869523231008792
+  ChildIds: 5933743395401706488
+  ChildIds: 9467971510980244652
+  ChildIds: 17596803111887815060
+  ChildIds: 15027256971132198843
+  ChildIds: 346333418987160582
+  ChildIds: 17938488367132048265
+  ChildIds: 15334212108794611223
+  ChildIds: 10033075860991809837
+  ChildIds: 14558914894838256056
+  ChildIds: 5190331096301624772
+  ChildIds: 14112604174907141083
+  ChildIds: 15032154026603019267
+  ChildIds: 16309254508912283307
+  ChildIds: 12954904591662932592
+  ChildIds: 18126437837486177677
+  ChildIds: 6415967100751395679
+  ChildIds: 17631949072085165656
+  ChildIds: 1127846475907157410
+  ChildIds: 4923002285344318676
+  ChildIds: 10484977131523522825
+  ChildIds: 8961989444549353506
+  ChildIds: 13292871640191250764
+  ChildIds: 3817040318280434638
+  ChildIds: 2300105590520615211
+  ChildIds: 2976766878896391864
+  ChildIds: 12714890786777595723
+  ChildIds: 14102943430931952767
+  ChildIds: 16306884697195591561
+  ChildIds: 9056636917008614317
+  ChildIds: 2240429061310405458
+  ChildIds: 2967269414444197127
+  ChildIds: 17844261660834929435
+  ChildIds: 12841170621979165425
+  ChildIds: 119503306871399697
+  ChildIds: 17166872203051036287
+  ChildIds: 8131606109582181299
+  ChildIds: 11311675674593473141
+  ChildIds: 15712630827982632638
+  ChildIds: 4263704521455277973
+  ChildIds: 17465941566546960783
+  ChildIds: 11025741677881939868
+  ChildIds: 4326906993290569482
+  ChildIds: 9676746746601766912
+  ChildIds: 3187648902031306936
+  ChildIds: 6403235006210064359
+  ChildIds: 7107564133869783739
+  ChildIds: 904857093693728538
+  ChildIds: 10697910570960274629
+  ChildIds: 11240691172513259778
+  ChildIds: 17109747680821143163
+  ChildIds: 16098512952659352568
+  ChildIds: 6890376873124668218
+  ChildIds: 13906406567131382506
+  ChildIds: 12966246109367439985
+  ChildIds: 8980119629948457357
+  ChildIds: 12579514836524104185
+  ChildIds: 15895109106818642667
+  ChildIds: 18036367156762095112
+  ChildIds: 1990084216477503235
+  ChildIds: 14148756399726186982
+  ChildIds: 3728667435272188435
+  ChildIds: 9418925199752517964
+  ChildIds: 11035447001969358518
+  ChildIds: 2063613901960583420
+  ChildIds: 12136650296016249577
+  ChildIds: 10905513110835202225
+  ChildIds: 4093314240560644491
+  ChildIds: 2003056005986149007
+  ChildIds: 10414112716950970175
+  ChildIds: 12153260087217277539
+  ChildIds: 14085938392230078609
+  ChildIds: 16836643778698850065
+  ChildIds: 15694052218015443264
+  ChildIds: 15727380343586469681
+  ChildIds: 16153823220901170398
+  ChildIds: 8138785926379824972
+  ChildIds: 1332241349224859264
+  ChildIds: 5414652593541005657
+  ChildIds: 4518610199255697792
+  ChildIds: 13179323752651081902
+  ChildIds: 4428359715100417173
+  ChildIds: 13588490951807409279
+  ChildIds: 13492432338106534024
+  ChildIds: 10477574366173477927
+  ChildIds: 4375975836358887603
+  ChildIds: 17355154853676083223
+  ChildIds: 7698979856241695813
+  ChildIds: 974662082707459719
+  ChildIds: 3810921460709978889
+  ChildIds: 16236724985534306428
+  ChildIds: 14119787498354190571
+  ChildIds: 14506466218414441240
+  ChildIds: 11736654681217102501
+  ChildIds: 14649486207785912694
+  ChildIds: 15896834446622794487
+  ChildIds: 15070650726695518664
+  ChildIds: 8178666468578376656
+  ChildIds: 8715097949534950967
+  ChildIds: 7363095727293333091
+  ChildIds: 14086910547624180166
+  ChildIds: 15383714990662552638
+  ChildIds: 6278721171363697305
+  ChildIds: 16077764667622521137
+  ChildIds: 77450596292233770
+  ChildIds: 16909896530697279960
+  ChildIds: 4410649789021203584
+  ChildIds: 12970497605514328886
+  ChildIds: 7173981718829350475
+  ChildIds: 8055062713044680084
+  ChildIds: 6262307231068687813
+  ChildIds: 13413488751326094233
+  ChildIds: 15917237739364925522
+  ChildIds: 13720196156156859631
+  ChildIds: 14563464086346060180
+  ChildIds: 16886302414515732033
+  ChildIds: 7913703803437905703
+  ChildIds: 11390592768500318611
+  ChildIds: 17412478013121343893
+  ChildIds: 257442311441680046
+  ChildIds: 15477030021106399231
+  ChildIds: 15155095993099343603
+  ChildIds: 501327356690286505
+  ChildIds: 13454209537249702178
+  ChildIds: 15286089797157777967
+  ChildIds: 5919048453138043269
+  ChildIds: 7010711611290546299
+  ChildIds: 1006019927188875605
+  ChildIds: 18330546779132050323
+  ChildIds: 12874621312474224583
+  ChildIds: 1497367533069443824
+  ChildIds: 10923908257948694308
+  ChildIds: 17499467093592019273
+  ChildIds: 8459452287869880899
+  ChildIds: 5196804365503222782
+  ChildIds: 10390049023304717201
+  ChildIds: 9922763935034545451
+  ChildIds: 13531794958248893515
+  ChildIds: 1362388911237859452
+  ChildIds: 6221589583286783951
+  ChildIds: 12957163468039774169
+  ChildIds: 16311753894188982639
+  ChildIds: 13226647626757729469
+  ChildIds: 8147843604270572258
+  ChildIds: 3373183333932225324
+  ChildIds: 14036989079288189368
+  ChildIds: 2688304574980517584
+  ChildIds: 16908770952775676178
+  ChildIds: 9223601161219767124
+  ChildIds: 15361852285985344130
+  ChildIds: 16823485256125462607
+  ChildIds: 6306720826886218573
+  ChildIds: 7133432699628279774
+  ChildIds: 990352882580920458
+  ChildIds: 11148963972518428638
+  ChildIds: 7173744737745767798
+  ChildIds: 15076947419901487705
+  ChildIds: 8590772886882774323
+  ChildIds: 15284756913674042267
+  ChildIds: 8574823130954702702
+  ChildIds: 17115169298259322788
+  ChildIds: 13332905041158645833
+  ChildIds: 4401063797679314964
+  ChildIds: 12099201189007324601
+  ChildIds: 3132134321298609050
+  ChildIds: 10218633132126587284
+  ChildIds: 3193876954220386726
+  ChildIds: 7687399365914273104
+  ChildIds: 10571145687151930096
+  ChildIds: 4025673520695817617
+  ChildIds: 2923609914441326686
+  ChildIds: 8770292827406556250
+  ChildIds: 9005114395514452580
+  ChildIds: 1846802491518169957
+  ChildIds: 457611851291193762
+  ChildIds: 8708116562969705144
+  ChildIds: 12722116260335110181
+  ChildIds: 1669090893986040897
+  ChildIds: 18428116772681960872
+  ChildIds: 11281415675775348351
+  ChildIds: 7049515016550857567
+  ChildIds: 15943237636735505543
+  ChildIds: 6215704058964672796
+  ChildIds: 2105167524526398691
+  ChildIds: 3609202018922440266
+  ChildIds: 11340604834693399800
+  ChildIds: 15855682246126275355
+  ChildIds: 9950436843968939767
+  ChildIds: 6960734600545166776
+  ChildIds: 2216857421827870541
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2216857421827870541
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 14000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 15000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 180
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6960734600545166776
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -14000
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -14600
+            Z: 1200
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: -37.0000076
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "ma:Building_Ceiling:id"
+          AssetReference {
+            Id: 9919644819108266555
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 9950436843968939767
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -14800
+      Z: -2600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -13800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15855682246126275355
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -14800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -14600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11340604834693399800
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -14000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -14600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3609202018922440266
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 3600
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -10600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2105167524526398691
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 2000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -12200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6215704058964672796
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 1200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -13000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15943237636735505543
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -12200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7049515016550857567
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -11400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11281415675775348351
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 1200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -13000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 18428116772681960872
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 2800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -11400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1669090893986040897
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 4400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -9800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12722116260335110181
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 3600
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -10600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8708116562969705144
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 4400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 457611851291193762
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 5200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1846802491518169957
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -13800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 9005114395514452580
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 8400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -5800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8770292827406556250
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 6800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -7400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2923609914441326686
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 6000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -8200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4025673520695817617
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -7400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10571145687151930096
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 7600
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -6600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7687399365914273104
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -8200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3193876954220386726
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 7600
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -6600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10218633132126587284
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 9200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -5000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3132134321298609050
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 8400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -5800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12099201189007324601
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 9200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -5000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4401063797679314964
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -4200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13332905041158645833
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 5200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -9000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17115169298259322788
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 13200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -1000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8574823130954702702
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 11600
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -2600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15284756913674042267
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 10800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -3400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8590772886882774323
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 11600
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -2600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15076947419901487705
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 12400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -1800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7173744737745767798
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -3400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11148963972518428638
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 12400
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -1800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 990352882580920458
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 14000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7133432699628279774
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 13200
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -1000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6306720826886218573
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 14000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16823485256125462607
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 14800
+      Z: -2600
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15361852285985344130
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 10000
+      Z: -2600
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -4200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 9223601161219767124
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -4400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 3800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16908770952775676178
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -6000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 2200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2688304574980517584
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -6800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 1400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14036989079288189368
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -6000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 2200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3373183333932225324
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -5200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 3000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8147843604270572258
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -6800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 1400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13226647626757729469
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -5200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 3000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16311753894188982639
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -3600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 4600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12957163468039774169
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -4400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 3800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6221589583286783951
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -3600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 4600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1362388911237859452
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 5400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13531794958248893515
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -7600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 9922763935034545451
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 8600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10390049023304717201
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 7000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 5196804365503222782
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 6200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8459452287869880899
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 7000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17499467093592019273
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 7800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10923908257948694308
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 6200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1497367533069443824
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 7800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12874621312474224583
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 9400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 18330546779132050323
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 8600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1006019927188875605
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 9400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7010711611290546299
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 10200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 5919048453138043269
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 5400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15286089797157777967
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 5200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 13400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13454209537249702178
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 3600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 11800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 501327356690286505
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 11000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15155095993099343603
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 3600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 11800
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15477030021106399231
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 4400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 12600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 257442311441680046
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 11000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17412478013121343893
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 4400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 12600
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11390592768500318611
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 6000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 14200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7913703803437905703
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 5200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 13400
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16886302414515732033
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 14200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14563464086346060180
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 15000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13720196156156859631
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 10200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15917237739364925522
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -14000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -14600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13413488751326094233
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -13200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -13800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6262307231068687813
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -13200
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -13800
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 8055062713044680084
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -13200
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -13800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7173981718829350475
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -12400
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -13000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12970497605514328886
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -12400
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -13000
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4410649789021203584
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -11600
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -12200
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16909896530697279960
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -12400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -13000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 77450596292233770
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -11600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -12200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16077764667622521137
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -11600
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -12200
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6278721171363697305
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10800
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -11400
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15383714990662552638
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -11600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -12200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14086910547624180166
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -11400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7363095727293333091
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -10800
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -11400
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8715097949534950967
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10000
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -10600
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8178666468578376656
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -10800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -11400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15070650726695518664
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -10600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15896834446622794487
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -10000
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -10600
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14649486207785912694
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -9200
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9800
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11736654681217102501
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -10000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -10600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14506466218414441240
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -9200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14119787498354190571
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -9200
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -9800
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16236724985534306428
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -8400
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9000
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3810921460709978889
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -9200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -9800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 974662082707459719
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -8400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7698979856241695813
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -8400
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -9000
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17355154853676083223
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -7600
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -8200
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4375975836358887603
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -8400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -9000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10477574366173477927
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -7600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -8200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13492432338106534024
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -7600
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -7400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13588490951807409279
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -8400
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -8200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4428359715100417173
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -6800
+      Z: -3800
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -7400
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13179323752651081902
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -7600
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -8200
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4518610199255697792
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10800
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -11400
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 5414652593541005657
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10000
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -10600
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 1332241349224859264
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10800
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -13000
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 8138785926379824972
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -200
+      Y: -11400
+      Z: -600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  ChildIds: 17967564710694104194
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 3255571125320517714
+    SubobjectId: 6980063758313350786
+    InstanceId: 461600065256961969
+    TemplateId: 13861189895046575212
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 17967564710694104194
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      Y: -1601
+    }
+    Rotation {
+      Yaw: -3.05175781e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8138785926379824972
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 7405585834121208146
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallOuter:color"
+      Color {
+        R: 0.197505012
+        G: 0.285000026
+        B: 0.242710814
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimOuter:color"
+      Color {
+        R: 0.313236
+        G: 0.452000022
+        B: 0.384930819
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_TrimOuter:color"
+      Color {
+        R: 0.365671664
+        G: 0.401000023
+        B: 0.308839142
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 15920870986753823743
+    SubobjectId: 10449050967775067439
+    InstanceId: 461600065256961969
+    TemplateId: 13861189895046575212
+  }
+}
+Objects {
+  Id: 16153823220901170398
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -10000
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -12200
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 15727380343586469681
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -9200
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9800
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 15694052218015443264
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -8400
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -9000
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 16836643778698850065
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -7600
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -8200
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 14085938392230078609
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -6800
+      Z: -3800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -7400
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 12153260087217277539
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -7600
+      Z: -3800
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -6600
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 180
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10414112716950970175
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -6800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -6600
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2003056005986149007
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -7600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -7400
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999771
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4093314240560644491
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 14000
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 13400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 10905513110835202225
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 13200
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 12600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 12136650296016249577
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 12400
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 11800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 2063613901960583420
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 11600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 11000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 11035447001969358518
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10800
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 10200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 9418925199752517964
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10000
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 9400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 3728667435272188435
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 12350
+      Z: -3150
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 14200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14148756399726186982
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 14000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 13400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1990084216477503235
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 13200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 12600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 18036367156762095112
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 12400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 11800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15895109106818642667
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 11600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200.001953
+            Y: 15000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12579514836524104185
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 12400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 14200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8980119629948457357
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 13200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 13400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12966246109367439985
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 14000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 12600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13906406567131382506
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 9200
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 8600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 6890376873124668218
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 10800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 8600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16098512952659352568
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 10000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 7800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17109747680821143163
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 8600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11240691172513259778
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 11600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 9400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10697910570960274629
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 7800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 904857093693728538
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 11600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 9400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 7107564133869783739
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 13200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 11000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6403235006210064359
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 12400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 10200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3187648902031306936
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 13200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 11000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 9676746746601766912
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 14000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 11800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4326906993290569482
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 12400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 10200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 11025741677881939868
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 9200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 7000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17465941566546960783
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -2800
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -5000
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 4263704521455277973
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -3600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -5800
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 15712630827982632638
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -4400
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -6600
+            Z: -600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 11311675674593473141
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -4200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8131606109582181299
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -5800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17166872203051036287
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -6600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 119503306871399697
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -5800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12841170621979165425
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -5000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17844261660834929435
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: -2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -6600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2967269414444197127
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -5000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2240429061310405458
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -3400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 9056636917008614317
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -4200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16306884697195591561
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 1200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -3400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14102943430931952767
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -2600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12714890786777595723
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: -2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -7400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2976766878896391864
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 5200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 2300105590520615211
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 3600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -1000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 3817040318280434638
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -1800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 13292871640191250764
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 3600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -1000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 8961989444549353506
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 4400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10484977131523522825
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -1800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 4923002285344318676
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 4400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 1127846475907157410
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 6000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 1400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17631949072085165656
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 5200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 6415967100751395679
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 1400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 18126437837486177677
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 2200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 12954904591662932592
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 2000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: -2600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 16309254508912283307
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 5400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15032154026603019267
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 8400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 3800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14112604174907141083
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 7600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 3000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 5190331096301624772
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 8400
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 3800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14558914894838256056
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 9200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 4600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 10033075860991809837
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 7600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 3000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15334212108794611223
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 9200
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 4600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17938488367132048265
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 10800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 6200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 346333418987160582
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 10000
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 5400
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 15027256971132198843
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 10800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 6200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 17596803111887815060
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 11600
+      Z: -3200
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 7000
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 9467971510980244652
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -16000
+      Y: 6800
+      Z: -3200
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 600
+            Y: 2200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 5933743395401706488
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 7600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 1400
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 9598869523231008792
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2800
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -3400
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 17915354840293966475
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 2000
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -4200
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 5842802351961802769
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 3600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -2600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 374305730052073541
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6800
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 8508445004699216611
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 4400
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -1800
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 15292510001015052822
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 5200
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -1000
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 1604328420775336894
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6000
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: -200
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 8442266661462287453
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6000
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 3800
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 14007308785454339674
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 5200
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 3000
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 13793207830698900580
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 4400
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 2200
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 13269400208445998717
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 8400
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 6200
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 11222358518474017260
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 7600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 5400
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 4399558598558451778
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 6800
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 4600
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 1146987893802094555
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 7600
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 7000
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 10967218677831162556
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -16800
+      Y: 8400
+      Z: -3200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16643303360971537713
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -200
+            Y: 7800
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
   }
 }
 Objects {
