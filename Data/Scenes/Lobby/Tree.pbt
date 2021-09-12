@@ -7751,6 +7751,7 @@ Objects {
   ChildIds: 7077209130199332364
   ChildIds: 9768133769046101723
   ChildIds: 10558377521921115045
+  ChildIds: 4926074884269864444
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -7764,6 +7765,88 @@ Objects {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
   NetworkContext {
+  }
+}
+Objects {
+  Id: 4926074884269864444
+  Name: "Callout Sparkle"
+  Transform {
+    Location {
+      X: -618.033569
+      Y: 1154.50525
+      Z: 157.835678
+    }
+    Rotation {
+      Yaw: -29.5414429
+    }
+    Scale {
+      X: 1.2035917
+      Y: 1.16426015
+      Z: 0.929031909
+    }
+  }
+  ParentId: 11856259928094882869
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Speed"
+      Vector {
+        Z: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Curl Variance"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Curl Offset"
+      Vector {
+        X: 5
+        Y: 5
+        Z: 5
+      }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 12
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Gravity"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 604043960701835534
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
   }
 }
 Objects {

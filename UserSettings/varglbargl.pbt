@@ -37424,6 +37424,12 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 11266325827488549660
+    value {
+      IsLocked: true
+    }
+  }
+  ObjectStates {
     key: 11271071103079286819
     value {
     }
@@ -43146,6 +43152,12 @@ ObjectSettings {
   ObjectStates {
     key: 13049634187574290222
     value {
+    }
+  }
+  ObjectStates {
+    key: 13049954212668549134
+    value {
+      IsLocked: true
     }
   }
   ObjectStates {
@@ -61143,4 +61155,4 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Castle"
+LastSavedScene: "Mines"

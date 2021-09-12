@@ -503,6 +503,15 @@ Assets {
   }
 }
 Assets {
+  Id: 604043960701835534
+  Name: "Callout Sparkle"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_sparkles_volume_vfx"
+  }
+}
+Assets {
   Id: 547793055259450239
   Name: "Casual & Fun Music Score Set 01"
   PlatformAssetType: 10

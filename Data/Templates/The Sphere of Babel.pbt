@@ -4,9 +4,9 @@ Assets {
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 8644412262513629997
+      RootId: 6957312487380318535
       Objects {
-        Id: 8644412262513629997
+        Id: 6957312487380318535
         Name: "The Sphere of Babel"
         Transform {
           Scale {
@@ -15,11 +15,9 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 1314173204896775892
-        ChildIds: 9948769562993303331
-        ChildIds: 8531100296140576713
-        ChildIds: 6995772045249625223
-        ChildIds: 9520543889717686588
+        ParentId: 4906714809555424886
+        ChildIds: 6436103418115599753
+        ChildIds: 12329526171989978113
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -34,7 +32,89 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 6436103418115599753
+        Name: "Sphere"
+        Transform {
+          Location {
+            Z: 41.6666641
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.700000107
+            Y: 0.700000107
+            Z: 0.700000107
+          }
+        }
+        ParentId: 6957312487380318535
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 13894445539016998719
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12329526171989978113
+        Name: "ClientContext"
+        Transform {
+          Location {
+            Z: 41.6666641
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6957312487380318535
+        ChildIds: 9948769562993303331
+        ChildIds: 8531100296140576713
+        ChildIds: 6995772045249625223
+        ChildIds: 9520543889717686588
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
         }
       }
       Objects {
@@ -46,12 +126,12 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 0.45
-            Y: 0.45
-            Z: 0.45
+            X: 0.450000018
+            Y: 0.450000018
+            Z: 0.450000018
           }
         }
-        ParentId: 8644412262513629997
+        ParentId: 12329526171989978113
         ChildIds: 8371168879789015936
         UnregisteredParameters {
           Overrides {
@@ -73,7 +153,6 @@ Assets {
             Float: 0.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -128,7 +207,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -152,6 +230,7 @@ Assets {
         Name: "Group"
         Transform {
           Location {
+            Y: 6.10351562e-05
           }
           Rotation {
           }
@@ -161,13 +240,12 @@ Assets {
             Z: -0.6
           }
         }
-        ParentId: 8644412262513629997
+        ParentId: 12329526171989978113
         ChildIds: 324626398450502340
         ChildIds: 5838389661969157372
         ChildIds: 5206392709518165394
         ChildIds: 8566414442635419232
         ChildIds: 8353203499219571119
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -210,7 +288,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -265,7 +342,6 @@ Assets {
             Float: 1.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -332,7 +408,6 @@ Assets {
             Float: 1.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -400,7 +475,6 @@ Assets {
             Float: 1.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -468,7 +542,6 @@ Assets {
             Float: 1.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -512,10 +585,9 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8644412262513629997
+        ParentId: 12329526171989978113
         ChildIds: 7574357907804333091
         ChildIds: 1905137582213408704
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -558,7 +630,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -612,7 +683,6 @@ Assets {
             Float: 0.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -647,9 +717,10 @@ Assets {
         Name: "Group"
         Transform {
           Location {
+            Y: 6.10351562e-05
           }
           Rotation {
-            Yaw: -90
+            Yaw: -89.9999619
           }
           Scale {
             X: -0.7
@@ -657,7 +728,7 @@ Assets {
             Z: -0.7
           }
         }
-        ParentId: 8644412262513629997
+        ParentId: 12329526171989978113
         ChildIds: 14886048023840696427
         ChildIds: 5530908541644052396
         ChildIds: 923936912170279384
@@ -669,7 +740,6 @@ Assets {
         ChildIds: 14312330042382563618
         ChildIds: 3608562043392655487
         ChildIds: 15730499024232035112
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -712,7 +782,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -758,7 +827,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -824,7 +892,6 @@ Assets {
             Float: 1.29263818
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -891,7 +958,6 @@ Assets {
             Float: 1.29263818
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -959,7 +1025,6 @@ Assets {
             Float: 1.29263818
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1027,7 +1092,6 @@ Assets {
             Float: 1.29263818
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1091,7 +1155,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1155,7 +1218,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1219,7 +1281,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1283,7 +1344,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1346,7 +1406,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1378,6 +1437,15 @@ Assets {
       }
     }
     Assets {
+      Id: 13894445539016998719
+      Name: "Sphere"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_sphere_002"
+      }
+    }
+    Assets {
       Id: 15541736755489761732
       Name: "Sphere - Inverted"
       PlatformAssetType: 1
@@ -1393,15 +1461,6 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_quarter_hemisphere_002"
-      }
-    }
-    Assets {
-      Id: 13894445539016998719
-      Name: "Sphere"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_sphere_002"
       }
     }
     Assets {
