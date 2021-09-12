@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16067840293383514247
+        ParentId: 4781671109827199097
         ChildIds: 1131251997765359900
         ChildIds: 9589019692386240678
         ChildIds: 12735046332066812490
@@ -71,7 +71,7 @@ Assets {
       }
       Objects {
         Id: 1131251997765359900
-        Name: "Fantasy Castle Stairs 01 - Straight"
+        Name: "Modern Stairs Steps 01 - 8m 01"
         Transform {
           Location {
             Y: 217.696472
@@ -194,7 +194,7 @@ Assets {
       }
       Objects {
         Id: 9589019692386240678
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Cube - Bottom-Aligned"
         Transform {
           Location {
             X: -0.0502929688
@@ -350,7 +350,7 @@ Assets {
       }
       Objects {
         Id: 12879301338855047029
-        Name: "Guardrail Damaged 01"
+        Name: "Guardrail 8m"
         Transform {
           Location {
             X: -789.336426
@@ -540,7 +540,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -610,7 +610,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -680,7 +680,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -750,7 +750,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -820,7 +820,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -889,7 +889,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -919,7 +919,7 @@ Assets {
       }
       Objects {
         Id: 17343866796754699093
-        Name: "Wood 2x4 4m"
+        Name: "Urban Plank Debris 02"
         Transform {
           Location {
             X: -329.441895
@@ -989,7 +989,7 @@ Assets {
       }
       Objects {
         Id: 423920799258111885
-        Name: "Wood 2x4 4m"
+        Name: "Urban Plank Debris 03"
         Transform {
           Location {
             X: -409.077637
@@ -1828,7 +1828,7 @@ Assets {
       }
       Objects {
         Id: 2269901053453892692
-        Name: "Rock Pile 002"
+        Name: "Rock Pile 001"
         Transform {
           Location {
             X: -265.677246
@@ -1886,7 +1886,7 @@ Assets {
       }
       Objects {
         Id: 12769946736307710462
-        Name: "Wood 2x4 4m"
+        Name: "Urban Plank Debris 03"
         Transform {
           Location {
             X: -650.834473
@@ -1926,7 +1926,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -1956,7 +1956,7 @@ Assets {
       }
       Objects {
         Id: 12559553660073209883
-        Name: "Wood 2x4 4m"
+        Name: "Urban Plank Debris 04"
         Transform {
           Location {
             X: -646.166504
@@ -1996,7 +1996,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -2026,7 +2026,7 @@ Assets {
       }
       Objects {
         Id: 5253275237721805115
-        Name: "Wood 2x4 4m"
+        Name: "Urban Plank Debris 05"
         Transform {
           Location {
             X: -624.344238
@@ -2136,7 +2136,7 @@ Assets {
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -2166,7 +2166,7 @@ Assets {
       }
       Objects {
         Id: 18426869212610803719
-        Name: "Stone Wall End 6m"
+        Name: "Large Wood Beam 8m"
         Transform {
           Location {
             X: -50
@@ -2251,7 +2251,7 @@ Assets {
       }
       Objects {
         Id: 14662945637805955334
-        Name: "Japanese Stone Lantern Pedestal Large 01"
+        Name: "Large Wood Beam 8m"
         Transform {
           Location {
             X: 10
@@ -2310,7 +2310,7 @@ Assets {
       }
       Objects {
         Id: 11940828032987127719
-        Name: "Japanese Stone Lantern Pedestal Large 01"
+        Name: "Large Wood Beam 8m"
         Transform {
           Location {
             X: -771
@@ -2377,7 +2377,7 @@ Assets {
       }
       Objects {
         Id: 905526677715516166
-        Name: "Stone Wall End 6m"
+        Name: "Large Wood Beam 8m"
         Transform {
           Location {
             X: -820
@@ -2462,7 +2462,7 @@ Assets {
       }
       Objects {
         Id: 4051138686224416795
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Cylinder - Bottom-Aligned"
         Transform {
           Location {
             X: -30.369873
@@ -2556,7 +2556,7 @@ Assets {
       }
       Objects {
         Id: 2086564460455912393
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Cylinder - Bottom-Aligned"
         Transform {
           Location {
             X: -370.179199
@@ -2648,7 +2648,7 @@ Assets {
       }
       Objects {
         Id: 15744948133172499955
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Urban Pipe Valve 01"
         Transform {
           Location {
             X: -370.179199
@@ -2755,7 +2755,7 @@ Assets {
       }
       Objects {
         Id: 2627667486853338303
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Urban Pipe Flange 01"
         Transform {
           Location {
             X: -38
@@ -2863,7 +2863,7 @@ Assets {
       }
       Objects {
         Id: 16557122001342121836
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Urban Pipe Flange 01"
         Transform {
           Location {
             X: -773
@@ -2971,7 +2971,7 @@ Assets {
       }
       Objects {
         Id: 3195828612725246221
-        Name: "Fantasy Castle Stairs 01"
+        Name: "Urban Pipe Flange 01"
         Transform {
           Location {
             X: -381.2229
@@ -3882,7 +3882,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Light {
-          Intensity: 1.5
+          Intensity: 5
           Color {
             R: 1
             G: 0.840000033
@@ -3890,7 +3890,7 @@ Assets {
             A: 1
           }
           CastShadows: true
-          VolumetricIntensity: 5
+          VolumetricIntensity: 1
           TeamSettings {
           }
           Light {
@@ -5344,7 +5344,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Light {
-          Intensity: 1.5
+          Intensity: 5
           Color {
             R: 1
             G: 0.840000033
@@ -5352,7 +5352,7 @@ Assets {
             A: 1
           }
           CastShadows: true
-          VolumetricIntensity: 5
+          VolumetricIntensity: 1
           TeamSettings {
           }
           Light {

@@ -1,6 +1,174 @@
 Name: "Game Settings and Server Scripts"
 RootId: 15657928006583751488
 Objects {
+  Id: 16282052336988343876
+  Name: "Return to Lobby Trigger"
+  Transform {
+    Location {
+      X: -1200
+      Y: -2404.88184
+      Z: 48.8946762
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 15657928006583751488
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    Interactable: true
+    InteractionLabel: "Return to Lobby"
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 1694087002513702806
+  Name: "Global Killzone"
+  Transform {
+    Location {
+      Z: -19600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1000
+      Y: 1000
+      Z: 100
+    }
+  }
+  ParentId: 15657928006583751488
+  ChildIds: 11816024049552586095
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 11816024049552586095
+  Name: "Kill Zone"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.001
+      Y: 0.001
+      Z: 0.01
+    }
+  }
+  ParentId: 1694087002513702806
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:CauseOfDeath"
+      String: "fell out of the world somehow. Sorry"
+    }
+    Overrides {
+      Name: "cs:KillFeedIcon"
+      AssetReference {
+        Id: 16379365141760518327
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1088534770586260933
+    }
+  }
+}
+Objects {
+  Id: 14900090869674189426
+  Name: "Return To Lobby Server"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15657928006583751488
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:ExitTrigger"
+      ObjectReference {
+        SelfId: 16282052336988343876
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 2537366613387480298
+    }
+  }
+}
+Objects {
   Id: 14637874771346567926
   Name: "Player Respawn Server"
   Transform {
@@ -141,9 +309,93 @@ Objects {
   }
 }
 Objects {
-  Id: 17609721534767221955
-  Name: "Game Settings"
+  Id: 14716951935345338244
+  Name: "Third Person Player Settings"
   Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15657928006583751488
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Settings {
+    IsDefault: true
+    PlayerMovementSettings {
+      WalkSpeed: 640
+      MaxAcceleration: 1800
+      WalkableFloorAngle: 44
+      JumpMaxCount: 1
+      JumpVelocity: 900
+      GroundFriction: 8
+      GravityScale: 1.9
+      MaxSwimSpeed: 420
+      Buoyancy: 1
+      TouchForceFactor: 1
+      BrakingDecelerationFlying: 600
+      MaxFlightSpeed: 600
+      MovementControlMode {
+        Value: "mc:emovementcontrolmode:lookrelative"
+      }
+      LookControlMode {
+        Value: "mc:elookcontrolmode:relative"
+      }
+      FacingMode {
+        Value: "mc:efacingmode:faceaimwhenactive"
+      }
+      DefaultRotationRate: 540
+      SlideRotationRate: 20
+      LookAtCursorProjectionPlane {
+        Value: "mc:eprojectionplane:xy"
+      }
+      MountedMaxAcceleration: 1800
+      MountedWalkSpeed: 1280
+      MountedJumpMaxCount: 1
+      MountedJumpVelocity: 900
+      HeadVisibleToSelf: true
+      IsSlideEnabled: true
+      IsCrouchEnabled: true
+      IsJumpEnabled: true
+      CanMoveForward: true
+      CanMoveBackward: true
+      CanMoveLeft: true
+      CanMoveRight: true
+      AbilityAimMode {
+        Value: "mc:eabilityaimmode:viewrelative"
+      }
+      AppearanceChannelingTime: 2
+      MountChannelingTime: 2
+      FlipOnMultiJump: true
+      CanMoveUp: true
+      CanMoveDown: true
+      MaxHitpoints: 100
+      PlayerMasterVolumeMultiplier: 1
+    }
+  }
+}
+Objects {
+  Id: 15049617181133047736
+  Name: "Spawn Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -157,39 +409,328 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7587100937817391120
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Game Settings"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Settings {
+    IsDefault: true
+    RespawnSettings {
+      RespawnDelay: 9999999
+      RespawnMode_v2 {
+        Value: "mc:erespawnmode:atclosestspawnpoint"
+      }
+      SpawnMode {
+        Value: "mc:espawnmode:random"
       }
     }
-    ParameterOverrideMap {
-      key: 9695014377043580025
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -50
-          }
+  }
+}
+Objects {
+  Id: 563883397313632278
+  Name: "Player Start"
+  Transform {
+    Location {
+      Z: -50
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15657928006583751488
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+    SpawnKey: "Start"
+  }
+}
+Objects {
+  Id: 2832969242861744831
+  Name: "Game Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15657928006583751488
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Settings {
+    IsDefault: true
+    GameSettings {
+      RagdollOnDeath: true
+      EnablePlayerStorage: true
+      ChatMode {
+        Value: "mc:echatmode:teamandall"
+      }
+      ChatSettings {
+        ChatMode {
+          Value: "mc:echatmode:allonly"
+        }
+        ChatPosition {
+          X: 20
+          Y: -20
+        }
+        ChatSize {
+          X: 450
+          Y: 400
+        }
+        ChatHorizontalAlignment {
+          Value: "mc:ecorehorizontalalign:left"
+        }
+        ChatVerticalAlignment {
+          Value: "mc:ecoreverticalalign:bottom"
         }
       }
+      PhysicsSettings {
+        MinContactOffset: 2
+        MaxContactOffset: 8
+      }
+      RelevanceSettings {
+        key: "decal"
+        value {
+          LowDistance: 4500
+          MediumDistance: 7000
+          HighDistance: 9000
+        }
+      }
+      RelevanceSettings {
+        key: "vfx"
+        value {
+          LowDistance: 4500
+          MediumDistance: 7000
+          HighDistance: 9000
+        }
+      }
+      VoiceChatSettings {
+        VoiceChatMode {
+          Value: "mc:evoicechatmode:all"
+        }
+        VoiceChannelType {
+          Value: "mc:evoicechanneltype:positional"
+        }
+        AudibleDistance: 6000
+        ConversationalDistance: 1500
+        AudioFadeModel {
+          Value: "mc:evoiceaudiofademodel:inverse"
+        }
+        AudioFadeIntensityByDistance: 1
+        VoiceChatPosition {
+          X: 20
+          Y: 20
+        }
+        VoiceChatHorizontalAlignment {
+          Value: "mc:ecorehorizontalalign:left"
+        }
+        VoiceChatVerticalAlignment {
+          Value: "mc:ecoreverticalalign:top"
+        }
+        VoiceChatEntryHorizontalFlow {
+          Value: "mc:ecorehorizontalflow:righttoleft"
+        }
+        VoiceChatEntryVerticalFlow {
+          Value: "mc:ecoreverticalflow:toptobottom"
+        }
+      }
+      PlayerInteractDistance: 500
+      PlayerInteractAngleDeg: 50
     }
-    TemplateAsset {
-      Id: 32906997604507638
+  }
+}
+Objects {
+  Id: 963332053717636509
+  Name: "Sprint"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15657928006583751488
+  ChildIds: 17733147855895134865
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:isEnabled"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:abilityBindingKey"
+      String: "ability_feet"
+    }
+    Overrides {
+      Name: "cs:sprintMaxWalkSpeed"
+      Float: 960
+    }
+    Overrides {
+      Name: "cs:sprintMaxAcceleration"
+      Float: 1000
+    }
+    Overrides {
+      Name: "cs:sprintMaxSwimSpeed"
+      Float: 1500
+    }
+    Overrides {
+      Name: "cs:isCrouchSpeedEnabled"
+      Bool: false
+    }
+    Overrides {
+      Name: "cs:maxCrouchWalkSpeed"
+      Float: 500
+    }
+    Overrides {
+      Name: "cs:sprintMaxCrouchSpeed"
+      Float: 600
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17733147855895134865
+  Name: "ServerContext"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 963332053717636509
+  ChildIds: 3686526458401288251
+  ChildIds: 2521643883580309158
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  NetworkContext {
+    Type: Server
+  }
+}
+Objects {
+  Id: 2521643883580309158
+  Name: "Sprint"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17733147855895134865
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Root"
+      ObjectReference {
+        SelfId: 963332053717636509
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 11632151345785507836
+    }
+  }
+}
+Objects {
+  Id: 3686526458401288251
+  Name: "InitGlobals"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17733147855895134865
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 8694592771554457369
     }
   }
 }

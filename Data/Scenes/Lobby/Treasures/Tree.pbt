@@ -1,6 +1,265 @@
 Name: "Treasures"
 RootId: 13188470692436809950
 Objects {
+  Id: 9693428227818300402
+  Name: "The Gilded Aerophone"
+  Transform {
+    Location {
+      X: -1155
+      Y: -318
+      Z: 145
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13188470692436809950
+  ChildIds: 11423931943641618907
+  ChildIds: 16630256807632278163
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16630256807632278163
+  Name: "World Text"
+  Transform {
+    Location {
+      X: 57.5438232
+      Y: 16
+      Z: -6.59828186
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.363345474
+      Y: 0.363345474
+      Z: 0.363345474
+    }
+  }
+  ParentId: 9693428227818300402
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Text {
+    Text: "Gilded\r\nAerophone"
+    FontAsset {
+      Id: 5981501947638568954
+    }
+    Color {
+      A: 1
+    }
+    HorizontalSize: 1
+    VerticalSize: 1
+    HorizontalAlignment {
+      Value: "mc:ecoretexthorizontalalign:center"
+    }
+    VerticalAlignment {
+      Value: "mc:ecoretextverticalalign:center"
+    }
+    IsLit: true
+  }
+}
+Objects {
+  Id: 11423931943641618907
+  Name: "The Gilded Aerophone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9693428227818300402
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2179195558962162656
+      value {
+        Overrides {
+          Name: "Name"
+          String: "The Gilded Aerophone"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14248950507370502980
+    }
+  }
+}
+Objects {
+  Id: 4906714809555424886
+  Name: "The Sphere of Babel"
+  Transform {
+    Location {
+      X: -1265
+      Y: -365
+      Z: 145
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13188470692436809950
+  ChildIds: 7371706341332698132
+  ChildIds: 15281977012736481807
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15281977012736481807
+  Name: "World Text"
+  Transform {
+    Location {
+      X: -37
+      Y: 2
+      Z: -4.58345032
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.387250155
+      Y: 0.346290708
+      Z: 0.387250185
+    }
+  }
+  ParentId: 4906714809555424886
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Text {
+    Text: "Sphere of\r\nBabel"
+    FontAsset {
+      Id: 5981501947638568954
+    }
+    Color {
+      A: 1
+    }
+    HorizontalSize: 1
+    VerticalSize: 1
+    HorizontalAlignment {
+      Value: "mc:ecoretexthorizontalalign:center"
+    }
+    VerticalAlignment {
+      Value: "mc:ecoretextverticalalign:center"
+    }
+    IsLit: true
+  }
+}
+Objects {
+  Id: 7371706341332698132
+  Name: "The Sphere of Babel"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4906714809555424886
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6957312487380318535
+      value {
+        Overrides {
+          Name: "Name"
+          String: "The Sphere of Babel"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 12873246755174492919
+    }
+  }
+}
+Objects {
   Id: 12845963937989778249
   Name: "The Knewtonian Knowledge Bomb"
   Transform {

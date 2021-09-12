@@ -1524,7 +1524,6 @@ Assets {
         ChildIds: 4340865332284235680
         ChildIds: 6543362028526493877
         ChildIds: 8078844796173036702
-        ChildIds: 17296968557815094163
         ChildIds: 16614143222424189468
         ChildIds: 5734599219726867056
         ChildIds: 14565741219913972816
@@ -4672,80 +4671,6 @@ Assets {
           Scale {
             X: 0.370292962
             Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5084478254530833172
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 17590704869240401704
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.644907057
-              G: 0.681000054
-              B: 0.520858
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17296968557815094163
-        Name: "Whitebox Floor 01 8m x 8m"
-        Transform {
-          Location {
-            X: -10900
-            Y: -300
-            Z: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3.5
-            Y: 3.5
             Z: 1
           }
         }

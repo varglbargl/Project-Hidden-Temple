@@ -82,6 +82,18 @@ Assets {
           Id: 16916804581460918812
         }
       }
+      Overrides {
+        Name: "cs:TheSphereOfBabel"
+        AssetReference {
+          Id: 12873246755174492919
+        }
+      }
+      Overrides {
+        Name: "cs:TheGildedAerophone"
+        AssetReference {
+          Id: 14248950507370502980
+        }
+      }
     }
   }
   SerializationVersion: 98
