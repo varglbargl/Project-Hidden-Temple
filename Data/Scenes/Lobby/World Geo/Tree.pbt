@@ -1,6 +1,67 @@
 Name: "World Geo"
 RootId: 10045885269598533116
 Objects {
+  Id: 7390882503872369643
+  Name: "Throwable Gold Jar"
+  Transform {
+    Location {
+      X: 453.793701
+      Y: 1928.38074
+      Z: 940.935181
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10045885269598533116
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5729178633839147222
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Throwable Gold Jar"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1667.95654
+            Y: 690.329407
+            Z: 529.991455
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6067867843017725096
+    }
+  }
+}
+Objects {
   Id: 7641507636132712757
   Name: "Sittable Chair Trigger"
   Transform {
@@ -6351,61 +6412,6 @@ Objects {
   }
 }
 Objects {
-  Id: 16115071895584993021
-  Name: "Throwable Jar"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10045885269598533116
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11877636704888611125
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Throwable Jar"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1693.13086
-            Y: 560.512878
-            Z: 530
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 74.2442932
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7703057758270847416
-    }
-  }
-}
-Objects {
   Id: 13813383918538822815
   Name: "Throwable Gold Jar"
   Transform {
@@ -8448,7 +8454,7 @@ Objects {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
   Text {
-    Text: "Some\r\nSwords idk"
+    Text: "Katanas of\r\nRonin #48"
     FontAsset {
       Id: 5981501947638568954
     }

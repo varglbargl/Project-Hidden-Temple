@@ -915,6 +915,8 @@ Assets {
         ChildIds: 4125177658752259328
         ChildIds: 17275545798317644085
         ChildIds: 5227768259367202412
+        ChildIds: 1923515856704175349
+        ChildIds: 10346060146483793820
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1478,9 +1480,9 @@ Assets {
         Name: "Curtains Straight"
         Transform {
           Location {
-            X: 425.000031
-            Y: 54.9999847
-            Z: 310
+            X: 424.96991
+            Y: 54.9981842
+            Z: 670.037109
           }
           Rotation {
             Yaw: 6.83018879e-06
@@ -1488,7 +1490,7 @@ Assets {
           Scale {
             X: 6.20000029
             Y: -0.49999997
-            Z: 1
+            Z: 2
           }
         }
         ParentId: 6340136970280843210
@@ -2079,9 +2081,9 @@ Assets {
         Name: "Curtains Straight"
         Transform {
           Location {
-            X: 425.000031
-            Y: 54.9999847
-            Z: 310
+            X: 425.000122
+            Y: 55.0302734
+            Z: 646.78418
           }
           Rotation {
             Yaw: 6.83018879e-06
@@ -2089,7 +2091,7 @@ Assets {
           Scale {
             X: 6.20000029
             Y: -0.49999997
-            Z: 1
+            Z: 2
           }
         }
         ParentId: 9374176753825089321
@@ -2232,21 +2234,26 @@ Assets {
           Overrides {
             Name: "ma:Building_Ceiling:id"
             AssetReference {
-              Id: 9919644819108266555
+              Id: 3692237107628534099
             }
           }
           Overrides {
             Name: "ma:Building_Floor:id"
             AssetReference {
-              Id: 17590704869240401704
+              Id: 7405585834121208146
             }
           }
           Overrides {
             Name: "ma:Building_Floor:color"
             Color {
-              R: 0.644907057
-              G: 0.681000054
-              B: 0.520858
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Ceiling:color"
+            Color {
+              R: 3
+              G: 3
+              B: 3
               A: 1
             }
           }
@@ -2317,8 +2324,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -2387,8 +2398,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -2457,8 +2472,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -2597,8 +2616,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -2667,8 +2690,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -2736,8 +2763,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -2805,8 +2836,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -3012,8 +3047,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -3150,8 +3189,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -3218,8 +3261,12 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 17461649695606100501
+              Id: 14016091310668426151
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:smart"
+            Bool: true
           }
         }
         Collidable_v2 {
@@ -3859,7 +3906,7 @@ Assets {
           Location {
             X: 100
             Y: 200
-            Z: 2350
+            Z: 2324.44238
           }
           Rotation {
             Roll: -179.999954
@@ -4627,6 +4674,124 @@ Assets {
         }
       }
       Objects {
+        Id: 1923515856704175349
+        Name: "Hanging Vines"
+        Transform {
+          Location {
+            X: 190.491943
+            Y: 1146.39771
+            Z: 1720.18433
+          }
+          Rotation {
+          }
+          Scale {
+            X: 17.9088688
+            Y: 1.2423892
+            Z: 2.48477864
+          }
+        }
+        ParentId: 17304023055147043556
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 15089487538220634502
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 6
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 10410624715350118267
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10346060146483793820
+        Name: "Hanging Vines"
+        Transform {
+          Location {
+            X: 190.491943
+            Y: -921.661621
+            Z: 1720.18433
+          }
+          Rotation {
+          }
+          Scale {
+            X: 17.9088688
+            Y: 1.2423892
+            Z: 2.48477864
+          }
+        }
+        ParentId: 17304023055147043556
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 15089487538220634502
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 6
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 10410624715350118267
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 4810600283127123906
         Name: "Spawn Point Setter"
         Transform {
@@ -4793,7 +4958,7 @@ Assets {
           Scale {
             X: 23
             Y: 23
-            Z: 5
+            Z: 4.5
           }
         }
         ParentId: 8281616850372229012
@@ -12226,7 +12391,7 @@ Assets {
           Location {
             X: 1200
             Y: -50
-            Z: 1000
+            Z: 947.522705
           }
           Rotation {
             Roll: -174.999969
@@ -12900,21 +13065,21 @@ Assets {
       }
     }
     Assets {
-      Id: 17590704869240401704
-      Name: "Bricks Cobblestone Floor 01"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_brick_cobblestone_floor_001"
-      }
-    }
-    Assets {
       Id: 13072369037111211217
       Name: "Whitebox Wall 01"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_ts_gen_whitebox_wall_001"
+      }
+    }
+    Assets {
+      Id: 14016091310668426151
+      Name: "Forest Floor 02"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "forest-floor_002"
       }
     }
     Assets {

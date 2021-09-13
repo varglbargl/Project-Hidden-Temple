@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17578145129539297290
+  Name: "Stone Block Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_block_02"
+  }
+}
+Assets {
   Id: 17014741340073886208
   Name: "Stone Block Long Broken"
   PlatformAssetType: 1
@@ -176,6 +185,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_urb_pipes_acc_clamp_002_ref"
+  }
+}
+Assets {
+  Id: 14586960240033258441
+  Name: "Military Hazard Barrel"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_mil_barrel_01_ref"
   }
 }
 Assets {
@@ -536,6 +554,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_gen_whitebox_floor_001_4x4"
+  }
+}
+Assets {
+  Id: 8048804202929538066
+  Name: "Bone Human Skull Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_pile_01_ref"
+  }
+}
+Assets {
+  Id: 8010679428133426913
+  Name: "Bone Human Skull Pile 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_pile_02_ref"
   }
 }
 Assets {

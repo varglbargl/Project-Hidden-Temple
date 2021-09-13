@@ -3392,7 +3392,7 @@ Assets {
         Name: "Kill Zone"
         Transform {
           Location {
-            X: 1200
+            X: 1199.99988
             Z: -550
           }
           Rotation {
@@ -3400,7 +3400,7 @@ Assets {
           Scale {
             X: 23
             Y: 11
-            Z: 7
+            Z: 6.49999952
           }
         }
         ParentId: 16131118149890627704
