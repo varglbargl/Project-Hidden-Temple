@@ -12,10 +12,6 @@ SceneNameToSceneIdMap {
   value: "e2b82aa949faecd366406cb2c21ec0a9"
 }
 SceneNameToSceneIdMap {
-  key: "Example Level"
-  value: "5c6972f644fc3e01312f88a16699ce18"
-}
-SceneNameToSceneIdMap {
   key: "Lobby"
   value: "4e287f9349732a77da6e04bc2fa9d474"
 }

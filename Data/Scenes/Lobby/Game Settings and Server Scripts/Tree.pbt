@@ -594,7 +594,7 @@ Objects {
           Value: "mc:ecoreverticalflow:toptobottom"
         }
       }
-      PlayerInteractDistance: 500
+      PlayerInteractDistance: 100
       PlayerInteractAngleDeg: 50
     }
   }

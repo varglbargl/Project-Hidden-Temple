@@ -1,13 +1,13 @@
 Assets {
   Id: 4455346330490456441
-  Name: "Demon Hunter Crossbow"
+  Name: "The Demon Hunter Crossbow"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 2705625647794615409
       Objects {
         Id: 2705625647794615409
-        Name: "Demon Hunter Crossbow"
+        Name: "The Demon Hunter Crossbow"
         Transform {
           Scale {
             X: 0.99999994
