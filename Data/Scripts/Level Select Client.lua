@@ -22,6 +22,9 @@ local embarkText = EMBARK_BUTTON:FindChildByType("UIText")
 
 local OPEN_CLOSE_SFX = script:GetCustomProperty("OpenCloseSFX")
 
+local CASTLE_MAP = script:GetCustomProperty("CastleMap"):WaitForObject()
+local MINES_MAP = script:GetCustomProperty("MinesMap"):WaitForObject()
+
 local clientPlayer = Game.GetLocalPlayer()
 local embarkEvent = nil
 local isMenuOpen = false
@@ -32,22 +35,23 @@ local selectedLevel = 1
 local levels = {
   {
     scene = "Castle",
-    name = "Vanessa's Castle",
-    description = "A castle themed map made by Vanessa with a description that will be replaced later.",
-    -- suggestedPlayers = "1-2",
-    -- screenshotIndex = todo
+    name = "Wolfscastle Keep Mausoleum",
+    description = "The old historic keep at the center of the coastal city of Owerain has been sealed off for generations, reportedly for good reason. Nonetheless, local Plundertaker Scout Vanessa has been working on tunneling in to the place for months and her most recent report, if true, is quite promising. Apparently there are so many priceless artifacts there that the local chapter has requestd backup to aid in emancipating it all into the safekeeping of the Plundertakers.",
+    suggestedPlayers = "1-3",
+    map = CASTLE_MAP
   },
   {
     scene = "Mines",
-    name = "Lillie's Mines",
-    description = "A gold mine themed map made by Lillie with a description that will be replaced later.",
-    -- suggestedPlayers = "1-4",
-    -- screenshotIndex = todo
+    name = "The Pilkswoggins Prospect",
+    description = "An old gold mine that was said to be abandoned and sealed off when the miners unearthed some kind of ancient burial chamber. Its location was considered lost to history until recently when fellow Plundertaker Scout Lillie unearthed a partial map. This one's mostly uncharted as of yet, you'll be the first ones to find out how deep it really goes and what treasures are housed within.",
+    suggestedPlayers = "2-4",
+    map = MINES_MAP
   }
 }
 
 MAP_NAME.text = levels[selectedLevel].name
 MAP_DESCRIPTION.text = levels[selectedLevel].description
+levels[selectedLevel].map.visibility = Visibility.INHERIT
 LEVEL_SELECT_PANEL.visibility = Visibility.FORCE_OFF
 readyCheckMark.visibility = Visibility.FORCE_OFF
 
@@ -121,20 +125,24 @@ function hidePanel()
 end
 
 function prevMap()
+  levels[selectedLevel].map.visibility = Visibility.FORCE_OFF
   selectedLevel = selectedLevel - 1
 
   if selectedLevel == 0 then
     selectedLevel = #levels
   end
 
-  MAP_NAME.text = levels[selectedLevel].name
+  levels[selectedLevel].map.visibility = Visibility.INHERIT
+  MAP_NAME.text = levels[selectedLevel].name.." ("..levels[selectedLevel].suggestedPlayers.." Players)"
   MAP_DESCRIPTION.text = levels[selectedLevel].description
 end
 
 function nextMap()
+  levels[selectedLevel].map.visibility = Visibility.FORCE_OFF
   selectedLevel = selectedLevel % #levels + 1
 
-  MAP_NAME.text = levels[selectedLevel].name
+  levels[selectedLevel].map.visibility = Visibility.INHERIT
+  MAP_NAME.text = levels[selectedLevel].name.." ("..levels[selectedLevel].suggestedPlayers.." Players)"
   MAP_DESCRIPTION.text = levels[selectedLevel].description
 end
 

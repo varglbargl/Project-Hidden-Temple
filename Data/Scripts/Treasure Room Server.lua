@@ -19,16 +19,31 @@ TREASURE_TRIGGER.interactionLabel = "Plunder "..spawnedTresure.name
 
 local symbolIndex = script.parent:GetCustomProperty("SymbolIndex")
 
+local dimSymbol = nil
+local litSymbol = nil
+
 if symbolIndex == 0 then
   -- handler params: CoreObject_owner, string_propertyName
   script.parent.networkedPropertyChangedEvent:Connect(function(obj, propName)
     if propName == "SymbolIndex" then
       symbolIndex = script.parent:GetCustomProperty("SymbolIndex")
-      dimSymbols[symbolIndex].visibility = Visibility.INHERIT
+      dimSymbol = dimSymbols[symbolIndex]
+      litSymbol = litSymbols[symbolIndex]
+      dimSymbol.parent = dimSymbol.parent.parent
+      litSymbol.parent = litSymbol.parent.parent
+      DIM_SYMBOLS:Destroy()
+      LIT_SYMBOLS:Destroy()
+      dimSymbol.visibility = Visibility.INHERIT
     end
   end)
 else
-  dimSymbols[symbolIndex].visibility = Visibility.INHERIT
+  dimSymbol = dimSymbols[symbolIndex]
+  litSymbol = litSymbols[symbolIndex]
+  dimSymbol.parent = dimSymbol.parent.parent
+  litSymbol.parent = litSymbol.parent.parent
+  DIM_SYMBOLS:Destroy()
+  LIT_SYMBOLS:Destroy()
+  dimSymbol.visibility = Visibility.INHERIT
 end
 
 function getYeLoot(thisTrigger, player)
@@ -41,8 +56,8 @@ function getYeLoot(thisTrigger, player)
   Events.Broadcast("IlluminateSymbol", symbolIndex)
   Utils.throttleToAllPlayers("GotTreasure", player, spawnedTresure.name)
 
-  dimSymbols[symbolIndex].visibility = Visibility.FORCE_OFF
-  litSymbols[symbolIndex].visibility = Visibility.INHERIT
+  dimSymbol:Destroy()
+  litSymbol.visibility = Visibility.INHERIT
 
   TREASURE_TRIGGER.collision = Collision.FORCE_OFF
   TREASURE_TRIGGER.visibility = Visibility.FORCE_OFF

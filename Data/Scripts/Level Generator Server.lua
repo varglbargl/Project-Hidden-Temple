@@ -27,17 +27,25 @@ function placeTreasureRoom(spawnedRoom)
   spawnedTreasureRoom:SetNetworkedCustomProperty("SymbolIndex", treasuresPlaced)
 
   local solvedSymbol = World.SpawnAsset(SOLVED_SYMBOL, {position = spawnedRoom:GetWorldPosition(), rotation = spawnedRoom:GetWorldRotation()})
-  local solvedDimSymbols = solvedSymbol:GetCustomProperty("DimSymbols"):WaitForObject():GetChildren()
-  local solvedLitSymbols = solvedSymbol:GetCustomProperty("LitSymbols"):WaitForObject():GetChildren()
+  local solvedDimSymbols = solvedSymbol:GetCustomProperty("DimSymbols"):WaitForObject()
+  local solvedLitSymbols = solvedSymbol:GetCustomProperty("LitSymbols"):WaitForObject()
 
   local thisSymbolIndex = treasuresPlaced
 
-  solvedDimSymbols[thisSymbolIndex].visibility = Visibility.INHERIT
+  local dimSymbol = solvedDimSymbols:GetChildren()[thisSymbolIndex]
+  local litSymbol = solvedLitSymbols:GetChildren()[thisSymbolIndex]
+
+  dimSymbol.parent = dimSymbol.parent.parent
+  litSymbol.parent = litSymbol.parent.parent
+  dimSymbol.visibility = Visibility.INHERIT
+
+  solvedDimSymbols:Destroy()
+  solvedLitSymbols:Destroy()
 
   Events.Connect("IlluminateSymbol", function(symbolIndex)
     if thisSymbolIndex == symbolIndex then
-      solvedDimSymbols[thisSymbolIndex].visibility = Visibility.FORCE_OFF
-      solvedLitSymbols[thisSymbolIndex].visibility = Visibility.INHERIT
+      dimSymbol:Destroy()
+      litSymbol.visibility = Visibility.INHERIT
     end
   end)
 end

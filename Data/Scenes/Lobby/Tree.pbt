@@ -5854,8 +5854,8 @@ Objects {
   }
   ParentId: 1189631727873110344
   ChildIds: 12476156671003581083
+  ChildIds: 8455022987508998200
   ChildIds: 15180576641215977237
-  ChildIds: 5545289745251479665
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5881,86 +5881,6 @@ Objects {
     UseParentWidth: true
     Panel {
       Opacity: 1
-    }
-    AnchorLayout {
-      SelfAnchor {
-        Anchor {
-          Value: "mc:euianchor:middlecenter"
-        }
-      }
-      TargetAnchor {
-        Anchor {
-          Value: "mc:euianchor:middlecenter"
-        }
-      }
-    }
-  }
-}
-Objects {
-  Id: 5545289745251479665
-  Name: "UI Text Box"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15103411101654439060
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Control {
-    Width: -80
-    Height: -60
-    RenderTransformPivot {
-      Anchor {
-        Value: "mc:euianchor:middlecenter"
-      }
-    }
-    AddSizeToParentIfUsingParentSize: true
-    UseParentWidth: true
-    UseParentHeight: true
-    Text {
-      Label: "This is where the map will go"
-      Color {
-        R: 0.75
-        G: 0.637500048
-        B: 0.5625
-        A: 1
-      }
-      Size: 20
-      Justification {
-        Value: "mc:etextjustify:left"
-      }
-      AutoWrapText: true
-      Font {
-        Id: 841534158063459245
-      }
-      VerticalJustification {
-        Value: "mc:everticaljustification:top"
-      }
-      ShadowColor {
-        A: 1
-      }
-      ShadowOffset {
-      }
-      OutlineColor {
-        A: 1
-      }
     }
     AnchorLayout {
       SelfAnchor {
@@ -6047,8 +5967,8 @@ Objects {
   }
 }
 Objects {
-  Id: 12476156671003581083
-  Name: "UI Image"
+  Id: 8455022987508998200
+  Name: "Mines Map"
   Transform {
     Location {
     }
@@ -6065,7 +5985,7 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceoff"
   }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -6088,7 +6008,10 @@ Objects {
       Brush {
       }
       Color {
-        A: 0.4
+        R: 1
+        G: 1
+        B: 1
+        A: 1
       }
       TeamSettings {
       }
@@ -6097,7 +6020,79 @@ Objects {
       }
       ShadowOffset {
       }
-      ScreenshotIndex: 1
+      GameId: "fe9fba33c39d42d7a175f6172ecea0d1"
+      ScreenshotIndex: 3
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:middlecenter"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:middlecenter"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 12476156671003581083
+  Name: "Castle Map"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15103411101654439060
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Control {
+    Width: -20
+    Height: -20
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    AddSizeToParentIfUsingParentSize: true
+    UseParentWidth: true
+    UseParentHeight: true
+    Image {
+      Brush {
+      }
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+      TeamSettings {
+      }
+      ShadowColor {
+        A: 1
+      }
+      ShadowOffset {
+      }
+      GameId: "fe9fba33c39d42d7a175f6172ecea0d1"
+      ScreenshotIndex: 2
     }
     AnchorLayout {
       SelfAnchor {
@@ -7589,6 +7584,18 @@ Objects {
       Name: "cs:OpenCloseSFX"
       AssetReference {
         Id: 5218402280510567050
+      }
+    }
+    Overrides {
+      Name: "cs:CastleMap"
+      ObjectReference {
+        SelfId: 12476156671003581083
+      }
+    }
+    Overrides {
+      Name: "cs:MinesMap"
+      ObjectReference {
+        SelfId: 8455022987508998200
       }
     }
   }

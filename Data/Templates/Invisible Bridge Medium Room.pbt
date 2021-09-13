@@ -26,22 +26,23 @@ Assets {
         ChildIds: 14991143306702042767
         ChildIds: 16422981346229171375
         ChildIds: 149230863171590714
-        ChildIds: 9926709398300314429
-        ChildIds: 12430287488326178548
-        ChildIds: 13384642687060247122
-        ChildIds: 16071952741889528
-        ChildIds: 17519015800467936093
-        ChildIds: 7710801140996457990
-        ChildIds: 6906551391352657355
-        ChildIds: 7975272243949239748
-        ChildIds: 9171535408779180827
-        ChildIds: 16908724959850451483
-        ChildIds: 12876939553051622702
-        ChildIds: 17191470589167167556
-        ChildIds: 4527621460613145005
-        ChildIds: 15452617680532636007
-        ChildIds: 13768926059296546672
-        ChildIds: 5517853230378967148
+        ChildIds: 6421642748205834747
+        ChildIds: 13953446319360739691
+        ChildIds: 2089095578642306467
+        ChildIds: 12444331651099092882
+        ChildIds: 7895945829451943708
+        ChildIds: 4417354785858646101
+        ChildIds: 805493956568416139
+        ChildIds: 1819534104824008040
+        ChildIds: 16434193381552121619
+        ChildIds: 1245659570040320788
+        ChildIds: 17337730319542872985
+        ChildIds: 14755478841123493977
+        ChildIds: 5217318563986287110
+        ChildIds: 4001202873399524042
+        ChildIds: 6457418880704121145
+        ChildIds: 7705582532921993751
+        ChildIds: 3317171485537739688
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1078,6 +1079,8 @@ Assets {
         ChildIds: 12123319246245590802
         ChildIds: 13084561605321287335
         ChildIds: 7832098563498699199
+        ChildIds: 16018682984640624716
+        ChildIds: 13879345063259217326
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1182,15 +1185,15 @@ Assets {
         Name: "Pipe - Half Thick"
         Transform {
           Location {
-            X: 600
+            X: 581.231934
             Y: 0.119140625
           }
           Rotation {
           }
           Scale {
-            X: 10.300005
-            Y: 18.3000011
-            Z: 0.1
+            X: 11.6316843
+            Y: 15.8919249
+            Z: 0.106260039
           }
         }
         ParentId: 11647133120484493610
@@ -1254,16 +1257,16 @@ Assets {
         Name: "Pipe - Half Thick"
         Transform {
           Location {
-            X: 1425
+            X: 1441.98877
             Y: 0.119140625
           }
           Rotation {
             Yaw: -179.999969
           }
           Scale {
-            X: 10.300005
-            Y: 18.3000011
-            Z: 0.1
+            X: 11.6316843
+            Y: 15.8919249
+            Z: 0.106260039
           }
         }
         ParentId: 11647133120484493610
@@ -1390,6 +1393,151 @@ Assets {
         CoreMesh {
           MeshAsset {
             Id: 12095835209017042614
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16018682984640624716
+        Name: "Pipe - Half Thick"
+        Transform {
+          Location {
+            X: 1441.98877
+            Y: 0.119140625
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 9.44084835
+            Y: 12.8986807
+            Z: 0.0862458721
+          }
+        }
+        ParentId: 11647133120484493610
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Font.Bevel:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Faces:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Sides:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 8759331323895215804
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7182426864323003471
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13879345063259217326
+        Name: "Pipe - Half Thick"
+        Transform {
+          Location {
+            X: 581.231934
+            Y: 0.119140625
+          }
+          Rotation {
+          }
+          Scale {
+            X: 9.44084835
+            Y: 12.8986807
+            Z: 0.0862458721
+          }
+        }
+        ParentId: 11647133120484493610
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Font.Bevel:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Faces:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Sides:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 8759331323895215804
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7182426864323003471
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1581,6 +1729,10 @@ Assets {
         ChildIds: 7254274546487432170
         ChildIds: 11334353792744947283
         ChildIds: 13672640352999880585
+        ChildIds: 1262161161889972742
+        ChildIds: 3796637786935841795
+        ChildIds: 7314875321452310190
+        ChildIds: 12873285365427460771
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1623,6 +1775,8 @@ Assets {
         ChildIds: 12506485920713918505
         ChildIds: 14314118435740290398
         ChildIds: 12861862262531266290
+        ChildIds: 17990214104119154169
+        ChildIds: 1443949019419901253
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1644,15 +1798,15 @@ Assets {
         Name: "Pipe - Half Thick"
         Transform {
           Location {
-            X: 1584.11011
-            Y: 530.152466
+            X: 1541.56116
+            Y: 240.647461
           }
           Rotation {
             Yaw: -179.999985
           }
           Scale {
-            X: 11.5505104
-            Y: 15.3928537
+            X: 11.5505123
+            Y: 13.0107603
             Z: 0.112140864
           }
         }
@@ -1800,14 +1954,14 @@ Assets {
         Name: "Cube"
         Transform {
           Location {
-            X: 2035.58752
-            Y: 45.6524658
+            X: 1938.69189
+            Y: -139.764648
             Z: 4.73486328
           }
           Rotation {
           }
           Scale {
-            X: 2.55324
+            X: 3.45361567
             Y: 10.0407829
             Z: 0.1
           }
@@ -1966,7 +2120,7 @@ Assets {
         Name: "Cube"
         Transform {
           Location {
-            X: 1889.99927
+            X: 1914.27344
             Y: -748.961792
           }
           Rotation {
@@ -2103,6 +2257,152 @@ Assets {
         CoreMesh {
           MeshAsset {
             Id: 16967182821200846753
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17990214104119154169
+        Name: "Pipe - Half Thick"
+        Transform {
+          Location {
+            X: 654.560913
+            Y: 496.266113
+          }
+          Rotation {
+            Yaw: 89.9999924
+          }
+          Scale {
+            X: 18.4808674
+            Y: 14.1735897
+            Z: 0.1
+          }
+        }
+        ParentId: 7189720709372102643
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Font.Bevel:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Faces:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Sides:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 8759331323895215804
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 16967182821200846753
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1443949019419901253
+        Name: "Pipe - Half Thick"
+        Transform {
+          Location {
+            X: 1541.56067
+            Y: 240.647461
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 7.38613939
+            Y: 8.31991673
+            Z: 0.0717100874
+          }
+        }
+        ParentId: 7189720709372102643
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Font.Bevel:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Faces:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Font.Sides:id"
+            AssetReference {
+              Id: 10793320870014566179
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 8759331323895215804
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7182426864323003471
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -43485,6 +43785,254 @@ Assets {
         }
       }
       Objects {
+        Id: 1262161161889972742
+        Name: "Gold Coin"
+        Transform {
+          Location {
+            X: 1946.05811
+            Y: 1123.39111
+            Z: 625
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.5
+            Y: 0.5
+            Z: 0.25
+          }
+        }
+        ParentId: 15699752735596250903
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 9501471890628041237
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.87500006
+              G: 0.629370272
+              B: 0.104999959
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12632251234297570874
+          }
+          Teams {
+            TeamInt: 3
+            IsEnemyCollisionEnabled: true
+          }
+          InteractWithTriggers: true
+          StaticMesh {
+            Physics {
+              IsEnabled: true
+              Mass: 10
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3796637786935841795
+        Name: "Gold Coin"
+        Transform {
+          Location {
+            X: 1969.37402
+            Y: 1076.26245
+            Z: 625
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.5
+            Y: 0.5
+            Z: 0.25
+          }
+        }
+        ParentId: 15699752735596250903
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 9501471890628041237
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.87500006
+              G: 0.629370272
+              B: 0.104999959
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12632251234297570874
+          }
+          Teams {
+            TeamInt: 3
+            IsEnemyCollisionEnabled: true
+          }
+          InteractWithTriggers: true
+          StaticMesh {
+            Physics {
+              IsEnabled: true
+              Mass: 10
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7314875321452310190
+        Name: "Gold Coin"
+        Transform {
+          Location {
+            X: 1069.70312
+            Y: -184.979492
+            Z: 10.6323242
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.5
+            Y: 0.5
+            Z: 0.25
+          }
+        }
+        ParentId: 15699752735596250903
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 9501471890628041237
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.87500006
+              G: 0.629370272
+              B: 0.104999959
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12632251234297570874
+          }
+          Teams {
+            TeamInt: 3
+            IsEnemyCollisionEnabled: true
+          }
+          InteractWithTriggers: true
+          StaticMesh {
+            Physics {
+              IsEnabled: true
+              Mass: 10
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 12873285365427460771
+        Name: "Gold Coin"
+        Transform {
+          Location {
+            X: 948.605469
+            Y: -242.876709
+            Z: 10.6323242
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.5
+            Y: 0.5
+            Z: 0.25
+          }
+        }
+        ParentId: 15699752735596250903
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 9501471890628041237
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.87500006
+              G: 0.629370272
+              B: 0.104999959
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12632251234297570874
+          }
+          Teams {
+            TeamInt: 3
+            IsEnemyCollisionEnabled: true
+          }
+          InteractWithTriggers: true
+          StaticMesh {
+            Physics {
+              IsEnabled: true
+              Mass: 10
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 13237649984180621584
         Name: "ClientContext"
         Transform {
@@ -44455,9 +45003,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -44626,6 +45172,8 @@ Assets {
           }
         }
         ParentId: 7876623381428034862
+        ChildIds: 16778048992526132122
+        ChildIds: 11739418847170305937
         ChildIds: 12697770100479914777
         UnregisteredParameters {
         }
@@ -44640,6 +45188,92 @@ Assets {
           Value: "mc:ecollisionsetting:forceoff"
         }
         NetworkContext {
+        }
+      }
+      Objects {
+        Id: 16778048992526132122
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15201214557043224694
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 7876623381428034862
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 11739418847170305937
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 11739418847170305937
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15201214557043224694
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
         }
       }
       Objects {
@@ -44690,12 +45324,12 @@ Assets {
         }
       }
       Objects {
-        Id: 9926709398300314429
+        Id: 6421642748205834747
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3708.17383
-            Y: 1371.19727
+            X: 3679.14502
+            Y: 1305.3335
             Z: 625
           }
           Rotation {
@@ -44707,9 +45341,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 8869678564379633167
-        ChildIds: 12699245234147927919
-        ChildIds: 16618157335590407209
+        ChildIds: 1461923842660684715
+        ChildIds: 4259587715098414496
+        ChildIds: 14438258740629046852
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -44728,7 +45362,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8869678564379633167
+        Id: 1461923842660684715
         Name: "Capsule"
         Transform {
           Location {
@@ -44743,7 +45377,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 9926709398300314429
+        ParentId: 6421642748205834747
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -44775,7 +45409,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12699245234147927919
+        Id: 4259587715098414496
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -44790,7 +45424,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9926709398300314429
+        ParentId: 6421642748205834747
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -44816,7 +45450,7 @@ Assets {
         }
       }
       Objects {
-        Id: 16618157335590407209
+        Id: 14438258740629046852
         Name: "Jar"
         Transform {
           Location {
@@ -44830,10 +45464,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9926709398300314429
-        ChildIds: 14466760774109850643
-        ChildIds: 17726819213567596561
-        ChildIds: 6423678083758825841
+        ParentId: 6421642748205834747
+        ChildIds: 8123799573052467819
+        ChildIds: 5326305924730578261
+        ChildIds: 6918349706674966505
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -44892,9 +45526,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -44902,7 +45534,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 14466760774109850643
+              SubObjectId: 8123799573052467819
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -44915,7 +45547,7 @@ Assets {
         }
       }
       Objects {
-        Id: 14466760774109850643
+        Id: 8123799573052467819
         Name: "Throw"
         Transform {
           Location {
@@ -44928,7 +45560,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16618157335590407209
+        ParentId: 14438258740629046852
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -44994,7 +45626,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17726819213567596561
+        Id: 5326305924730578261
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -45007,18 +45639,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16618157335590407209
+        ParentId: 14438258740629046852
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 12699245234147927919
+              SubObjectId: 4259587715098414496
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 8869678564379633167
+              SubObjectId: 1461923842660684715
             }
           }
           Overrides {
@@ -45048,7 +45680,7 @@ Assets {
         }
       }
       Objects {
-        Id: 6423678083758825841
+        Id: 6918349706674966505
         Name: "Client Art"
         Transform {
           Location {
@@ -45062,8 +45694,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16618157335590407209
-        ChildIds: 4316532661939642910
+        ParentId: 14438258740629046852
+        ChildIds: 16632549671652972571
+        ChildIds: 16072922745544224683
+        ChildIds: 7236976210239191457
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45080,7 +45714,93 @@ Assets {
         }
       }
       Objects {
-        Id: 4316532661939642910
+        Id: 16632549671652972571
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6918349706674966505
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 14438258740629046852
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 16072922745544224683
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 16072922745544224683
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6918349706674966505
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 7236976210239191457
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -45094,7 +45814,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6423678083758825841
+        ParentId: 6918349706674966505
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -45127,12 +45847,12 @@ Assets {
         }
       }
       Objects {
-        Id: 12430287488326178548
+        Id: 13953446319360739691
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3696.7832
-            Y: 1883.01318
+            X: 3482.96338
+            Y: 1493.98389
             Z: 625
           }
           Rotation {
@@ -45144,9 +45864,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 6797317974008822726
-        ChildIds: 10772409407001557670
-        ChildIds: 14113171871905731040
+        ChildIds: 15187395241748326121
+        ChildIds: 2304346180796108699
+        ChildIds: 4195682054032242620
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -45165,7 +45885,7 @@ Assets {
         }
       }
       Objects {
-        Id: 6797317974008822726
+        Id: 15187395241748326121
         Name: "Capsule"
         Transform {
           Location {
@@ -45180,7 +45900,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 12430287488326178548
+        ParentId: 13953446319360739691
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -45212,7 +45932,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10772409407001557670
+        Id: 2304346180796108699
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -45227,7 +45947,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12430287488326178548
+        ParentId: 13953446319360739691
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45253,7 +45973,7 @@ Assets {
         }
       }
       Objects {
-        Id: 14113171871905731040
+        Id: 4195682054032242620
         Name: "Jar"
         Transform {
           Location {
@@ -45267,10 +45987,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12430287488326178548
-        ChildIds: 17115863591590670810
-        ChildIds: 15222678156391925208
-        ChildIds: 8964129361258806456
+        ParentId: 13953446319360739691
+        ChildIds: 11498741676993581028
+        ChildIds: 16735148923580253923
+        ChildIds: 12885630815841839831
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45329,9 +46049,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -45339,7 +46057,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 17115863591590670810
+              SubObjectId: 11498741676993581028
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -45352,7 +46070,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17115863591590670810
+        Id: 11498741676993581028
         Name: "Throw"
         Transform {
           Location {
@@ -45365,7 +46083,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14113171871905731040
+        ParentId: 4195682054032242620
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45431,7 +46149,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15222678156391925208
+        Id: 16735148923580253923
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -45444,18 +46162,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14113171871905731040
+        ParentId: 4195682054032242620
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 10772409407001557670
+              SubObjectId: 2304346180796108699
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 6797317974008822726
+              SubObjectId: 15187395241748326121
             }
           }
           Overrides {
@@ -45485,7 +46203,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8964129361258806456
+        Id: 12885630815841839831
         Name: "Client Art"
         Transform {
           Location {
@@ -45499,8 +46217,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 14113171871905731040
-        ChildIds: 2208143224270913495
+        ParentId: 4195682054032242620
+        ChildIds: 14811628681585068006
+        ChildIds: 1007146128708084332
+        ChildIds: 6659033437628171269
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45517,7 +46237,93 @@ Assets {
         }
       }
       Objects {
-        Id: 2208143224270913495
+        Id: 14811628681585068006
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12885630815841839831
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 4195682054032242620
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 1007146128708084332
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 1007146128708084332
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12885630815841839831
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6659033437628171269
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -45531,7 +46337,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8964129361258806456
+        ParentId: 12885630815841839831
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -45564,12 +46370,12 @@ Assets {
         }
       }
       Objects {
-        Id: 13384642687060247122
+        Id: 2089095578642306467
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3454.2959
-            Y: 1537.62109
+            X: 3494.09912
+            Y: 1862.32544
             Z: 625
           }
           Rotation {
@@ -45581,9 +46387,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 5434263275905216352
-        ChildIds: 9241883692669660672
-        ChildIds: 15484081464363074886
+        ChildIds: 12842230412851616106
+        ChildIds: 6664607208180597096
+        ChildIds: 4350432535754408928
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -45602,7 +46408,7 @@ Assets {
         }
       }
       Objects {
-        Id: 5434263275905216352
+        Id: 12842230412851616106
         Name: "Capsule"
         Transform {
           Location {
@@ -45617,7 +46423,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 13384642687060247122
+        ParentId: 2089095578642306467
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -45649,7 +46455,7 @@ Assets {
         }
       }
       Objects {
-        Id: 9241883692669660672
+        Id: 6664607208180597096
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -45664,7 +46470,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13384642687060247122
+        ParentId: 2089095578642306467
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45690,7 +46496,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15484081464363074886
+        Id: 4350432535754408928
         Name: "Jar"
         Transform {
           Location {
@@ -45704,10 +46510,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13384642687060247122
-        ChildIds: 17922442262884001148
-        ChildIds: 14303252260295889278
-        ChildIds: 7590941621430085662
+        ParentId: 2089095578642306467
+        ChildIds: 9682327440426168030
+        ChildIds: 16189992979903936517
+        ChildIds: 8681586220406163506
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45766,9 +46572,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -45776,7 +46580,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 17922442262884001148
+              SubObjectId: 9682327440426168030
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -45789,7 +46593,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17922442262884001148
+        Id: 9682327440426168030
         Name: "Throw"
         Transform {
           Location {
@@ -45802,7 +46606,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15484081464363074886
+        ParentId: 4350432535754408928
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45868,7 +46672,7 @@ Assets {
         }
       }
       Objects {
-        Id: 14303252260295889278
+        Id: 16189992979903936517
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -45881,18 +46685,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15484081464363074886
+        ParentId: 4350432535754408928
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 9241883692669660672
+              SubObjectId: 6664607208180597096
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 5434263275905216352
+              SubObjectId: 12842230412851616106
             }
           }
           Overrides {
@@ -45922,7 +46726,7 @@ Assets {
         }
       }
       Objects {
-        Id: 7590941621430085662
+        Id: 8681586220406163506
         Name: "Client Art"
         Transform {
           Location {
@@ -45936,8 +46740,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15484081464363074886
-        ChildIds: 836098979223694193
+        ParentId: 4350432535754408928
+        ChildIds: 15369742957708423606
+        ChildIds: 6619081023858092485
+        ChildIds: 16349628164751561791
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -45954,7 +46760,93 @@ Assets {
         }
       }
       Objects {
-        Id: 836098979223694193
+        Id: 15369742957708423606
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8681586220406163506
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 4350432535754408928
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 6619081023858092485
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 6619081023858092485
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8681586220406163506
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 16349628164751561791
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -45968,7 +46860,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7590941621430085662
+        ParentId: 8681586220406163506
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -46001,12 +46893,12 @@ Assets {
         }
       }
       Objects {
-        Id: 16071952741889528
+        Id: 12444331651099092882
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3527.48438
-            Y: 1884.45312
+            X: 3718.71533
+            Y: 1852.25537
             Z: 625
           }
           Rotation {
@@ -46018,9 +46910,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 17504565312874387658
-        ChildIds: 4163314523556256170
-        ChildIds: 8026635875445453548
+        ChildIds: 8664517368480287456
+        ChildIds: 8424369069035067830
+        ChildIds: 17942396098810531067
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -46039,7 +46931,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17504565312874387658
+        Id: 8664517368480287456
         Name: "Capsule"
         Transform {
           Location {
@@ -46054,7 +46946,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 16071952741889528
+        ParentId: 12444331651099092882
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -46086,7 +46978,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4163314523556256170
+        Id: 8424369069035067830
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -46101,7 +46993,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16071952741889528
+        ParentId: 12444331651099092882
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46127,7 +47019,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8026635875445453548
+        Id: 17942396098810531067
         Name: "Jar"
         Transform {
           Location {
@@ -46141,10 +47033,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16071952741889528
-        ChildIds: 4701646441001603798
-        ChildIds: 9221552237308421844
-        ChildIds: 15050649452074639284
+        ParentId: 12444331651099092882
+        ChildIds: 18180777979409158179
+        ChildIds: 15764916901475069843
+        ChildIds: 11603974764698778279
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46203,9 +47095,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -46213,7 +47103,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 4701646441001603798
+              SubObjectId: 18180777979409158179
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -46226,7 +47116,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4701646441001603798
+        Id: 18180777979409158179
         Name: "Throw"
         Transform {
           Location {
@@ -46239,7 +47129,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8026635875445453548
+        ParentId: 17942396098810531067
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46305,7 +47195,7 @@ Assets {
         }
       }
       Objects {
-        Id: 9221552237308421844
+        Id: 15764916901475069843
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -46318,18 +47208,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8026635875445453548
+        ParentId: 17942396098810531067
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 4163314523556256170
+              SubObjectId: 8424369069035067830
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 17504565312874387658
+              SubObjectId: 8664517368480287456
             }
           }
           Overrides {
@@ -46359,7 +47249,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15050649452074639284
+        Id: 11603974764698778279
         Name: "Client Art"
         Transform {
           Location {
@@ -46373,8 +47263,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8026635875445453548
-        ChildIds: 12834343420637387995
+        ParentId: 17942396098810531067
+        ChildIds: 99063994324653229
+        ChildIds: 11790284201049660419
+        ChildIds: 6665219095524414089
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46391,7 +47283,93 @@ Assets {
         }
       }
       Objects {
-        Id: 12834343420637387995
+        Id: 99063994324653229
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11603974764698778279
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 17942396098810531067
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 11790284201049660419
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 11790284201049660419
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11603974764698778279
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6665219095524414089
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -46405,7 +47383,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15050649452074639284
+        ParentId: 11603974764698778279
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -46438,13 +47416,13 @@ Assets {
         }
       }
       Objects {
-        Id: 17519015800467936093
+        Id: 7895945829451943708
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3031.54883
-            Y: 281.66748
-            Z: 629.734863
+            X: 3000.69971
+            Y: 230.453369
+            Z: 625
           }
           Rotation {
           }
@@ -46455,9 +47433,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 141195154548506223
-        ChildIds: 14618127858708889359
-        ChildIds: 11276243376515257417
+        ChildIds: 17173176347417190511
+        ChildIds: 12164148167087620899
+        ChildIds: 4193474227869583245
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -46476,7 +47454,7 @@ Assets {
         }
       }
       Objects {
-        Id: 141195154548506223
+        Id: 17173176347417190511
         Name: "Capsule"
         Transform {
           Location {
@@ -46491,7 +47469,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 17519015800467936093
+        ParentId: 7895945829451943708
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -46523,7 +47501,7 @@ Assets {
         }
       }
       Objects {
-        Id: 14618127858708889359
+        Id: 12164148167087620899
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -46538,7 +47516,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17519015800467936093
+        ParentId: 7895945829451943708
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46564,7 +47542,7 @@ Assets {
         }
       }
       Objects {
-        Id: 11276243376515257417
+        Id: 4193474227869583245
         Name: "Jar"
         Transform {
           Location {
@@ -46578,10 +47556,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17519015800467936093
-        ChildIds: 12837105915882599539
-        ChildIds: 10151286943579897969
-        ChildIds: 2578223621625886993
+        ParentId: 7895945829451943708
+        ChildIds: 17726075641486831583
+        ChildIds: 8017014827020915218
+        ChildIds: 12257932115986921391
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46640,9 +47618,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -46650,7 +47626,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 12837105915882599539
+              SubObjectId: 17726075641486831583
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -46663,7 +47639,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12837105915882599539
+        Id: 17726075641486831583
         Name: "Throw"
         Transform {
           Location {
@@ -46676,7 +47652,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11276243376515257417
+        ParentId: 4193474227869583245
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46742,7 +47718,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10151286943579897969
+        Id: 8017014827020915218
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -46755,18 +47731,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11276243376515257417
+        ParentId: 4193474227869583245
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 14618127858708889359
+              SubObjectId: 12164148167087620899
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 141195154548506223
+              SubObjectId: 17173176347417190511
             }
           }
           Overrides {
@@ -46796,7 +47772,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2578223621625886993
+        Id: 12257932115986921391
         Name: "Client Art"
         Transform {
           Location {
@@ -46810,8 +47786,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11276243376515257417
-        ChildIds: 4685337911223695998
+        ParentId: 4193474227869583245
+        ChildIds: 9868132571583199757
+        ChildIds: 17987228625009972108
+        ChildIds: 11449270559043073119
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -46828,7 +47806,93 @@ Assets {
         }
       }
       Objects {
-        Id: 4685337911223695998
+        Id: 9868132571583199757
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12257932115986921391
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 4193474227869583245
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 17987228625009972108
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 17987228625009972108
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12257932115986921391
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 11449270559043073119
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -46842,7 +47906,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2578223621625886993
+        ParentId: 12257932115986921391
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -46875,13 +47939,13 @@ Assets {
         }
       }
       Objects {
-        Id: 7710801140996457990
+        Id: 4417354785858646101
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3160.28516
-            Y: 304.70459
-            Z: 630
+            X: 3314.41357
+            Y: 299.701172
+            Z: 625
           }
           Rotation {
           }
@@ -46892,9 +47956,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 11085585172685597492
-        ChildIds: 5979739153066633812
-        ChildIds: 314983001145901330
+        ChildIds: 12310008305630164931
+        ChildIds: 10303195207808250452
+        ChildIds: 12856577061084381346
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -46913,7 +47977,7 @@ Assets {
         }
       }
       Objects {
-        Id: 11085585172685597492
+        Id: 12310008305630164931
         Name: "Capsule"
         Transform {
           Location {
@@ -46928,7 +47992,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 7710801140996457990
+        ParentId: 4417354785858646101
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -46960,7 +48024,7 @@ Assets {
         }
       }
       Objects {
-        Id: 5979739153066633812
+        Id: 10303195207808250452
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -46975,7 +48039,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7710801140996457990
+        ParentId: 4417354785858646101
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47001,7 +48065,7 @@ Assets {
         }
       }
       Objects {
-        Id: 314983001145901330
+        Id: 12856577061084381346
         Name: "Jar"
         Transform {
           Location {
@@ -47015,10 +48079,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7710801140996457990
-        ChildIds: 3027763741226885416
-        ChildIds: 1495992725847774506
-        ChildIds: 13539501070263626826
+        ParentId: 4417354785858646101
+        ChildIds: 1143333425591889948
+        ChildIds: 14909182917493784979
+        ChildIds: 13451849211022542311
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47077,9 +48141,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -47087,7 +48149,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 3027763741226885416
+              SubObjectId: 1143333425591889948
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -47100,7 +48162,7 @@ Assets {
         }
       }
       Objects {
-        Id: 3027763741226885416
+        Id: 1143333425591889948
         Name: "Throw"
         Transform {
           Location {
@@ -47113,7 +48175,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 314983001145901330
+        ParentId: 12856577061084381346
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47179,7 +48241,7 @@ Assets {
         }
       }
       Objects {
-        Id: 1495992725847774506
+        Id: 14909182917493784979
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -47192,18 +48254,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 314983001145901330
+        ParentId: 12856577061084381346
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 5979739153066633812
+              SubObjectId: 10303195207808250452
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 11085585172685597492
+              SubObjectId: 12310008305630164931
             }
           }
           Overrides {
@@ -47233,7 +48295,7 @@ Assets {
         }
       }
       Objects {
-        Id: 13539501070263626826
+        Id: 13451849211022542311
         Name: "Client Art"
         Transform {
           Location {
@@ -47247,8 +48309,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 314983001145901330
-        ChildIds: 15647724762379398949
+        ParentId: 12856577061084381346
+        ChildIds: 2633452642649390349
+        ChildIds: 10239049447453414051
+        ChildIds: 15261488475791519593
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47265,7 +48329,93 @@ Assets {
         }
       }
       Objects {
-        Id: 15647724762379398949
+        Id: 2633452642649390349
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13451849211022542311
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 12856577061084381346
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 10239049447453414051
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 10239049447453414051
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13451849211022542311
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 15261488475791519593
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -47279,7 +48429,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13539501070263626826
+        ParentId: 13451849211022542311
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -47312,13 +48462,13 @@ Assets {
         }
       }
       Objects {
-        Id: 6906551391352657355
+        Id: 805493956568416139
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 2975.54395
-            Y: -185.232422
-            Z: 629.734863
+            X: 3457.99365
+            Y: 201.207764
+            Z: 625
           }
           Rotation {
           }
@@ -47329,9 +48479,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 12469715123307051257
-        ChildIds: 7360841390257043865
-        ChildIds: 3496394696842662623
+        ChildIds: 11553560876980612443
+        ChildIds: 9626363372925088068
+        ChildIds: 12400121864378594983
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -47350,7 +48500,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12469715123307051257
+        Id: 11553560876980612443
         Name: "Capsule"
         Transform {
           Location {
@@ -47365,7 +48515,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 6906551391352657355
+        ParentId: 805493956568416139
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -47397,7 +48547,7 @@ Assets {
         }
       }
       Objects {
-        Id: 7360841390257043865
+        Id: 9626363372925088068
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -47412,7 +48562,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6906551391352657355
+        ParentId: 805493956568416139
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47438,7 +48588,7 @@ Assets {
         }
       }
       Objects {
-        Id: 3496394696842662623
+        Id: 12400121864378594983
         Name: "Jar"
         Transform {
           Location {
@@ -47452,10 +48602,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6906551391352657355
-        ChildIds: 2224351854214099685
-        ChildIds: 2312719733376599783
-        ChildIds: 10322042889070116743
+        ParentId: 805493956568416139
+        ChildIds: 17244736975122771032
+        ChildIds: 11666016038112978642
+        ChildIds: 1115298598163771215
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47514,9 +48664,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -47524,7 +48672,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 2224351854214099685
+              SubObjectId: 17244736975122771032
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -47537,7 +48685,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2224351854214099685
+        Id: 17244736975122771032
         Name: "Throw"
         Transform {
           Location {
@@ -47550,7 +48698,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 3496394696842662623
+        ParentId: 12400121864378594983
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47616,7 +48764,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2312719733376599783
+        Id: 11666016038112978642
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -47629,18 +48777,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 3496394696842662623
+        ParentId: 12400121864378594983
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 7360841390257043865
+              SubObjectId: 9626363372925088068
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 12469715123307051257
+              SubObjectId: 11553560876980612443
             }
           }
           Overrides {
@@ -47670,7 +48818,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10322042889070116743
+        Id: 1115298598163771215
         Name: "Client Art"
         Transform {
           Location {
@@ -47684,8 +48832,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 3496394696842662623
-        ChildIds: 17148961815422467304
+        ParentId: 12400121864378594983
+        ChildIds: 10222561534739184346
+        ChildIds: 3557036132036073189
+        ChildIds: 6726120645092193556
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47702,7 +48852,93 @@ Assets {
         }
       }
       Objects {
-        Id: 17148961815422467304
+        Id: 10222561534739184346
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1115298598163771215
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 12400121864378594983
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 3557036132036073189
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 3557036132036073189
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1115298598163771215
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6726120645092193556
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -47716,7 +48952,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 10322042889070116743
+        ParentId: 1115298598163771215
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -47749,13 +48985,13 @@ Assets {
         }
       }
       Objects {
-        Id: 7975272243949239748
+        Id: 1819534104824008040
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 3195.79883
-            Y: -198.245117
-            Z: 629.734863
+            X: 3188.28369
+            Y: -265.653076
+            Z: 625
           }
           Rotation {
           }
@@ -47766,9 +49002,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 11274893515775414518
-        ChildIds: 6292604012637000086
-        ChildIds: 139774657702378192
+        ChildIds: 9153807081613971198
+        ChildIds: 1541994544990893506
+        ChildIds: 18229463700742366398
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -47787,7 +49023,7 @@ Assets {
         }
       }
       Objects {
-        Id: 11274893515775414518
+        Id: 9153807081613971198
         Name: "Capsule"
         Transform {
           Location {
@@ -47802,7 +49038,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 7975272243949239748
+        ParentId: 1819534104824008040
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -47834,7 +49070,7 @@ Assets {
         }
       }
       Objects {
-        Id: 6292604012637000086
+        Id: 1541994544990893506
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -47849,7 +49085,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7975272243949239748
+        ParentId: 1819534104824008040
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47875,7 +49111,7 @@ Assets {
         }
       }
       Objects {
-        Id: 139774657702378192
+        Id: 18229463700742366398
         Name: "Jar"
         Transform {
           Location {
@@ -47889,10 +49125,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7975272243949239748
-        ChildIds: 3434935922834529002
-        ChildIds: 1255741665065086696
-        ChildIds: 13711885735755290504
+        ParentId: 1819534104824008040
+        ChildIds: 10996135203087420960
+        ChildIds: 10461401509467102190
+        ChildIds: 5744371738096723164
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -47951,9 +49187,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -47961,7 +49195,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 3434935922834529002
+              SubObjectId: 10996135203087420960
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -47974,7 +49208,7 @@ Assets {
         }
       }
       Objects {
-        Id: 3434935922834529002
+        Id: 10996135203087420960
         Name: "Throw"
         Transform {
           Location {
@@ -47987,7 +49221,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 139774657702378192
+        ParentId: 18229463700742366398
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48053,7 +49287,7 @@ Assets {
         }
       }
       Objects {
-        Id: 1255741665065086696
+        Id: 10461401509467102190
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -48066,18 +49300,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 139774657702378192
+        ParentId: 18229463700742366398
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 6292604012637000086
+              SubObjectId: 1541994544990893506
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 11274893515775414518
+              SubObjectId: 9153807081613971198
             }
           }
           Overrides {
@@ -48107,7 +49341,7 @@ Assets {
         }
       }
       Objects {
-        Id: 13711885735755290504
+        Id: 5744371738096723164
         Name: "Client Art"
         Transform {
           Location {
@@ -48121,8 +49355,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 139774657702378192
-        ChildIds: 15891089640129565927
+        ParentId: 18229463700742366398
+        ChildIds: 17523755533571264376
+        ChildIds: 7988192520036692495
+        ChildIds: 4984516987093942533
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48139,7 +49375,93 @@ Assets {
         }
       }
       Objects {
-        Id: 15891089640129565927
+        Id: 17523755533571264376
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5744371738096723164
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 18229463700742366398
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 7988192520036692495
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 7988192520036692495
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5744371738096723164
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 4984516987093942533
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -48153,7 +49475,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13711885735755290504
+        ParentId: 5744371738096723164
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -48186,13 +49508,13 @@ Assets {
         }
       }
       Objects {
-        Id: 9171535408779180827
+        Id: 16434193381552121619
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 1980.76855
-            Y: -284.477539
-            Z: 9.73486328
+            X: 3436.17139
+            Y: -280.758545
+            Z: 625
           }
           Rotation {
           }
@@ -48203,9 +49525,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 10201351273714112041
-        ChildIds: 5096349678262179657
-        ChildIds: 1160408400838851599
+        ChildIds: 1460157105116556737
+        ChildIds: 17830865028774405424
+        ChildIds: 13126236411440820449
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -48224,7 +49546,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10201351273714112041
+        Id: 1460157105116556737
         Name: "Capsule"
         Transform {
           Location {
@@ -48239,7 +49561,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 9171535408779180827
+        ParentId: 16434193381552121619
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -48271,7 +49593,7 @@ Assets {
         }
       }
       Objects {
-        Id: 5096349678262179657
+        Id: 17830865028774405424
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -48286,7 +49608,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9171535408779180827
+        ParentId: 16434193381552121619
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48312,7 +49634,7 @@ Assets {
         }
       }
       Objects {
-        Id: 1160408400838851599
+        Id: 13126236411440820449
         Name: "Jar"
         Transform {
           Location {
@@ -48326,10 +49648,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9171535408779180827
-        ChildIds: 4485960164613332021
-        ChildIds: 38077605828618295
-        ChildIds: 12655231951224164695
+        ParentId: 16434193381552121619
+        ChildIds: 7385852552657692371
+        ChildIds: 4882932148128577232
+        ChildIds: 9482434801532284244
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48388,9 +49710,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -48398,7 +49718,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 4485960164613332021
+              SubObjectId: 7385852552657692371
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -48411,7 +49731,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4485960164613332021
+        Id: 7385852552657692371
         Name: "Throw"
         Transform {
           Location {
@@ -48424,7 +49744,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 1160408400838851599
+        ParentId: 13126236411440820449
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48490,7 +49810,7 @@ Assets {
         }
       }
       Objects {
-        Id: 38077605828618295
+        Id: 4882932148128577232
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -48503,18 +49823,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 1160408400838851599
+        ParentId: 13126236411440820449
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 5096349678262179657
+              SubObjectId: 17830865028774405424
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 10201351273714112041
+              SubObjectId: 1460157105116556737
             }
           }
           Overrides {
@@ -48544,7 +49864,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12655231951224164695
+        Id: 9482434801532284244
         Name: "Client Art"
         Transform {
           Location {
@@ -48558,8 +49878,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 1160408400838851599
-        ChildIds: 14799515364672885304
+        ParentId: 13126236411440820449
+        ChildIds: 16088086265028592226
+        ChildIds: 16126489003439233656
+        ChildIds: 10073543114830259923
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48576,7 +49898,93 @@ Assets {
         }
       }
       Objects {
-        Id: 14799515364672885304
+        Id: 16088086265028592226
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9482434801532284244
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 13126236411440820449
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 16126489003439233656
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 16126489003439233656
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9482434801532284244
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 10073543114830259923
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -48590,7 +49998,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12655231951224164695
+        ParentId: 9482434801532284244
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -48623,13 +50031,13 @@ Assets {
         }
       }
       Objects {
-        Id: 16908724959850451483
+        Id: 1245659570040320788
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 2293.79492
-            Y: -33.0722656
-            Z: 9.73486328
+            X: 1990.99902
+            Y: -200.956055
+            Z: 9.74707
           }
           Rotation {
           }
@@ -48640,9 +50048,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 1761602278863453993
-        ChildIds: 15229434618108689993
-        ChildIds: 9654191846699111695
+        ChildIds: 5935092592208066350
+        ChildIds: 12036420043064067180
+        ChildIds: 8716630389191643766
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -48661,7 +50069,7 @@ Assets {
         }
       }
       Objects {
-        Id: 1761602278863453993
+        Id: 5935092592208066350
         Name: "Capsule"
         Transform {
           Location {
@@ -48676,7 +50084,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 16908724959850451483
+        ParentId: 1245659570040320788
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -48708,7 +50116,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15229434618108689993
+        Id: 12036420043064067180
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -48723,7 +50131,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16908724959850451483
+        ParentId: 1245659570040320788
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48749,7 +50157,7 @@ Assets {
         }
       }
       Objects {
-        Id: 9654191846699111695
+        Id: 8716630389191643766
         Name: "Jar"
         Transform {
           Location {
@@ -48763,10 +50171,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16908724959850451483
-        ChildIds: 12367262945289008437
-        ChildIds: 10765655340232343863
-        ChildIds: 4197468615848114263
+        ParentId: 1245659570040320788
+        ChildIds: 8002189462202464776
+        ChildIds: 12966239017946918459
+        ChildIds: 10852210745294576190
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48825,9 +50233,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -48835,7 +50241,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 12367262945289008437
+              SubObjectId: 8002189462202464776
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -48848,7 +50254,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12367262945289008437
+        Id: 8002189462202464776
         Name: "Throw"
         Transform {
           Location {
@@ -48861,7 +50267,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9654191846699111695
+        ParentId: 8716630389191643766
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -48927,7 +50333,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10765655340232343863
+        Id: 12966239017946918459
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -48940,18 +50346,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9654191846699111695
+        ParentId: 8716630389191643766
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 15229434618108689993
+              SubObjectId: 12036420043064067180
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 1761602278863453993
+              SubObjectId: 5935092592208066350
             }
           }
           Overrides {
@@ -48981,7 +50387,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4197468615848114263
+        Id: 10852210745294576190
         Name: "Client Art"
         Transform {
           Location {
@@ -48995,8 +50401,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9654191846699111695
-        ChildIds: 6377798351913139000
+        ParentId: 8716630389191643766
+        ChildIds: 5935437826723307545
+        ChildIds: 8668402119203723304
+        ChildIds: 10748362992228098689
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49013,7 +50421,93 @@ Assets {
         }
       }
       Objects {
-        Id: 6377798351913139000
+        Id: 5935437826723307545
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10852210745294576190
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 8716630389191643766
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 8668402119203723304
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 8668402119203723304
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10852210745294576190
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 10748362992228098689
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -49027,7 +50521,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4197468615848114263
+        ParentId: 10852210745294576190
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -49060,13 +50554,13 @@ Assets {
         }
       }
       Objects {
-        Id: 12876939553051622702
+        Id: 17337730319542872985
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 2179.11133
-            Y: 141.452637
-            Z: 9.73486328
+            X: 2042.69873
+            Y: -1.66430664
+            Z: 9.74707
           }
           Rotation {
           }
@@ -49077,9 +50571,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 4639191950431866908
-        ChildIds: 10036867254850474364
-        ChildIds: 15990412944731175482
+        ChildIds: 6612847153145107276
+        ChildIds: 17032962568681563662
+        ChildIds: 6100749587894060746
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -49098,7 +50592,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4639191950431866908
+        Id: 6612847153145107276
         Name: "Capsule"
         Transform {
           Location {
@@ -49113,7 +50607,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 12876939553051622702
+        ParentId: 17337730319542872985
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -49145,7 +50639,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10036867254850474364
+        Id: 17032962568681563662
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -49160,7 +50654,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12876939553051622702
+        ParentId: 17337730319542872985
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49186,7 +50680,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15990412944731175482
+        Id: 6100749587894060746
         Name: "Jar"
         Transform {
           Location {
@@ -49200,10 +50694,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12876939553051622702
-        ChildIds: 17560264543424616960
-        ChildIds: 14804605147651337730
-        ChildIds: 7085192422459791202
+        ParentId: 17337730319542872985
+        ChildIds: 13273150237723920859
+        ChildIds: 18295734014712687755
+        ChildIds: 16531350586157809376
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49262,9 +50756,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -49272,7 +50764,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 17560264543424616960
+              SubObjectId: 13273150237723920859
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -49285,7 +50777,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17560264543424616960
+        Id: 13273150237723920859
         Name: "Throw"
         Transform {
           Location {
@@ -49298,7 +50790,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15990412944731175482
+        ParentId: 6100749587894060746
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49364,7 +50856,7 @@ Assets {
         }
       }
       Objects {
-        Id: 14804605147651337730
+        Id: 18295734014712687755
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -49377,18 +50869,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15990412944731175482
+        ParentId: 6100749587894060746
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 10036867254850474364
+              SubObjectId: 17032962568681563662
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 4639191950431866908
+              SubObjectId: 6612847153145107276
             }
           }
           Overrides {
@@ -49418,7 +50910,7 @@ Assets {
         }
       }
       Objects {
-        Id: 7085192422459791202
+        Id: 16531350586157809376
         Name: "Client Art"
         Transform {
           Location {
@@ -49432,8 +50924,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15990412944731175482
-        ChildIds: 41009863725274125
+        ParentId: 6100749587894060746
+        ChildIds: 18376965082428888963
+        ChildIds: 422721204069921342
+        ChildIds: 6104874432351581731
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49450,7 +50944,93 @@ Assets {
         }
       }
       Objects {
-        Id: 41009863725274125
+        Id: 18376965082428888963
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16531350586157809376
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 6100749587894060746
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 422721204069921342
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 422721204069921342
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16531350586157809376
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6104874432351581731
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -49464,7 +51044,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 7085192422459791202
+        ParentId: 16531350586157809376
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -49497,13 +51077,13 @@ Assets {
         }
       }
       Objects {
-        Id: 17191470589167167556
+        Id: 14755478841123493977
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 170.610352
-            Y: 287.800293
-            Z: 9.73486328
+            X: 2244.92529
+            Y: -272.612061
+            Z: 9.74707
           }
           Rotation {
           }
@@ -49514,9 +51094,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 2036176070501467510
-        ChildIds: 15522314388109198358
-        ChildIds: 9352024779935297360
+        ChildIds: 10990455778480032429
+        ChildIds: 17964604264217250318
+        ChildIds: 3959346250986827128
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -49535,7 +51115,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2036176070501467510
+        Id: 10990455778480032429
         Name: "Capsule"
         Transform {
           Location {
@@ -49550,7 +51130,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 17191470589167167556
+        ParentId: 14755478841123493977
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -49582,7 +51162,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15522314388109198358
+        Id: 17964604264217250318
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -49597,7 +51177,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17191470589167167556
+        ParentId: 14755478841123493977
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49623,7 +51203,7 @@ Assets {
         }
       }
       Objects {
-        Id: 9352024779935297360
+        Id: 3959346250986827128
         Name: "Jar"
         Transform {
           Location {
@@ -49637,10 +51217,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17191470589167167556
-        ChildIds: 12651416980373753706
-        ChildIds: 10472222457927220072
-        ChildIds: 4500190999291789832
+        ParentId: 14755478841123493977
+        ChildIds: 17325108773838555858
+        ChildIds: 6966006385900589394
+        ChildIds: 8265592809294244376
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49699,9 +51279,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -49709,7 +51287,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 12651416980373753706
+              SubObjectId: 17325108773838555858
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -49722,7 +51300,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12651416980373753706
+        Id: 17325108773838555858
         Name: "Throw"
         Transform {
           Location {
@@ -49735,7 +51313,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9352024779935297360
+        ParentId: 3959346250986827128
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49801,7 +51379,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10472222457927220072
+        Id: 6966006385900589394
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -49814,18 +51392,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9352024779935297360
+        ParentId: 3959346250986827128
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 15522314388109198358
+              SubObjectId: 17964604264217250318
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 2036176070501467510
+              SubObjectId: 10990455778480032429
             }
           }
           Overrides {
@@ -49855,7 +51433,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4500190999291789832
+        Id: 8265592809294244376
         Name: "Client Art"
         Transform {
           Location {
@@ -49869,8 +51447,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9352024779935297360
-        ChildIds: 6679393939848560999
+        ParentId: 3959346250986827128
+        ChildIds: 2846114126278041450
+        ChildIds: 8531708495694980258
+        ChildIds: 10614268316060677972
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -49887,7 +51467,93 @@ Assets {
         }
       }
       Objects {
-        Id: 6679393939848560999
+        Id: 2846114126278041450
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8265592809294244376
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 3959346250986827128
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 8531708495694980258
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 8531708495694980258
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8265592809294244376
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 10614268316060677972
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -49901,7 +51567,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4500190999291789832
+        ParentId: 8265592809294244376
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -49934,13 +51600,13 @@ Assets {
         }
       }
       Objects {
-        Id: 4527621460613145005
+        Id: 5217318563986287110
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 144.092773
-            Y: -293.35791
-            Z: 9.73486328
+            X: 2203.81348
+            Y: 147.717041
+            Z: 9.74707
           }
           Rotation {
           }
@@ -49951,9 +51617,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 14700025750955642015
-        ChildIds: 516610356182076927
-        ChildIds: 5874972294351939257
+        ChildIds: 802304381962268187
+        ChildIds: 12155523201685706027
+        ChildIds: 713871622887497295
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -49972,7 +51638,7 @@ Assets {
         }
       }
       Objects {
-        Id: 14700025750955642015
+        Id: 802304381962268187
         Name: "Capsule"
         Transform {
           Location {
@@ -49987,7 +51653,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 4527621460613145005
+        ParentId: 5217318563986287110
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -50019,7 +51685,7 @@ Assets {
         }
       }
       Objects {
-        Id: 516610356182076927
+        Id: 12155523201685706027
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -50034,7 +51700,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4527621460613145005
+        ParentId: 5217318563986287110
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50060,7 +51726,7 @@ Assets {
         }
       }
       Objects {
-        Id: 5874972294351939257
+        Id: 713871622887497295
         Name: "Jar"
         Transform {
           Location {
@@ -50074,10 +51740,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4527621460613145005
-        ChildIds: 9210939201349977731
-        ChildIds: 4689872320766210689
-        ChildIds: 17164039578086591457
+        ParentId: 5217318563986287110
+        ChildIds: 10981380381225265804
+        ChildIds: 13004742138808051546
+        ChildIds: 12084531563182281349
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50136,9 +51802,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -50146,7 +51810,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 9210939201349977731
+              SubObjectId: 10981380381225265804
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -50159,7 +51823,7 @@ Assets {
         }
       }
       Objects {
-        Id: 9210939201349977731
+        Id: 10981380381225265804
         Name: "Throw"
         Transform {
           Location {
@@ -50172,7 +51836,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5874972294351939257
+        ParentId: 713871622887497295
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50238,7 +51902,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4689872320766210689
+        Id: 13004742138808051546
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -50251,18 +51915,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5874972294351939257
+        ParentId: 713871622887497295
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 516610356182076927
+              SubObjectId: 12155523201685706027
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 14700025750955642015
+              SubObjectId: 802304381962268187
             }
           }
           Overrides {
@@ -50292,7 +51956,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17164039578086591457
+        Id: 12084531563182281349
         Name: "Client Art"
         Transform {
           Location {
@@ -50306,8 +51970,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5874972294351939257
-        ChildIds: 10155882925841205390
+        ParentId: 713871622887497295
+        ChildIds: 11366125280813149748
+        ChildIds: 5710574615521276731
+        ChildIds: 8854820189342825012
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50324,7 +51990,93 @@ Assets {
         }
       }
       Objects {
-        Id: 10155882925841205390
+        Id: 11366125280813149748
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12084531563182281349
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 713871622887497295
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 5710574615521276731
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 5710574615521276731
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12084531563182281349
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 8854820189342825012
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -50338,7 +52090,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17164039578086591457
+        ParentId: 12084531563182281349
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -50371,13 +52123,13 @@ Assets {
         }
       }
       Objects {
-        Id: 15452617680532636007
+        Id: 4001202873399524042
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 364.658203
-            Y: -126.766113
-            Z: 10
+            X: 155.033691
+            Y: -227.911377
+            Z: 9.74707
           }
           Rotation {
           }
@@ -50388,9 +52140,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 2641103736911948885
-        ChildIds: 17261365208800881973
-        ChildIds: 13344155245861815923
+        ChildIds: 1016951156731652600
+        ChildIds: 9599408814106429900
+        ChildIds: 16085771071216443360
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -50409,7 +52161,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2641103736911948885
+        Id: 1016951156731652600
         Name: "Capsule"
         Transform {
           Location {
@@ -50424,7 +52176,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 15452617680532636007
+        ParentId: 4001202873399524042
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -50456,7 +52208,7 @@ Assets {
         }
       }
       Objects {
-        Id: 17261365208800881973
+        Id: 9599408814106429900
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -50471,7 +52223,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15452617680532636007
+        ParentId: 4001202873399524042
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50497,7 +52249,7 @@ Assets {
         }
       }
       Objects {
-        Id: 13344155245861815923
+        Id: 16085771071216443360
         Name: "Jar"
         Transform {
           Location {
@@ -50511,10 +52263,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15452617680532636007
-        ChildIds: 10913411795250456137
-        ChildIds: 12227880285117436491
-        ChildIds: 474291232709897003
+        ParentId: 4001202873399524042
+        ChildIds: 13356890672174384257
+        ChildIds: 13787251630859709561
+        ChildIds: 13409814869756239095
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50573,9 +52325,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -50583,7 +52333,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 10913411795250456137
+              SubObjectId: 13356890672174384257
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -50596,7 +52346,7 @@ Assets {
         }
       }
       Objects {
-        Id: 10913411795250456137
+        Id: 13356890672174384257
         Name: "Throw"
         Transform {
           Location {
@@ -50609,7 +52359,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13344155245861815923
+        ParentId: 16085771071216443360
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50675,7 +52425,7 @@ Assets {
         }
       }
       Objects {
-        Id: 12227880285117436491
+        Id: 13787251630859709561
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -50688,18 +52438,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13344155245861815923
+        ParentId: 16085771071216443360
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 17261365208800881973
+              SubObjectId: 9599408814106429900
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 2641103736911948885
+              SubObjectId: 1016951156731652600
             }
           }
           Overrides {
@@ -50729,7 +52479,7 @@ Assets {
         }
       }
       Objects {
-        Id: 474291232709897003
+        Id: 13409814869756239095
         Name: "Client Art"
         Transform {
           Location {
@@ -50743,8 +52493,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13344155245861815923
-        ChildIds: 7230282791557130308
+        ParentId: 16085771071216443360
+        ChildIds: 18016944992131471074
+        ChildIds: 11566653870325729849
+        ChildIds: 6297740748312657193
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50761,7 +52513,93 @@ Assets {
         }
       }
       Objects {
-        Id: 7230282791557130308
+        Id: 18016944992131471074
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13409814869756239095
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 16085771071216443360
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 11566653870325729849
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 11566653870325729849
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13409814869756239095
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6297740748312657193
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -50775,7 +52613,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 474291232709897003
+        ParentId: 13409814869756239095
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -50808,13 +52646,13 @@ Assets {
         }
       }
       Objects {
-        Id: 13768926059296546672
+        Id: 6457418880704121145
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 396.973633
-            Y: 227.957031
-            Z: 9.73486328
+            X: 419.283691
+            Y: 44.5197754
+            Z: 9.74707
           }
           Rotation {
           }
@@ -50825,9 +52663,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 5602655505319932482
-        ChildIds: 9721869269682107170
-        ChildIds: 15008319264793729124
+        ChildIds: 13828543320505211112
+        ChildIds: 18344653818274369925
+        ChildIds: 1126220405539907405
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -50846,7 +52684,7 @@ Assets {
         }
       }
       Objects {
-        Id: 5602655505319932482
+        Id: 13828543320505211112
         Name: "Capsule"
         Transform {
           Location {
@@ -50861,7 +52699,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 13768926059296546672
+        ParentId: 6457418880704121145
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -50893,7 +52731,7 @@ Assets {
         }
       }
       Objects {
-        Id: 9721869269682107170
+        Id: 18344653818274369925
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -50908,7 +52746,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13768926059296546672
+        ParentId: 6457418880704121145
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -50934,7 +52772,7 @@ Assets {
         }
       }
       Objects {
-        Id: 15008319264793729124
+        Id: 1126220405539907405
         Name: "Jar"
         Transform {
           Location {
@@ -50948,10 +52786,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 13768926059296546672
-        ChildIds: 18308133662599346270
-        ChildIds: 13895184785069935708
-        ChildIds: 8066705563451241788
+        ParentId: 6457418880704121145
+        ChildIds: 8463856134596686985
+        ChildIds: 13546268294911971583
+        ChildIds: 18257518370707225017
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51010,9 +52848,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -51020,7 +52856,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 18308133662599346270
+              SubObjectId: 8463856134596686985
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -51033,7 +52869,7 @@ Assets {
         }
       }
       Objects {
-        Id: 18308133662599346270
+        Id: 8463856134596686985
         Name: "Throw"
         Transform {
           Location {
@@ -51046,7 +52882,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15008319264793729124
+        ParentId: 1126220405539907405
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51112,7 +52948,7 @@ Assets {
         }
       }
       Objects {
-        Id: 13895184785069935708
+        Id: 13546268294911971583
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -51125,18 +52961,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15008319264793729124
+        ParentId: 1126220405539907405
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 9721869269682107170
+              SubObjectId: 18344653818274369925
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 5602655505319932482
+              SubObjectId: 13828543320505211112
             }
           }
           Overrides {
@@ -51166,7 +53002,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8066705563451241788
+        Id: 18257518370707225017
         Name: "Client Art"
         Transform {
           Location {
@@ -51180,8 +53016,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15008319264793729124
-        ChildIds: 950447814159971923
+        ParentId: 1126220405539907405
+        ChildIds: 781280511948895786
+        ChildIds: 15373806513351662663
+        ChildIds: 2330135896597557555
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51198,7 +53036,93 @@ Assets {
         }
       }
       Objects {
-        Id: 950447814159971923
+        Id: 781280511948895786
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18257518370707225017
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 1126220405539907405
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 15373806513351662663
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 15373806513351662663
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18257518370707225017
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 2330135896597557555
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -51212,7 +53136,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8066705563451241788
+        ParentId: 18257518370707225017
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -51245,13 +53169,13 @@ Assets {
         }
       }
       Objects {
-        Id: 5517853230378967148
+        Id: 7705582532921993751
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 445.287109
-            Y: 90.3764648
-            Z: 9.73486328
+            X: 275.377441
+            Y: 228.056885
+            Z: 9.74707
           }
           Rotation {
           }
@@ -51262,9 +53186,9 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 13710917095816727902
-        ChildIds: 8461511206219779134
-        ChildIds: 2580023625736857464
+        ChildIds: 11623612705781392505
+        ChildIds: 5391750845776421149
+        ChildIds: 11787972837760676074
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -51283,7 +53207,7 @@ Assets {
         }
       }
       Objects {
-        Id: 13710917095816727902
+        Id: 11623612705781392505
         Name: "Capsule"
         Transform {
           Location {
@@ -51298,7 +53222,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 5517853230378967148
+        ParentId: 7705582532921993751
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -51330,7 +53254,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8461511206219779134
+        Id: 5391750845776421149
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -51345,7 +53269,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5517853230378967148
+        ParentId: 7705582532921993751
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51371,7 +53295,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2580023625736857464
+        Id: 11787972837760676074
         Name: "Jar"
         Transform {
           Location {
@@ -51385,10 +53309,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 5517853230378967148
-        ChildIds: 978927754741106498
-        ChildIds: 3698523997009752896
-        ChildIds: 11273889700591045152
+        ParentId: 7705582532921993751
+        ChildIds: 18122346793005531034
+        ChildIds: 11636837322561981298
+        ChildIds: 13359739928191866553
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51447,9 +53371,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -51457,7 +53379,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 978927754741106498
+              SubObjectId: 18122346793005531034
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -51470,7 +53392,7 @@ Assets {
         }
       }
       Objects {
-        Id: 978927754741106498
+        Id: 18122346793005531034
         Name: "Throw"
         Transform {
           Location {
@@ -51483,7 +53405,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2580023625736857464
+        ParentId: 11787972837760676074
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51549,7 +53471,7 @@ Assets {
         }
       }
       Objects {
-        Id: 3698523997009752896
+        Id: 11636837322561981298
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -51562,18 +53484,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2580023625736857464
+        ParentId: 11787972837760676074
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 8461511206219779134
+              SubObjectId: 5391750845776421149
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 13710917095816727902
+              SubObjectId: 11623612705781392505
             }
           }
           Overrides {
@@ -51603,7 +53525,7 @@ Assets {
         }
       }
       Objects {
-        Id: 11273889700591045152
+        Id: 13359739928191866553
         Name: "Client Art"
         Transform {
           Location {
@@ -51617,8 +53539,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2580023625736857464
-        ChildIds: 18354134733350930767
+        ParentId: 11787972837760676074
+        ChildIds: 12219143753047801311
+        ChildIds: 3499364055425182545
+        ChildIds: 12731568385697884060
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -51635,7 +53559,93 @@ Assets {
         }
       }
       Objects {
-        Id: 18354134733350930767
+        Id: 12219143753047801311
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13359739928191866553
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 11787972837760676074
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 3499364055425182545
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 3499364055425182545
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13359739928191866553
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 12731568385697884060
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -51649,7 +53659,530 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11273889700591045152
+        ParentId: 13359739928191866553
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3317171485537739688
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 146.000488
+            Y: 272.407959
+            Z: 9.74707
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 717994066552569135
+        ChildIds: 3157095664191596356
+        ChildIds: 10384282330128593442
+        ChildIds: 8509491510282049452
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 3157095664191596356
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 3317171485537739688
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10384282330128593442
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3317171485537739688
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 8509491510282049452
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3317171485537739688
+        ChildIds: 10129068208100102555
+        ChildIds: 17266798276614659012
+        ChildIds: 17859443704758012270
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 10129068208100102555
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 10129068208100102555
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8509491510282049452
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:primaryaction"
+          }
+        }
+      }
+      Objects {
+        Id: 17266798276614659012
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8509491510282049452
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 10384282330128593442
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 3157095664191596356
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 17859443704758012270
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8509491510282049452
+        ChildIds: 11201504438483239993
+        ChildIds: 16255146364361359065
+        ChildIds: 11915362930102327766
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 11201504438483239993
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17859443704758012270
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 8509491510282049452
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 16255146364361359065
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 16255146364361359065
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17859443704758012270
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 11915362930102327766
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17859443704758012270
         UnregisteredParameters {
         }
         Collidable_v2 {
