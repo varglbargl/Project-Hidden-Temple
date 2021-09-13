@@ -7334,6 +7334,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 1828288701993236781
+    value {
+    }
+  }
+  ObjectStates {
     key: 1829740787825284705
     value {
     }
@@ -13010,6 +13015,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 3198489876070904673
+    value {
+    }
+  }
+  ObjectStates {
     key: 3199925524341404424
     value {
     }
@@ -13441,6 +13451,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 3292578941817187515
+    value {
+    }
+  }
+  ObjectStates {
+    key: 3293455102032348528
     value {
     }
   }
@@ -25868,6 +25883,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 6441079443362392308
+    value {
+    }
+  }
+  ObjectStates {
     key: 6442346394515624683
     value {
     }
@@ -33701,6 +33721,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 8451808404869589689
+    value {
+    }
+  }
+  ObjectStates {
+    key: 8455022987508998200
     value {
     }
   }
@@ -52090,6 +52115,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 13093751073453018722
+    value {
+    }
+  }
+  ObjectStates {
+    key: 13094843438821527191
     value {
     }
   }
@@ -71080,7 +71110,6 @@ ObjectSettings {
   ObjectStates {
     key: 17903082255138685644
     value {
-      IsLocked: true
     }
   }
   ObjectStates {
@@ -73379,4 +73408,4 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Mines"
+LastSavedScene: "Lobby"

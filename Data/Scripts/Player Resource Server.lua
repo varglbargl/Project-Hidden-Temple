@@ -4,7 +4,8 @@ function savePlayerStorage(player)
   local playerData = {
     money = player:GetResource("Money"),
     recentTreasure = player.serverUserData["RecentTreasure"],
-    ownedTracks = player.serverUserData["OwnedTracks"]
+    ownedTracks = player.serverUserData["OwnedTracks"],
+    saveV = 1
   }
 
   return Storage.SetPlayerData(player, playerData)
@@ -49,9 +50,9 @@ function onPlayerGotTreasure(player, treasureName)
     if ownedTreasure == treasureName then return end
   end
 
-  if #player.serverUserData["RecentTreasure"] >= 5 then
-    table.remove(player.serverUserData["RecentTreasure"], 1)
-  end
+  -- if #player.serverUserData["RecentTreasure"] >= 5 then
+  --   table.remove(player.serverUserData["RecentTreasure"], 1)
+  -- end
 
   table.insert(player.serverUserData["RecentTreasure"], treasureName)
 end
