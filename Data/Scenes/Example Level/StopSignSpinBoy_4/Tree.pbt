@@ -32,7 +32,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Two-Way Telepoter_4"
+    FilePartitionName: "Two-Way Telepoter_15"
   }
   InstanceHistory {
     SelfId: 12675658369534416757

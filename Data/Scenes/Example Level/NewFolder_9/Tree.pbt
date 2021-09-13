@@ -1,90 +1,38 @@
 Name: "NewFolder_9"
-RootId: 11007368632151849049
+RootId: 13299929458705062470
 Objects {
-  Id: 9979328062014851664
-  Name: "Level Geo"
+  Id: 14801193494148059950
+  Name: "Cube"
   Transform {
     Location {
+      X: 350
+      Y: 14.0202332
+      Z: -14.1385612
     }
     Rotation {
+      Roll: -45
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.1
+      Y: 0.1
+      Z: 0.8
     }
   }
-  ParentId: 11007368632151849049
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Level Geo_2"
-  }
-}
-Objects {
-  Id: 2310416674523524585
-  Name: "Room Slots"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11007368632151849049
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Room Slots_2"
-  }
-}
-Objects {
-  Id: 15390276173460172181
-  Name: "Level Generator Server"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11007368632151849049
+  ParentId: 13299929458705062470
   UnregisteredParameters {
     Overrides {
-      Name: "cs:RoomSlots"
-      ObjectReference {
-        SelfId: 2310416674523524585
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
       }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.25
     }
   }
   Collidable_v2 {
@@ -99,9 +47,210 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Script {
-    ScriptAsset {
-      Id: 16551761007791673641
+  CoreMesh {
+    MeshAsset {
+      Id: 12151333538886727296
     }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 14801193494148059950
+    SubobjectId: 16592016324745422236
+    InstanceId: 8172474981417667040
+    TemplateId: 4958938872251553149
+  }
+}
+Objects {
+  Id: 10892174247020715102
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -30
+      Y: 14.0202332
+      Z: -14.1385612
+    }
+    Rotation {
+      Roll: -45
+    }
+    Scale {
+      X: 0.1
+      Y: 0.1
+      Z: 0.8
+    }
+  }
+  ParentId: 13299929458705062470
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1425671561205502187
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.25
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12151333538886727296
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 10892174247020715102
+    SubobjectId: 13547407279736335084
+    InstanceId: 8172474981417667040
+    TemplateId: 4958938872251553149
+  }
+}
+Objects {
+  Id: 5837013136591844367
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -40
+    }
+    Rotation {
+      Roll: -45
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 0.5
+    }
+  }
+  ParentId: 13299929458705062470
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16099301820737994320
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 5837013136591844367
+    SubobjectId: 8803399714703803069
+    InstanceId: 8172474981417667040
+    TemplateId: 4958938872251553149
+  }
+}
+Objects {
+  Id: 16864761381735012544
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      Z: -1
+    }
+    Rotation {
+      Roll: -44.9999962
+    }
+    Scale {
+      X: 0.4
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 13299929458705062470
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.6
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16099301820737994320
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16864761381735012544
+    SubobjectId: 13916513174756060786
+    InstanceId: 8172474981417667040
+    TemplateId: 4958938872251553149
   }
 }
