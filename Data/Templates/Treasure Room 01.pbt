@@ -17,7 +17,8 @@ Assets {
         }
         ParentId: 4781671109827199097
         ChildIds: 1351610571344813630
-        ChildIds: 503059414447772557
+        ChildIds: 843506463077280313
+        ChildIds: 8992078122799557879
         ChildIds: 7589807189687202217
         ChildIds: 6506726646171636350
         ChildIds: 4113702657274911112
@@ -83,9 +84,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:Symbol"
+            Name: "cs:DimSymbols"
             ObjectReference {
-              SubObjectId: 503059414447772557
+              SubObjectId: 843506463077280313
+            }
+          }
+          Overrides {
+            Name: "cs:LitSymbols"
+            ObjectReference {
+              SubObjectId: 8992078122799557879
             }
           }
         }
@@ -109,8 +116,8 @@ Assets {
         }
       }
       Objects {
-        Id: 503059414447772557
-        Name: "Room Symbol"
+        Id: 843506463077280313
+        Name: "Dim Symbols"
         Transform {
           Location {
             X: 1618.57959
@@ -118,8 +125,48 @@ Assets {
             Z: 72.4189453
           }
           Rotation {
-            Yaw: 44.7062759
-            Roll: 66.401619
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7437241572506582406
+        ChildIds: 503059414447772557
+        ChildIds: 10602495869459185474
+        ChildIds: 2245228711445466682
+        ChildIds: 16545404149809476611
+        ChildIds: 15884424307640610190
+        ChildIds: 2310882962039327005
+        ChildIds: 11421313818681528498
+        ChildIds: 4421570146561584568
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 503059414447772557
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7062531
+            Roll: 66.4016342
           }
           Scale {
             X: 0.3
@@ -127,7 +174,7 @@ Assets {
             Z: 0.1
           }
         }
-        ParentId: 7437241572506582406
+        ParentId: 843506463077280313
         UnregisteredParameters {
           Overrides {
             Name: "bp:Color Emissive"
@@ -163,7 +210,1151 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 10602495869459185474
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7062187
+            Roll: 66.40168
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 2
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 2245228711445466682
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7061729
+            Roll: 66.4017258
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 3
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 16545404149809476611
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.706131
+            Roll: 66.4017487
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 4
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 15884424307640610190
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7060852
+            Roll: 66.4017715
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 5
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 2310882962039327005
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 44.7060394
+            Roll: 66.4018
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 6
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 11421313818681528498
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 44.7060051
+            Roll: 66.4018478
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 7
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 4421570146561584568
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 44.7059708
+            Roll: 66.4019
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 843506463077280313
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 8
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 8992078122799557879
+        Name: "Lit Symbols"
+        Transform {
+          Location {
+            X: 1618.57959
+            Y: -280.59082
+            Z: 72.4189453
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7437241572506582406
+        ChildIds: 3752547109766528146
+        ChildIds: 7688775600370829500
+        ChildIds: 2817025253586335962
+        ChildIds: 9948460524914069411
+        ChildIds: 133216471152955305
+        ChildIds: 12563795328856562504
+        ChildIds: 12393305178279396619
+        ChildIds: 1230547055423116425
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 3752547109766528146
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7062531
+            Roll: 66.4016342
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 1
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 7688775600370829500
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7062187
+            Roll: 66.40168
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 2
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 2817025253586335962
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7061729
+            Roll: 66.4017258
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 3
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 9948460524914069411
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.706131
+            Roll: 66.4017487
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 4
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 133216471152955305
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 44.7060852
+            Roll: 66.4017715
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 5
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 12563795328856562504
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 44.7060394
+            Roll: 66.4018
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 6
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 12393305178279396619
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 44.7060051
+            Roll: 66.4018478
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 7
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 1230547055423116425
+        Name: "Room Symbol"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: 6.83018879e-06
+            Yaw: 44.7059708
+            Roll: 66.4019
+          }
+          Scale {
+            X: 0.3
+            Y: 0.3
+            Z: 0.1
+          }
+        }
+        ParentId: 8992078122799557879
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 8
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 3
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
         }
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"

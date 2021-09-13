@@ -65,9 +65,15 @@ Assets {
         ParentId: 16361160000876816866
         UnregisteredParameters {
           Overrides {
-            Name: "cs:Symbols"
+            Name: "cs:DimSymbols"
             ObjectReference {
-              SubObjectId: 12772622876258151634
+              SubObjectId: 17288133081869120272
+            }
+          }
+          Overrides {
+            Name: "cs:LitSymbols"
+            ObjectReference {
+              SubObjectId: 6505691183742035556
             }
           }
           Overrides {
@@ -30352,7 +30358,8 @@ Assets {
         }
         ParentId: 16361160000876816866
         ChildIds: 5386421819531961761
-        ChildIds: 12772622876258151634
+        ChildIds: 17288133081869120272
+        ChildIds: 6505691183742035556
         ChildIds: 16125369923124341300
         WantsNetworking: true
         Collidable_v2 {
@@ -30414,19 +30421,20 @@ Assets {
         }
       }
       Objects {
-        Id: 12772622876258151634
-        Name: "Symbols"
+        Id: 17288133081869120272
+        Name: "Dim Symbols"
         Transform {
           Location {
-            Y: -5
-            Z: 153
+            X: -101.356339
+            Y: -4.99999952
+            Z: 154.999985
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999762
+            Y: 0.999999762
+            Z: 0.999999762
           }
         }
         ParentId: 3172666679739840912
@@ -30435,6 +30443,7 @@ Assets {
         ChildIds: 580049048119791055
         ChildIds: 5234618719550785773
         ChildIds: 8284704329687604424
+        ChildIds: 13681506931637600379
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -30449,7 +30458,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -30457,19 +30466,20 @@ Assets {
         Name: "Decal Elven Symbols"
         Transform {
           Location {
-            X: 100
+            X: 104.497063
+            Z: -1.9999963
           }
           Rotation {
             Yaw: -179.999954
-            Roll: 89.9999542
+            Roll: 89.9999466
           }
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
           }
         }
-        ParentId: 12772622876258151634
+        ParentId: 17288133081869120272
         UnregisteredParameters {
           Overrides {
             Name: "bp:Emissive Boost"
@@ -30493,6 +30503,10 @@ Assets {
           }
           Overrides {
             Name: "bp:Shape Index"
+            Int: 1
+          }
+          Overrides {
+            Name: "bp:Sort Order"
             Int: 1
           }
         }
@@ -30527,19 +30541,20 @@ Assets {
         Name: "Decal Elven Symbols"
         Transform {
           Location {
-            X: 50
+            X: 60.3794212
+            Z: -1.9999963
           }
           Rotation {
             Yaw: -179.999954
-            Roll: 89.9999466
+            Roll: 89.999939
           }
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
           }
         }
-        ParentId: 12772622876258151634
+        ParentId: 17288133081869120272
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -30564,6 +30579,10 @@ Assets {
               B: 0.600000143
               A: 1
             }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
           }
         }
         WantsNetworking: true
@@ -30597,18 +30616,20 @@ Assets {
         Name: "Decal Elven Symbols"
         Transform {
           Location {
+            X: 16.261776
+            Z: -1.9999963
           }
           Rotation {
             Yaw: -179.999954
-            Roll: 89.999939
+            Roll: 89.9999313
           }
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
           }
         }
-        ParentId: 12772622876258151634
+        ParentId: 17288133081869120272
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -30633,6 +30654,10 @@ Assets {
               B: 0.600000143
               A: 1
             }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
           }
         }
         WantsNetworking: true
@@ -30666,19 +30691,20 @@ Assets {
         Name: "Decal Elven Symbols"
         Transform {
           Location {
-            X: -50
+            X: -24.9146938
+            Z: -1.9999963
           }
           Rotation {
             Yaw: -179.999954
-            Roll: 89.9999313
+            Roll: 89.9999161
           }
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
           }
         }
-        ParentId: 12772622876258151634
+        ParentId: 17288133081869120272
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -30703,6 +30729,10 @@ Assets {
               B: 0.600000143
               A: 1
             }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
           }
         }
         WantsNetworking: true
@@ -30736,19 +30766,20 @@ Assets {
         Name: "Decal Elven Symbols"
         Transform {
           Location {
-            X: -100
+            X: -66.0911636
+            Z: -1.9999963
           }
           Rotation {
             Yaw: -179.999954
-            Roll: 89.9999161
+            Roll: 89.9998932
           }
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
           }
         }
-        ParentId: 12772622876258151634
+        ParentId: 17288133081869120272
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -30774,6 +30805,10 @@ Assets {
               A: 1
             }
           }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -30781,6 +30816,572 @@ Assets {
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 13681506931637600379
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: -104.326454
+            Z: -5.77801847
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.9998703
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 17288133081869120272
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 6
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 1
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 6505691183742035556
+        Name: "Lit Symbols"
+        Transform {
+          Location {
+            X: -101.356339
+            Y: -4.99999952
+            Z: 154.999985
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.999999762
+            Y: 0.999999762
+            Z: 0.999999762
+          }
+        }
+        ParentId: 3172666679739840912
+        ChildIds: 14776804477693444409
+        ChildIds: 6393069499928433065
+        ChildIds: 3812705210719352628
+        ChildIds: 5975831645795790185
+        ChildIds: 10966348499252400029
+        ChildIds: 14145603437780473019
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 14776804477693444409
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: 104.497063
+            Z: -1.9999963
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.9999466
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 6505691183742035556
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 1
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 6393069499928433065
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: 60.3794212
+            Z: -1.9999963
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.999939
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 6505691183742035556
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 2
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 3812705210719352628
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: 16.261776
+            Z: -1.9999963
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.9999313
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 6505691183742035556
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 3
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 5975831645795790185
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: -24.9146938
+            Z: -1.9999963
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.9999161
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 6505691183742035556
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 4
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 10966348499252400029
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: -66.0911636
+            Z: -1.9999963
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.9998932
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 6505691183742035556
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 5
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6921272637309445267
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+      }
+      Objects {
+        Id: 14145603437780473019
+        Name: "Decal Elven Symbols"
+        Transform {
+          Location {
+            X: -104.326454
+            Z: -5.77801847
+          }
+          Rotation {
+            Yaw: -179.999954
+            Roll: 89.9998703
+          }
+          Scale {
+            X: 0.212775528
+            Y: 0.212775528
+            Z: 0.212775528
+          }
+        }
+        ParentId: 6505691183742035556
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 6
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 25
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              G: 0.1
+              B: 0.0600000136
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Color Emissive"
+            Color {
+              G: 1
+              B: 0.600000143
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Sort Order"
+            Int: 2
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
         }
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -31242,38 +31843,6 @@ Assets {
           }
         }
         ParentId: 16361160000876816866
-        ChildIds: 10475470253676088096
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 10475470253676088096
-        Name: "Gold"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13720284998781035096
         ChildIds: 5511120490033264672
         ChildIds: 17394725988219793896
         ChildIds: 18405208217916820462
@@ -31313,8 +31882,9 @@ Assets {
         ChildIds: 8747090822710566346
         ChildIds: 16757158983389979008
         ChildIds: 13542218187474729579
+        WantsNetworking: true
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -31325,9 +31895,7 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Folder {
-          IsFilePartition: true
-          FilePartitionName: "Gold"
+        NetworkContext {
         }
       }
       Objects {
@@ -31340,7 +31908,7 @@ Assets {
             Z: 19.5273438
           }
           Rotation {
-            Roll: -8.0188179
+            Roll: -8.01882648
           }
           Scale {
             X: 1.7627821
@@ -31348,7 +31916,7 @@ Assets {
             Z: 0.219047844
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "bp:Emissive Boost"
@@ -31441,7 +32009,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -31495,7 +32063,7 @@ Assets {
             Z: 1.30000007
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
@@ -31555,9 +32123,9 @@ Assets {
             Z: 25.1760254
           }
           Rotation {
-            Pitch: -65.3152542
-            Yaw: -38.6335869
-            Roll: 41.3355789
+            Pitch: -65.3152618
+            Yaw: -38.6335678
+            Roll: 41.3355904
           }
           Scale {
             X: 0.128945917
@@ -31565,7 +32133,7 @@ Assets {
             Z: 0.128945917
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -31614,8 +32182,8 @@ Assets {
           }
           Rotation {
             Pitch: 9.41379
-            Yaw: 3.38884306
-            Roll: 9.90199471
+            Yaw: 3.38884354
+            Roll: 9.90200901
           }
           Scale {
             X: 0.147877723
@@ -31623,7 +32191,7 @@ Assets {
             Z: 0.182972908
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -31680,8 +32248,8 @@ Assets {
           }
           Rotation {
             Pitch: 23.7269154
-            Yaw: 132.502609
-            Roll: 25.0597534
+            Yaw: 132.502625
+            Roll: 25.0597343
           }
           Scale {
             X: 0.147883132
@@ -31689,7 +32257,7 @@ Assets {
             Z: 0.147883132
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -31755,7 +32323,7 @@ Assets {
             Z: 0.175848767
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -31812,7 +32380,7 @@ Assets {
           }
           Rotation {
             Pitch: 11.9905605
-            Yaw: -20.3897095
+            Yaw: -20.3897038
             Roll: 29.2019196
           }
           Scale {
@@ -31821,7 +32389,7 @@ Assets {
             Z: 0.23054415
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -31877,9 +32445,9 @@ Assets {
             Z: 19.4741211
           }
           Rotation {
-            Pitch: -86.8303833
-            Yaw: 72.2163
-            Roll: -41.5940247
+            Pitch: -86.8302689
+            Yaw: 72.2162399
+            Roll: -41.5940208
           }
           Scale {
             X: 0.147711217
@@ -31887,7 +32455,7 @@ Assets {
             Z: 0.163655296
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -31943,8 +32511,8 @@ Assets {
             Z: 26.4980469
           }
           Rotation {
-            Yaw: 48.506855
-            Roll: 68.5662231
+            Yaw: 48.5068398
+            Roll: 68.5662155
           }
           Scale {
             X: 0.0954178646
@@ -31952,7 +32520,7 @@ Assets {
             Z: 0.0954178646
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32009,8 +32577,8 @@ Assets {
           }
           Rotation {
             Pitch: 5.36073494
-            Yaw: -1.639557
-            Roll: -23.8152256
+            Yaw: -1.63955724
+            Roll: -23.8152084
           }
           Scale {
             X: 0.296438694
@@ -32018,7 +32586,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32073,8 +32641,8 @@ Assets {
           }
           Rotation {
             Pitch: 7.8200469
-            Yaw: -3.35199118
-            Roll: -31.1617947
+            Yaw: -3.35199237
+            Roll: -31.1618118
           }
           Scale {
             X: 0.296438694
@@ -32082,7 +32650,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32137,8 +32705,8 @@ Assets {
           }
           Rotation {
             Pitch: 3.74094224
-            Yaw: -4.69452143
-            Roll: -15.7342396
+            Yaw: -4.69452333
+            Roll: -15.7342587
           }
           Scale {
             X: 0.296438694
@@ -32146,7 +32714,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32201,7 +32769,7 @@ Assets {
           }
           Rotation {
             Pitch: 9.35800743
-            Yaw: -0.090179421
+            Yaw: -0.0901794061
             Roll: -1.54885864
           }
           Scale {
@@ -32210,7 +32778,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32265,7 +32833,7 @@ Assets {
           }
           Rotation {
             Pitch: 9.35800743
-            Yaw: -0.090179421
+            Yaw: -0.0901794061
             Roll: -1.54885864
           }
           Scale {
@@ -32274,7 +32842,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32329,7 +32897,7 @@ Assets {
           }
           Rotation {
             Pitch: 9.35800743
-            Yaw: -0.090179421
+            Yaw: -0.0901794061
             Roll: -1.54885864
           }
           Scale {
@@ -32338,7 +32906,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32392,7 +32960,7 @@ Assets {
             Z: 7.46508789
           }
           Rotation {
-            Roll: -27.1425915
+            Roll: -27.1425781
           }
           Scale {
             X: 0.296438694
@@ -32400,7 +32968,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32461,7 +33029,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32522,7 +33090,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32583,7 +33151,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32637,7 +33205,7 @@ Assets {
             Z: 14.1486816
           }
           Rotation {
-            Roll: 34.1077576
+            Roll: 34.1077728
           }
           Scale {
             X: 0.296438694
@@ -32645,7 +33213,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32701,7 +33269,7 @@ Assets {
           Rotation {
             Pitch: 7.47073746
             Yaw: 2.45650697
-            Roll: 18.2605953
+            Roll: 18.260601
           }
           Scale {
             X: 0.296438694
@@ -32709,7 +33277,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32773,7 +33341,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32828,7 +33396,7 @@ Assets {
           }
           Rotation {
             Pitch: 7.58154392
-            Roll: -4.15905762
+            Roll: -4.15905905
           }
           Scale {
             X: 0.296438694
@@ -32836,7 +33404,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32892,7 +33460,7 @@ Assets {
           Rotation {
             Pitch: -21.2586
             Yaw: 2.1565876
-            Roll: -4.42422676
+            Roll: -4.42422771
           }
           Scale {
             X: 0.296438694
@@ -32900,7 +33468,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -32955,8 +33523,8 @@ Assets {
           }
           Rotation {
             Pitch: 7.8200469
-            Yaw: -3.35199189
-            Roll: -31.1617794
+            Yaw: -3.35199285
+            Roll: -31.1618
           }
           Scale {
             X: 0.296438694
@@ -32964,7 +33532,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33019,8 +33587,8 @@ Assets {
           }
           Rotation {
             Pitch: 7.8200469
-            Yaw: -3.35199189
-            Roll: -31.1617794
+            Yaw: -3.35199285
+            Roll: -31.1618
           }
           Scale {
             X: 0.296438694
@@ -33028,7 +33596,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33083,8 +33651,8 @@ Assets {
           }
           Rotation {
             Pitch: 30.2413921
-            Yaw: 100.5056
-            Roll: 7.96044397
+            Yaw: 100.505608
+            Roll: 7.96045113
           }
           Scale {
             X: 0.296438694
@@ -33092,7 +33660,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33147,8 +33715,8 @@ Assets {
           }
           Rotation {
             Pitch: 6.11443949
-            Yaw: -3.14819503
-            Roll: -16.6591759
+            Yaw: -3.14819527
+            Roll: -16.6591911
           }
           Scale {
             X: 0.296438694
@@ -33156,7 +33724,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33211,8 +33779,8 @@ Assets {
           }
           Rotation {
             Pitch: 6.11443949
-            Yaw: -3.14819503
-            Roll: -16.6591759
+            Yaw: -3.14819527
+            Roll: -16.6591911
           }
           Scale {
             X: 0.296438694
@@ -33220,7 +33788,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33275,8 +33843,8 @@ Assets {
           }
           Rotation {
             Pitch: 6.11443949
-            Yaw: -3.14819503
-            Roll: -16.6591759
+            Yaw: -3.14819527
+            Roll: -16.6591911
           }
           Scale {
             X: 0.296438694
@@ -33284,7 +33852,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33338,7 +33906,7 @@ Assets {
             Z: 3.93042
           }
           Rotation {
-            Roll: -27.1425781
+            Roll: -27.1425629
           }
           Scale {
             X: 0.296438694
@@ -33346,7 +33914,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33401,8 +33969,8 @@ Assets {
           }
           Rotation {
             Pitch: -4.71774817
-            Yaw: -0.489440709
-            Roll: 5.92990446
+            Yaw: -0.48944056
+            Roll: 5.9299078
           }
           Scale {
             X: 0.296438694
@@ -33410,7 +33978,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33465,8 +34033,8 @@ Assets {
           }
           Rotation {
             Pitch: -4.71774817
-            Yaw: -0.489440709
-            Roll: 5.92990446
+            Yaw: -0.48944056
+            Roll: 5.9299078
           }
           Scale {
             X: 0.296438694
@@ -33474,7 +34042,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33529,8 +34097,8 @@ Assets {
           }
           Rotation {
             Pitch: -4.71774817
-            Yaw: -0.489440858
-            Roll: -5.20575237
+            Yaw: -0.489440769
+            Roll: -5.20575571
           }
           Scale {
             X: 0.296438694
@@ -33538,7 +34106,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33593,8 +34161,8 @@ Assets {
           }
           Rotation {
             Pitch: -4.71774817
-            Yaw: -0.489440978
-            Roll: -12.428792
+            Yaw: -0.489440769
+            Roll: -12.4288101
           }
           Scale {
             X: 0.296438694
@@ -33602,7 +34170,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33657,8 +34225,8 @@ Assets {
           }
           Rotation {
             Pitch: 13.9500046
-            Yaw: -0.963287354
-            Roll: -10.6400747
+            Yaw: -0.963287055
+            Roll: -10.640089
           }
           Scale {
             X: 0.296438694
@@ -33666,7 +34234,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33721,8 +34289,8 @@ Assets {
           }
           Rotation {
             Pitch: 16.4879055
-            Yaw: -1.46044886
-            Roll: -10.7704144
+            Yaw: -1.4604485
+            Roll: -10.7704277
           }
           Scale {
             X: 0.296438694
@@ -33730,7 +34298,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -33785,8 +34353,8 @@ Assets {
           }
           Rotation {
             Pitch: 1.83008075
-            Yaw: -0.938598335
-            Roll: -23.3763351
+            Yaw: -0.938598156
+            Roll: -23.3763161
           }
           Scale {
             X: 0.296438694
@@ -33794,7 +34362,7 @@ Assets {
             Z: 0.148219347
           }
         }
-        ParentId: 10475470253676088096
+        ParentId: 13720284998781035096
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"

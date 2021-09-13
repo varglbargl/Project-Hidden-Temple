@@ -1,4 +1,31 @@
 Assets {
+  Id: 17578145129539297290
+  Name: "Stone Block Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_block_02"
+  }
+}
+Assets {
+  Id: 14964967653464214432
+  Name: "Decal Dirt Patch"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_dirt_patch_001"
+  }
+}
+Assets {
+  Id: 14586960240033258441
+  Name: "Military Hazard Barrel"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_mil_barrel_01_ref"
+  }
+}
+Assets {
   Id: 14135869335781435415
   Name: "Ambient Dark Cave Dungeon Loop 01 SFX"
   PlatformAssetType: 7
@@ -14,6 +41,15 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_post_process_tonemapping"
+  }
+}
+Assets {
+  Id: 12969007159658841090
+  Name: "Rock Pile 002"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rocks_small_002"
   }
 }
 Assets {
@@ -44,6 +80,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10835155324150586940
+  Name: "Rock Pile 001"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rocks_small_001"
+  }
+}
+Assets {
   Id: 9370433362057305673
   Name: "Ambient Dark Breathy Cave Dungeon Loop 01 SFX"
   PlatformAssetType: 7
@@ -68,6 +113,24 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_post_process_auto_exposure"
+  }
+}
+Assets {
+  Id: 8048804202929538066
+  Name: "Bone Human Skull Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_pile_01_ref"
+  }
+}
+Assets {
+  Id: 8010679428133426913
+  Name: "Bone Human Skull Pile 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_pile_02_ref"
   }
 }
 Assets {
@@ -125,12 +188,30 @@ Assets {
   }
 }
 Assets {
+  Id: 2888061860697595313
+  Name: "Bone Human Pile Straight 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_pile_str_01_ref"
+  }
+}
+Assets {
   Id: 2224571462023946700
   Name: "Environment Fog Default VFX"
   PlatformAssetType: 6
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_env_fog_default"
+  }
+}
+Assets {
+  Id: 2014619680691864188
+  Name: "Bone Human Scattered 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_scatter_02_ref"
   }
 }
 Assets {

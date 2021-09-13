@@ -113,6 +113,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -165,6 +174,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -217,6 +235,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -269,6 +296,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -321,6 +357,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -373,6 +418,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -425,6 +479,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -477,6 +540,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -529,6 +601,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -581,6 +662,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -633,6 +723,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -685,6 +784,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -737,6 +845,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -789,6 +906,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -841,6 +967,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -893,6 +1028,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -945,6 +1089,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -997,6 +1150,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1049,6 +1211,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1101,6 +1272,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1153,6 +1333,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1205,6 +1394,15 @@ Assets {
         }
         ParentId: 10993384337484480339
         UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.5
+              G: 1.5
+              B: 1.5
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

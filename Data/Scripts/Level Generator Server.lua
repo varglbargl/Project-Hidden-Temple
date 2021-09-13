@@ -19,7 +19,6 @@ local largeRoomsPlaced = 0
 local redRoomsPlaced = 0
 
 function placeTreasureRoom(spawnedRoom)
-
   local exitLocation = spawnedRoom:GetCustomProperty("ExitLocation"):WaitForObject()
   local treasureRoomToSpawn = TREASURE_ROOM_TABLE[math.random(1, #TREASURE_ROOM_TABLE)]
   local spawnedTreasureRoom = World.SpawnAsset(treasureRoomToSpawn, {position = exitLocation:GetWorldPosition(), rotation = exitLocation:GetWorldRotation()})
@@ -28,15 +27,17 @@ function placeTreasureRoom(spawnedRoom)
   spawnedTreasureRoom:SetNetworkedCustomProperty("SymbolIndex", treasuresPlaced)
 
   local solvedSymbol = World.SpawnAsset(SOLVED_SYMBOL, {position = spawnedRoom:GetWorldPosition(), rotation = spawnedRoom:GetWorldRotation()})
-  local solvedSymbolSymbol = solvedSymbol:GetCustomProperty("Symbol"):WaitForObject()
-
-  solvedSymbolSymbol:SetSmartProperty("Shape Index", treasuresPlaced)
+  local solvedDimSymbols = solvedSymbol:GetCustomProperty("DimSymbols"):WaitForObject():GetChildren()
+  local solvedLitSymbols = solvedSymbol:GetCustomProperty("LitSymbols"):WaitForObject():GetChildren()
 
   local thisSymbolIndex = treasuresPlaced
 
+  solvedDimSymbols[thisSymbolIndex].visibility = Visibility.INHERIT
+
   Events.Connect("IlluminateSymbol", function(symbolIndex)
     if thisSymbolIndex == symbolIndex then
-      solvedSymbolSymbol:SetSmartProperty("Emissive Boost", 25)
+      solvedDimSymbols[thisSymbolIndex].visibility = Visibility.FORCE_OFF
+      solvedLitSymbols[thisSymbolIndex].visibility = Visibility.INHERIT
     end
   end)
 end

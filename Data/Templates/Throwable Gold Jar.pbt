@@ -201,9 +201,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -216,7 +214,6 @@ Assets {
             ReloadAbility {
               SelfId: 841534158063459245
             }
-            Damage: 60
             WeaponTrajectoryMode {
               Value: "mc:eweapontrajectorymode:muzzletolooktarget"
             }
@@ -298,7 +295,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -373,6 +370,8 @@ Assets {
         }
         ParentId: 2368732921334775746
         ChildIds: 18277726667244638709
+        ChildIds: 758006227671198717
+        ChildIds: 449987279031470614
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -432,6 +431,92 @@ Assets {
               LinearDamping: 0.01
             }
             BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 758006227671198717
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11485759222544437914
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 449987279031470614
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11485759222544437914
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 2368732921334775746
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 758006227671198717
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
           }
         }
       }

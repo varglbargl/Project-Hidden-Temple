@@ -25,14 +25,16 @@ Assets {
         ChildIds: 7527089906998950146
         ChildIds: 17886174046076846763
         ChildIds: 8442174389649935478
-        ChildIds: 1345250894070550780
-        ChildIds: 9446459846296141150
-        ChildIds: 4223764692610217682
         ChildIds: 13653373735576979797
-        ChildIds: 18292470380020342184
-        ChildIds: 7952045555180109802
-        ChildIds: 1641350952775007391
-        ChildIds: 17604454687536582378
+        ChildIds: 4107116352120130802
+        ChildIds: 14939241362807900872
+        ChildIds: 2891952264836044025
+        ChildIds: 5880642523217123636
+        ChildIds: 4511808286599137482
+        ChildIds: 16560958050075362688
+        ChildIds: 17963924010370311729
+        ChildIds: 1381829526863042666
+        ChildIds: 15975991059264291175
         UnregisteredParameters {
           Overrides {
             Name: "cs:ExitLocation"
@@ -132783,1319 +132785,6 @@ Assets {
         }
       }
       Objects {
-        Id: 1345250894070550780
-        Name: "Throwable Gold Jar"
-        Transform {
-          Location {
-            X: 265.558594
-            Y: 197.163574
-            Z: 14.1398926
-          }
-          Rotation {
-            Yaw: -75.9456482
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10414549236060086557
-        ChildIds: 12069076651829164216
-        ChildIds: 12329143188018832245
-        ChildIds: 8900138472985894120
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 12069076651829164216
-        Name: "Capsule"
-        Transform {
-          Location {
-            Z: 54.9999847
-          }
-          Rotation {
-            Roll: 3.07358423e-05
-          }
-          Scale {
-            X: 0.8
-            Y: 0.8
-            Z: 0.6
-          }
-        }
-        ParentId: 1345250894070550780
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 2870906878820740500
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12329143188018832245
-        Name: "PickupTrigger"
-        Transform {
-          Location {
-            Z: 49.9999847
-          }
-          Rotation {
-            Roll: 3.07358459e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1345250894070550780
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Pick Up Jar"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 8900138472985894120
-        Name: "Jar"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: 75
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1345250894070550780
-        ChildIds: 8965421651817407659
-        ChildIds: 12659945721785667113
-        ChildIds: 17629332526939468045
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Equipment {
-          SocketName: "right_prop"
-          PickupTrigger {
-          }
-          Weapon {
-            ProjectileAssetRef {
-              Id: 9209501509540217310
-            }
-            MuzzleFlashAssetRef {
-              Id: 841534158063459245
-            }
-            TrailAssetRef {
-              Id: 9023864673320310867
-            }
-            ImpactAssetRef {
-              Id: 5987001285034214794
-            }
-            UseReticle: true
-            Muzzle {
-              Location {
-              }
-            }
-            AnimationSet: "unarmed_carry_object_heavy"
-            OutOfAmmoSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ReloadSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ShootAnimation: "2hand_rifle_shoot"
-            ImpactProjectileAssetRef {
-              Id: 841534158063459245
-            }
-            BeamAssetRef {
-              Id: 841534158063459245
-            }
-            BurstCount: 1
-            BurstDuration: 1
-            AttackCooldown: 0.25
-            Range: 100000
-            ImpactPlayerAssetRef {
-              Id: 841534158063459245
-            }
-            ReticleType {
-              Value: "mc:ereticletype:none"
-            }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
-            MultiShot: 1
-            ProjectileSpeed: 2000
-            ProjectileLifeSpan: 4
-            ProjectileGravity: 1.9
-            ProjectileLength: 100
-            ProjectileRadius: 50
-            DefaultAbility {
-              SubObjectId: 8965421651817407659
-            }
-            ReloadAbility {
-              SelfId: 841534158063459245
-            }
-            Damage: 60
-            WeaponTrajectoryMode {
-              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 8965421651817407659
-        Name: "Throw"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8900138472985894120
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Ability {
-          IsEnabled: true
-          KeyBinding: "ability_primary"
-          CastPhaseSettings {
-            Duration: 0.25
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          ExecutePhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          RecoveryPhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          CooldownPhaseSettings {
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          Animation: "unarmed_throw"
-          KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
-          }
-        }
-      }
-      Objects {
-        Id: 12659945721785667113
-        Name: "Grabbable Prop Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8900138472985894120
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupTrigger"
-            ObjectReference {
-              SubObjectId: 12329143188018832245
-            }
-          }
-          Overrides {
-            Name: "cs:CollisionObject"
-            ObjectReference {
-              SubObjectId: 12069076651829164216
-            }
-          }
-          Overrides {
-            Name: "cs:DestroyVFX"
-            AssetReference {
-              Id: 9456878177018972373
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 4201231025473792840
-          }
-        }
-      }
-      Objects {
-        Id: 17629332526939468045
-        Name: "Client Art"
-        Transform {
-          Location {
-            Y: -1.84235705e-06
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8900138472985894120
-        ChildIds: 3996347527458149792
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 3996347527458149792
-        Name: "Fantasy Clay Pot 02"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: -74.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17629332526939468045
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8589032280689222978
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9446459846296141150
-        Name: "Throwable Gold Jar"
-        Transform {
-          Location {
-            X: 297.332031
-            Y: 74
-            Z: 14.1794434
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10414549236060086557
-        ChildIds: 14170537155424007774
-        ChildIds: 18066467128085876259
-        ChildIds: 978365761764130728
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 14170537155424007774
-        Name: "Capsule"
-        Transform {
-          Location {
-            Z: 54.9999847
-          }
-          Rotation {
-            Roll: 3.07358423e-05
-          }
-          Scale {
-            X: 0.8
-            Y: 0.8
-            Z: 0.6
-          }
-        }
-        ParentId: 9446459846296141150
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 2870906878820740500
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18066467128085876259
-        Name: "PickupTrigger"
-        Transform {
-          Location {
-            Z: 49.9999847
-          }
-          Rotation {
-            Roll: 3.07358459e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9446459846296141150
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Pick Up Jar"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 978365761764130728
-        Name: "Jar"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: 75
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9446459846296141150
-        ChildIds: 3146908639781159221
-        ChildIds: 13975218386803536471
-        ChildIds: 6151967022057916143
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Equipment {
-          SocketName: "right_prop"
-          PickupTrigger {
-          }
-          Weapon {
-            ProjectileAssetRef {
-              Id: 9209501509540217310
-            }
-            MuzzleFlashAssetRef {
-              Id: 841534158063459245
-            }
-            TrailAssetRef {
-              Id: 9023864673320310867
-            }
-            ImpactAssetRef {
-              Id: 5987001285034214794
-            }
-            UseReticle: true
-            Muzzle {
-              Location {
-              }
-            }
-            AnimationSet: "unarmed_carry_object_heavy"
-            OutOfAmmoSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ReloadSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ShootAnimation: "2hand_rifle_shoot"
-            ImpactProjectileAssetRef {
-              Id: 841534158063459245
-            }
-            BeamAssetRef {
-              Id: 841534158063459245
-            }
-            BurstCount: 1
-            BurstDuration: 1
-            AttackCooldown: 0.25
-            Range: 100000
-            ImpactPlayerAssetRef {
-              Id: 841534158063459245
-            }
-            ReticleType {
-              Value: "mc:ereticletype:none"
-            }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
-            MultiShot: 1
-            ProjectileSpeed: 2000
-            ProjectileLifeSpan: 4
-            ProjectileGravity: 1.9
-            ProjectileLength: 100
-            ProjectileRadius: 50
-            DefaultAbility {
-              SubObjectId: 3146908639781159221
-            }
-            ReloadAbility {
-              SelfId: 841534158063459245
-            }
-            Damage: 60
-            WeaponTrajectoryMode {
-              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 3146908639781159221
-        Name: "Throw"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 978365761764130728
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Ability {
-          IsEnabled: true
-          KeyBinding: "ability_primary"
-          CastPhaseSettings {
-            Duration: 0.25
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          ExecutePhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          RecoveryPhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          CooldownPhaseSettings {
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          Animation: "unarmed_throw"
-          KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
-          }
-        }
-      }
-      Objects {
-        Id: 13975218386803536471
-        Name: "Grabbable Prop Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 978365761764130728
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupTrigger"
-            ObjectReference {
-              SubObjectId: 18066467128085876259
-            }
-          }
-          Overrides {
-            Name: "cs:CollisionObject"
-            ObjectReference {
-              SubObjectId: 14170537155424007774
-            }
-          }
-          Overrides {
-            Name: "cs:DestroyVFX"
-            AssetReference {
-              Id: 9456878177018972373
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 4201231025473792840
-          }
-        }
-      }
-      Objects {
-        Id: 6151967022057916143
-        Name: "Client Art"
-        Transform {
-          Location {
-            Y: -1.84235705e-06
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 978365761764130728
-        ChildIds: 16855133630117612690
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 16855133630117612690
-        Name: "Fantasy Clay Pot 02"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: -74.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6151967022057916143
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8589032280689222978
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4223764692610217682
-        Name: "Throwable Gold Jar"
-        Transform {
-          Location {
-            X: 102.536133
-            Y: -200.819336
-            Z: 14.1398926
-          }
-          Rotation {
-            Yaw: 90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10414549236060086557
-        ChildIds: 5889010774931947289
-        ChildIds: 52623767891364058
-        ChildIds: 13414931395892601108
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 5889010774931947289
-        Name: "Capsule"
-        Transform {
-          Location {
-            Z: 54.9999847
-          }
-          Rotation {
-            Roll: 3.07358423e-05
-          }
-          Scale {
-            X: 0.8
-            Y: 0.8
-            Z: 0.6
-          }
-        }
-        ParentId: 4223764692610217682
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 2870906878820740500
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 52623767891364058
-        Name: "PickupTrigger"
-        Transform {
-          Location {
-            Z: 49.9999847
-          }
-          Rotation {
-            Roll: 3.07358459e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4223764692610217682
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Pick Up Jar"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 13414931395892601108
-        Name: "Jar"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: 75
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4223764692610217682
-        ChildIds: 2697886940222415612
-        ChildIds: 4998918933841903638
-        ChildIds: 1728009712949358783
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Equipment {
-          SocketName: "right_prop"
-          PickupTrigger {
-          }
-          Weapon {
-            ProjectileAssetRef {
-              Id: 9209501509540217310
-            }
-            MuzzleFlashAssetRef {
-              Id: 841534158063459245
-            }
-            TrailAssetRef {
-              Id: 9023864673320310867
-            }
-            ImpactAssetRef {
-              Id: 5987001285034214794
-            }
-            UseReticle: true
-            Muzzle {
-              Location {
-              }
-            }
-            AnimationSet: "unarmed_carry_object_heavy"
-            OutOfAmmoSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ReloadSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ShootAnimation: "2hand_rifle_shoot"
-            ImpactProjectileAssetRef {
-              Id: 841534158063459245
-            }
-            BeamAssetRef {
-              Id: 841534158063459245
-            }
-            BurstCount: 1
-            BurstDuration: 1
-            AttackCooldown: 0.25
-            Range: 100000
-            ImpactPlayerAssetRef {
-              Id: 841534158063459245
-            }
-            ReticleType {
-              Value: "mc:ereticletype:none"
-            }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
-            MultiShot: 1
-            ProjectileSpeed: 2000
-            ProjectileLifeSpan: 4
-            ProjectileGravity: 1.9
-            ProjectileLength: 100
-            ProjectileRadius: 50
-            DefaultAbility {
-              SubObjectId: 2697886940222415612
-            }
-            ReloadAbility {
-              SelfId: 841534158063459245
-            }
-            Damage: 60
-            WeaponTrajectoryMode {
-              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 2697886940222415612
-        Name: "Throw"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13414931395892601108
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Ability {
-          IsEnabled: true
-          KeyBinding: "ability_primary"
-          CastPhaseSettings {
-            Duration: 0.25
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          ExecutePhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          RecoveryPhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          CooldownPhaseSettings {
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          Animation: "unarmed_throw"
-          KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
-          }
-        }
-      }
-      Objects {
-        Id: 4998918933841903638
-        Name: "Grabbable Prop Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13414931395892601108
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupTrigger"
-            ObjectReference {
-              SubObjectId: 52623767891364058
-            }
-          }
-          Overrides {
-            Name: "cs:CollisionObject"
-            ObjectReference {
-              SubObjectId: 5889010774931947289
-            }
-          }
-          Overrides {
-            Name: "cs:DestroyVFX"
-            AssetReference {
-              Id: 9456878177018972373
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 4201231025473792840
-          }
-        }
-      }
-      Objects {
-        Id: 1728009712949358783
-        Name: "Client Art"
-        Transform {
-          Location {
-            Y: -1.84235705e-06
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13414931395892601108
-        ChildIds: 13859709603338758333
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 13859709603338758333
-        Name: "Fantasy Clay Pot 02"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: -74.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1728009712949358783
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8589032280689222978
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 13653373735576979797
         Name: "Throwable Gold Jar"
         Transform {
@@ -134298,9 +132987,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -134395,7 +133082,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -134469,7 +133156,9 @@ Assets {
           }
         }
         ParentId: 7131431631449721471
+        ChildIds: 2959541983656844872
         ChildIds: 1214566398572777488
+        ChildIds: 14803264100573902738
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -134483,6 +133172,53 @@ Assets {
           Value: "mc:ecollisionsetting:forceoff"
         }
         NetworkContext {
+        }
+      }
+      Objects {
+        Id: 2959541983656844872
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11315504691084023643
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 7131431631449721471
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 14803264100573902738
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
         }
       }
       Objects {
@@ -134533,16 +133269,12 @@ Assets {
         }
       }
       Objects {
-        Id: 18292470380020342184
-        Name: "Throwable Gold Jar"
+        Id: 14803264100573902738
+        Name: "Trigger"
         Transform {
           Location {
-            X: 2075.53711
-            Y: 146.564453
-            Z: 14.1398926
           }
           Rotation {
-            Yaw: 44.198719
           }
           Scale {
             X: 1
@@ -134550,11 +133282,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 10414549236060086557
-        ChildIds: 17377149990550906723
-        ChildIds: 17483874055873054958
-        ChildIds: 1770793146228185988
-        WantsNetworking: true
+        ParentId: 11315504691084023643
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -134566,90 +133294,10 @@ Assets {
         }
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 17377149990550906723
-        Name: "Capsule"
-        Transform {
-          Location {
-            Z: 54.9999847
-          }
-          Rotation {
-            Roll: 3.07358423e-05
-          }
-          Scale {
-            X: 0.8
-            Y: 0.8
-            Z: 0.6
-          }
-        }
-        ParentId: 18292470380020342184
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 2870906878820740500
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17483874055873054958
-        Name: "PickupTrigger"
-        Transform {
-          Location {
-            Z: 49.9999847
-          }
-          Rotation {
-            Roll: 3.07358459e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 18292470380020342184
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Trigger {
           Interactable: true
-          InteractionLabel: "Pick Up Jar"
+          InteractionLabel: "Throw the Jar"
           TeamSettings {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
@@ -134660,1199 +133308,12 @@ Assets {
         }
       }
       Objects {
-        Id: 1770793146228185988
-        Name: "Jar"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: 75
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 18292470380020342184
-        ChildIds: 10983634075585419177
-        ChildIds: 13625330247862809618
-        ChildIds: 2342875601969895394
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Equipment {
-          SocketName: "right_prop"
-          PickupTrigger {
-          }
-          Weapon {
-            ProjectileAssetRef {
-              Id: 9209501509540217310
-            }
-            MuzzleFlashAssetRef {
-              Id: 841534158063459245
-            }
-            TrailAssetRef {
-              Id: 9023864673320310867
-            }
-            ImpactAssetRef {
-              Id: 5987001285034214794
-            }
-            UseReticle: true
-            Muzzle {
-              Location {
-              }
-            }
-            AnimationSet: "unarmed_carry_object_heavy"
-            OutOfAmmoSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ReloadSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ShootAnimation: "2hand_rifle_shoot"
-            ImpactProjectileAssetRef {
-              Id: 841534158063459245
-            }
-            BeamAssetRef {
-              Id: 841534158063459245
-            }
-            BurstCount: 1
-            BurstDuration: 1
-            AttackCooldown: 0.25
-            Range: 100000
-            ImpactPlayerAssetRef {
-              Id: 841534158063459245
-            }
-            ReticleType {
-              Value: "mc:ereticletype:none"
-            }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
-            MultiShot: 1
-            ProjectileSpeed: 2000
-            ProjectileLifeSpan: 4
-            ProjectileGravity: 1.9
-            ProjectileLength: 100
-            ProjectileRadius: 50
-            DefaultAbility {
-              SubObjectId: 10983634075585419177
-            }
-            ReloadAbility {
-              SelfId: 841534158063459245
-            }
-            Damage: 60
-            WeaponTrajectoryMode {
-              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 10983634075585419177
-        Name: "Throw"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1770793146228185988
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Ability {
-          IsEnabled: true
-          KeyBinding: "ability_primary"
-          CastPhaseSettings {
-            Duration: 0.25
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          ExecutePhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          RecoveryPhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          CooldownPhaseSettings {
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          Animation: "unarmed_throw"
-          KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
-          }
-        }
-      }
-      Objects {
-        Id: 13625330247862809618
-        Name: "Grabbable Prop Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1770793146228185988
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupTrigger"
-            ObjectReference {
-              SubObjectId: 17483874055873054958
-            }
-          }
-          Overrides {
-            Name: "cs:CollisionObject"
-            ObjectReference {
-              SubObjectId: 17377149990550906723
-            }
-          }
-          Overrides {
-            Name: "cs:DestroyVFX"
-            AssetReference {
-              Id: 9456878177018972373
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 4201231025473792840
-          }
-        }
-      }
-      Objects {
-        Id: 2342875601969895394
-        Name: "Client Art"
-        Transform {
-          Location {
-            Y: -1.84235705e-06
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1770793146228185988
-        ChildIds: 2040261119784862982
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 2040261119784862982
-        Name: "Fantasy Clay Pot 02"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: -74.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2342875601969895394
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8589032280689222978
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7952045555180109802
+        Id: 4107116352120130802
         Name: "Throwable Gold Jar"
         Transform {
           Location {
-            X: 2170.55371
-            Y: -21.9106445
-            Z: 14.1794434
-          }
-          Rotation {
-            Yaw: 36.2201614
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10414549236060086557
-        ChildIds: 10957154646329484854
-        ChildIds: 17634785666441062935
-        ChildIds: 883763936005026022
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 10957154646329484854
-        Name: "Capsule"
-        Transform {
-          Location {
-            Z: 54.9999847
-          }
-          Rotation {
-            Roll: 3.07358423e-05
-          }
-          Scale {
-            X: 0.8
-            Y: 0.8
-            Z: 0.6
-          }
-        }
-        ParentId: 7952045555180109802
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 2870906878820740500
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17634785666441062935
-        Name: "PickupTrigger"
-        Transform {
-          Location {
-            Z: 49.9999847
-          }
-          Rotation {
-            Roll: 3.07358459e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7952045555180109802
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Pick Up Jar"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 883763936005026022
-        Name: "Jar"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: 75
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7952045555180109802
-        ChildIds: 12123979273530705095
-        ChildIds: 15549064851262087754
-        ChildIds: 456015505715497325
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Equipment {
-          SocketName: "right_prop"
-          PickupTrigger {
-          }
-          Weapon {
-            ProjectileAssetRef {
-              Id: 9209501509540217310
-            }
-            MuzzleFlashAssetRef {
-              Id: 841534158063459245
-            }
-            TrailAssetRef {
-              Id: 9023864673320310867
-            }
-            ImpactAssetRef {
-              Id: 5987001285034214794
-            }
-            UseReticle: true
-            Muzzle {
-              Location {
-              }
-            }
-            AnimationSet: "unarmed_carry_object_heavy"
-            OutOfAmmoSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ReloadSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ShootAnimation: "2hand_rifle_shoot"
-            ImpactProjectileAssetRef {
-              Id: 841534158063459245
-            }
-            BeamAssetRef {
-              Id: 841534158063459245
-            }
-            BurstCount: 1
-            BurstDuration: 1
-            AttackCooldown: 0.25
-            Range: 100000
-            ImpactPlayerAssetRef {
-              Id: 841534158063459245
-            }
-            ReticleType {
-              Value: "mc:ereticletype:none"
-            }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
-            MultiShot: 1
-            ProjectileSpeed: 2000
-            ProjectileLifeSpan: 4
-            ProjectileGravity: 1.9
-            ProjectileLength: 100
-            ProjectileRadius: 50
-            DefaultAbility {
-              SubObjectId: 12123979273530705095
-            }
-            ReloadAbility {
-              SelfId: 841534158063459245
-            }
-            Damage: 60
-            WeaponTrajectoryMode {
-              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 12123979273530705095
-        Name: "Throw"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 883763936005026022
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Ability {
-          IsEnabled: true
-          KeyBinding: "ability_primary"
-          CastPhaseSettings {
-            Duration: 0.25
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          ExecutePhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          RecoveryPhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          CooldownPhaseSettings {
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          Animation: "unarmed_throw"
-          KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
-          }
-        }
-      }
-      Objects {
-        Id: 15549064851262087754
-        Name: "Grabbable Prop Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 883763936005026022
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupTrigger"
-            ObjectReference {
-              SubObjectId: 17634785666441062935
-            }
-          }
-          Overrides {
-            Name: "cs:CollisionObject"
-            ObjectReference {
-              SubObjectId: 10957154646329484854
-            }
-          }
-          Overrides {
-            Name: "cs:DestroyVFX"
-            AssetReference {
-              Id: 9456878177018972373
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 4201231025473792840
-          }
-        }
-      }
-      Objects {
-        Id: 456015505715497325
-        Name: "Client Art"
-        Transform {
-          Location {
-            Y: -1.84235705e-06
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 883763936005026022
-        ChildIds: 12275858060189366245
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 12275858060189366245
-        Name: "Fantasy Clay Pot 02"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: -74.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 456015505715497325
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8589032280689222978
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1641350952775007391
-        Name: "Throwable Gold Jar"
-        Transform {
-          Location {
-            X: 1907
-            Y: -138
-            Z: 14.1794434
-          }
-          Rotation {
-            Yaw: -35.5336609
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10414549236060086557
-        ChildIds: 15789188945690963567
-        ChildIds: 10290281263307585606
-        ChildIds: 2895570452066183878
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 15789188945690963567
-        Name: "Capsule"
-        Transform {
-          Location {
-            Z: 54.9999847
-          }
-          Rotation {
-            Roll: 3.07358423e-05
-          }
-          Scale {
-            X: 0.8
-            Y: 0.8
-            Z: 0.6
-          }
-        }
-        ParentId: 1641350952775007391
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 2870906878820740500
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10290281263307585606
-        Name: "PickupTrigger"
-        Transform {
-          Location {
-            Z: 49.9999847
-          }
-          Rotation {
-            Roll: 3.07358459e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1641350952775007391
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Pick Up Jar"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 2895570452066183878
-        Name: "Jar"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: 75
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1641350952775007391
-        ChildIds: 2077282656762131635
-        ChildIds: 7149991785696038016
-        ChildIds: 5764984770598569946
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Equipment {
-          SocketName: "right_prop"
-          PickupTrigger {
-          }
-          Weapon {
-            ProjectileAssetRef {
-              Id: 9209501509540217310
-            }
-            MuzzleFlashAssetRef {
-              Id: 841534158063459245
-            }
-            TrailAssetRef {
-              Id: 9023864673320310867
-            }
-            ImpactAssetRef {
-              Id: 5987001285034214794
-            }
-            UseReticle: true
-            Muzzle {
-              Location {
-              }
-            }
-            AnimationSet: "unarmed_carry_object_heavy"
-            OutOfAmmoSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ReloadSfxAssetRef {
-              Id: 841534158063459245
-            }
-            ShootAnimation: "2hand_rifle_shoot"
-            ImpactProjectileAssetRef {
-              Id: 841534158063459245
-            }
-            BeamAssetRef {
-              Id: 841534158063459245
-            }
-            BurstCount: 1
-            BurstDuration: 1
-            AttackCooldown: 0.25
-            Range: 100000
-            ImpactPlayerAssetRef {
-              Id: 841534158063459245
-            }
-            ReticleType {
-              Value: "mc:ereticletype:none"
-            }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
-            MultiShot: 1
-            ProjectileSpeed: 2000
-            ProjectileLifeSpan: 4
-            ProjectileGravity: 1.9
-            ProjectileLength: 100
-            ProjectileRadius: 50
-            DefaultAbility {
-              SubObjectId: 2077282656762131635
-            }
-            ReloadAbility {
-              SelfId: 841534158063459245
-            }
-            Damage: 60
-            WeaponTrajectoryMode {
-              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 2077282656762131635
-        Name: "Throw"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2895570452066183878
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Ability {
-          IsEnabled: true
-          KeyBinding: "ability_primary"
-          CastPhaseSettings {
-            Duration: 0.25
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          ExecutePhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:aim"
-            }
-          }
-          RecoveryPhaseSettings {
-            Duration: 0.1
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          CooldownPhaseSettings {
-            CanMove: true
-            CanJump: true
-            CanRotate: true
-            PreventOtherAbilities: true
-            IsTargetDataUpdated: true
-            Facing_V2 {
-              Value: "mc:eabilitysetfacing:none"
-            }
-          }
-          Animation: "unarmed_throw"
-          KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
-          }
-        }
-      }
-      Objects {
-        Id: 7149991785696038016
-        Name: "Grabbable Prop Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2895570452066183878
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupTrigger"
-            ObjectReference {
-              SubObjectId: 10290281263307585606
-            }
-          }
-          Overrides {
-            Name: "cs:CollisionObject"
-            ObjectReference {
-              SubObjectId: 15789188945690963567
-            }
-          }
-          Overrides {
-            Name: "cs:DestroyVFX"
-            AssetReference {
-              Id: 9456878177018972373
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 4201231025473792840
-          }
-        }
-      }
-      Objects {
-        Id: 5764984770598569946
-        Name: "Client Art"
-        Transform {
-          Location {
-            Y: -1.84235705e-06
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2895570452066183878
-        ChildIds: 12043960340563738728
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 12043960340563738728
-        Name: "Fantasy Clay Pot 02"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Roll: -74.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5764984770598569946
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8589032280689222978
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17604454687536582378
-        Name: "Throwable Gold Jar"
-        Transform {
-          Location {
-            X: 215
-            Y: -151
+            X: 1877.1875
+            Y: 78.1308594
             Z: 14.1398926
           }
           Rotation {
@@ -135864,9 +133325,9 @@ Assets {
           }
         }
         ParentId: 10414549236060086557
-        ChildIds: 8414136700549544251
-        ChildIds: 1338470811371177450
-        ChildIds: 16999709178179417009
+        ChildIds: 1873502695292224472
+        ChildIds: 12074548164511991665
+        ChildIds: 12831171367682881448
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -135885,7 +133346,7 @@ Assets {
         }
       }
       Objects {
-        Id: 8414136700549544251
+        Id: 1873502695292224472
         Name: "Capsule"
         Transform {
           Location {
@@ -135900,7 +133361,7 @@ Assets {
             Z: 0.6
           }
         }
-        ParentId: 17604454687536582378
+        ParentId: 4107116352120130802
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -135932,7 +133393,7 @@ Assets {
         }
       }
       Objects {
-        Id: 1338470811371177450
+        Id: 12074548164511991665
         Name: "PickupTrigger"
         Transform {
           Location {
@@ -135947,7 +133408,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17604454687536582378
+        ParentId: 4107116352120130802
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -135973,7 +133434,7 @@ Assets {
         }
       }
       Objects {
-        Id: 16999709178179417009
+        Id: 12831171367682881448
         Name: "Jar"
         Transform {
           Location {
@@ -135987,10 +133448,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17604454687536582378
-        ChildIds: 2024612090668881321
-        ChildIds: 2388846125467908284
-        ChildIds: 16359047624570038923
+        ParentId: 4107116352120130802
+        ChildIds: 13988337974027680322
+        ChildIds: 4975176348171578191
+        ChildIds: 8604747308008849098
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -136049,9 +133510,7 @@ Assets {
             ReticleType {
               Value: "mc:ereticletype:none"
             }
-            MaxAmmo: 1
-            AmmoType: "rounds"
-            IsFiniteAmmo: true
+            MaxAmmo: -1
             MultiShot: 1
             ProjectileSpeed: 2000
             ProjectileLifeSpan: 4
@@ -136059,7 +133518,7 @@ Assets {
             ProjectileLength: 100
             ProjectileRadius: 50
             DefaultAbility {
-              SubObjectId: 2024612090668881321
+              SubObjectId: 13988337974027680322
             }
             ReloadAbility {
               SelfId: 841534158063459245
@@ -136072,7 +133531,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2024612090668881321
+        Id: 13988337974027680322
         Name: "Throw"
         Transform {
           Location {
@@ -136085,7 +133544,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16999709178179417009
+        ParentId: 12831171367682881448
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -136146,12 +133605,12 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
       Objects {
-        Id: 2388846125467908284
+        Id: 4975176348171578191
         Name: "Grabbable Prop Server"
         Transform {
           Location {
@@ -136164,18 +133623,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16999709178179417009
+        ParentId: 12831171367682881448
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupTrigger"
             ObjectReference {
-              SubObjectId: 1338470811371177450
+              SubObjectId: 12074548164511991665
             }
           }
           Overrides {
             Name: "cs:CollisionObject"
             ObjectReference {
-              SubObjectId: 8414136700549544251
+              SubObjectId: 1873502695292224472
             }
           }
           Overrides {
@@ -136205,7 +133664,7 @@ Assets {
         }
       }
       Objects {
-        Id: 16359047624570038923
+        Id: 8604747308008849098
         Name: "Client Art"
         Transform {
           Location {
@@ -136219,8 +133678,10 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16999709178179417009
-        ChildIds: 3544090022832939858
+        ParentId: 12831171367682881448
+        ChildIds: 14238751836986191462
+        ChildIds: 1549952106738365240
+        ChildIds: 14603699302034930104
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -136237,7 +133698,54 @@ Assets {
         }
       }
       Objects {
-        Id: 3544090022832939858
+        Id: 14238751836986191462
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8604747308008849098
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 12831171367682881448
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 14603699302034930104
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 1549952106738365240
         Name: "Fantasy Clay Pot 02"
         Transform {
           Location {
@@ -136251,7 +133759,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16359047624570038923
+        ParentId: 8604747308008849098
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -136280,6 +133788,4229 @@ Assets {
               LinearDamping: 0.01
             }
             BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14603699302034930104
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8604747308008849098
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 14939241362807900872
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 2019.37305
+            Y: -183.070801
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 10707619308584332297
+        ChildIds: 8301986975140393345
+        ChildIds: 10272971871961814331
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 10707619308584332297
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 14939241362807900872
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 8301986975140393345
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14939241362807900872
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 10272971871961814331
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14939241362807900872
+        ChildIds: 2650111880121520978
+        ChildIds: 641246565204002748
+        ChildIds: 3381045224413739779
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 2650111880121520978
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 2650111880121520978
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10272971871961814331
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 641246565204002748
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10272971871961814331
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 8301986975140393345
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 10707619308584332297
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 3381045224413739779
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10272971871961814331
+        ChildIds: 12085695886605164410
+        ChildIds: 10093697065265315592
+        ChildIds: 1490313250795809276
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 12085695886605164410
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3381045224413739779
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 10272971871961814331
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 1490313250795809276
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 10093697065265315592
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3381045224413739779
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1490313250795809276
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3381045224413739779
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 2891952264836044025
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 2193.37695
+            Y: -62.7075195
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 8554791545439511010
+        ChildIds: 10245615577733080121
+        ChildIds: 16288590325491579295
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 8554791545439511010
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 2891952264836044025
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10245615577733080121
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 2891952264836044025
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 16288590325491579295
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 2891952264836044025
+        ChildIds: 12171413100312857358
+        ChildIds: 7775078866891988893
+        ChildIds: 4723787420375796736
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 12171413100312857358
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 12171413100312857358
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16288590325491579295
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 7775078866891988893
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16288590325491579295
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 10245615577733080121
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 8554791545439511010
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 4723787420375796736
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16288590325491579295
+        ChildIds: 10471727201053018185
+        ChildIds: 10304843227717457183
+        ChildIds: 10979996995836666307
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 10471727201053018185
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4723787420375796736
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 16288590325491579295
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 10979996995836666307
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 10304843227717457183
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4723787420375796736
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10979996995836666307
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4723787420375796736
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 5880642523217123636
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 2164.73535
+            Y: 75.5952148
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 5395744894869319606
+        ChildIds: 16130715025766612351
+        ChildIds: 13872013632498665330
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 5395744894869319606
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 5880642523217123636
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16130715025766612351
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5880642523217123636
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 13872013632498665330
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5880642523217123636
+        ChildIds: 12186408029712893906
+        ChildIds: 805098311162383600
+        ChildIds: 18424671344797587118
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 12186408029712893906
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 12186408029712893906
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13872013632498665330
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 805098311162383600
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13872013632498665330
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 16130715025766612351
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 5395744894869319606
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 18424671344797587118
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13872013632498665330
+        ChildIds: 1568048156869863359
+        ChildIds: 14137028817085568927
+        ChildIds: 14486419072263717901
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 1568048156869863359
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18424671344797587118
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 13872013632498665330
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 14486419072263717901
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 14137028817085568927
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18424671344797587118
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14486419072263717901
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18424671344797587118
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 4511808286599137482
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 307.81543
+            Y: 104.586914
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 17372550561543613032
+        ChildIds: 13677121161288515718
+        ChildIds: 4038723107583826209
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 17372550561543613032
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 4511808286599137482
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13677121161288515718
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4511808286599137482
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 4038723107583826209
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4511808286599137482
+        ChildIds: 3089372251115274797
+        ChildIds: 9958079129051775599
+        ChildIds: 9359113198809275380
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 3089372251115274797
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 3089372251115274797
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4038723107583826209
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 9958079129051775599
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4038723107583826209
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 13677121161288515718
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 17372550561543613032
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 9359113198809275380
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4038723107583826209
+        ChildIds: 7735318052241999787
+        ChildIds: 8895736460415789977
+        ChildIds: 13003722862839954190
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 7735318052241999787
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9359113198809275380
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 4038723107583826209
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 13003722862839954190
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 8895736460415789977
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9359113198809275380
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13003722862839954190
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9359113198809275380
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 16560958050075362688
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 261.978516
+            Y: 193.000488
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 15047127976028627490
+        ChildIds: 13026298859729104934
+        ChildIds: 16683927918006332547
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 15047127976028627490
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 16560958050075362688
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 13026298859729104934
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16560958050075362688
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 16683927918006332547
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16560958050075362688
+        ChildIds: 17197841564421089990
+        ChildIds: 6465259392506031049
+        ChildIds: 12990925384805733675
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 17197841564421089990
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 17197841564421089990
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16683927918006332547
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 6465259392506031049
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16683927918006332547
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 13026298859729104934
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 15047127976028627490
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 12990925384805733675
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16683927918006332547
+        ChildIds: 9556993306993858328
+        ChildIds: 6831687352923086336
+        ChildIds: 9761924374567297100
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 9556993306993858328
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12990925384805733675
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 16683927918006332547
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 9761924374567297100
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 6831687352923086336
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12990925384805733675
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9761924374567297100
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12990925384805733675
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 17963924010370311729
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 157.142578
+            Y: 188.935547
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 9324206351356669572
+        ChildIds: 11340758295579627585
+        ChildIds: 14077322778104720064
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9324206351356669572
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 17963924010370311729
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 11340758295579627585
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17963924010370311729
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 14077322778104720064
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17963924010370311729
+        ChildIds: 11262187783212193575
+        ChildIds: 1132597874364323164
+        ChildIds: 13501385849252990222
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 11262187783212193575
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 11262187783212193575
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14077322778104720064
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 1132597874364323164
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14077322778104720064
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 11340758295579627585
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 9324206351356669572
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 13501385849252990222
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14077322778104720064
+        ChildIds: 9240553592607730780
+        ChildIds: 2411104932584550097
+        ChildIds: 4907971206339602176
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 9240553592607730780
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13501385849252990222
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 14077322778104720064
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 4907971206339602176
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 2411104932584550097
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13501385849252990222
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4907971206339602176
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13501385849252990222
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 1381829526863042666
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 126.40332
+            Y: -193.737305
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 15883759572337472282
+        ChildIds: 17597847304837962074
+        ChildIds: 6871575283335565710
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 15883759572337472282
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 1381829526863042666
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17597847304837962074
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1381829526863042666
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 6871575283335565710
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1381829526863042666
+        ChildIds: 16217950552258470185
+        ChildIds: 3505582013404245069
+        ChildIds: 14349814465911790308
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 16217950552258470185
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 16217950552258470185
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6871575283335565710
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 3505582013404245069
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6871575283335565710
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 17597847304837962074
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 15883759572337472282
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 14349814465911790308
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6871575283335565710
+        ChildIds: 11523229585655231672
+        ChildIds: 14395766981142381447
+        ChildIds: 17784745499141614432
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 11523229585655231672
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14349814465911790308
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 6871575283335565710
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 17784745499141614432
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 14395766981142381447
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14349814465911790308
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17784745499141614432
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14349814465911790308
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 15975991059264291175
+        Name: "Throwable Gold Jar"
+        Transform {
+          Location {
+            X: 245.708008
+            Y: -115.353516
+            Z: 14.1398926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 10414549236060086557
+        ChildIds: 11133687011588319056
+        ChildIds: 15448682512790759166
+        ChildIds: 11413259242134679530
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 11133687011588319056
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 54.9999847
+          }
+          Rotation {
+            Roll: 3.07358423e-05
+          }
+          Scale {
+            X: 0.8
+            Y: 0.8
+            Z: 0.6
+          }
+        }
+        ParentId: 15975991059264291175
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 2870906878820740500
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 15448682512790759166
+        Name: "PickupTrigger"
+        Transform {
+          Location {
+            Z: 49.9999847
+          }
+          Rotation {
+            Roll: 3.07358459e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15975991059264291175
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Pick Up Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 11413259242134679530
+        Name: "Jar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: 75
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15975991059264291175
+        ChildIds: 10420742915826081053
+        ChildIds: 16051157501489367074
+        ChildIds: 4869905784906250633
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Equipment {
+          SocketName: "right_prop"
+          PickupTrigger {
+          }
+          Weapon {
+            ProjectileAssetRef {
+              Id: 9209501509540217310
+            }
+            MuzzleFlashAssetRef {
+              Id: 841534158063459245
+            }
+            TrailAssetRef {
+              Id: 9023864673320310867
+            }
+            ImpactAssetRef {
+              Id: 5987001285034214794
+            }
+            UseReticle: true
+            Muzzle {
+              Location {
+              }
+            }
+            AnimationSet: "unarmed_carry_object_heavy"
+            OutOfAmmoSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ReloadSfxAssetRef {
+              Id: 841534158063459245
+            }
+            ShootAnimation: "2hand_rifle_shoot"
+            ImpactProjectileAssetRef {
+              Id: 841534158063459245
+            }
+            BeamAssetRef {
+              Id: 841534158063459245
+            }
+            BurstCount: 1
+            BurstDuration: 1
+            AttackCooldown: 0.25
+            Range: 100000
+            ImpactPlayerAssetRef {
+              Id: 841534158063459245
+            }
+            ReticleType {
+              Value: "mc:ereticletype:none"
+            }
+            MaxAmmo: -1
+            MultiShot: 1
+            ProjectileSpeed: 2000
+            ProjectileLifeSpan: 4
+            ProjectileGravity: 1.9
+            ProjectileLength: 100
+            ProjectileRadius: 50
+            DefaultAbility {
+              SubObjectId: 10420742915826081053
+            }
+            ReloadAbility {
+              SelfId: 841534158063459245
+            }
+            Damage: 60
+            WeaponTrajectoryMode {
+              Value: "mc:eweapontrajectorymode:muzzletolooktarget"
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 10420742915826081053
+        Name: "Throw"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11413259242134679530
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Ability {
+          IsEnabled: true
+          KeyBinding: "ability_primary"
+          CastPhaseSettings {
+            Duration: 0.25
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          ExecutePhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:aim"
+            }
+          }
+          RecoveryPhaseSettings {
+            Duration: 0.1
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          CooldownPhaseSettings {
+            CanMove: true
+            CanJump: true
+            CanRotate: true
+            PreventOtherAbilities: true
+            IsTargetDataUpdated: true
+            Facing_V2 {
+              Value: "mc:eabilitysetfacing:none"
+            }
+          }
+          Animation: "unarmed_throw"
+          KeyBinding_v2 {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+      Objects {
+        Id: 16051157501489367074
+        Name: "Grabbable Prop Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11413259242134679530
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupTrigger"
+            ObjectReference {
+              SubObjectId: 15448682512790759166
+            }
+          }
+          Overrides {
+            Name: "cs:CollisionObject"
+            ObjectReference {
+              SubObjectId: 11133687011588319056
+            }
+          }
+          Overrides {
+            Name: "cs:DestroyVFX"
+            AssetReference {
+              Id: 9456878177018972373
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4201231025473792840
+          }
+        }
+      }
+      Objects {
+        Id: 4869905784906250633
+        Name: "Client Art"
+        Transform {
+          Location {
+            Y: -1.84235705e-06
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11413259242134679530
+        ChildIds: 7100507897453749521
+        ChildIds: 6505518356831589571
+        ChildIds: 3880885086285240351
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 7100507897453749521
+        Name: "Grabbable Prop Client"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4869905784906250633
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Weapon"
+            ObjectReference {
+              SubObjectId: 11413259242134679530
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 3880885086285240351
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8981300194903719098
+          }
+        }
+      }
+      Objects {
+        Id: 6505518356831589571
+        Name: "Fantasy Clay Pot 02"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Roll: -74.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4869905784906250633
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 8589032280689222978
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3880885086285240351
+        Name: "Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4869905784906250633
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Throw the Jar"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
           }
         }
       }

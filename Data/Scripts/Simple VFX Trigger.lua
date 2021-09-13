@@ -1,4 +1,4 @@
-local TRIGGER = script:GetCustomProperty("Trigger"):WaitForObject(0.1)
+local TRIGGER = script:GetCustomProperty("Trigger"):WaitForObject(10)
 local VFX_TEMPLATE = script:GetCustomProperty("VFXTemplate")
 
 local trigger = nil

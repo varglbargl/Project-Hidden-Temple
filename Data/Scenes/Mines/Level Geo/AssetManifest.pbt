@@ -53,6 +53,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16828300113100685912
+  Name: "Bricks Mortar Thick 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_fan_bricks_mortar_001_uv"
+  }
+}
+Assets {
   Id: 16744690329737636330
   Name: "Pipe - 90-Degree Long"
   PlatformAssetType: 1

@@ -6,7 +6,11 @@ local RETURN_TELEPORTER = script:GetCustomProperty("ReturnTeleporter")
 local TREASURE_TRIGGER = script:GetCustomProperty("TreasureTrigger"):WaitForObject()
 local TREASURE_LOCATION = script:GetCustomProperty("TreasureLocation"):WaitForObject()
 local RETURN_TELEPORTER_LOCATION = script:GetCustomProperty("ReturnTeleporterLocation"):WaitForObject()
-local SYMBOL = script:GetCustomProperty("Symbol"):WaitForObject()
+local DIM_SYMBOLS = script:GetCustomProperty("DimSymbols"):WaitForObject()
+local LIT_SYMBOLS = script:GetCustomProperty("LitSymbols"):WaitForObject()
+
+local dimSymbols = DIM_SYMBOLS:GetChildren()
+local litSymbols = LIT_SYMBOLS:GetChildren()
 
 local treasureToSpawn = TREASURE_TABLE[math.random(1, #TREASURE_TABLE)]
 local spawnedTresure = World.SpawnAsset(treasureToSpawn, {position = TREASURE_LOCATION:GetWorldPosition(), rotation = TREASURE_LOCATION:GetWorldRotation()})
@@ -20,23 +24,25 @@ if symbolIndex == 0 then
   script.parent.networkedPropertyChangedEvent:Connect(function(obj, propName)
     if propName == "SymbolIndex" then
       symbolIndex = script.parent:GetCustomProperty("SymbolIndex")
-      SYMBOL:SetSmartProperty("Shape Index", symbolIndex)
+      dimSymbols[symbolIndex].visibility = Visibility.INHERIT
     end
   end)
 else
-  SYMBOL:SetSmartProperty("Shape Index", symbolIndex)
+  dimSymbols[symbolIndex].visibility = Visibility.INHERIT
 end
 
 function getYeLoot(thisTrigger, player)
   for _, thisPlayer in ipairs(Game.GetPlayers()) do
     thisPlayer:AddResource("Money", 500)
+    thisPlayer:GrantRewardPoints(150, "Plundered "..spawnedTresure.name)
   end
 
   Events.Broadcast("AddRecentTreasure", player, spawnedTresure.name)
   Events.Broadcast("IlluminateSymbol", symbolIndex)
   Utils.throttleToAllPlayers("GotTreasure", player, spawnedTresure.name)
 
-  SYMBOL:SetSmartProperty("Emissive Boost", 25)
+  dimSymbols[symbolIndex].visibility = Visibility.FORCE_OFF
+  litSymbols[symbolIndex].visibility = Visibility.INHERIT
 
   TREASURE_TRIGGER.collision = Collision.FORCE_OFF
   TREASURE_TRIGGER.visibility = Visibility.FORCE_OFF
