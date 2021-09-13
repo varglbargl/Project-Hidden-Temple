@@ -590,6 +590,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "WallsAndDoors_2"
+    FilePartitionName: "WallsAndDoors_3"
   }
 }

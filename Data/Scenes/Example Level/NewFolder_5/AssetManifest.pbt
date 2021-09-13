@@ -1,63 +1,27 @@
 Assets {
-  Id: 17929949713135097756
-  Name: "Gold Treasure 02"
+  Id: 16099301820737994320
+  Name: "Large Round Wood Beam 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_large_beam_round_6m"
+  }
+}
+Assets {
+  Id: 12151333538886727296
+  Name: "Pyramid - 4-Sided Truncated Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pyramid_truncated_hq_001"
+  }
+}
+Assets {
+  Id: 1425671561205502187
+  Name: "Metal Iron Rusted 02"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_treasure_002"
-  }
-}
-Assets {
-  Id: 16048367406070731799
-  Name: "Plane 1m - One Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_1m_001"
-  }
-}
-Assets {
-  Id: 14267598173779798519
-  Name: "Fantasy Throne 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_throne_001_ref"
-  }
-}
-Assets {
-  Id: 11452126672691922020
-  Name: "Craftsman Dining Chair"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_chair_dining_001"
-  }
-}
-Assets {
-  Id: 10793320870014566179
-  Name: "Basic Hologram"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_basic_hologram"
-  }
-}
-Assets {
-  Id: 5906076877227777947
-  Name: "Military Sandbag 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_mil_sandbag_002"
-  }
-}
-Assets {
-  Id: 3308058385088239720
-  Name: "Prism - 6-Sided - Rounded"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prism_sixsided_rnd_001_ref"
+    AssetId: "mi_metal_iron_003"
   }
 }

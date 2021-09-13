@@ -22,6 +22,10 @@ Assets {
         Name: "rotate_material"
         Float: 90
       }
+      Overrides {
+        Name: "subsurface_scattering_intensity"
+        Float: 0.01
+      }
     }
     Assets {
       Id: 6485809355337215005

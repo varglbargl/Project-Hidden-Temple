@@ -1,15 +1,14 @@
 Name: "Two-Way Telepoter_2"
-RootId: 5620380925765192041
+RootId: 703363344784063523
 Objects {
-  Id: 11594335930393055563
+  Id: 16490519965059752961
   Name: "Telepad B"
   Transform {
     Location {
-      Y: 250
+      Y: 200
       Z: 20
     }
     Rotation {
-      Roll: 90
     }
     Scale {
       X: 1
@@ -17,11 +16,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5620380925765192041
-  ChildIds: 2792683064474092524
-  ChildIds: 6165352951550663607
-  ChildIds: 13428672439901055361
-  ChildIds: 7431907307059231932
+  ParentId: 703363344784063523
+  ChildIds: 7132815481568081574
+  ChildIds: 1275354636368916221
+  ChildIds: 18330066095943097547
+  ChildIds: 2530516945449175542
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -39,14 +38,14 @@ Objects {
     IsGroup: true
   }
   InstanceHistory {
-    SelfId: 11594335930393055563
+    SelfId: 16490519965059752961
     SubobjectId: 14562313294328634623
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 7431907307059231932
+  Id: 2530516945449175542
   Name: "Trigger B"
   Transform {
     Location {
@@ -60,7 +59,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11594335930393055563
+  ParentId: 16490519965059752961
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -86,14 +85,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 7431907307059231932
+    SelfId: 2530516945449175542
     SubobjectId: 996299929593671944
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 13428672439901055361
+  Id: 18330066095943097547
   Name: "Japanese Stone Lantern Housing Medium 01"
   Transform {
     Location {
@@ -106,7 +105,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 11594335930393055563
+  ParentId: 16490519965059752961
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -137,14 +136,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 13428672439901055361
+    SelfId: 18330066095943097547
     SubobjectId: 15036634871829701685
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 6165352951550663607
+  Id: 1275354636368916221
   Name: "Point Light"
   Transform {
     Location {
@@ -158,7 +157,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11594335930393055563
+  ParentId: 16490519965059752961
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -199,14 +198,14 @@ Objects {
     CastVolumetricShadows: true
   }
   InstanceHistory {
-    SelfId: 6165352951550663607
+    SelfId: 1275354636368916221
     SubobjectId: 4575474737137653251
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 2792683064474092524
+  Id: 7132815481568081574
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -224,7 +223,7 @@ Objects {
       Z: 0.4
     }
   }
-  ParentId: 11594335930393055563
+  ParentId: 16490519965059752961
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -266,9 +265,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 2792683064474092524
+    SelfId: 7132815481568081574
     SubobjectId: 5490305362595810904
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
   Relevance {
@@ -276,15 +275,15 @@ Objects {
   }
 }
 Objects {
-  Id: 3987325952800079578
+  Id: 8316055336945961872
   Name: "Telepad A"
   Transform {
     Location {
-      Y: 150
-      Z: 20
+      X: 600
+      Y: 200
+      Z: -600
     }
     Rotation {
-      Roll: -90
     }
     Scale {
       X: 1
@@ -292,11 +291,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5620380925765192041
-  ChildIds: 3071949354844755912
-  ChildIds: 6105763749261183210
-  ChildIds: 8076332403941374164
-  ChildIds: 960871753446447884
+  ParentId: 703363344784063523
+  ChildIds: 7970388622953996930
+  ChildIds: 1189306918973504928
+  ChildIds: 3758717982664625566
+  ChildIds: 5289742006411472454
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -314,14 +313,14 @@ Objects {
     IsGroup: true
   }
   InstanceHistory {
-    SelfId: 3987325952800079578
+    SelfId: 8316055336945961872
     SubobjectId: 6747854609673384814
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 960871753446447884
+  Id: 5289742006411472454
   Name: "Trigger A"
   Transform {
     Location {
@@ -335,7 +334,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3987325952800079578
+  ParentId: 8316055336945961872
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -361,14 +360,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 960871753446447884
+    SelfId: 5289742006411472454
     SubobjectId: 7468465806459377336
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 8076332403941374164
+  Id: 3758717982664625566
   Name: "Japanese Stone Lantern Housing Medium 01"
   Transform {
     Location {
@@ -381,7 +380,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 3987325952800079578
+  ParentId: 8316055336945961872
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -412,14 +411,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 8076332403941374164
+    SelfId: 3758717982664625566
     SubobjectId: 1937678515565409632
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 6105763749261183210
+  Id: 1189306918973504928
   Name: "Point Light"
   Transform {
     Location {
@@ -433,7 +432,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3987325952800079578
+  ParentId: 8316055336945961872
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -474,14 +473,14 @@ Objects {
     CastVolumetricShadows: true
   }
   InstanceHistory {
-    SelfId: 6105763749261183210
+    SelfId: 1189306918973504928
     SubobjectId: 4489215918209221982
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }
 Objects {
-  Id: 3071949354844755912
+  Id: 7970388622953996930
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -499,7 +498,7 @@ Objects {
       Z: 0.4
     }
   }
-  ParentId: 3987325952800079578
+  ParentId: 8316055336945961872
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -541,9 +540,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 3071949354844755912
+    SelfId: 7970388622953996930
     SubobjectId: 4634521197991385724
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
   Relevance {
@@ -551,7 +550,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5751712808263087179
+  Id: 860033337587794177
   Name: "Teleporter Server"
   Transform {
     Location {
@@ -564,18 +563,18 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5620380925765192041
+  ParentId: 703363344784063523
   UnregisteredParameters {
     Overrides {
       Name: "cs:TriggerA"
       ObjectReference {
-        SelfId: 960871753446447884
+        SelfId: 5289742006411472454
       }
     }
     Overrides {
       Name: "cs:TriggerB"
       ObjectReference {
-        SelfId: 7431907307059231932
+        SelfId: 2530516945449175542
       }
     }
   }
@@ -598,9 +597,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 5751712808263087179
+    SelfId: 860033337587794177
     SubobjectId: 2675931490312632831
-    InstanceId: 128438026663682512
+    InstanceId: 14895577694397637184
     TemplateId: 10402633967285527006
   }
 }

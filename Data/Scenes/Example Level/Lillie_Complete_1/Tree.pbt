@@ -102,7 +102,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lillie_LargeBlue_LavaPlatforms_Complete"
+    FilePartitionName: "Lillie_LargeBlue_LavaPlatforms_Complete_1"
   }
 }
 Objects {
@@ -137,7 +137,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lillie_SmallBlue_NeonSpikes_Complete"
+    FilePartitionName: "Lillie_SmallBlue_NeonSpikes_Complete_1"
   }
 }
 Objects {
@@ -172,6 +172,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lillie_SmallBlue_TeleporterMaze_Complete"
+    FilePartitionName: "Lillie_SmallBlue_TeleporterMaze_Complete_1"
   }
 }

@@ -1,7 +1,7 @@
 Name: "Neon Spike_3"
-RootId: 7557229336435787327
+RootId: 6751679859640287062
 Objects {
-  Id: 2655570764815128924
+  Id: 12827946322556269524
   Name: "Fantasy Staff Head 02"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Y: 14
     }
   }
-  ParentId: 7557229336435787327
+  ParentId: 6751679859640287062
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -82,7 +82,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6175684808974205718
+  Id: 13308779818118064872
   Name: "Fantasy Staff Head 02"
   Transform {
     Location {
@@ -96,7 +96,7 @@ Objects {
       Y: 14
     }
   }
-  ParentId: 7557229336435787327
+  ParentId: 6751679859640287062
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
