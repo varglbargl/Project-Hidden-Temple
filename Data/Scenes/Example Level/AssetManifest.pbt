@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 18131327384285321871
+  Name: "Trim Large Brick 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_trim_brick_6m_001"
+  }
+}
+Assets {
   Id: 18072441586075509399
   Name: "Japanese Ceiling Lamp 01"
   PlatformAssetType: 1
@@ -80,12 +89,39 @@ Assets {
   }
 }
 Assets {
+  Id: 17530506155392727216
+  Name: "Disco Ball 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_glass_discoball_001_uv_ref"
+  }
+}
+Assets {
   Id: 17504407537295900907
   Name: "Bricks Worn Stone 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_brick_stone_worn_001"
+  }
+}
+Assets {
+  Id: 17421287752667252927
+  Name: "Fantasy Castle Ceiling 01 - Vault 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_ceiling_001_vault_02"
+  }
+}
+Assets {
+  Id: 16956732760613111471
+  Name: "Fantasy Castle Bannister 01 - Straight"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_straight"
   }
 }
 Assets {
@@ -104,6 +140,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_scf_grates_002_uv"
+  }
+}
+Assets {
+  Id: 16491539056941356843
+  Name: "Urban Brick Debris 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urban_destruction_debris_brick_03_ref"
   }
 }
 Assets {
@@ -161,6 +206,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15604865941917422076
+  Name: "Square Column Segment"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_column_square_segment_001"
+  }
+}
+Assets {
   Id: 15311550138640852139
   Name: "Cone - Truncated Hollow Concave"
   PlatformAssetType: 1
@@ -206,6 +260,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14686121888986874553
+  Name: "Horn Curled"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_horn_curled_001_ref"
+  }
+}
+Assets {
   Id: 14614056576813174129
   Name: "Metal Diamond Plates 01"
   PlatformAssetType: 2
@@ -221,6 +284,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_001_ref"
+  }
+}
+Assets {
+  Id: 14452616722762075696
+  Name: "Fantasy Castle Pillar 01 Base"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_pillar_001_base"
   }
 }
 Assets {
@@ -260,6 +332,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13969071844425121600
+  Name: "Ice Opaque"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxmi_ice_opaque"
+  }
+}
+Assets {
   Id: 13966329916801816008
   Name: "Pipe"
   PlatformAssetType: 1
@@ -284,6 +365,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_jpn_wallpaper_stars_001_uv_ref"
+  }
+}
+Assets {
+  Id: 13757752954403748803
+  Name: "Prism - 8-Sided Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prism_octagon_hq_001"
   }
 }
 Assets {
@@ -386,6 +476,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12044346928300228689
+  Name: "Heavy Mechanical Door Airlock Pneumatic 02 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_heavy_mechanical_door_airlock_02_Cue_ref"
+  }
+}
+Assets {
   Id: 11740110936718841543
   Name: "Primitive Neon: Circle"
   PlatformAssetType: 1
@@ -440,6 +539,24 @@ Assets {
   }
 }
 Assets {
+  Id: 11278540873628632907
+  Name: "Horn Curled - Golden Ratio"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prim_horn_curled_golden_001_ref"
+  }
+}
+Assets {
+  Id: 11104760386056489048
+  Name: "Food Pizza 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_food_pizza_pepperoni_001_uv_ref"
+  }
+}
+Assets {
   Id: 10850769815684373087
   Name: "Plane 1m - Two Sided"
   PlatformAssetType: 1
@@ -485,6 +602,24 @@ Assets {
   }
 }
 Assets {
+  Id: 10132353416408715703
+  Name: "Horn Curved"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prim_horn_curved_001_ref"
+  }
+}
+Assets {
+  Id: 10112122999015952841
+  Name: "Horn Curved Double - Horizontal"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prim_horn_h_curved_double_001_ref"
+  }
+}
+Assets {
   Id: 10099318447560165816
   Name: "Gear - generic large solid"
   PlatformAssetType: 1
@@ -518,6 +653,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_01"
+  }
+}
+Assets {
+  Id: 9231722298892230330
+  Name: "Horn"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_horn_001"
   }
 }
 Assets {
@@ -557,6 +701,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8656168431962654606
+  Name: "Crescent - 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crescent_003"
+  }
+}
+Assets {
   Id: 8601638990880718228
   Name: " Wood 9 Slice Crate 01"
   PlatformAssetType: 2
@@ -572,6 +725,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_jpn_light_interior_002_ref"
+  }
+}
+Assets {
+  Id: 8443564111385201187
+  Name: "Bone Human Pile Straight 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_pile_str_02_ref"
   }
 }
 Assets {
@@ -737,6 +899,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5358613135982077883
+  Name: "Star - Beveled"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_star_beveled_001"
+  }
+}
+Assets {
   Id: 5357777918645578075
   Name: "Bricks Stone Floor Large 01"
   PlatformAssetType: 2
@@ -836,6 +1007,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3501038530602048657
+  Name: "Bone Human Scattered 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_scatter_01_ref"
+  }
+}
+Assets {
   Id: 3207209794344723515
   Name: "Vehicle Plastic Switch Panel Button Click 04 SFX"
   PlatformAssetType: 7
@@ -860,6 +1040,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pipe_003"
+  }
+}
+Assets {
+  Id: 2888061860697595313
+  Name: "Bone Human Pile Straight 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_pile_str_01_ref"
   }
 }
 Assets {
@@ -905,6 +1094,15 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "Icon_PlayerSwim"
+  }
+}
+Assets {
+  Id: 2014619680691864188
+  Name: "Bone Human Scattered 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_scatter_02_ref"
   }
 }
 Assets {
@@ -980,6 +1178,15 @@ Assets {
   }
 }
 Assets {
+  Id: 1143724032409582778
+  Name: "Horn Curved Double - Vertical"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prim_horn_v_curve_double_001_ref"
+  }
+}
+Assets {
   Id: 1137112816547272582
   Name: "Cylinder"
   PlatformAssetType: 1
@@ -995,6 +1202,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_wedge_curved_concave_lg_001_ref"
+  }
+}
+Assets {
+  Id: 897429753597555270
+  Name: "Fantasy Castle Bannister 01 - Post"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_post"
   }
 }
 Assets {
