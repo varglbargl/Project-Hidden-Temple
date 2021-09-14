@@ -28,6 +28,36 @@ Assets {
           Id: 10668649241861837542
         }
       }
+      Overrides {
+        Name: "cs:LilliesClockTower"
+        AssetReference {
+          Id: 16884874307988654019
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesJumpRope"
+        AssetReference {
+          Id: 5740897963797068827
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesSwimTube"
+        AssetReference {
+          Id: 2874947285311163895
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesVeryVeryLongHallway"
+        AssetReference {
+          Id: 18193196280494452904
+        }
+      }
+      Overrides {
+        Name: "cs:MatildasMinotairMaze"
+        AssetReference {
+          Id: 2199539383456738303
+        }
+      }
     }
   }
   SerializationVersion: 98

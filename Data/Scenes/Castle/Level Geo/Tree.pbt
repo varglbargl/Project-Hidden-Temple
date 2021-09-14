@@ -1,6 +1,305 @@
 Name: "Level Geo"
 RootId: 16067840293383514247
 Objects {
+  Id: 2466891518225044790
+  Name: "Stone Brick Staircase"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16136603509669571273
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Staircase"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -800
+            Y: 5200
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2129623388046416548
+    }
+  }
+}
+Objects {
+  Id: 6762547774564267123
+  Name: "Stone Brick Wall - Ivy Top"
+  Transform {
+    Location {
+      X: 800
+      Y: 6000
+      Z: 600
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17084836903612260870
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Ivy Top"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: 6000
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2824677944793141866
+    }
+  }
+}
+Objects {
+  Id: 382960706646892378
+  Name: "Stone Brick Wall - Basic"
+  Transform {
+    Location {
+      X: -2400
+      Y: 5200
+      Z: 600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6980063758313350786
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Stone Brick Wall - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1600
+            Y: 6000
+            Z: 1200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 180
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13861189895046575212
+    }
+  }
+}
+Objects {
+  Id: 14447610260616030857
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -1600
+      Y: 5200
+      Z: 1200
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2400
+            Y: 5200
+            Z: 1800
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
+  Id: 8854861457896680575
+  Name: "Cobblestone Floor - Basic"
+  Transform {
+    Location {
+      X: -1600
+      Y: 5200
+      Z: 600
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16067840293383514247
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14135500536414441149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cobblestone Floor - Basic"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2400
+            Y: 5200
+            Z: 1200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8481417515541518942
+    }
+  }
+}
+Objects {
   Id: 11714914686969770371
   Name: "Stone Brick Pillar - Basic"
   Transform {
@@ -2154,14 +2453,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -2400
             Y: 6000
-            Z: 600
+            Z: 1200
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 180
+            Yaw: -90
           }
         }
         Overrides {
@@ -2170,6 +2470,23 @@ Objects {
             X: 1
             Y: 1
             Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7744098822516518054
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1
+            Y: -0.999999642
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -12046,6 +12363,24 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 13811711749671587933
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7.15255737e-07
+            Y: -1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -3.05175781e-05
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 17084836903612260870
       value {
         Overrides {
@@ -12055,15 +12390,14 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -800
-            Y: 6000
-            Z: 600
+            X: -2400
+            Y: 5200
+            Z: 1200
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -90
           }
         }
         Overrides {
