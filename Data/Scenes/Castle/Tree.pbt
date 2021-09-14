@@ -1848,6 +1848,10 @@ Objects {
   ChildIds: 7689427459307231997
   ChildIds: 6123292310746589020
   ChildIds: 1164836216947175405
+  ChildIds: 12406707818596514047
+  ChildIds: 14568739414383273143
+  ChildIds: 15181352708198136997
+  ChildIds: 13758427985696558618
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -1861,6 +1865,171 @@ Objects {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
   NetworkContext {
+  }
+}
+Objects {
+  Id: 13758427985696558618
+  Name: "Fantasy Music Score Set 01"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13723303713958064248
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:emx_fantasymusic:58"
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 13632889883129298290
+    }
+    TeamSettings {
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Pitch: 300
+      Volume: 0.35
+      Falloff: 3600
+      Radius: 400
+    }
+  }
+}
+Objects {
+  Id: 15181352708198136997
+  Name: "Ambient Dark Breathy Cave Dungeon Loop 01 SFX"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13723303713958064248
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  AudioInstance {
+    AudioAsset {
+      Id: 9370433362057305673
+    }
+    AutoPlay: true
+    Repeat: true
+    Volume: 0.15
+    Falloff: -1
+    Radius: -1
+  }
+}
+Objects {
+  Id: 14568739414383273143
+  Name: "Ambience Cave Designed 01 SFX"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13723303713958064248
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  AudioInstance {
+    AudioAsset {
+      Id: 16191510917297109397
+    }
+    AutoPlay: true
+    Repeat: true
+    Volume: 0.5
+    Falloff: -1
+    Radius: -1
+  }
+}
+Objects {
+  Id: 12406707818596514047
+  Name: "Ambient Dark Cave Dungeon Loop 01 SFX"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13723303713958064248
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  AudioInstance {
+    AudioAsset {
+      Id: 14135869335781435415
+    }
+    AutoPlay: true
+    Repeat: true
+    Volume: 0.25
+    Falloff: -1
+    Radius: -1
   }
 }
 Objects {

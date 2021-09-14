@@ -5,12 +5,6 @@ Assets {
   TextAsset {
     CustomParameters {
       Overrides {
-        Name: "cs:ExampleRoom"
-        AssetReference {
-          Id: 11570463464842790063
-        }
-      }
-      Overrides {
         Name: "cs:VanessasInvisibleBridgeJarTossRoom"
         AssetReference {
           Id: 18071817129401883471
@@ -20,6 +14,24 @@ Assets {
         Name: "cs:LilliesLavaOrbSpinner"
         AssetReference {
           Id: 14727277910855989400
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesLavaCubeDipper"
+        AssetReference {
+          Id: 17844873752018891243
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesLavaRaiseMaze"
+        AssetReference {
+          Id: 6888007502683751637
+        }
+      }
+      Overrides {
+        Name: "cs:MatildasHedgeMaze"
+        AssetReference {
+          Id: 15972904207691889345
         }
       }
     }

@@ -1,4 +1,31 @@
 Assets {
+  Id: 16191510917297109397
+  Name: "Ambience Cave Designed 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_ambience_cave_designed_01_Cue_ref"
+  }
+}
+Assets {
+  Id: 14135869335781435415
+  Name: "Ambient Dark Cave Dungeon Loop 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_ambience_dark_dungeon_cave_loop_01_Cue_ref"
+  }
+}
+Assets {
+  Id: 13632889883129298290
+  Name: "Fantasy Music Score Set 01"
+  PlatformAssetType: 10
+  PrimaryAsset {
+    AssetType: "AudioBlueprintAssetRef"
+    AssetId: "abp_FantasyMusic_ref"
+  }
+}
+Assets {
   Id: 12598587725932938797
   Name: "Germania One"
   PlatformAssetType: 28
@@ -14,6 +41,15 @@ Assets {
   PrimaryAsset {
     AssetType: "AudioAssetRef"
     AssetId: "sfx_Mechanical_clicky_Gear_Grinding_Loop_01_Cue_ref"
+  }
+}
+Assets {
+  Id: 9370433362057305673
+  Name: "Ambient Dark Breathy Cave Dungeon Loop 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_ambience_dark_breathy_cave_dungeon_loop_01_Cue_ref"
   }
 }
 Assets {
