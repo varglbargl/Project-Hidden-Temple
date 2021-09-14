@@ -52,6 +52,12 @@ Assets {
           Id: 2628174526070778607
         }
       }
+      Overrides {
+        Name: "cs:LillieRotatoShapes"
+        AssetReference {
+          Id: 1608820250708595051
+        }
+      }
     }
   }
   SerializationVersion: 98

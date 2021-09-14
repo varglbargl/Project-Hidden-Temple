@@ -34,6 +34,18 @@ Assets {
           Id: 15972904207691889345
         }
       }
+      Overrides {
+        Name: "cs:LillieLargeRotatoShapeLavaaaaa"
+        AssetReference {
+          Id: 9209158857901460534
+        }
+      }
+      Overrides {
+        Name: "cs:LikkiepizzaTimeAaaaa"
+        AssetReference {
+          Id: 2798151606430798312
+        }
+      }
     }
   }
   SerializationVersion: 98
