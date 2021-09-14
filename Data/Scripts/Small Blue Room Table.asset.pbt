@@ -34,6 +34,24 @@ Assets {
           Id: 11717550407512997447
         }
       }
+      Overrides {
+        Name: "cs:LilliesMusicalThrones"
+        AssetReference {
+          Id: 15929065535658478747
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesNeonSpikes"
+        AssetReference {
+          Id: 6475371364740610955
+        }
+      }
+      Overrides {
+        Name: "cs:LilliesTeleporterMaze"
+        AssetReference {
+          Id: 2628174526070778607
+        }
+      }
     }
   }
   SerializationVersion: 98

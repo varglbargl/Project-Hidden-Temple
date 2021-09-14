@@ -1627,8 +1627,9 @@ Assets {
         Name: "Fantasy Castle Wall 01 - Doorway 02"
         Transform {
           Location {
-            X: 1
-            Y: -0.999999642
+            X: 1.00000048
+            Y: -0.999999404
+            Z: 1
           }
           Rotation {
             Yaw: -6.83018879e-06
@@ -2835,8 +2836,9 @@ Assets {
         Name: "Fantasy Castle Wall 01 - Doorway 02"
         Transform {
           Location {
-            X: 1
-            Y: -0.999999642
+            X: 0.999999821
+            Y: -0.99999994
+            Z: 1
           }
           Rotation {
             Yaw: -6.83018879e-06

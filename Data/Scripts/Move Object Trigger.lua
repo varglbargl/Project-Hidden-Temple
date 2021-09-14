@@ -15,8 +15,8 @@ local initialRot = OBJECT_TO_MOVE:GetRotation()
 local resetTask = nil
 local resetEvent = nil
 
-local moveLoopSfx = Utils.playSoundEffect(MOVE_LOOP_SFX, {loop = true, transient = false, autoPlay = false, position = initialPos})
-local stopMoveSFX = Utils.playSoundEffect(STOP_MOVE_SFX, {transient = false, autoPlay = false, position = initialPos})
+local moveLoopSfx = Utils.playSoundEffect(MOVE_LOOP_SFX, {loop = true, transient = false, autoPlay = false, position = TRIGGER:GetWorldPosition()})
+local stopMoveSFX = Utils.playSoundEffect(STOP_MOVE_SFX, {transient = false, autoPlay = false, position = TRIGGER:GetWorldPosition()})
 
 function resetObject()
   if resetEvent then

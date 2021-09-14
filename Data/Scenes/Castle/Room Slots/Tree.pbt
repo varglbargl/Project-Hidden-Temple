@@ -213,15 +213,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -400
-            Y: 6000
-            Z: 600
+            X: -2400
+            Y: 5600
+            Z: 1200
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 89.9999847
+            Yaw: 180
           }
         }
         Overrides {

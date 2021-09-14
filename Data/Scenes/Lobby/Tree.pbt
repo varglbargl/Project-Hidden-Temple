@@ -6092,7 +6092,7 @@ Objects {
       ShadowOffset {
       }
       GameId: "fe9fba33c39d42d7a175f6172ecea0d1"
-      ScreenshotIndex: 2
+      ScreenshotIndex: 4
     }
     AnchorLayout {
       SelfAnchor {

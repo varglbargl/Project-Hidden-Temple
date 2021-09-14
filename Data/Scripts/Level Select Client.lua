@@ -37,14 +37,14 @@ local levels = {
     scene = "Castle",
     name = "Wolfscastle Keep Mausoleum",
     description = "The old historic keep at the center of the coastal city of Owerain has been sealed off for generations, reportedly for good reason. Nonetheless, local Plundertaker Scout Vanessa has been working on tunneling in to the place for months and her most recent report, if true, is quite promising. Apparently there are so many priceless artifacts there that the local chapter has requestd backup to aid in emancipating it all into the safekeeping of the Plundertakers.",
-    suggestedPlayers = "1-3",
+    suggestedPlayers = "1-2",
     map = CASTLE_MAP
   },
   {
     scene = "Mines",
     name = "The Pilkswoggins Prospect",
     description = "An old gold mine that was said to be abandoned and sealed off when the miners unearthed some kind of ancient burial chamber. Its location was considered lost to history until recently when fellow Plundertaker Scout Lillie unearthed a partial map. This one's mostly uncharted as of yet, you'll be the first ones to find out how deep it really goes and what treasures are housed within.",
-    suggestedPlayers = "2-4",
+    suggestedPlayers = "3-4",
     map = MINES_MAP
   }
 }
