@@ -1,12 +1,19 @@
 GameId: "1cef36d3993e483291952846304c29d1"
 ClientVersion: "1.0.210-prod-s"
-Name: "Games for Spiders Invitational"
-Description: "wip rip"
+Name: "The Plundertakers"
+Description: "Procedurally generated, dungeon delving, trap dodging, grave robbing puzzle platformer!!"
 MaxPlayers: 4
-Tags: "Experimental"
-ScreenshotPaths: "C:\\Users\\Eric\\Pictures\\GfS\\Core\\Invitational 2021\\surprise.PNG"
+Tags: "Action"
+Tags: "Puzzle"
+Tags: "Multiplayer"
+Tags: "Cooperative"
+Tags: "Platformer"
+ScreenshotPaths: "C:\\Users\\Eric\\Desktop\\plundertakers thumbnail.png"
+ReleaseNotes: "v. Beta.1"
 OwnerId: "21c0b4284eff4bb091ce80a75c984fd4"
 SerializationVersion: 1
+PublishedState: Public
+ContainsRewardPointEvents: true
 SceneNameToSceneIdMap {
   key: "Castle"
   value: "e2b82aa949faecd366406cb2c21ec0a9"

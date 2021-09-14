@@ -7,7 +7,7 @@ Assets {
       RootId: 7758898994819774621
       Objects {
         Id: 7758898994819774621
-        Name: "Lillie.SmallBlue.Rotating Shapes"
+        Name: "Lillie Rotato Shapes"
         Transform {
           Scale {
             X: 1
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15335657634571388082
+        ParentId: 878478805099823948
         ChildIds: 3156193308102756181
         ChildIds: 10559837277770586848
         ChildIds: 12990015193217896851
@@ -47,11 +47,12 @@ Assets {
         Name: "StaticContext"
         Transform {
           Location {
-            X: -200
-            Y: -1000
+            X: 999.999573
+            Y: -200.000061
             Z: -1200
           }
           Rotation {
+            Yaw: 89.9999924
           }
           Scale {
             X: 1
@@ -11401,6 +11402,7 @@ Assets {
           Location {
           }
           Rotation {
+            Yaw: 89.9999924
           }
           Scale {
             X: 1
@@ -12241,11 +12243,11 @@ Assets {
         Name: "Spawn Point Setter"
         Transform {
           Location {
-            Y: -2300
+            X: 2299.99927
+            Y: 0.000244140625
             Z: 200
           }
           Rotation {
-            Yaw: -89.9999924
           }
           Scale {
             X: 2
@@ -12319,11 +12321,10 @@ Assets {
         Name: "Spawn Point Setter"
         Transform {
           Location {
-            Y: -100
+            X: 100
             Z: 200
           }
           Rotation {
-            Yaw: -89.9999924
           }
           Scale {
             X: 2
@@ -12397,12 +12398,12 @@ Assets {
         Name: "Rotating Cube"
         Transform {
           Location {
-            Y: -1900
+            X: 1899.99939
             Z: 20
           }
           Rotation {
-            Yaw: 89.9999847
-            Roll: -89.9999847
+            Yaw: 179.999985
+            Roll: -90
           }
           Scale {
             X: 1
@@ -12586,11 +12587,12 @@ Assets {
         Name: "Rotating Cube"
         Transform {
           Location {
-            Y: -600
+            X: 599.999878
+            Y: -6.10351562e-05
             Z: -100
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 180
           }
           Scale {
             X: 1.2
@@ -12774,10 +12776,10 @@ Assets {
         Name: "Rotating Cube"
         Transform {
           Location {
-            Y: -1100
+            X: 1099.99963
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 179.999985
           }
           Scale {
             X: 1
@@ -12961,11 +12963,11 @@ Assets {
         Name: "Rotating Cube"
         Transform {
           Location {
-            Y: -1400
+            X: 1399.99939
             Z: -170
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 179.999969
           }
           Scale {
             X: 1.2
@@ -13149,10 +13151,11 @@ Assets {
         Name: "Lava Tile"
         Transform {
           Location {
-            X: -1200
+            Y: -1199.99951
             Z: -600
           }
           Rotation {
+            Yaw: 89.9999924
           }
           Scale {
             X: 3.00000024

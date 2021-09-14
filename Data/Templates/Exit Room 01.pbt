@@ -30383,15 +30383,15 @@ Assets {
         Name: "Trigger"
         Transform {
           Location {
-            Y: -57.9456253
-            Z: 92.0516357
+            Y: -618.65564
+            Z: 110.761856
           }
           Rotation {
           }
           Scale {
-            X: 1.99999952
-            Y: 0.999999762
-            Z: 1.99999952
+            X: 9.13695431
+            Y: 11.1404524
+            Z: 3.08510184
           }
         }
         ParentId: 3172666679739840912
@@ -30410,7 +30410,7 @@ Assets {
         }
         Trigger {
           Interactable: true
-          InteractionLabel: "Touch the Stone Tablet"
+          InteractionLabel: "Claim your Prize"
           TeamSettings {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true

@@ -15,10 +15,14 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15335657634571388082
+        ParentId: 4781671109827199097
         ChildIds: 15871496951617118305
         ChildIds: 1059240404261627345
-        ChildIds: 16901583052499187746
+        ChildIds: 1355431984899885465
+        ChildIds: 14419350457330041117
+        ChildIds: 7921459986900085513
+        ChildIds: 3985659921103025752
+        ChildIds: 16104660575858638474
         ChildIds: 5946963564224890626
         ChildIds: 3376883428727753285
         ChildIds: 4179159109916111017
@@ -104,6 +108,7 @@ Assets {
         ChildIds: 3216413846474809736
         ChildIds: 12949247400449147275
         ChildIds: 8402343821577645497
+        ChildIds: 7113769457836869989
         ChildIds: 10736550749931442432
         ChildIds: 16251635457016756191
         ChildIds: 7348279450400897760
@@ -3968,6 +3973,104 @@ Assets {
         }
       }
       Objects {
+        Id: 7113769457836869989
+        Name: "Craftsman Porch Fence Railing 01"
+        Transform {
+          Location {
+            X: 1071.49365
+            Y: 1250
+            Z: 1250
+          }
+          Rotation {
+            Pitch: 87.8292084
+            Yaw: -89.9996338
+            Roll: 89.9996338
+          }
+          Scale {
+            X: 1.57012725
+            Y: 1.34582341
+            Z: 1.23367143
+          }
+        }
+        ParentId: 15871496951617118305
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Building_Accent:id"
+            AssetReference {
+              Id: 574911985367105978
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_Trim:id"
+            AssetReference {
+              Id: 574911985367105978
+            }
+          }
+          Overrides {
+            Name: "ma:Building_Accent:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Building_Accent:vtile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_Trim:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_Trim:vtile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Building_Accent:color"
+            Color {
+              R: 0.5
+              G: 0.375
+              B: 0.375
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_Trim:color"
+            Color {
+              R: 0.5
+              G: 0.375
+              B: 0.375
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 1811327378576877949
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 10736550749931442432
         Name: "Stone Brick Balcony"
         Transform {
@@ -6677,16 +6780,17 @@ Assets {
         }
       }
       Objects {
-        Id: 16901583052499187746
-        Name: "Climbable Ladder"
+        Id: 1355431984899885465
+        Name: "Parkour Ledge"
         Transform {
           Location {
             X: 3750
-            Y: 1850
-            Z: 50
+            Y: 1848.71594
+            Z: 291.250977
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: 180
+            Roll: 2.16973829
           }
           Scale {
             X: 1
@@ -6695,141 +6799,6 @@ Assets {
           }
         }
         ParentId: 8699433812131570500
-        ChildIds: 7113769457836869989
-        ChildIds: 1355431984899885465
-        ChildIds: 14419350457330041117
-        ChildIds: 7921459986900085513
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 7113769457836869989
-        Name: "Craftsman Porch Fence Railing 01"
-        Transform {
-          Location {
-            Y: -70
-          }
-          Rotation {
-            Pitch: 90
-            Roll: 90.0000076
-          }
-          Scale {
-            X: 1.4
-            Y: 1.2
-            Z: 1.1
-          }
-        }
-        ParentId: 16901583052499187746
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Accent:id"
-            AssetReference {
-              Id: 574911985367105978
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_Trim:id"
-            AssetReference {
-              Id: 574911985367105978
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Accent:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Accent:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_Trim:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_Trim:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Accent:color"
-            Color {
-              R: 0.5
-              G: 0.375
-              B: 0.375
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_Trim:color"
-            Color {
-              R: 0.5
-              G: 0.375
-              B: 0.375
-              A: 1
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 1811327378576877949
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1355431984899885465
-        Name: "Parkour Ledge"
-        Transform {
-          Location {
-            X: -7
-            Z: 215
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16901583052499187746
         ChildIds: 5309543982419700935
         ChildIds: 16787312973809668258
         ChildIds: 15011258300933527618
@@ -7089,11 +7058,13 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: -7
-            Z: 355
+            X: 3750
+            Y: 1842.77136
+            Z: 448.151367
           }
           Rotation {
-            Yaw: -90
+            Yaw: 180
+            Roll: 2.16973829
           }
           Scale {
             X: 1
@@ -7101,7 +7072,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16901583052499187746
+        ParentId: 8699433812131570500
         ChildIds: 3567960125329671910
         ChildIds: 9909972219549624852
         ChildIds: 13478575560082261463
@@ -7361,11 +7332,13 @@ Assets {
         Name: "Parkour Ledge"
         Transform {
           Location {
-            X: -7
-            Z: 495
+            X: 3750
+            Y: 1836.8269
+            Z: 605.05127
           }
           Rotation {
-            Yaw: -90
+            Yaw: 180
+            Roll: 2.16973829
           }
           Scale {
             X: 1
@@ -7373,7 +7346,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16901583052499187746
+        ParentId: 8699433812131570500
         ChildIds: 16898576073388489271
         ChildIds: 18104178999748709294
         ChildIds: 11460040065619696597
@@ -7629,6 +7602,162 @@ Assets {
         }
       }
       Objects {
+        Id: 3985659921103025752
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 85.4532776
+            Y: -0.105224609
+            Z: 178.026367
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 8699433812131570500
+        ChildIds: 9543484991956214707
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 9543484991956214707
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3985659921103025752
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
+        Id: 16104660575858638474
+        Name: "Spawn Point Setter"
+        Transform {
+          Location {
+            X: 3910.46777
+            Y: 1599.41528
+            Z: 770.846191
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 8699433812131570500
+        ChildIds: 7800677563373955937
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:alwaysvisible"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 7800677563373955937
+        Name: "Respawn Point Setter Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16104660575858638474
+        UnregisteredParameters {
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 10706408344051191147
+          }
+        }
+      }
+      Objects {
         Id: 5946963564224890626
         Name: "Lava Tile"
         Transform {
@@ -7757,7 +7886,7 @@ Assets {
           Location {
             X: 1000
             Y: -200
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
           }
@@ -8313,7 +8442,7 @@ Assets {
           Location {
             X: 1550
             Y: -500
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: 24.999979
@@ -8870,7 +8999,7 @@ Assets {
           Location {
             X: 2200
             Y: -600
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: 5.00000238
@@ -9427,10 +9556,10 @@ Assets {
           Location {
             X: 2800
             Y: -350
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
-            Yaw: -39.9999847
+            Yaw: -40
           }
           Scale {
             X: 2.19999981
@@ -9984,10 +10113,10 @@ Assets {
           Location {
             X: 3150
             Y: 150
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
-            Yaw: -39.9999847
+            Yaw: -40
           }
           Scale {
             X: 2.19999981
@@ -10541,10 +10670,10 @@ Assets {
           Location {
             X: 3100
             Y: 750
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
-            Yaw: -15.00002
+            Yaw: -15.0000305
           }
           Scale {
             X: 2.19999981
@@ -11098,7 +11227,7 @@ Assets {
           Location {
             X: 2600
             Y: 1050
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: 5.00000238
@@ -11655,7 +11784,7 @@ Assets {
           Location {
             X: 2100
             Y: 1550
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: 5.00000238
@@ -12212,7 +12341,7 @@ Assets {
           Location {
             X: 1800
             Y: 2000
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: -35
@@ -12769,7 +12898,7 @@ Assets {
           Location {
             X: 2350
             Y: 2400
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: 15.00002
@@ -13326,7 +13455,7 @@ Assets {
           Location {
             X: 3000
             Y: 2400
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
             Yaw: 15.00002
@@ -13883,10 +14012,10 @@ Assets {
           Location {
             X: 3550
             Y: 2150
-            Z: -400
+            Z: -315.379883
           }
           Rotation {
-            Yaw: -30.0000057
+            Yaw: -30
           }
           Scale {
             X: 2.19999981
@@ -14606,6 +14735,15 @@ Assets {
       }
     }
     Assets {
+      Id: 1811327378576877949
+      Name: "Craftsman Porch Fence Railing 01"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_urb_sub_craftsman_porch_001_rail"
+      }
+    }
+    Assets {
       Id: 5357777918645578075
       Name: "Bricks Stone Floor Large 01"
       PlatformAssetType: 2
@@ -14711,15 +14849,6 @@ Assets {
       PrimaryAsset {
         AssetType: "VfxBlueprintAssetRef"
         AssetId: "fxbp_dust_motes"
-      }
-    }
-    Assets {
-      Id: 1811327378576877949
-      Name: "Craftsman Porch Fence Railing 01"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_urb_sub_craftsman_porch_001_rail"
       }
     }
     Assets {

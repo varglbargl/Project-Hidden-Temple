@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15335657634571388082
+        ParentId: 4781671109827199097
         ChildIds: 2962504022802470169
         ChildIds: 15369408566078970976
         ChildIds: 14995527243049380917
@@ -23573,8 +23573,8 @@ Assets {
         Name: "Rotating Cube"
         Transform {
           Location {
-            X: 2800
-            Y: -100
+            X: 2628.96484
+            Y: -32.7323
             Z: -200
           }
           Rotation {
@@ -23587,8 +23587,8 @@ Assets {
           }
         }
         ParentId: 16522834804459172093
-        ChildIds: 15798998666129565624
         ChildIds: 14031790093246091355
+        ChildIds: 17669930218937108956
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -23607,65 +23607,10 @@ Assets {
         }
       }
       Objects {
-        Id: 15798998666129565624
-        Name: "Rotate Parent Periodically"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2364235957500561854
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PauseTime"
-            Float: 2
-          }
-          Overrides {
-            Name: "cs:RotateSFX"
-            AssetReference {
-              Id: 12044346928300228689
-            }
-          }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Pitch: -90
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 11590379105393402316
-          }
-        }
-      }
-      Objects {
         Id: 14031790093246091355
         Name: "Cube"
         Transform {
           Location {
-            X: 83.3334656
-            Y: -5.96047539e-05
-            Z: 8.33325195
           }
           Rotation {
           }
@@ -23723,6 +23668,52 @@ Assets {
               LinearDamping: 0.01
             }
             BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 17669930218937108956
+        Name: "Simple Rotate Parent"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.5
+            Y: 0.5
+            Z: 0.5
+          }
+        }
+        ParentId: 2364235957500561854
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Speed"
+            Vector {
+              Z: 0.5
+            }
+          }
+          Overrides {
+            Name: "cs:IsLocal"
+            Bool: true
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 5358125184516124331
           }
         }
       }

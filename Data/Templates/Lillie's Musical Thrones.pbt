@@ -18575,7 +18575,7 @@ Assets {
           }
           Overrides {
             Name: "cs:HoldTime"
-            Float: 10
+            Float: 30
           }
           Overrides {
             Name: "cs:MoveLoopSFX"
@@ -18586,7 +18586,7 @@ Assets {
           Overrides {
             Name: "cs:StopMoveSFX"
             AssetReference {
-              Id: 1158927403088505630
+              Id: 1045389905563049773
             }
           }
         }
@@ -18745,7 +18745,7 @@ Assets {
           }
           Overrides {
             Name: "cs:HoldTime"
-            Float: 10
+            Float: 30
           }
           Overrides {
             Name: "cs:MoveLoopSFX"
@@ -18756,7 +18756,7 @@ Assets {
           Overrides {
             Name: "cs:StopMoveSFX"
             AssetReference {
-              Id: 1158927403088505630
+              Id: 1045389905563049773
             }
           }
         }
@@ -19232,12 +19232,12 @@ Assets {
       }
     }
     Assets {
-      Id: 1158927403088505630
-      Name: "Large Wooden Fortress Gate Door Shut Open Close 01 SFX"
-      PlatformAssetType: 7
+      Id: 1045389905563049773
+      Name: "Positive Bright Orchestral Fanfare Stingers Set 01"
+      PlatformAssetType: 10
       PrimaryAsset {
-        AssetType: "AudioAssetRef"
-        AssetId: "sfx_large_wooden_fortress_gate_door_shut_open_close_01_Cue_ref"
+        AssetType: "AudioBlueprintAssetRef"
+        AssetId: "abp_stinger_positive_bright_orchestral_fanfare_01_ref"
       }
     }
     PrimaryAssetId {

@@ -31,7 +31,7 @@ function initTrackList()
     trackListing.y = 10 * i + 80 * (i - 1)
     trackListing:FindChildByName("Title").text = track.name
 
-    buyButton:FindChildByType("UIText").text = "But $"..price
+    buyButton:FindChildByType("UIText").text = "Buy $"..price
     buyButton.clickedEvent:Connect(function()
       buyTrack(i)
     end)

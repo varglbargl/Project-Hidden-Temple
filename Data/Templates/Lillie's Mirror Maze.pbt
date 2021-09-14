@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 1058738463228870219
+        ParentId: 6071166010564556399
         ChildIds: 1428021014291542600
         ChildIds: 5483031232163605370
         ChildIds: 1143949325921959183
@@ -52,10 +52,10 @@ Assets {
           Location {
             X: 40.0019531
             Y: -299.989746
-            Z: 230
+            Z: 1430
           }
           Rotation {
-            Yaw: 180
+            Yaw: -179.999985
           }
           Scale {
             X: 1
@@ -93,9 +93,9 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -39.6618538
-            Y: 4.00052643
-            Z: 65.4718
+            X: -39.66185
+            Y: 4.00049591
+            Z: -1135.03442
           }
           Rotation {
             Roll: 7.62364483
@@ -153,9 +153,9 @@ Assets {
         Name: "Candle Flame VFX"
         Transform {
           Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
+            X: -41.3261566
+            Y: 3.18640924
+            Z: -1134.72241
           }
           Rotation {
           }
@@ -200,9 +200,9 @@ Assets {
         Name: "Point Light"
         Transform {
           Location {
-            X: -39.6622925
-            Y: -596.999939
-            Z: 65.4716797
+            X: -39.6622353
+            Y: -596.866699
+            Z: -1135.03467
           }
           Rotation {
             Roll: 7.62365103
@@ -260,9 +260,9 @@ Assets {
         Name: "Candle Flame VFX"
         Transform {
           Location {
-            X: -41.326355
-            Y: -596.812439
-            Z: 65.7836914
+            X: -41.3262978
+            Y: -596.679199
+            Z: -1134.72266
           }
           Rotation {
           }
@@ -527,10 +527,10 @@ Assets {
           Location {
             X: 3199.99707
             Y: -8799.99805
-            Z: 1800
+            Z: 3000
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 89.9999619
           }
           Scale {
             X: 1
@@ -689,17 +689,11 @@ Assets {
         ChildIds: 4230851079184071296
         ChildIds: 11323578045610301381
         ChildIds: 17197425225193862914
-        ChildIds: 14069871339521442403
         ChildIds: 11224914452722218904
         ChildIds: 4966492761592461071
         ChildIds: 6231694617315738024
         ChildIds: 17722633304726586469
         ChildIds: 17354242434742485671
-        ChildIds: 4480860299089913230
-        ChildIds: 3653342272218666563
-        ChildIds: 5001233752390847355
-        ChildIds: 8101525929594724672
-        ChildIds: 3828457304746201886
         ChildIds: 2874547051215377278
         ChildIds: 1638380401918542913
         ChildIds: 3549758579598655150
@@ -3348,13 +3342,13 @@ Assets {
         Transform {
           Location {
             X: -4199.99805
-            Y: 3400
+            Y: 4200
           }
           Rotation {
             Yaw: 89.9999619
           }
           Scale {
-            X: -3
+            X: -5
             Y: 1
             Z: 1
           }
@@ -3409,13 +3403,13 @@ Assets {
         Transform {
           Location {
             X: -4200
-            Y: 1000
+            Y: -600
           }
           Rotation {
             Yaw: 89.9999619
           }
           Scale {
-            X: -7
+            X: -5
             Y: 1
             Z: 1
           }
@@ -5234,67 +5228,6 @@ Assets {
         }
       }
       Objects {
-        Id: 14069871339521442403
-        Name: "Whitebox Wall 01"
-        Transform {
-          Location {
-            X: -4199.99805
-            Y: 3400
-          }
-          Rotation {
-            Yaw: -89.9999847
-          }
-          Scale {
-            X: -1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16847308559360448783
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner2:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13072369037111211217
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 11224914452722218904
         Name: "Whitebox Wall 01"
         Transform {
@@ -5482,15 +5415,14 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: -3399.99609
+            X: -4200.00195
             Y: 200
-            Z: 1200
           }
           Rotation {
-            Yaw: -1.7075472e-05
+            Yaw: -3.05175781e-05
           }
           Scale {
-            X: -4
+            X: -3
             Y: 1
             Z: 1
           }
@@ -5544,325 +5476,14 @@ Assets {
         Name: "Whitebox Wall 01"
         Transform {
           Location {
-            X: -3400.00391
+            X: -4200.00195
             Y: -599.996094
-            Z: 1200
           }
           Rotation {
-            Yaw: -1.7075472e-05
+            Yaw: -3.05175781e-05
           }
           Scale {
-            X: -4
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16847308559360448783
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner2:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13072369037111211217
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4480860299089913230
-        Name: "Whitebox Wall 01"
-        Transform {
-          Location {
-            X: -3400
-            Y: 200
-            Z: 1200
-          }
-          Rotation {
-            Yaw: 89.9999619
-          }
-          Scale {
-            X: -1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16847308559360448783
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner2:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13072369037111211217
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3653342272218666563
-        Name: "Whitebox Wall 01"
-        Transform {
-          Location {
-            X: -4200
-            Y: 200
-            Z: 600
-          }
-          Rotation {
-            Yaw: 89.9999619
-          }
-          Scale {
-            X: -1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16847308559360448783
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner2:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13072369037111211217
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5001233752390847355
-        Name: "Whitebox Wall 01"
-        Transform {
-          Location {
-            X: -4200
-            Y: 200
-            Z: 600
-          }
-          Rotation {
-            Yaw: 179.999969
-          }
-          Scale {
-            X: -1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16847308559360448783
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner2:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13072369037111211217
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8101525929594724672
-        Name: "Whitebox Wall 01"
-        Transform {
-          Location {
-            X: -3400
-            Y: 200
-            Z: 600
-          }
-          Rotation {
-            Yaw: 89.9999619
-          }
-          Scale {
-            X: -1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16847308559360448783
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_WallInner:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_WallInner2:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13072369037111211217
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3828457304746201886
-        Name: "Whitebox Wall 01"
-        Transform {
-          Location {
-            X: -4200
-            Y: -600
-            Z: 600
-          }
-          Rotation {
-            Yaw: 179.999969
-          }
-          Scale {
-            X: -1
+            X: -3
             Y: 1
             Z: 1
           }
@@ -6762,7 +6383,6 @@ Assets {
           }
         }
         ParentId: 5483031232163605370
-        ChildIds: 16497168591635942114
         ChildIds: 6661592786896668728
         ChildIds: 4577592866842291708
         ChildIds: 14359164368638859942
@@ -6787,80 +6407,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 16497168591635942114
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3999.99976
-            Y: 0.0009765625
-          }
-          Rotation {
-            Yaw: 89.9999619
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3070851646376345107
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 1
-              G: 1
-              B: 1
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -6942,7 +6488,7 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -3199.99976
+            X: -4000.00195
             Y: 0.000732421875
           }
           Rotation {
@@ -6950,7 +6496,7 @@ Assets {
           }
           Scale {
             X: 1
-            Y: 10
+            Y: 11
             Z: 1
           }
         }
@@ -7539,14 +7085,13 @@ Assets {
           Location {
             X: -6400.00391
             Y: 800
-            Z: 1199.99976
           }
           Rotation {
-            Yaw: -90.0000076
+            Yaw: -90
           }
           Scale {
             X: 1
-            Y: -4
+            Y: -3
             Z: 1
           }
         }
@@ -7632,7 +7177,6 @@ Assets {
         ChildIds: 10910182901387494037
         ChildIds: 9609847096691657951
         ChildIds: 8476829581011931554
-        ChildIds: 6707678064827257871
         ChildIds: 15809331800743953726
         ChildIds: 12639998589523705667
         ChildIds: 14044524937693174278
@@ -7660,11 +7204,10 @@ Assets {
         Transform {
           Location {
             X: -6400.00391
-            Y: 599.99707
-            Z: 1200
+            Y: 599.997131
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -7735,11 +7278,11 @@ Assets {
         Transform {
           Location {
             X: -6400.00391
-            Y: 599.99707
-            Z: 1800
+            Y: 599.997131
+            Z: 600
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -7810,11 +7353,10 @@ Assets {
         Transform {
           Location {
             X: -7200.00342
-            Y: -199.994629
-            Z: 1200
+            Y: -199.994644
           }
           Rotation {
-            Yaw: -3.41509403e-05
+            Yaw: -3.05175781e-05
           }
           Scale {
             X: 1
@@ -7997,8 +7539,7 @@ Assets {
         Transform {
           Location {
             X: -6400.00391
-            Y: 599.99707
-            Z: 1200
+            Y: 599.997131
           }
           Rotation {
             Yaw: 179.999969
@@ -8184,11 +7725,10 @@ Assets {
         Transform {
           Location {
             X: -7200
-            Y: 600.009277
-            Z: 1200
+            Y: 600.009399
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -8784,12 +8324,11 @@ Assets {
         Name: "Cobblestone Floor - Basic"
         Transform {
           Location {
-            X: -3999.99951
-            Y: 600.001
-            Z: 1200
+            X: -3999.99927
+            Y: 600.001038
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: -90
           }
           Scale {
             X: 1
@@ -8833,81 +8372,6 @@ Assets {
         }
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6707678064827257871
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3199.99951
-            Y: 600.000732
-            Z: 1200
-          }
-          Rotation {
-            Yaw: -89.9999924
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17983632220260854013
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 13204992981578163654
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 1
-              G: 1
-              B: 1
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
         }
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
@@ -9945,10 +9409,10 @@ Assets {
           Location {
             X: 3599.99609
             Y: -5399.99805
-            Z: 600
+            Z: 1800
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 89.9999619
           }
           Scale {
             X: 1

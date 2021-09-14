@@ -4504,6 +4504,7 @@ Objects {
   ChildIds: 537757700233604494
   ChildIds: 9831649856632002841
   ChildIds: 17903082255138685644
+  ChildIds: 2913414582633325049
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -4517,6 +4518,46 @@ Objects {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
   NetworkContext {
+  }
+}
+Objects {
+  Id: 2913414582633325049
+  Name: "Gramophone Track"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13861527379455086910
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5584974518430541280
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Gramophone Track"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2201528634471040723
+    }
   }
 }
 Objects {

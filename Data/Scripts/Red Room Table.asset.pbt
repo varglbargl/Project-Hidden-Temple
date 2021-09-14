@@ -29,12 +29,6 @@ Assets {
         }
       }
       Overrides {
-        Name: "cs:LilliesClockTower"
-        AssetReference {
-          Id: 16884874307988654019
-        }
-      }
-      Overrides {
         Name: "cs:LilliesJumpRope"
         AssetReference {
           Id: 5740897963797068827

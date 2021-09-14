@@ -19,6 +19,7 @@ Assets {
         ChildIds: 13957711971321091726
         ChildIds: 16045149174291904657
         ChildIds: 7280179763745225349
+        ChildIds: 3504857527529142411
         ChildIds: 4215804131510925564
         ChildIds: 6970958184935070856
         ChildIds: 2473346187190508885
@@ -79,7 +80,10 @@ Assets {
         ChildIds: 3665465189797531066
         ChildIds: 15746136601179435405
         ChildIds: 5942572237635667165
-        ChildIds: 704351041782623101
+        ChildIds: 8748276173528085411
+        ChildIds: 7333186637416840066
+        ChildIds: 3441253433385587850
+        ChildIds: 16428322476015493442
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -533,60 +537,25 @@ Assets {
         }
       }
       Objects {
-        Id: 704351041782623101
-        Name: "Underwater Post Process"
+        Id: 8748276173528085411
+        Name: "Point Light"
         Transform {
           Location {
-            X: 8129.99805
-            Y: 0.001953125
-            Z: 1620
+            X: 15520.332
+            Y: 304.006226
+            Z: -1504.52832
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: 4.78113107e-05
+            Roll: 7.62365246
           }
           Scale {
-            X: 132.750031
-            Y: 49.4999847
-            Z: 49.4999847
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 13957711971321091726
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Volume Type"
-            Enum {
-              Value: "mc:evolumetype:0"
-            }
-          }
-          Overrides {
-            Name: "bp:Enabled"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Control Fog"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Water"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Caustics"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Unbounded"
-            Bool: false
-          }
-          Overrides {
-            Name: "bp:Fog Density"
-            Float: 0.1
-          }
-          Overrides {
-            Name: "bp:Create Water Physics Volume"
-            Bool: true
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -599,11 +568,189 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 6654293907903954463
+        Light {
+          Intensity: 1
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
           }
+          CastShadows: true
+          VolumetricIntensity: 5
           TeamSettings {
+          }
+          Light {
+            UseTemperature: true
+            Temperature: 2250
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+          CastVolumetricShadows: true
+        }
+      }
+      Objects {
+        Id: 7333186637416840066
+        Name: "Candle Flame VFX"
+        Transform {
+          Location {
+            X: 15518.668
+            Y: 303.192139
+            Z: -1504.21631
+          }
+          Rotation {
+            Yaw: 4.78113143e-05
+          }
+          Scale {
+            X: 1.2696147
+            Y: 1.2696147
+            Z: 1.2696147
+          }
+        }
+        ParentId: 13957711971321091726
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9199751096616988864
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 3441253433385587850
+        Name: "Point Light"
+        Transform {
+          Location {
+            X: 15520.332
+            Y: -296.99408
+            Z: -1504.52832
+          }
+          Rotation {
+            Yaw: 4.78113107e-05
+            Roll: 7.62365246
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13957711971321091726
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Light {
+          Intensity: 1
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
+          }
+          CastShadows: true
+          VolumetricIntensity: 5
+          TeamSettings {
+          }
+          Light {
+            UseTemperature: true
+            Temperature: 2250
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+          CastVolumetricShadows: true
+        }
+      }
+      Objects {
+        Id: 16428322476015493442
+        Name: "Candle Flame VFX"
+        Transform {
+          Location {
+            X: 15518.668
+            Y: -296.807709
+            Z: -1504.21631
+          }
+          Rotation {
+            Yaw: 4.78113143e-05
+          }
+          Scale {
+            X: 1.2696147
+            Y: 1.2696147
+            Z: 1.2696147
+          }
+        }
+        ParentId: 13957711971321091726
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9199751096616988864
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
           }
         }
       }
@@ -5007,7 +5154,6 @@ Assets {
           }
         }
         ParentId: 16385746336262366293
-        ChildIds: 4030703879540331759
         ChildIds: 1880388001154381985
         ChildIds: 11946472522173152578
         ChildIds: 15216113710044072075
@@ -5025,145 +5171,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 4030703879540331759
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7440980882529688748
-        ChildIds: 13215983429414780967
-        ChildIds: 8348733638579218402
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 13215983429414780967
-        Name: "Point Light"
-        Transform {
-          Location {
-            X: -39.6618538
-            Y: 4.00052643
-            Z: 65.4718
-          }
-          Rotation {
-            Roll: 7.62364483
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4030703879540331759
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 1
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            UseTemperature: true
-            Temperature: 2250
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 8348733638579218402
-        Name: "Candle Flame VFX"
-        Transform {
-          Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.2696147
-            Y: 1.2696147
-            Z: 1.2696147
-          }
-        }
-        ParentId: 4030703879540331759
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9199751096616988864
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -5351,7 +5358,6 @@ Assets {
           }
         }
         ParentId: 16385746336262366293
-        ChildIds: 14547596501537447275
         ChildIds: 5377556970333961276
         ChildIds: 860595650129511964
         ChildIds: 14430386288592231967
@@ -5369,145 +5375,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 14547596501537447275
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1642836969234609193
-        ChildIds: 883925210751235993
-        ChildIds: 8485566297690428293
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 883925210751235993
-        Name: "Point Light"
-        Transform {
-          Location {
-            X: -39.6618538
-            Y: 3.00009918
-            Z: 65.4718
-          }
-          Rotation {
-            Roll: 7.62364483
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14547596501537447275
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 1
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            UseTemperature: true
-            Temperature: 2250
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 8485566297690428293
-        Name: "Candle Flame VFX"
-        Transform {
-          Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.2696147
-            Y: 1.2696147
-            Z: 1.2696147
-          }
-        }
-        ParentId: 14547596501537447275
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9199751096616988864
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -5851,6 +5718,82 @@ Assets {
         Script {
           ScriptAsset {
             Id: 8444791404671351136
+          }
+        }
+      }
+      Objects {
+        Id: 3504857527529142411
+        Name: "Underwater Post Process"
+        Transform {
+          Location {
+            X: 8129.99854
+            Y: 0.001953125
+            Z: 1620
+          }
+          Rotation {
+            Yaw: -179.999954
+          }
+          Scale {
+            X: 132.750031
+            Y: 49.4999847
+            Z: 49.4999847
+          }
+        }
+        ParentId: 16867532978881284020
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Volume Type"
+            Enum {
+              Value: "mc:evolumetype:0"
+            }
+          }
+          Overrides {
+            Name: "bp:Enabled"
+            Bool: true
+          }
+          Overrides {
+            Name: "bp:Control Fog"
+            Bool: true
+          }
+          Overrides {
+            Name: "bp:Water"
+            Bool: true
+          }
+          Overrides {
+            Name: "bp:Caustics"
+            Bool: true
+          }
+          Overrides {
+            Name: "bp:Unbounded"
+            Bool: false
+          }
+          Overrides {
+            Name: "bp:Fog Density"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "bp:Create Water Physics Volume"
+            Bool: true
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 6654293907903954463
+          }
+          TeamSettings {
           }
         }
       }
@@ -7212,15 +7155,6 @@ Assets {
       }
     }
     Assets {
-      Id: 6654293907903954463
-      Name: "Underwater Post Process"
-      PlatformAssetType: 20
-      PrimaryAsset {
-        AssetType: "BlueprintAssetRef"
-        AssetId: "fxbp_post_process_water"
-      }
-    }
-    Assets {
       Id: 7207757223016895409
       Name: "Whitebox Floor 01 8m x 8m"
       PlatformAssetType: 1
@@ -7380,6 +7314,15 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "fxma_add_edgeline_local"
+      }
+    }
+    Assets {
+      Id: 6654293907903954463
+      Name: "Underwater Post Process"
+      PlatformAssetType: 20
+      PrimaryAsset {
+        AssetType: "BlueprintAssetRef"
+        AssetId: "fxbp_post_process_water"
       }
     }
     Assets {

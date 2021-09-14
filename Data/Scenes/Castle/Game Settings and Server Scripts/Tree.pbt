@@ -1,6 +1,90 @@
 Name: "Game Settings and Server Scripts"
 RootId: 10101019267138098118
 Objects {
+  Id: 6688796403267927012
+  Name: "Global Killzone"
+  Transform {
+    Location {
+      Z: -19600
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1000
+      Y: 1000
+      Z: 100
+    }
+  }
+  ParentId: 10101019267138098118
+  ChildIds: 9031182768168277210
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+}
+Objects {
+  Id: 9031182768168277210
+  Name: "Kill Zone"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.001
+      Y: 0.001
+      Z: 0.01
+    }
+  }
+  ParentId: 6688796403267927012
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:CauseOfDeath"
+      String: "fell out of the world somehow. Sorry"
+    }
+    Overrides {
+      Name: "cs:KillFeedIcon"
+      AssetReference {
+        Id: 16379365141760518327
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1088534770586260933
+    }
+  }
+}
+Objects {
   Id: 16066586634770074488
   Name: "Exit Trigger"
   Transform {
