@@ -2,7 +2,7 @@ Assets {
   Id: 14769195754117429997
   Name: "Bear Rug"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 7676186691253272585
     ParameterOverrides {

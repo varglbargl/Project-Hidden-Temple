@@ -2,7 +2,7 @@ Assets {
   Id: 5903439781401528710
   Name: "Invisobridge"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 5839341999842892544
     ParameterOverrides {

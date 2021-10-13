@@ -2,7 +2,7 @@ Assets {
   Id: 5206664244653592263
   Name: "Custom Burning Wood"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 16325962649651067789
     ParameterOverrides {

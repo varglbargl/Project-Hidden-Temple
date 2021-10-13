@@ -2,7 +2,7 @@ Assets {
   Id: 574911985367105978
   Name: "Wood Raw Sideways"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 12446131267530965574
     ParameterOverrides {
