@@ -2,7 +2,7 @@ Assets {
   Id: 3692237107628534099
   Name: "Composite Forest Floor/Dirt"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 12312014821452986176
     ParameterOverrides {

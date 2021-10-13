@@ -1101,7 +1101,7 @@ Assets {
     }
     Assets {
       Id: 7397752722716540826
-      Name: "Japanese Bamboo Hat - Tassle 01"
+      Name: "Japanese Bamboo Hat - Tassel 01"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
@@ -1113,6 +1113,6 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 98
+  SerializationVersion: 100
   VirtualFolderPath: "Treasure"
 }

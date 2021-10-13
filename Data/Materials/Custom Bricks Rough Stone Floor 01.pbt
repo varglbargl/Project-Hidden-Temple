@@ -2,7 +2,7 @@ Assets {
   Id: 9919644819108266555
   Name: "Rough Stone Ceiling"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 4477461061603951212
     ParameterOverrides {
