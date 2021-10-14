@@ -101055,7 +101055,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 98
+  SerializationVersion: 100
   VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Red Rooms"
 }

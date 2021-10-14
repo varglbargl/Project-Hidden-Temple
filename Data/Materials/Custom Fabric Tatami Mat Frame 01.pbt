@@ -2,7 +2,7 @@ Assets {
   Id: 6320445589666709169
   Name: "Custom Fabric Tatami Mat Frame 01"
   PlatformAssetType: 13
-  SerializationVersion: 98
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 15573660551766821843
     ParameterOverrides {

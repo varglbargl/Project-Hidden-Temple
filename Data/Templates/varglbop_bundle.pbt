@@ -40,5 +40,5 @@ Assets {
     Version: "1.0.0"
     Description: "the music player i use\r\n\r\nprivate cc"
   }
-  SerializationVersion: 98
+  SerializationVersion: 100
 }
