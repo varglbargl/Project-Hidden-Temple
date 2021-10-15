@@ -3349,60 +3349,6 @@ Objects {
   }
 }
 Objects {
-  Id: 80857551898072717
-  Name: "Under Construction Sign"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9782066360429591230
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 13029196587520657763
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Under Construction Sign"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2369.77905
-            Y: 18.2483521
-            Z: -10.3489914
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999969
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17100281697435951109
-    }
-  }
-}
-Objects {
   Id: 15149453933918273885
   Name: "Cobblestone Floor - Basic"
   Transform {

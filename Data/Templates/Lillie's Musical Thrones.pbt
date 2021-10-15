@@ -137,15 +137,7 @@ Assets {
         ChildIds: 7300302221587238971
         ChildIds: 13546526311843208161
         ChildIds: 14191074161147414900
-        ChildIds: 7635682265229049466
-        ChildIds: 9553775836441011511
-        ChildIds: 14142307988544816882
-        ChildIds: 3648116039464946933
-        ChildIds: 10007151750624350761
-        ChildIds: 13759707074720641893
-        ChildIds: 17965886545346154498
         ChildIds: 5617558265775661231
-        ChildIds: 8768903937491195951
         ChildIds: 4074538828233772591
         ChildIds: 13715403171398855452
         ChildIds: 3759520322266006073
@@ -222,8 +214,8 @@ Assets {
           Overrides {
             Name: "ma:Building_Floor:color"
             Color {
-              R: 0.0146668628
-              B: 0.88
+              R: 0.929999948
+              G: 4.43458532e-07
               A: 1
             }
           }
@@ -311,8 +303,8 @@ Assets {
           Overrides {
             Name: "ma:Building_Ceiling:color"
             Color {
-              R: 0.929999948
-              G: 4.43458532e-07
+              R: 0.0146668628
+              B: 0.88
               A: 1
             }
           }
@@ -974,7 +966,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1040,7 +1032,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1106,7 +1098,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1172,7 +1164,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1237,7 +1229,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1303,7 +1295,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1369,7 +1361,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1435,7 +1427,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1501,7 +1493,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1567,7 +1559,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -1633,7 +1625,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -3265,7 +3257,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3331,7 +3323,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3397,7 +3389,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3463,7 +3455,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3529,7 +3521,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3595,7 +3587,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3660,7 +3652,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3726,7 +3718,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3792,7 +3784,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3858,7 +3850,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -3923,7 +3915,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -4561,573 +4553,6 @@ Assets {
         }
       }
       Objects {
-        Id: 7635682265229049466
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2100
-            Y: -1200
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9553775836441011511
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1300
-            Y: -1200
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14142307988544816882
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -500
-            Y: -1200
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3648116039464946933
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1300
-            Y: -400
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10007151750624350761
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -500
-            Y: -400
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13759707074720641893
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -500
-            Y: 400
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17965886545346154498
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1300
-            Y: 400
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 5617558265775661231
         Name: "Cobblestone Floor - Basic"
         Transform {
@@ -5139,8 +4564,8 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
+            X: 3
+            Y: 3
             Z: 1
           }
         }
@@ -5159,96 +4584,7 @@ Assets {
           Overrides {
             Name: "ma:Building_Floor:id"
             AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.929999948
-              G: 4.43458532e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8768903937491195951
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2100
-            Y: -400
-            Z: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12896898527339021810
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 1225510676430338209
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.0146668628
-              B: 0.88
-              A: 1
+              Id: 15086047187098665940
             }
           }
           Overrides {
@@ -6050,7 +5386,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -6093,7 +5429,7 @@ Assets {
         Transform {
           Location {
             X: -1800
-            Z: -750
+            Z: -800
           }
           Rotation {
             Yaw: -179.999985
@@ -6101,7 +5437,7 @@ Assets {
           Scale {
             X: 0.35
             Y: 1
-            Z: 1.30000007
+            Z: 1.383
           }
         }
         ParentId: 12896898527339021810
@@ -6115,7 +5451,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 6819118484910931152
             }
           }
           Overrides {
@@ -6180,7 +5516,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -6223,7 +5559,7 @@ Assets {
         Transform {
           Location {
             X: -50
-            Z: -750
+            Z: -800
           }
           Rotation {
             Yaw: 179.999954
@@ -6231,7 +5567,7 @@ Assets {
           Scale {
             X: -0.416928768
             Y: 1
-            Z: 1.30000007
+            Z: 1.383
           }
         }
         ParentId: 12896898527339021810
@@ -6245,7 +5581,7 @@ Assets {
           Overrides {
             Name: "ma:Building_WallInner:id"
             AssetReference {
-              Id: 11285893105667392768
+              Id: 9909030210924749722
             }
           }
           Overrides {
@@ -7574,24 +6910,15 @@ Assets {
         }
         ParentId: 9890660379515197065
         ChildIds: 7181124595354818268
-        ChildIds: 14565312565347960240
-        ChildIds: 11096617340478978005
-        ChildIds: 16656188709468147457
-        ChildIds: 8659934045702964413
-        ChildIds: 7185086535554553322
-        ChildIds: 14232399515318038432
-        ChildIds: 8730241996007078407
-        ChildIds: 7854521101955541796
-        ChildIds: 16953159779472414979
-        ChildIds: 11165941339560376361
-        ChildIds: 2757022936758993988
-        ChildIds: 17333914796352972450
-        ChildIds: 15713430247524758788
-        ChildIds: 1266758340885953747
-        ChildIds: 9955603008707074465
-        ChildIds: 952576689602130813
-        ChildIds: 443428590095743239
-        ChildIds: 4050352557125218979
+        ChildIds: 4042834353564077665
+        ChildIds: 11606063736017774816
+        ChildIds: 5797219798623434526
+        ChildIds: 9950232173734595435
+        ChildIds: 13913655308578604883
+        ChildIds: 11820207972707623603
+        ChildIds: 3355310265794951844
+        ChildIds: 13414895741370984333
+        ChildIds: 13967682336761387787
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7656,11 +6983,832 @@ Assets {
         }
       }
       Objects {
-        Id: 14565312565347960240
-        Name: "Gem - Diamond 8-Sided Polished"
+        Id: 4042834353564077665
+        Name: "Trigger"
         Transform {
           Location {
-            Z: -20
+            X: 518.313782
+            Y: -519.018
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: 135
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 7829810721705784772
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 7829810721705784772
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6112556
+            Y: -0.497474641
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4042834353564077665
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 4042834353564077665
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 11606063736017774816
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: 690.611267
+            Y: -0.498046845
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: 179.999954
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 5173467816095997508
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 5173467816095997508
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6112823
+            Y: -0.496925443
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11606063736017774816
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 11606063736017774816
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 5797219798623434526
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: 0.498589367
+            Y: 690.61084
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: -89.999939
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 8991472138750335474
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 8991472138750335474
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6108856
+            Y: -0.497695059
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5797219798623434526
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 5797219798623434526
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 9950232173734595435
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: -0.498589367
+            Y: -690.61084
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: 89.9999771
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 891341314295400517
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 891341314295400517
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6108856
+            Y: -0.497618765
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9950232173734595435
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 9950232173734595435
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 13913655308578604883
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: 469.018799
+            Y: 468.313782
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: -135
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 3035228944534166416
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 3035228944534166416
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6116333
+            Y: -0.497279674
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13913655308578604883
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 13913655308578604883
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 11820207972707623603
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: -508.358521
+            Y: -507.654053
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: 45.0000114
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 8933086092795375134
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 8933086092795375134
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6116295
+            Y: -0.497291327
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11820207972707623603
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 11820207972707623603
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 3355310265794951844
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: -457.653503
+            Y: 458.358276
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: -44.9999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 1410238803872990379
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 1410238803872990379
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6112442
+            Y: -0.497477829
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3355310265794951844
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 3355310265794951844
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 13414895741370984333
+        Name: "Trigger"
+        Transform {
+          Location {
+            X: -690.611267
+            Y: 0.498046845
+            Z: 219.999985
+          }
+          Rotation {
+            Yaw: 3.75660311e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 7757828523310493938
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          Interactable: true
+          InteractionLabel: "Sit"
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 7757828523310493938
+        Name: "Simple Sittable Chair"
+        Transform {
+          Location {
+            X: 50.6112976
+            Y: -0.496994942
+            Z: -34.9999962
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13414895741370984333
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 13414895741370984333
+            }
+          }
+          Overrides {
+            Name: "cs:SittingStance"
+            String: "unarmed_sit_chair_upright"
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 9804945165610059894
+          }
+        }
+      }
+      Objects {
+        Id: 13967682336761387787
+        Name: "StaticContext"
+        Transform {
+          Location {
+            Z: -50
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 4698408095454115384
+        ChildIds: 14565312565347960240
+        ChildIds: 11096617340478978005
+        ChildIds: 16656188709468147457
+        ChildIds: 8659934045702964413
+        ChildIds: 14232399515318038432
+        ChildIds: 7854521101955541796
+        ChildIds: 500443514668984190
+        ChildIds: 12276651050358589528
+        ChildIds: 8903846100482728692
+        ChildIds: 14435889260957271398
+        ChildIds: 6820586626740744890
+        ChildIds: 5283439426088295247
+        ChildIds: 8625137648393669291
+        ChildIds: 11595831959827960399
+        ChildIds: 8970116082597284102
+        ChildIds: 8119102419904315327
+        ChildIds: 16908201828784910417
+        ChildIds: 6062562747304982813
+        ChildIds: 4048596601784634752
+        ChildIds: 11404078585716612682
+        ChildIds: 13515681920416869304
+        ChildIds: 5542866157956524733
+        ChildIds: 4050352557125218979
+        ChildIds: 7220399381308978398
+        ChildIds: 9458109398113675130
+        ChildIds: 9114108780878669321
+        ChildIds: 18181508668838894718
+        ChildIds: 71490771046857287
+        ChildIds: 10194583974860611276
+        ChildIds: 14690787096497876288
+        ChildIds: 1471990135915830988
+        ChildIds: 9108335825489939004
+        ChildIds: 4075852395936845684
+        ChildIds: 4481138056367164399
+        ChildIds: 5986246827029401305
+        ChildIds: 4119844401626571948
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+          Type: RuntimeStatic
+        }
+      }
+      Objects {
+        Id: 14565312565347960240
+        Name: "Cylinder - 2-Toned"
+        Transform {
+          Location {
+            Z: 29.9999981
           }
           Rotation {
             Yaw: -1.02452796e-05
@@ -7671,7 +7819,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -7718,7 +7866,6 @@ Assets {
             Float: 5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7753,7 +7900,7 @@ Assets {
         Name: "Cone - Truncated Hollow Concave"
         Transform {
           Location {
-            Z: 27.7777767
+            Z: 77.777771
           }
           Rotation {
           }
@@ -7763,20 +7910,36 @@ Assets {
             Z: 7.40740585
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6667281334460469440
+              Id: 12231274423268622336
             }
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
             Bool: false
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 3
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.0247371923
+              G: 0.212609842
+              B: 0.65098
+              A: 1
+            }
+          }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7808,10 +7971,10 @@ Assets {
       }
       Objects {
         Id: 16656188709468147457
-        Name: "Capsule"
+        Name: "Cylinder"
         Transform {
           Location {
-            Z: 999.999939
+            Z: 1049.99988
           }
           Rotation {
           }
@@ -7821,12 +7984,12 @@ Assets {
             Z: 17.6666641
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8393677721873555419
+              Id: 14804307918823957701
             }
           }
           Overrides {
@@ -7838,7 +8001,6 @@ Assets {
             Float: 5.70897293
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7870,29 +8032,28 @@ Assets {
       }
       Objects {
         Id: 8659934045702964413
-        Name: "Cone - Truncated Hollow Concave"
+        Name: "Ring Thin - Large"
         Transform {
           Location {
+            Z: -22.326931
           }
           Rotation {
-            Roll: -89.9999924
           }
           Scale {
-            X: 3.77777815
-            Y: 3.77777815
-            Z: 3.77777815
+            X: 2.19600153
+            Y: 2.19600153
+            Z: 4.28276968
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6667281334460469440
+              Id: 13674719708830618715
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -7907,62 +8068,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11740110936718841543
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7185086535554553322
-        Name: "Cone - Truncated Hollow Concave"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Yaw: -179.999985
-            Roll: -89.9999847
-          }
-          Scale {
-            X: 3.77777815
-            Y: 3.77777815
-            Z: 3.77777815
-          }
-        }
-        ParentId: 4698408095454115384
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 6667281334460469440
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11740110936718841543
+            Id: 3917315913780656534
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -7979,31 +8085,28 @@ Assets {
       }
       Objects {
         Id: 14232399515318038432
-        Name: "Cone - Truncated Hollow Concave"
+        Name: "Ring Thin - Large"
         Transform {
           Location {
-            Z: -55.5555534
+            Z: 67.7029
           }
           Rotation {
-            Yaw: -179.999969
-            Roll: -89.9999847
           }
           Scale {
-            X: 10.1111021
-            Y: 10.1111021
-            Z: 10.1111021
+            X: 0.754487336
+            Y: 0.754487336
+            Z: 0.998180926
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6667281334460469440
+              Id: 13674719708830618715
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8018,62 +8121,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11740110936718841543
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8730241996007078407
-        Name: "Cone - Truncated Hollow Concave"
-        Transform {
-          Location {
-            Z: -55.5555534
-          }
-          Rotation {
-            Roll: -89.9999924
-          }
-          Scale {
-            X: 10.1111021
-            Y: 10.1111021
-            Z: 10.1111021
-          }
-        }
-        ParentId: 4698408095454115384
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 6667281334460469440
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11740110936718841543
+            Id: 3917315913780656534
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -8090,30 +8138,28 @@ Assets {
       }
       Objects {
         Id: 7854521101955541796
-        Name: "Cone - Truncated Hollow Concave"
+        Name: "Ring Thin - Large"
         Transform {
           Location {
-            Z: 361.111084
+            Z: 449.358704
           }
           Rotation {
-            Roll: -89.9999924
           }
           Scale {
-            X: 1.44444442
-            Y: 4.11111069
-            Z: 1.44444442
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6667281334460469440
+              Id: 13674719708830618715
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8128,7 +8174,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11740110936718841543
+            Id: 3917315913780656534
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -8141,99 +8187,6 @@ Assets {
             }
             BoundsScale: 1
           }
-        }
-      }
-      Objects {
-        Id: 16953159779472414979
-        Name: "Cone - Truncated Hollow Concave"
-        Transform {
-          Location {
-            Z: 361.111084
-          }
-          Rotation {
-            Yaw: -179.999969
-            Roll: -89.9999847
-          }
-          Scale {
-            X: 1.44444442
-            Y: 4.11111069
-            Z: 1.44444442
-          }
-        }
-        ParentId: 4698408095454115384
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 6667281334460469440
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11740110936718841543
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11165941339560376361
-        Name: "Group"
-        Transform {
-          Location {
-            X: -749.999939
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 500443514668984190
-        ChildIds: 12276651050358589528
-        ChildIds: 4713047793169699689
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
         }
       }
       Objects {
@@ -8241,12 +8194,11 @@ Assets {
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            X: 49.9999962
-            Y: 2.11927618e-05
-            Z: -99.9999924
+            X: -699.999939
+            Z: 49.9999962
           }
           Rotation {
-            Yaw: 1.36603776e-05
+            Yaw: 1.36603758e-05
           }
           Scale {
             X: 4.99999905
@@ -8254,7 +8206,7 @@ Assets {
             Z: 2
           }
         }
-        ParentId: 11165941339560376361
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8284,7 +8236,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8320,6 +8271,8 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            X: -749.999939
+            Z: 149.999985
           }
           Rotation {
             Yaw: -89.9999466
@@ -8330,8 +8283,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 11165941339560376361
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8362,417 +8314,24 @@ Assets {
         }
       }
       Objects {
-        Id: 4713047793169699689
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            X: 59.9999962
-            Y: 2.96698654e-05
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: 3.75660384e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 11165941339560376361
-        ChildIds: 13414895741370984333
-        ChildIds: 7757828523310493938
-        ChildIds: 18173363853338726243
-        ChildIds: 11936873437711141938
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 13414895741370984333
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4713047793169699689
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 7757828523310493938
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4713047793169699689
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 13414895741370984333
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 18173363853338726243
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 4713047793169699689
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11936873437711141938
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4713047793169699689
-        ChildIds: 13776247528135922684
-        ChildIds: 7418365464340049695
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 13776247528135922684
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 11936873437711141938
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7418365464340049695
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 11936873437711141938
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2757022936758993988
-        Name: "Group"
-        Transform {
-          Location {
-            X: 749.999939
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 8903846100482728692
-        ChildIds: 14435889260957271398
-        ChildIds: 7933032414835998105
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 8903846100482728692
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            X: -49.9989128
-            Y: 0.00394609198
-            Z: -99.9999924
+            X: 700.001038
+            Y: 0.00434027752
+            Z: 49.9999962
           }
           Rotation {
             Yaw: 179.999924
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 2757022936758993988
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -8802,7 +8361,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8838,6 +8396,8 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            X: 749.999939
+            Z: 149.999985
           }
           Rotation {
             Yaw: 89.9999542
@@ -8848,8 +8408,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2757022936758993988
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8880,416 +8439,23 @@ Assets {
         }
       }
       Objects {
-        Id: 7933032414835998105
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            X: -59.9999962
-            Y: 4.66240745e-05
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: 179.999954
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2757022936758993988
-        ChildIds: 11606063736017774816
-        ChildIds: 5173467816095997508
-        ChildIds: 2535847553900863599
-        ChildIds: 16728484609684755521
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 11606063736017774816
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7933032414835998105
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 5173467816095997508
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7933032414835998105
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 11606063736017774816
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 2535847553900863599
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 7933032414835998105
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16728484609684755521
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7933032414835998105
-        ChildIds: 15504420749736204788
-        ChildIds: 16037227101830665249
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 15504420749736204788
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16728484609684755521
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16037227101830665249
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 16728484609684755521
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17333914796352972450
-        Name: "Group"
-        Transform {
-          Location {
-            Y: 749.999939
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 6820586626740744890
-        ChildIds: 5283439426088295247
-        ChildIds: 16034108309589334273
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 6820586626740744890
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            Y: -49.9999962
-            Z: -99.9999924
+            Y: 699.999939
+            Z: 49.9999962
           }
           Rotation {
-            Yaw: -89.9999619
+            Yaw: -89.9999542
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 17333914796352972450
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9319,7 +8485,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9355,6 +8520,8 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            Y: 749.999939
+            Z: 149.999985
           }
           Rotation {
             Yaw: -179.999954
@@ -9365,8 +8532,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17333914796352972450
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9397,416 +8563,24 @@ Assets {
         }
       }
       Objects {
-        Id: 16034108309589334273
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            Y: -59.9999962
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: -89.999939
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17333914796352972450
-        ChildIds: 5797219798623434526
-        ChildIds: 8991472138750335474
-        ChildIds: 15498537319031392630
-        ChildIds: 16432052782600739961
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 5797219798623434526
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16034108309589334273
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 8991472138750335474
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16034108309589334273
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 5797219798623434526
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 15498537319031392630
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 16034108309589334273
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16432052782600739961
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16034108309589334273
-        ChildIds: 164640131577061194
-        ChildIds: 10196623926979285744
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 164640131577061194
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16432052782600739961
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10196623926979285744
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 16432052782600739961
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15713430247524758788
-        Name: "Group"
-        Transform {
-          Location {
-            Y: -749.999939
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 8625137648393669291
-        ChildIds: 11595831959827960399
-        ChildIds: 6379226735971329078
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 8625137648393669291
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
             X: 0.00379774277
-            Y: 49.9990463
-            Z: -99.9999924
+            Y: -700.001038
+            Z: 49.9999962
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 89.9999542
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 15713430247524758788
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -9836,7 +8610,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9872,6 +8645,8 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            Y: -749.999939
+            Z: 149.999985
           }
           Rotation {
           }
@@ -9881,8 +8656,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 15713430247524758788
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9913,417 +8687,24 @@ Assets {
         }
       }
       Objects {
-        Id: 6379226735971329078
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            Y: 59.9999962
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: 89.9999924
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15713430247524758788
-        ChildIds: 9950232173734595435
-        ChildIds: 891341314295400517
-        ChildIds: 17683797826538064492
-        ChildIds: 16595157215705236755
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 9950232173734595435
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6379226735971329078
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 891341314295400517
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6379226735971329078
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 9950232173734595435
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 17683797826538064492
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 6379226735971329078
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16595157215705236755
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6379226735971329078
-        ChildIds: 6497670017290429138
-        ChildIds: 7175755894781846612
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 6497670017290429138
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16595157215705236755
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7175755894781846612
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 16595157215705236755
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1266758340885953747
-        Name: "Group"
-        Transform {
-          Location {
-            X: 510.660248
-            Y: 510.659698
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 8970116082597284102
-        ChildIds: 8119102419904315327
-        ChildIds: 13753073966666291407
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 8970116082597284102
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            X: -10.660264
-            Y: -10.660162
-            Z: -99.9999924
+            X: 499.999969
+            Y: 499.999969
+            Z: 49.9999962
           }
           Rotation {
             Yaw: -135.000015
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 1266758340885953747
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10353,7 +8734,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10389,6 +8769,9 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            X: 510.660248
+            Y: 510.659698
+            Z: 149.999985
           }
           Rotation {
             Yaw: 135
@@ -10399,8 +8782,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 1266758340885953747
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10431,418 +8813,24 @@ Assets {
         }
       }
       Objects {
-        Id: 13753073966666291407
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            X: -42.4262123
-            Y: -42.4264145
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: -135
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1266758340885953747
-        ChildIds: 13913655308578604883
-        ChildIds: 3035228944534166416
-        ChildIds: 15405665914168537633
-        ChildIds: 2929810087373382355
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 13913655308578604883
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13753073966666291407
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 3035228944534166416
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13753073966666291407
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 13913655308578604883
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 15405665914168537633
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 13753073966666291407
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2929810087373382355
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13753073966666291407
-        ChildIds: 6347888490699670453
-        ChildIds: 5620946566966809488
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 6347888490699670453
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2929810087373382355
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5620946566966809488
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 2929810087373382355
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9955603008707074465
-        Name: "Group"
-        Transform {
-          Location {
-            X: -549.999939
-            Y: -549.999939
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 16908201828784910417
-        ChildIds: 6062562747304982813
-        ChildIds: 1518296376334599911
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 16908201828784910417
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            X: 49.9999962
-            Y: 49.9999962
-            Z: -99.9999924
+            X: -499.999969
+            Y: -499.999969
+            Z: 49.9999962
           }
           Rotation {
             Yaw: 44.9999847
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 9955603008707074465
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -10872,7 +8860,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10908,6 +8895,9 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            X: -549.999939
+            Y: -549.999939
+            Z: 149.999985
           }
           Rotation {
             Yaw: -44.9999924
@@ -10918,8 +8908,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 9955603008707074465
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -10950,418 +8939,24 @@ Assets {
         }
       }
       Objects {
-        Id: 1518296376334599911
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            X: 42.4262123
-            Y: 42.4264145
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: 45.0000114
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9955603008707074465
-        ChildIds: 11820207972707623603
-        ChildIds: 8933086092795375134
-        ChildIds: 16873608250065049406
-        ChildIds: 13575907934520924179
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 11820207972707623603
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1518296376334599911
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 8933086092795375134
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1518296376334599911
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 11820207972707623603
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 16873608250065049406
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 1518296376334599911
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13575907934520924179
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1518296376334599911
-        ChildIds: 14138055916297010005
-        ChildIds: 3471558812582456487
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 14138055916297010005
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13575907934520924179
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3471558812582456487
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 13575907934520924179
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 952576689602130813
-        Name: "Group"
-        Transform {
-          Location {
-            X: 560.660217
-            Y: -560.659668
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 4048596601784634752
-        ChildIds: 11404078585716612682
-        ChildIds: 9491280508382590772
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 4048596601784634752
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            X: -60.6602592
-            Y: 60.6601601
-            Z: -99.9999924
+            X: 499.999969
+            Y: -499.999969
+            Z: 49.9999962
           }
           Rotation {
             Yaw: 134.999969
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 952576689602130813
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11391,7 +8986,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11427,6 +9021,9 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            X: 560.660217
+            Y: -560.659668
+            Z: 149.999985
           }
           Rotation {
             Yaw: 44.9999924
@@ -11437,8 +9034,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 952576689602130813
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11469,416 +9065,24 @@ Assets {
         }
       }
       Objects {
-        Id: 9491280508382590772
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            X: -42.4262123
-            Y: 42.4264145
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: 135
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 952576689602130813
-        ChildIds: 4042834353564077665
-        ChildIds: 7829810721705784772
-        ChildIds: 6455775499432689404
-        ChildIds: 12471427641936320227
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 4042834353564077665
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9491280508382590772
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 7829810721705784772
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9491280508382590772
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 4042834353564077665
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 6455775499432689404
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 9491280508382590772
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12471427641936320227
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9491280508382590772
-        ChildIds: 9533982840397190744
-        ChildIds: 11539061296152138334
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 9533982840397190744
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12471427641936320227
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11539061296152138334
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 12471427641936320227
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 443428590095743239
-        Name: "Group"
-        Transform {
-          Location {
-            X: -499.999969
-            Y: 499.999969
-            Z: 99.9999924
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4698408095454115384
-        ChildIds: 13515681920416869304
-        ChildIds: 5542866157956524733
-        ChildIds: 14696795597943382692
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 13515681920416869304
         Name: "Gem - Diamond 8-Sided Polished"
         Transform {
           Location {
-            Z: -99.9999924
+            X: -499.999969
+            Y: 499.999969
+            Z: 49.9999962
           }
           Rotation {
-            Yaw: -45.0000229
+            Yaw: -45.0000191
           }
           Scale {
-            X: 4.99999952
-            Y: 4.99999952
+            X: 4.99999905
+            Y: 4.99999905
             Z: 2
           }
         }
-        ParentId: 443428590095743239
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -11908,7 +9112,6 @@ Assets {
             Float: 1
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11944,6 +9147,9 @@ Assets {
         Name: "Fantasy Throne 01"
         Transform {
           Location {
+            X: -499.999969
+            Y: 499.999969
+            Z: 149.999985
           }
           Rotation {
             Yaw: -135
@@ -11954,8 +9160,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 443428590095743239
-        WantsNetworking: true
+        ParentId: 13967682336761387787
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -11986,367 +9191,11 @@ Assets {
         }
       }
       Objects {
-        Id: 14696795597943382692
-        Name: "Sittable Chair Trigger"
-        Transform {
-          Location {
-            X: 42.4262123
-            Y: -42.4264145
-            Z: 9.99999905
-          }
-          Rotation {
-            Yaw: -44.9999924
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 443428590095743239
-        ChildIds: 3355310265794951844
-        ChildIds: 1410238803872990379
-        ChildIds: 13517485532562701630
-        ChildIds: 5830739202207713339
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 3355310265794951844
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498535156
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14696795597943382692
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          Interactable: true
-          InteractionLabel: "Sit"
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 1410238803872990379
-        Name: "Simple Sittable Chair"
-        Transform {
-          Location {
-            X: 50
-            Y: 0.000942230225
-            Z: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14696795597943382692
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 3355310265794951844
-            }
-          }
-          Overrides {
-            Name: "cs:SittingStance"
-            String: "unarmed_sit_chair_upright"
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9804945165610059894
-          }
-        }
-      }
-      Objects {
-        Id: 13517485532562701630
-        Name: "Plane 1m - One Sided"
-        Transform {
-          Location {
-            X: 49.3886719
-            Y: 0.498046875
-          }
-          Rotation {
-            Pitch: -20
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-        ParentId: 14696795597943382692
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 16048367406070731799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5830739202207713339
-        Name: "ClientContext"
-        Transform {
-          Location {
-            X: -0.611328125
-            Y: 0.498046815
-            Z: 110
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14696795597943382692
-        ChildIds: 8707272832721470930
-        ChildIds: 10099085176238779628
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 8707272832721470930
-        Name: "Craftsman Dining Chair"
-        Transform {
-          Location {
-            X: -47.766716
-            Y: -0.670688629
-            Z: -110
-          }
-          Rotation {
-            Yaw: -90
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5830739202207713339
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 11452126672691922020
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10099085176238779628
-        Name: "Military Sandbag 02"
-        Transform {
-          Location {
-            X: 45.3673782
-            Y: -0.911136627
-            Z: -130.816895
-          }
-          Rotation {
-            Yaw: -4.18780518
-          }
-          Scale {
-            X: 0.459666342
-            Y: 0.946180046
-            Z: 0.348138213
-          }
-        }
-        ParentId: 5830739202207713339
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10793320870014566179
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.333
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.3
-              A: 1
-            }
-          }
-        }
-        Lifespan: 0.001
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5906076877227777947
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 4050352557125218979
         Name: "Cylinder - 2-Toned"
         Transform {
           Location {
-            Z: 1888.88879
+            Z: 1938.88879
           }
           Rotation {
           }
@@ -12356,7 +9205,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4698408095454115384
+        ParentId: 13967682336761387787
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -12403,7 +9252,6 @@ Assets {
             Float: 5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -12419,6 +9267,695 @@ Assets {
         CoreMesh {
           MeshAsset {
             Id: 17819376521619369996
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 7220399381308978398
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1890.25867
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9458109398113675130
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1549.99988
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9114108780878669321
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 772.222168
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 18181508668838894718
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 661.111084
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 71490771046857287
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 549.999939
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10194583974860611276
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 883.333252
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 14690787096497876288
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 994.444397
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 1471990135915830988
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1105.55554
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 9108335825489939004
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1216.66663
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4075852395936845684
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1327.77771
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4481138056367164399
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1438.88879
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 5986246827029401305
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1661.11096
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 4119844401626571948
+        Name: "Ring Thin - Large"
+        Transform {
+          Location {
+            Z: 1772.22217
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.29624784
+            Y: 0.29624784
+            Z: 0.29624784
+          }
+        }
+        ParentId: 13967682336761387787
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13674719708830618715
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 3917315913780656534
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -19025,12 +16562,39 @@ Assets {
       }
     }
     Assets {
+      Id: 6819118484910931152
+      Name: "Wallpaper Stars 01"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_gen_wallpaper_005"
+      }
+    }
+    Assets {
       Id: 11285893105667392768
       Name: "Vinyl Floor Stars 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_urb_vinyl_floor_002_uv_ref"
+      }
+    }
+    Assets {
+      Id: 9909030210924749722
+      Name: "Wallpaper Japanese Triangles 01"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_jpn_wallpaper_triangles_001_uv_ref"
+      }
+    }
+    Assets {
+      Id: 15086047187098665940
+      Name: "Vinyl Floor Diamond 02"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_urb_vinyl_floor_004_uv_ref"
       }
     }
     Assets {
@@ -19115,12 +16679,12 @@ Assets {
       }
     }
     Assets {
-      Id: 6667281334460469440
-      Name: "Wallpaper Moroccan 01"
+      Id: 12231274423268622336
+      Name: "Plastic Inflatable 01 (Round)"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_gen_wallpaper_002"
+        AssetId: "mi_racing_inflatable_001_uv_ref"
       }
     }
     Assets {
@@ -19133,21 +16697,30 @@ Assets {
       }
     }
     Assets {
-      Id: 8393677721873555419
-      Name: "Wallpaper Fleur De Lis 01"
+      Id: 14804307918823957701
+      Name: "Wallpaper Stripes 02"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_gen_wallpaper_006"
+        AssetId: "mi_wallpaper_stripes_002_uv_ref"
       }
     }
     Assets {
-      Id: 11740110936718841543
-      Name: "Primitive Neon: Circle"
+      Id: 3917315913780656534
+      Name: "Ring Thin - Large"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "NeonPrimitives_01_004"
+        AssetId: "sm_ring_thin_lg_001_ref"
+      }
+    }
+    Assets {
+      Id: 13674719708830618715
+      Name: "Animated Neon Sign "
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "fxmi_NeonSign_All"
       }
     }
     Assets {
@@ -19175,42 +16748,6 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_fantasy_throne_001_ref"
-      }
-    }
-    Assets {
-      Id: 16048367406070731799
-      Name: "Plane 1m - One Sided"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_plane_1m_001"
-      }
-    }
-    Assets {
-      Id: 11452126672691922020
-      Name: "Craftsman Dining Chair"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_urb_chair_dining_001"
-      }
-    }
-    Assets {
-      Id: 10793320870014566179
-      Name: "Basic Hologram"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "fxmi_basic_hologram"
-      }
-    }
-    Assets {
-      Id: 5906076877227777947
-      Name: "Military Sandbag 02"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_prop_mil_sandbag_002"
       }
     }
     Assets {

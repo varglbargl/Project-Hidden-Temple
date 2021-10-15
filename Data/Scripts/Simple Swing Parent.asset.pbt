@@ -24,10 +24,27 @@ Assets {
         Name: "cs:IsLocal"
         Bool: true
       }
+      Overrides {
+        Name: "cs:Wavelength:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:MinAmplitude:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:MaxAmplitude:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:StartTime:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:IsLocal:category"
+        String: "Optional"
+      }
     }
-  }
-  Marketplace {
-    Description: "I like these scripts! Keepin this private tho. This one\'s just for Vanessa.\r\n\r\nBetter to just keep them here than to write them over again a million times because I forgot what project they were in."
   }
   SerializationVersion: 100
   DirectlyPublished: true

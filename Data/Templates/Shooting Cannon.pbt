@@ -67,7 +67,7 @@ Assets {
           Overrides {
             Name: "cs:PhysicsProp"
             AssetReference {
-              Id: 1616946973911821079
+              Id: 11939323781892388844
             }
           }
           Overrides {
@@ -917,5 +917,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

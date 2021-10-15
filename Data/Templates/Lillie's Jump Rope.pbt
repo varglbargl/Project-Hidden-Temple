@@ -30,8 +30,6 @@ Assets {
         ChildIds: 9726627252329554516
         ChildIds: 12757835709940011810
         ChildIds: 4412626007747211619
-        ChildIds: 8201746128929876825
-        ChildIds: 8914297903116843490
         UnregisteredParameters {
           Overrides {
             Name: "cs:ExitLocation"
@@ -11367,7 +11365,6 @@ Assets {
           }
         }
         ParentId: 11713438095966438968
-        ChildIds: 10020724076001525540
         ChildIds: 9709982858824296442
         ChildIds: 15875179598524583006
         ChildIds: 12778596877249037491
@@ -11385,145 +11382,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 10020724076001525540
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4328196587549388263
-        ChildIds: 467164168598538098
-        ChildIds: 9180178038196568984
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 467164168598538098
-        Name: "Point Light"
-        Transform {
-          Location {
-            X: -39.6618538
-            Y: 4.00052643
-            Z: 65.4718
-          }
-          Rotation {
-            Roll: 7.62364483
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10020724076001525540
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 1
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            UseTemperature: true
-            Temperature: 2250
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 9180178038196568984
-        Name: "Candle Flame VFX"
-        Transform {
-          Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.2696147
-            Y: 1.2696147
-            Z: 1.2696147
-          }
-        }
-        ParentId: 10020724076001525540
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9199751096616988864
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -11711,7 +11569,6 @@ Assets {
           }
         }
         ParentId: 11713438095966438968
-        ChildIds: 15029476597373418794
         ChildIds: 1103757724284247272
         ChildIds: 17645357913663247199
         ChildIds: 17917632917712477501
@@ -11729,145 +11586,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 15029476597373418794
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6031544034720384185
-        ChildIds: 6250125750966860934
-        ChildIds: 5841194138185228149
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 6250125750966860934
-        Name: "Point Light"
-        Transform {
-          Location {
-            X: -39.6618538
-            Y: 3.00009918
-            Z: 65.4718
-          }
-          Rotation {
-            Roll: 7.62364483
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15029476597373418794
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 1
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            UseTemperature: true
-            Temperature: 2250
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 5841194138185228149
-        Name: "Candle Flame VFX"
-        Transform {
-          Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.2696147
-            Y: 1.2696147
-            Z: 1.2696147
-          }
-        }
-        ParentId: 15029476597373418794
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9199751096616988864
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -17934,7 +17652,6 @@ Assets {
           }
         }
         ParentId: 3178176942564705543
-        ChildIds: 7532165274419976916
         ChildIds: 11891166365501534841
         ChildIds: 17407268794184292629
         ChildIds: 14812716520913819513
@@ -17952,145 +17669,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 7532165274419976916
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 11403399320791303194
-        ChildIds: 4694225817901785221
-        ChildIds: 12674975443741208347
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 4694225817901785221
-        Name: "Point Light"
-        Transform {
-          Location {
-            X: -39.6618538
-            Y: 4.00052643
-            Z: 65.4718
-          }
-          Rotation {
-            Roll: 7.62364483
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7532165274419976916
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 1
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            UseTemperature: true
-            Temperature: 2250
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 12674975443741208347
-        Name: "Candle Flame VFX"
-        Transform {
-          Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.2696147
-            Y: 1.2696147
-            Z: 1.2696147
-          }
-        }
-        ParentId: 7532165274419976916
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9199751096616988864
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -18278,7 +17856,6 @@ Assets {
           }
         }
         ParentId: 3178176942564705543
-        ChildIds: 883290810517073436
         ChildIds: 17396976781605615551
         ChildIds: 5935541947254355670
         ChildIds: 1220022970980994639
@@ -18296,145 +17873,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 883290810517073436
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13780420480121312729
-        ChildIds: 17207068168213824443
-        ChildIds: 14563404675200439916
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 17207068168213824443
-        Name: "Point Light"
-        Transform {
-          Location {
-            X: -39.6618538
-            Y: 3.00009918
-            Z: 65.4718
-          }
-          Rotation {
-            Roll: 7.62364483
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 883290810517073436
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Light {
-          Intensity: 1
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
-          CastShadows: true
-          VolumetricIntensity: 5
-          TeamSettings {
-          }
-          Light {
-            UseTemperature: true
-            Temperature: 2250
-            LocalLight {
-              AttenuationRadius: 1000
-              PointLight {
-                SourceRadius: 20
-                SoftSourceRadius: 20
-                FallOffExponent: 8
-              }
-            }
-            MaxDrawDistance: 5000
-            MaxDistanceFadeRange: 1000
-          }
-          CastVolumetricShadows: true
-        }
-      }
-      Objects {
-        Id: 14563404675200439916
-        Name: "Candle Flame VFX"
-        Transform {
-          Location {
-            X: -41.3261719
-            Y: 3.1864624
-            Z: 65.7838135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.2696147
-            Y: 1.2696147
-            Z: 1.2696147
-          }
-        }
-        ParentId: 883290810517073436
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9199751096616988864
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -19205,32 +18643,30 @@ Assets {
         ChildIds: 11068399643613222231
         ChildIds: 16002209059076112286
         ChildIds: 3455734155264314488
-        ChildIds: 11636237196452983492
         ChildIds: 12007205641543723000
         ChildIds: 6969099758219774440
         ChildIds: 9256511404587101370
         ChildIds: 12126284041089979348
-        ChildIds: 12762045689270101519
         ChildIds: 7874481336118175864
         ChildIds: 15542164717874077753
         ChildIds: 7093782951817746897
         ChildIds: 363918162666356906
         ChildIds: 1545483063726472468
         ChildIds: 499160376244375008
-        ChildIds: 12427895727154079479
-        ChildIds: 8998358500758068845
-        ChildIds: 10422908887941676815
         ChildIds: 764624220293630549
         ChildIds: 4727309368251266667
         ChildIds: 916741124382204369
         ChildIds: 13253154834449805667
         ChildIds: 15289390431241031365
         ChildIds: 5291834056594200592
-        ChildIds: 15320577720787716269
-        ChildIds: 9935004114089771587
-        ChildIds: 17007369427681613028
-        ChildIds: 14733375661912210015
-        ChildIds: 1511354444212705274
+        ChildIds: 13148213473229191448
+        ChildIds: 1360154310688905469
+        ChildIds: 2488456817287025537
+        ChildIds: 6089034231126680763
+        ChildIds: 5540927471087577161
+        ChildIds: 9968897060687498439
+        ChildIds: 14090556837816010244
+        ChildIds: 1229794856347679579
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -19313,7 +18749,7 @@ Assets {
           Location {
             X: 2200
             Y: -2200
-            Z: -550
+            Z: -301
           }
           Rotation {
           }
@@ -19350,6 +18786,10 @@ Assets {
           Overrides {
             Name: "bp:Particle Scale Multiplier"
             Float: 1
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 2
           }
         }
         Collidable_v2 {
@@ -19419,89 +18859,6 @@ Assets {
           Radius: -1
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 11636237196452983492
-        Name: "Underwater Post Process"
-        Transform {
-          Location {
-            X: 2200
-            Y: -2200
-            Z: -275
-          }
-          Rotation {
-          }
-          Scale {
-            X: 44
-            Y: 44
-            Z: 11.2000027
-          }
-        }
-        ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Scene Tint"
-            Color {
-              R: 1
-              G: 0.283333361
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Depth Desaturation"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Caustics Brightness"
-            Float: 500
-          }
-          Overrides {
-            Name: "bp:Fog Color"
-            Color {
-              R: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Fog Density"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Fog Distance"
-            Float: 500
-          }
-          Overrides {
-            Name: "bp:Use Sun Direction for Directional Caustics"
-            Bool: false
-          }
-          Overrides {
-            Name: "bp:Omni-Directional Caustics"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Caustics"
-            Bool: false
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 6654293907903954463
-          }
-          TeamSettings {
-          }
         }
       }
       Objects {
@@ -19632,7 +18989,7 @@ Assets {
           Location {
             X: -8600
             Y: -2200
-            Z: -550
+            Z: -301
           }
           Rotation {
           }
@@ -19669,6 +19026,10 @@ Assets {
           Overrides {
             Name: "bp:Particle Scale Multiplier"
             Float: 1
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 2
           }
         }
         Collidable_v2 {
@@ -19738,89 +19099,6 @@ Assets {
           Radius: -1
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 12762045689270101519
-        Name: "Underwater Post Process"
-        Transform {
-          Location {
-            X: -8600
-            Y: -2200
-            Z: -275
-          }
-          Rotation {
-          }
-          Scale {
-            X: 44
-            Y: 44
-            Z: 11.2000027
-          }
-        }
-        ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Scene Tint"
-            Color {
-              R: 1
-              G: 0.283333361
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Depth Desaturation"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Caustics Brightness"
-            Float: 500
-          }
-          Overrides {
-            Name: "bp:Fog Color"
-            Color {
-              R: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Fog Density"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Fog Distance"
-            Float: 500
-          }
-          Overrides {
-            Name: "bp:Use Sun Direction for Directional Caustics"
-            Bool: false
-          }
-          Overrides {
-            Name: "bp:Omni-Directional Caustics"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Caustics"
-            Bool: false
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 6654293907903954463
-          }
-          TeamSettings {
-          }
         }
       }
       Objects {
@@ -19951,7 +19229,7 @@ Assets {
           Location {
             X: -3200
             Y: -2200
-            Z: -550
+            Z: -301
           }
           Rotation {
           }
@@ -19988,6 +19266,10 @@ Assets {
           Overrides {
             Name: "bp:Particle Scale Multiplier"
             Float: 1
+          }
+          Overrides {
+            Name: "bp:Density"
+            Float: 2
           }
         }
         Collidable_v2 {
@@ -20066,14 +19348,14 @@ Assets {
           Location {
             X: -3200
             Y: -2200
-            Z: -275
+            Z: -297
           }
           Rotation {
           }
           Scale {
-            X: 44
+            X: 152
             Y: 44
-            Z: 11.2000027
+            Z: 11
           }
         }
         ParentId: 5692616283092391209
@@ -20202,156 +19484,6 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
-        Id: 12427895727154079479
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: -8600
-            Y: -2200
-            Z: -1650
-          }
-          Rotation {
-          }
-          Scale {
-            X: 5.5
-            Y: 5.5
-            Z: 5.5
-          }
-        }
-        ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 8201746128929876825
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
-        Id: 8998358500758068845
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: 2200
-            Y: -2200
-            Z: -1650
-          }
-          Rotation {
-          }
-          Scale {
-            X: 5.5
-            Y: 5.5
-            Z: 5.5
-          }
-        }
-        ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 8914297903116843490
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
-        Id: 10422908887941676815
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: -3200
-            Y: -2200
-            Z: -1650
-          }
-          Rotation {
-          }
-          Scale {
-            X: 5.5
-            Y: 5.5
-            Z: 5.5
-          }
-        }
-        ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 4412626007747211619
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -20835,37 +19967,25 @@ Assets {
         }
       }
       Objects {
-        Id: 15320577720787716269
-        Name: "Simple VFX Trigger"
+        Id: 13148213473229191448
+        Name: "Point Light"
         Transform {
           Location {
-            X: 2200
-            Y: -2200
-            Z: -50
+            X: -11570.3242
+            Y: -2504.00146
+            Z: 295.47168
           }
           Rotation {
+            Yaw: -179.999939
+            Roll: 7.62366056
           }
           Scale {
-            X: 1.92734289
-            Y: 0.833333373
+            X: 1
+            Y: 1
             Z: 1
           }
         }
         ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 17601832021939173872
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -20878,44 +19998,54 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
+        Light {
+          Intensity: 1
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
           }
+          CastShadows: true
+          VolumetricIntensity: 5
+          TeamSettings {
+          }
+          Light {
+            UseTemperature: true
+            Temperature: 2250
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+          CastVolumetricShadows: true
         }
       }
       Objects {
-        Id: 9935004114089771587
-        Name: "Simple VFX Trigger"
+        Id: 1360154310688905469
+        Name: "Candle Flame VFX"
         Transform {
           Location {
-            X: -8600
-            Y: -2200
+            X: -11568.6602
+            Y: -2503.1875
+            Z: 295.78418
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: -179.999939
           }
           Scale {
-            X: 1.7172091
-            Y: 0.952778101
-            Z: 0.700000167
+            X: 1.2696147
+            Y: 1.2696147
+            Z: 1.2696147
           }
         }
         ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 17059606355877441556
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -20928,44 +20058,43 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
+        CoreMesh {
+          MeshAsset {
+            Id: 9199751096616988864
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
           }
         }
       }
       Objects {
-        Id: 17007369427681613028
-        Name: "Simple VFX Trigger"
+        Id: 2488456817287025537
+        Name: "Point Light"
         Transform {
           Location {
-            X: -8600
-            Y: -2200
-            Z: -50
+            X: -11570.3232
+            Y: -1903.00159
+            Z: 295.47168
           }
           Rotation {
+            Yaw: -179.999939
+            Roll: 7.62366056
           }
           Scale {
-            X: 1.92734289
-            Y: 0.833333373
+            X: 1
+            Y: 1
             Z: 1
           }
         }
         ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16539690089138054598
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -20978,44 +20107,103 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
+        Light {
+          Intensity: 1
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
+          }
+          CastShadows: true
+          VolumetricIntensity: 5
+          TeamSettings {
+          }
+          Light {
+            UseTemperature: true
+            Temperature: 2250
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+          CastVolumetricShadows: true
+        }
+      }
+      Objects {
+        Id: 6089034231126680763
+        Name: "Candle Flame VFX"
+        Transform {
+          Location {
+            X: -11568.6592
+            Y: -1903.18799
+            Z: 295.78418
+          }
+          Rotation {
+            Yaw: -179.999939
+          }
+          Scale {
+            X: 1.2696147
+            Y: 1.2696147
+            Z: 1.2696147
+          }
+        }
+        ParentId: 5692616283092391209
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9199751096616988864
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
           }
         }
       }
       Objects {
-        Id: 14733375661912210015
-        Name: "Simple VFX Trigger"
+        Id: 5540927471087577161
+        Name: "Point Light"
         Transform {
           Location {
-            X: -3200
-            Y: -2200
-            Z: -50
+            X: 5070.33643
+            Y: -1895.99768
+            Z: 295.47168
           }
           Rotation {
+            Yaw: 6.14716773e-05
+            Roll: 7.62366056
           }
           Scale {
-            X: 1.92734289
-            Y: 0.833333373
+            X: 1
+            Y: 1
             Z: 1
           }
         }
         ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 11813428462246663842
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -21028,45 +20216,103 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
+        Light {
+          Intensity: 1
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
+          }
+          CastShadows: true
+          VolumetricIntensity: 5
+          TeamSettings {
+          }
+          Light {
+            UseTemperature: true
+            Temperature: 2250
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+          CastVolumetricShadows: true
+        }
+      }
+      Objects {
+        Id: 9968897060687498439
+        Name: "Candle Flame VFX"
+        Transform {
+          Location {
+            X: 5068.67236
+            Y: -1896.81177
+            Z: 295.78418
+          }
+          Rotation {
+            Yaw: 6.14716773e-05
+          }
+          Scale {
+            X: 1.2696147
+            Y: 1.2696147
+            Z: 1.2696147
+          }
+        }
+        ParentId: 5692616283092391209
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9199751096616988864
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
           }
         }
       }
       Objects {
-        Id: 1511354444212705274
-        Name: "Simple VFX Trigger"
+        Id: 14090556837816010244
+        Name: "Point Light"
         Transform {
           Location {
-            X: -3200
-            Y: -2200
-            Z: -50
+            X: 5070.33594
+            Y: -2496.99756
+            Z: 295.47168
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 6.14716773e-05
+            Roll: 7.62366056
           }
           Scale {
-            X: 1.92734289
-            Y: 0.833333373
+            X: 1
+            Y: 1
             Z: 1
           }
         }
         ParentId: 5692616283092391209
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16524693530335864820
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -21079,9 +20325,80 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
+        Light {
+          Intensity: 1
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
+          }
+          CastShadows: true
+          VolumetricIntensity: 5
+          TeamSettings {
+          }
+          Light {
+            UseTemperature: true
+            Temperature: 2250
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+          CastVolumetricShadows: true
+        }
+      }
+      Objects {
+        Id: 1229794856347679579
+        Name: "Candle Flame VFX"
+        Transform {
+          Location {
+            X: 5068.67188
+            Y: -2496.81128
+            Z: 295.78418
+          }
+          Rotation {
+            Yaw: 6.14716773e-05
+          }
+          Scale {
+            X: 1.2696147
+            Y: 1.2696147
+            Z: 1.2696147
+          }
+        }
+        ParentId: 5692616283092391209
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9199751096616988864
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
           }
         }
       }
@@ -22075,9 +21392,8 @@ Assets {
         ParentId: 9223140988161548526
         ChildIds: 11723349319005041095
         ChildIds: 11813428462246663842
-        ChildIds: 6192420413874877016
+        ChildIds: 6661361390823364216
         ChildIds: 16524693530335864820
-        ChildIds: 3455806765841903047
         ChildIds: 1401014223789457392
         WantsNetworking: true
         Collidable_v2 {
@@ -22199,6 +21515,18 @@ Assets {
           }
         }
         ParentId: 11813428462246663842
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "got set on fire"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 4120062476473770642
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -22219,11 +21547,46 @@ Assets {
         }
       }
       Objects {
+        Id: 6661361390823364216
+        Name: "ClientContext"
+        Transform {
+          Location {
+            Z: -50
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14539450049960889123
+        ChildIds: 6192420413874877016
+        ChildIds: 3455806765841903047
+        ChildIds: 7202695535830395203
+        ChildIds: 16850371015299489784
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 6192420413874877016
         Name: "Fire Volume VFX"
         Transform {
           Location {
-            Z: -50
           }
           Rotation {
           }
@@ -22233,7 +21596,7 @@ Assets {
             Z: 0.75
           }
         }
-        ParentId: 14539450049960889123
+        ParentId: 6661361390823364216
         UnregisteredParameters {
           Overrides {
             Name: "bp:Density"
@@ -22253,7 +21616,6 @@ Assets {
             Float: 0.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -22278,6 +21640,188 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 3455806765841903047
+        Name: "Fire Volume VFX"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 89.9999847
+          }
+          Scale {
+            X: 25.2
+            Y: 0.75
+            Z: 0.75
+          }
+        }
+        ParentId: 6661361390823364216
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Density"
+            Float: 10
+          }
+          Overrides {
+            Name: "bp:Wind Speed"
+            Vector {
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 50
+          }
+          Overrides {
+            Name: "bp:Life"
+            Float: 0.5
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 10044772761336440122
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 7202695535830395203
+        Name: "Capsule"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 25.2
+            Y: 0.75
+            Z: 0.75
+          }
+        }
+        ParentId: 6661361390823364216
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 7904016137118207903
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 3
+              G: 0.600000143
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7905938268711149519
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 16850371015299489784
+        Name: "Capsule"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 89.9999847
+          }
+          Scale {
+            X: 25.2
+            Y: 0.75
+            Z: 0.75
+          }
+        }
+        ParentId: 6661361390823364216
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 7904016137118207903
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 3
+              G: 0.600000143
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7905938268711149519
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
         }
       }
       Objects {
@@ -22336,6 +21880,18 @@ Assets {
           }
         }
         ParentId: 16524693530335864820
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "got set on fire"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 4120062476473770642
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -22353,69 +21909,6 @@ Assets {
           ScriptAsset {
             Id: 1088534770586260933
           }
-        }
-      }
-      Objects {
-        Id: 3455806765841903047
-        Name: "Fire Volume VFX"
-        Transform {
-          Location {
-            Z: -50
-          }
-          Rotation {
-            Yaw: 89.9999924
-          }
-          Scale {
-            X: 25.2
-            Y: 0.75
-            Z: 0.75
-          }
-        }
-        ParentId: 14539450049960889123
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Density"
-            Float: 10
-          }
-          Overrides {
-            Name: "bp:Wind Speed"
-            Vector {
-            }
-          }
-          Overrides {
-            Name: "bp:Emissive Boost"
-            Float: 50
-          }
-          Overrides {
-            Name: "bp:Life"
-            Float: 0.5
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 10044772761336440122
-          }
-          TeamSettings {
-          }
-          Vfx {
-            AutoPlay: true
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
         }
       }
       Objects {
@@ -22505,7 +21998,7 @@ Assets {
         ChildIds: 6511711407845389166
         ChildIds: 8444137596262065967
         ChildIds: 16539690089138054598
-        ChildIds: 4727744087836119353
+        ChildIds: 13623389091403868477
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -22692,6 +22185,18 @@ Assets {
           }
         }
         ParentId: 16539690089138054598
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "got set on fire"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 4120062476473770642
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -22712,11 +22217,44 @@ Assets {
         }
       }
       Objects {
+        Id: 13623389091403868477
+        Name: "ClientContext"
+        Transform {
+          Location {
+            Z: -50
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6594270388875573044
+        ChildIds: 4727744087836119353
+        ChildIds: 4688040619013124300
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 4727744087836119353
         Name: "Fire Volume VFX"
         Transform {
           Location {
-            Z: -50
           }
           Rotation {
           }
@@ -22726,7 +22264,7 @@ Assets {
             Z: 0.75
           }
         }
-        ParentId: 6594270388875573044
+        ParentId: 13623389091403868477
         UnregisteredParameters {
           Overrides {
             Name: "bp:Density"
@@ -22746,7 +22284,6 @@ Assets {
             Float: 0.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -22774,6 +22311,66 @@ Assets {
         }
       }
       Objects {
+        Id: 4688040619013124300
+        Name: "Capsule"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 25.2
+            Y: 0.75
+            Z: 0.75
+          }
+        }
+        ParentId: 13623389091403868477
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 7904016137118207903
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 3
+              G: 0.600000143
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7905938268711149519
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 9726627252329554516
         Name: "FireBar"
         Transform {
@@ -22795,7 +22392,7 @@ Assets {
         ChildIds: 870662982558180991
         ChildIds: 575670244554662900
         ChildIds: 17059606355877441556
-        ChildIds: 12244164758505196076
+        ChildIds: 5085769402738325390
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -22983,6 +22580,18 @@ Assets {
           }
         }
         ParentId: 17059606355877441556
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "got set on fire"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 4120062476473770642
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -23003,22 +22612,56 @@ Assets {
         }
       }
       Objects {
+        Id: 5085769402738325390
+        Name: "ClientContext"
+        Transform {
+          Location {
+            Z: -300
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9726627252329554516
+        ChildIds: 12244164758505196076
+        ChildIds: 2469208696362062761
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 12244164758505196076
         Name: "Fire Volume VFX"
         Transform {
           Location {
-            Z: -285.714325
+            Z: 14.2857161
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 89.9999847
           }
           Scale {
-            X: 32.0750046
-            Y: 1.2250005
-            Z: 0.750000119
+            X: 32.0750084
+            Y: 1
+            Z: 1
           }
         }
-        ParentId: 9726627252329554516
+        ParentId: 5085769402738325390
         UnregisteredParameters {
           Overrides {
             Name: "bp:Density"
@@ -23038,7 +22681,6 @@ Assets {
             Float: 0.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -23066,6 +22708,68 @@ Assets {
         }
       }
       Objects {
+        Id: 2469208696362062761
+        Name: "Capsule"
+        Transform {
+          Location {
+            Z: 14.2857161
+          }
+          Rotation {
+            Yaw: 89.9999847
+          }
+          Scale {
+            X: 32.0750084
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5085769402738325390
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 7904016137118207903
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 3
+              G: 0.600000143
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7905938268711149519
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 12757835709940011810
         Name: "FireBar"
         Transform {
@@ -23085,7 +22789,7 @@ Assets {
         ParentId: 9223140988161548526
         ChildIds: 12321952253183425636
         ChildIds: 17601832021939173872
-        ChildIds: 10390103017648133878
+        ChildIds: 8471931639475506215
         ChildIds: 7643183395587885193
         WantsNetworking: true
         Collidable_v2 {
@@ -23207,6 +22911,18 @@ Assets {
           }
         }
         ParentId: 17601832021939173872
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "got set on fire"
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 4120062476473770642
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -23227,11 +22943,44 @@ Assets {
         }
       }
       Objects {
+        Id: 8471931639475506215
+        Name: "ClientContext"
+        Transform {
+          Location {
+            Z: -50
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12757835709940011810
+        ChildIds: 10390103017648133878
+        ChildIds: 7097997091011704679
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 10390103017648133878
         Name: "Fire Volume VFX"
         Transform {
           Location {
-            Z: -50
           }
           Rotation {
           }
@@ -23241,7 +22990,7 @@ Assets {
             Z: 0.75
           }
         }
-        ParentId: 12757835709940011810
+        ParentId: 8471931639475506215
         UnregisteredParameters {
           Overrides {
             Name: "bp:Density"
@@ -23261,7 +23010,6 @@ Assets {
             Float: 0.5
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -23286,6 +23034,67 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 7097997091011704679
+        Name: "Capsule"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Pitch: -90
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 30.0000019
+          }
+        }
+        ParentId: 8471931639475506215
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 7904016137118207903
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 3
+              G: 0.600000143
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 7905938268711149519
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
         }
       }
       Objects {
@@ -23361,15 +23170,15 @@ Assets {
           Location {
             X: 8350
             Y: 0.00390625
-            Z: -1650
+            Z: -922
           }
           Rotation {
             Yaw: -179.999969
           }
           Scale {
-            X: 44
+            X: 151.999954
             Y: 44
-            Z: 27.5
+            Z: 12
           }
         }
         ParentId: 9223140988161548526
@@ -23423,182 +23232,10 @@ Assets {
               Id: 2040044343117508018
             }
           }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 1088534770586260933
-          }
-        }
-      }
-      Objects {
-        Id: 8201746128929876825
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: 13750
-            Y: 0.005859375
-            Z: -1650
-          }
-          Rotation {
-            Yaw: -179.999969
-          }
-          Scale {
-            X: 44
-            Y: 44
-            Z: 27.5
-          }
-        }
-        ParentId: 9223140988161548526
-        ChildIds: 6338121991765083368
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 6338121991765083368
-        Name: "Kill Zone"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8201746128929876825
-        UnregisteredParameters {
           Overrides {
-            Name: "cs:CauseOfDeath"
-            String: "tried to swim in some lava"
-          }
-          Overrides {
-            Name: "cs:KillFeedIcon"
+            Name: "cs:KillVFX"
             AssetReference {
-              Id: 2040044343117508018
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 1088534770586260933
-          }
-        }
-      }
-      Objects {
-        Id: 8914297903116843490
-        Name: "Trigger"
-        Transform {
-          Location {
-            X: 2950
-            Y: 0.001953125
-            Z: -1650
-          }
-          Rotation {
-            Yaw: -179.999969
-          }
-          Scale {
-            X: 44
-            Y: 44
-            Z: 27.5
-          }
-        }
-        ParentId: 9223140988161548526
-        ChildIds: 18363474936935902996
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 18363474936935902996
-        Name: "Kill Zone"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8914297903116843490
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:CauseOfDeath"
-            String: "tried to swim in some lava"
-          }
-          Overrides {
-            Name: "cs:KillFeedIcon"
-            AssetReference {
-              Id: 2040044343117508018
+              Id: 9751660794289768919
             }
           }
         }
@@ -23776,15 +23413,6 @@ Assets {
       }
     }
     Assets {
-      Id: 9199751096616988864
-      Name: "Candle Flame VFX"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "fxsm_candleflame"
-      }
-    }
-    Assets {
       Id: 13972110979182650321
       Name: "Sconce 01"
       PlatformAssetType: 1
@@ -23857,21 +23485,21 @@ Assets {
       }
     }
     Assets {
-      Id: 6654293907903954463
-      Name: "Underwater Post Process"
-      PlatformAssetType: 20
-      PrimaryAsset {
-        AssetType: "BlueprintAssetRef"
-        AssetId: "fxbp_post_process_water"
-      }
-    }
-    Assets {
       Id: 1565420669897413203
       Name: "Dust Motes Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {
         AssetType: "VfxBlueprintAssetRef"
         AssetId: "fxbp_dust_motes"
+      }
+    }
+    Assets {
+      Id: 6654293907903954463
+      Name: "Underwater Post Process"
+      PlatformAssetType: 20
+      PrimaryAsset {
+        AssetType: "BlueprintAssetRef"
+        AssetId: "fxbp_post_process_water"
       }
     }
     Assets {
@@ -23902,6 +23530,15 @@ Assets {
       }
     }
     Assets {
+      Id: 9199751096616988864
+      Name: "Candle Flame VFX"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "fxsm_candleflame"
+      }
+    }
+    Assets {
       Id: 14267480390227968031
       Name: "Portcullis"
       PlatformAssetType: 1
@@ -23929,12 +23566,39 @@ Assets {
       }
     }
     Assets {
+      Id: 4120062476473770642
+      Name: "Fire"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Fantasy_Icon_Fire"
+      }
+    }
+    Assets {
       Id: 10044772761336440122
       Name: "Fire Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {
         AssetType: "VfxBlueprintAssetRef"
         AssetId: "fxbp_fire_volume_vfx"
+      }
+    }
+    Assets {
+      Id: 7905938268711149519
+      Name: "Cube - Soft 01"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_prim_cube_soft_001_ref"
+      }
+    }
+    Assets {
+      Id: 7904016137118207903
+      Name: "Additive Soft Edge"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "fxma_additive_edgefade"
       }
     }
     Assets {

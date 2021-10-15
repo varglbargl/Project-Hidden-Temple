@@ -16,8 +16,8 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 6023478262259723430
         ChildIds: 14754943250165894409
+        ChildIds: 6023478262259723430
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -35,10 +35,100 @@ Assets {
         }
       }
       Objects {
+        Id: 14754943250165894409
+        Name: "Trigger"
+        Transform {
+          Location {
+            Z: 40
+          }
+          Rotation {
+          }
+          Scale {
+            X: 2.00538468
+            Y: 2.00538468
+            Z: 2.00538468
+          }
+        }
+        ParentId: 8635504081326361454
+        ChildIds: 12191634451684359596
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:sphere"
+          }
+        }
+      }
+      Objects {
+        Id: 12191634451684359596
+        Name: "Bump Zone Server"
+        Transform {
+          Location {
+            Z: -266.046631
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14754943250165894409
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillPlayer"
+            Bool: false
+          }
+          Overrides {
+            Name: "cs:Force"
+            Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 8137025574885759575
+          }
+        }
+      }
+      Objects {
         Id: 6023478262259723430
         Name: "ClientContext"
         Transform {
           Location {
+            Z: 3.81469727e-06
           }
           Rotation {
           }
@@ -50,7 +140,6 @@ Assets {
         }
         ParentId: 8635504081326361454
         ChildIds: 16349944486844879169
-        ChildIds: 10644365891205293866
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -420,136 +509,6 @@ Assets {
           }
         }
       }
-      Objects {
-        Id: 10644365891205293866
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6023478262259723430
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 14754943250165894409
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
-        Id: 14754943250165894409
-        Name: "Trigger"
-        Transform {
-          Location {
-            Z: 40
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2.00538468
-            Y: 2.00538468
-            Z: 2.00538468
-          }
-        }
-        ParentId: 8635504081326361454
-        ChildIds: 12191634451684359596
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:sphere"
-          }
-        }
-      }
-      Objects {
-        Id: 12191634451684359596
-        Name: "Bump Zone Server"
-        Transform {
-          Location {
-            Z: -266.046631
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14754943250165894409
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:KillPlayer"
-            Bool: false
-          }
-          Overrides {
-            Name: "cs:Force"
-            Float: 1500
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 8137025574885759575
-          }
-        }
-      }
     }
     Assets {
       Id: 1565420669897413203
@@ -593,5 +552,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

@@ -15,13 +15,19 @@ Assets {
         Float: 1000
       }
       Overrides {
-        Name: "cs:PhysicsBumper"
-        ObjectReference {
+        Name: "cs:BumpVFX"
+        AssetReference {
+          Id: 841534158063459245
         }
       }
       Overrides {
         Name: "cs:KillPlayer"
         Bool: false
+      }
+      Overrides {
+        Name: "cs:PhysicsBumper"
+        ObjectReference {
+        }
       }
       Overrides {
         Name: "cs:CauseOfDeath"
@@ -32,6 +38,38 @@ Assets {
         AssetReference {
           Id: 16737201788430173059
         }
+      }
+      Overrides {
+        Name: "cs:BumpVFX:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:KillPlayer:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:PhysicsBumper:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:CauseOfDeath:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:KillFeedIcon:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:Force:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:Utils:category"
+        String: "APIs"
+      }
+      Overrides {
+        Name: "cs:BumpVFX:tooltip"
+        String: "The VFX to spawn when the Trigger is triggered. A VFX Template can be any networked CoreObject. Typically, it\'s a single networked Client Context with a short Life Span containing multiple auto-playing VFX and/or Audio objects all in one."
       }
     }
     Assets {

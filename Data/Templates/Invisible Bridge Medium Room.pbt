@@ -2349,8 +2349,8 @@ Assets {
         Name: "Pipe - Half Thick"
         Transform {
           Location {
-            X: 1541.56067
-            Y: 240.647461
+            X: 1541.5603
+            Y: 235.000122
           }
           Rotation {
             Yaw: -179.999954
@@ -44047,7 +44047,6 @@ Assets {
           }
         }
         ParentId: 717994066552569135
-        ChildIds: 7023427200707487018
         ChildIds: 10065072926392092085
         ChildIds: 5702952153582274524
         ChildIds: 14367600034276667432
@@ -44070,55 +44069,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 7023427200707487018
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: 1610
-            Z: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3.75
-            Y: 2.875
-            Z: 0.6
-          }
-        }
-        ParentId: 13237649984180621584
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 687494319747750521
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -45098,7 +45048,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -45621,7 +45571,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -46144,7 +46094,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -46667,7 +46617,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -47190,7 +47140,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -47713,7 +47663,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -48236,7 +48186,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -48759,7 +48709,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -49282,7 +49232,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -49805,7 +49755,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -50328,7 +50278,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -50851,7 +50801,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -51374,7 +51324,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -51897,7 +51847,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -52420,7 +52370,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -52943,7 +52893,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -53466,7 +53416,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }
@@ -53989,7 +53939,7 @@ Assets {
           }
           Animation: "unarmed_throw"
           KeyBinding_v2 {
-            Value: "mc:egameaction:primaryaction"
+            Value: "mc:egameaction:extraaction_43"
           }
         }
       }

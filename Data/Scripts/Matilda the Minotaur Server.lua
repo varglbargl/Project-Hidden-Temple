@@ -1,8 +1,13 @@
 local Utils = require(script:GetCustomProperty("Utils"))
 
-local CRASH_VFX = script:GetCustomProperty("CrashVFX")
+local WALK_SPEED = script:GetCustomProperty("WalkSpeed")
+local CHARGE_SPEED = script:GetCustomProperty("ChargeSpeed")
+local SIGHT_RADIUS = script:GetCustomProperty("SightRadius")
+
+local CRASH_VFX = script:GetCustomProperty("CrashVFXTemplate")
 local CHARGE_SFX = script:GetCustomProperty("ChargeSFX")
 local PATROL_NODES = script:GetCustomProperty("PatrolNodes"):WaitForObject()
+local LOOP_PATROL = script:GetCustomProperty("LoopPatrol")
 
 local matilda = script.parent
 local spawnPoint = matilda:GetWorldPosition()
@@ -18,7 +23,7 @@ local patrolDirection = 1
 local isCharging = false
 
 function walkToPoint(walkDistance)
-  matilda:MoveTo(walkDestination, walkDistance / 200)
+  matilda:MoveTo(walkDestination, walkDistance / WALK_SPEED)
   script:LookAt(walkDestination)
   matilda:RotateTo(Rotation.New(0, 0, script:GetWorldRotation().z), 0.25)
 end
@@ -27,56 +32,62 @@ function Tick()
   local matildaPos = matilda:GetWorldPosition()
   local sightPos = script:GetWorldPosition()
 
-  for _, player in ipairs(Game.FindPlayersInCylinder(matildaPos, 5000)) do
+  for _, player in ipairs(Game.FindPlayersInCylinder(matildaPos, SIGHT_RADIUS)) do
     local playerPos = player:GetWorldPosition()
 
-    if not player.isDead and math.abs((sightPos - playerPos).z) < 150 then
+    if not player.isDead and math.abs((matildaPos - playerPos).z) < 150 then
 
-      local fromVector = Utils.groundBelowPoint(sightPos)
-      local toVector = Utils.groundBelowPoint(playerPos)
+      local fromVector = Utils.groundBelowPoint(sightPos) or matildaPos
+      local toVector = Utils.groundBelowPoint(playerPos) or playerPos
       local chargePath = toVector - fromVector
       local chargeDistance = chargePath.size
 
       if chargeDistance > 50 then
         local chargeDirection = chargePath:GetNormalized()
 
-        local sightResult = World.Raycast(sightPos, sightPos + chargeDirection * 5000)
-        local sightPastVector = sightPos + chargeDirection * 5000
-        local finalVector = nil
+        -- check if Matilda can see the player...
+        local sightResult = World.Raycast(sightPos, sightPos + chargeDirection * SIGHT_RADIUS)
+        local sightPastVector = sightPos + chargeDirection * SIGHT_RADIUS
 
+        -- -- Debug for checking sight lines
         -- if sightResult then
         --   CoreDebug.DrawLine(sightPos, sightResult:GetImpactPosition(), {duration = 5, color = Color.GREEN, thickness = 2})
-        --   print(sightResult.other)
+        --   print("I see you "..sightResult.other.name.."!")
         -- else
-        --   CoreDebug.DrawLine(sightPos, sightPos + chargeDirection * 5000, {duration = 5, color = Color.RED, thickness = 2})
+        --   CoreDebug.DrawLine(sightPos, sightPos + chargeDirection * SIGHT_RADIUS, {duration = 5, color = Color.RED, thickness = 2})
+        --   print("Must have been nothing...")
         -- end
 
-        if sightResult and sightResult.other == player then
+        if sightResult and sightResult.other == player and chargeDirection..matilda:GetWorldTransform():GetForwardVector() > 0.25 then
+          -- CHARGE!
           local chargePastResult = World.Raycast(sightPos, sightPastVector, {ignorePlayers = true})
+          local finalVector = nil
 
           if chargePastResult then
-            -- CHARGE!
             local chargePastVector = chargePastResult:GetImpactPosition()
 
             finalVector = Vector3.New(chargePastVector.x, chargePastVector.y, toVector.z)
             chargeDistance = (chargePastVector - fromVector).size
+          else
+            finalVector = Vector3.New(sightPastVector.x, sightPastVector.y, toVector.z)
+            chargeDistance = SIGHT_RADIUS
+          end
 
-            matilda:MoveTo(finalVector, chargeDistance / 1000)
-            matilda:LookAt(finalVector)
-            matilda:SetWorldRotation(Rotation.New(0, 0, matilda:GetWorldRotation().z))
+          matilda:MoveTo(finalVector, chargeDistance / CHARGE_SPEED)
+          matilda:LookAt(finalVector)
+          matilda:SetWorldRotation(Rotation.New(0, 0, matilda:GetWorldRotation().z))
 
-            Utils.playSoundEffect(CHARGE_SFX, {parent = script})
+          Utils.playSoundEffect(CHARGE_SFX, {parent = script})
 
-            isCharging = true
+          isCharging = true
 
-            Task.Wait(chargeDistance / 1000 - 0.1)
-            if not Object.IsValid(matilda) then return end
+          Task.Wait(chargeDistance / CHARGE_SPEED - 0.1)
+          if not Object.IsValid(matilda) then return end
 
-            matilda:StopMove()
+          matilda:StopMove()
 
-            if CRASH_VFX then
-              World.SpawnAsset(CRASH_VFX, {position = finalVector + Vector3.UP * 75})
-            end
+          if CRASH_VFX then
+            World.SpawnAsset(CRASH_VFX, {position = finalVector + Vector3.UP * 75})
           end
 
           break
@@ -93,14 +104,20 @@ function Tick()
       if walkDistance > 50 then
         walkToPoint(walkDistance)
       else
-        if currentPatrolNode == 1 then
-          patrolDirection = 1
-        elseif currentPatrolNode == #patrolNodes then
-          patrolDirection = -1
+        if LOOP_PATROL and currentPatrolNode == #patrolNodes then
+          nextPatrolNode = 1
+        else
+          if currentPatrolNode == 1 then
+            patrolDirection = 1
+          elseif currentPatrolNode == #patrolNodes then
+            patrolDirection = -1
+          end
+
+          nextPatrolNode = currentPatrolNode + patrolDirection
         end
 
-        walkDestination = Utils.groundBelowPoint(patrolNodes[currentPatrolNode]:GetWorldPosition())
-        currentPatrolNode = currentPatrolNode + patrolDirection
+        walkDestination = Utils.groundBelowPoint(patrolNodes[nextPatrolNode]:GetWorldPosition())
+        currentPatrolNode = nextPatrolNode
       end
     else
       -- WANDER

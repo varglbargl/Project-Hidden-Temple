@@ -10729,9 +10729,9 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 1
+            X: 0.75
             Y: 3
-            Z: 1
+            Z: 0.75
           }
         }
         ParentId: 15055879208668746215
@@ -10778,7 +10778,7 @@ Assets {
         UnregisteredParameters {
           Overrides {
             Name: "cs:Force"
-            Float: 850
+            Float: 1000
           }
           Overrides {
             Name: "cs:KillPlayer"
@@ -10787,6 +10787,18 @@ Assets {
           Overrides {
             Name: "cs:CauseOfDeath"
             String: "was mulched by a spiky log trap"
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 3727130094760294579
+            }
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 13387771440710719345
+            }
           }
         }
         WantsNetworking: true
@@ -10824,7 +10836,6 @@ Assets {
           }
         }
         ParentId: 15055879208668746215
-        ChildIds: 15805123378330630332
         ChildIds: 4535002712925435035
         ChildIds: 15337952486720516407
         ChildIds: 16755258990892994516
@@ -10844,53 +10855,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 15805123378330630332
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3051613857736792780
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7474738842770357993
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 3727130094760294579
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -12478,9 +12442,9 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 1
+            X: 0.75
             Y: 3
-            Z: 1
+            Z: 0.75
           }
         }
         ParentId: 9255444827525238017
@@ -12527,7 +12491,7 @@ Assets {
         UnregisteredParameters {
           Overrides {
             Name: "cs:Force"
-            Float: 850
+            Float: 1000
           }
           Overrides {
             Name: "cs:KillPlayer"
@@ -12536,6 +12500,18 @@ Assets {
           Overrides {
             Name: "cs:CauseOfDeath"
             String: "was mulched by a spiky log trap"
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 3727130094760294579
+            }
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 13387771440710719345
+            }
           }
         }
         WantsNetworking: true
@@ -12573,7 +12549,6 @@ Assets {
           }
         }
         ParentId: 9255444827525238017
-        ChildIds: 15415034207740397385
         ChildIds: 3482884470923103086
         ChildIds: 15735993316544171714
         ChildIds: 16590279501906849825
@@ -12593,53 +12568,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 15415034207740397385
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2658147060708894009
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7566534828416745756
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 3727130094760294579
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -18298,9 +18226,9 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 1
+            X: 0.75
             Y: 3
-            Z: 1
+            Z: 0.75
           }
         }
         ParentId: 15272029669597729737
@@ -18347,7 +18275,7 @@ Assets {
         UnregisteredParameters {
           Overrides {
             Name: "cs:Force"
-            Float: 850
+            Float: 1000
           }
           Overrides {
             Name: "cs:KillPlayer"
@@ -18356,6 +18284,18 @@ Assets {
           Overrides {
             Name: "cs:CauseOfDeath"
             String: "was mulched by a spiky log trap"
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 3727130094760294579
+            }
+          }
+          Overrides {
+            Name: "cs:KillFeedIcon"
+            AssetReference {
+              Id: 13387771440710719345
+            }
           }
         }
         WantsNetworking: true
@@ -18393,7 +18333,6 @@ Assets {
           }
         }
         ParentId: 15272029669597729737
-        ChildIds: 14936982461380441423
         ChildIds: 3094625371297298792
         ChildIds: 13890960612458495172
         ChildIds: 18202250993995121191
@@ -18413,53 +18352,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 14936982461380441423
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4486785015631566655
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 8333448003023565594
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 3727130094760294579
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -20386,6 +20278,15 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_ivy_generic_004"
+      }
+    }
+    Assets {
+      Id: 13387771440710719345
+      Name: "Warp"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Scifi_Icon_018"
       }
     }
     Assets {

@@ -61,7 +61,6 @@ Assets {
           }
         }
         ParentId: 14270818941105251837
-        ChildIds: 662932354626303631
         ChildIds: 15458955920415960307
         ChildIds: 7609334582087841097
         ChildIds: 6579964554559731816
@@ -84,53 +83,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 662932354626303631
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17726071450477734453
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7412746102705617365
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -22274,7 +22226,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 9755527162802859576
             }
@@ -22394,15 +22346,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 9755527162802859576
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 9755527162802859576
             }
           }
         }
@@ -23050,7 +23002,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 12432567565441498238
             }
@@ -23170,15 +23122,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 12432567565441498238
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 12432567565441498238
             }
           }
         }
@@ -23828,7 +23780,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 5822679452947049527
             }
@@ -23948,15 +23900,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 5822679452947049527
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 5822679452947049527
             }
           }
         }
@@ -24606,7 +24558,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 18260790529446531357
             }
@@ -24726,15 +24678,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 18260790529446531357
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 18260790529446531357
             }
           }
         }
@@ -25383,7 +25335,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 12754833403071176556
             }
@@ -25503,15 +25455,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 12754833403071176556
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 12754833403071176556
             }
           }
         }
@@ -26161,7 +26113,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 1579852095892443236
             }
@@ -26281,15 +26233,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 1579852095892443236
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 1579852095892443236
             }
           }
         }
@@ -26939,7 +26891,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 16065989228972945836
             }
@@ -27059,15 +27011,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 16065989228972945836
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 16065989228972945836
             }
           }
         }
@@ -27717,7 +27669,7 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 7458763492928719347
             }
@@ -27837,15 +27789,15 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 7458763492928719347
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 7458763492928719347
             }
           }
         }

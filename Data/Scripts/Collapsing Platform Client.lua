@@ -1,4 +1,4 @@
-local COLLAPSE_TRIGGER = script:GetCustomProperty("CollapseTrigger"):WaitForObject()
+local TRIGGER = script:GetCustomProperty("Trigger"):WaitForObject()
 local PHYSICS_BITS = script:GetCustomProperty("PhysicsBits"):WaitForObject()
 
 local START_COLLAPSING_VFX = script:GetCustomProperty("StartCollapsingVFX")
@@ -19,12 +19,12 @@ function shiftBits()
   end
 
   if START_COLLAPSING_VFX then
-    World.SpawnAsset(START_COLLAPSING_VFX, {position = COLLAPSE_TRIGGER:GetWorldPosition()})
+    World.SpawnAsset(START_COLLAPSING_VFX, {position = TRIGGER:GetWorldPosition()})
   end
 end
 
 function startCollapsing(triggerId, collapseTime)
-  if collapsed or triggerId ~= COLLAPSE_TRIGGER.id then return end
+  if collapsed or triggerId ~= TRIGGER.id then return end
 
   collapsed = true
 
@@ -41,12 +41,12 @@ function startCollapsing(triggerId, collapseTime)
   end
 
   if COLLAPSE_VFX then
-    World.SpawnAsset(COLLAPSE_VFX, {position = COLLAPSE_TRIGGER:GetWorldPosition()})
+    World.SpawnAsset(COLLAPSE_VFX, {position = TRIGGER:GetWorldPosition()})
   end
 end
 
 function uncollapse(triggerId)
-  if not collapsed or triggerId ~= COLLAPSE_TRIGGER.id then return end
+  if not collapsed or triggerId ~= TRIGGER.id then return end
 
   for i, bit in ipairs(physicsBits) do
     bit.isSimulatingDebrisPhysics = false
@@ -54,7 +54,7 @@ function uncollapse(triggerId)
   end
 
   if REASSEMBLE_VFX then
-    World.SpawnAsset(REASSEMBLE_VFX, {position = COLLAPSE_TRIGGER:GetWorldPosition() - Vector3.UP * 50})
+    World.SpawnAsset(REASSEMBLE_VFX, {position = TRIGGER:GetWorldPosition() - Vector3.UP * 50})
   end
 
   collapsed = false

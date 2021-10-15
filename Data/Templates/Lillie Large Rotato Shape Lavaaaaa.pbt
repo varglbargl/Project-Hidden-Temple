@@ -21,7 +21,6 @@ Assets {
         ChildIds: 14995527243049380917
         ChildIds: 12098357011944512280
         ChildIds: 462590742301278946
-        ChildIds: 7470847346125714637
         ChildIds: 14275907746931469794
         ChildIds: 9528647977219346232
         ChildIds: 6440875473426885272
@@ -21794,7 +21793,6 @@ Assets {
         ParentId: 16522834804459172093
         ChildIds: 9872038921387149614
         ChildIds: 12470756772882915086
-        ChildIds: 6923313400744593883
         ChildIds: 17243901272874471124
         ChildIds: 11023224322428866505
         ChildIds: 10286324524241095039
@@ -21949,56 +21947,6 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
-        Id: 6923313400744593883
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: 800
-            Y: -700
-            Z: -525
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.74999964
-            Y: 1.74999964
-            Z: 1.74999952
-          }
-        }
-        ParentId: 15369408566078970976
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 5661430042815060186
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -22844,12 +22792,6 @@ Assets {
               Id: 12044346928300228689
             }
           }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: 90
-            }
-          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -22942,169 +22884,11 @@ Assets {
         }
       }
       Objects {
-        Id: 7470847346125714637
-        Name: "Rotating Cube"
-        Transform {
-          Location {
-            X: 2800
-            Y: 500
-            Z: -1000
-          }
-          Rotation {
-            Yaw: -179.999985
-          }
-          Scale {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        ParentId: 16522834804459172093
-        ChildIds: 2674970489344306599
-        ChildIds: 9440951249359393191
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 2674970489344306599
-        Name: "Rotate Parent Periodically"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7470847346125714637
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PauseTime"
-            Float: 2
-          }
-          Overrides {
-            Name: "cs:RotateSFX"
-            AssetReference {
-              Id: 12044346928300228689
-            }
-          }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: 90
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 11590379105393402316
-          }
-        }
-      }
-      Objects {
-        Id: 9440951249359393191
-        Name: "Cube"
-        Transform {
-          Location {
-            X: 83.3334656
-            Y: -2.9802377e-05
-            Z: 8.33325195
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.70000017
-            Y: 1.70000017
-            Z: 1.70000017
-          }
-        }
-        ParentId: 7470847346125714637
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 17530506155392727216
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.666
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.666
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 14275907746931469794
         Name: "Rotating Cube"
         Transform {
           Location {
-            X: 2300
+            X: 2290
             Y: 1500
             Z: -200
           }
@@ -23162,12 +22946,6 @@ Assets {
               Id: 12044346928300228689
             }
           }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: 90
-            }
-          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -23193,8 +22971,6 @@ Assets {
         Name: "Cube"
         Transform {
           Location {
-            X: 83.3334961
-            Z: 8.33325195
           }
           Rotation {
           }
@@ -23274,8 +23050,8 @@ Assets {
           }
         }
         ParentId: 16522834804459172093
-        ChildIds: 1300043399084734887
         ChildIds: 12785198697850855160
+        ChildIds: 16816981077054726402
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -23291,58 +23067,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 1300043399084734887
-        Name: "Rotate Parent Periodically"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9528647977219346232
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PauseTime"
-            Float: 2
-          }
-          Overrides {
-            Name: "cs:RotateSFX"
-            AssetReference {
-              Id: 12044346928300228689
-            }
-          }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Yaw: 45
-            }
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 11590379105393402316
-          }
         }
       }
       Objects {
@@ -23411,6 +23135,48 @@ Assets {
         }
       }
       Objects {
+        Id: 16816981077054726402
+        Name: "Simple Rotate Parent"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.199999958
+            Y: 0.199999958
+            Z: 0.199999958
+          }
+        }
+        ParentId: 9528647977219346232
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Speed"
+            Vector {
+              Z: -5
+            }
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 5358125184516124331
+          }
+        }
+      }
+      Objects {
         Id: 6440875473426885272
         Name: "Rotating Cube"
         Transform {
@@ -23472,12 +23238,6 @@ Assets {
             Name: "cs:RotateSFX"
             AssetReference {
               Id: 12044346928300228689
-            }
-          }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: 90
             }
           }
         }
@@ -23781,12 +23541,6 @@ Assets {
               Id: 12044346928300228689
             }
           }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: -90
-            }
-          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -23941,6 +23695,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 2040044343117508018
+            }
+          }
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 9751660794289768919
             }
           }
         }

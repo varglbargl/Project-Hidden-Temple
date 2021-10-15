@@ -12,6 +12,7 @@ local STOP_MOVE_SFX = script:GetCustomProperty("StopMoveSFX")
 local initialPos = OBJECT_TO_MOVE:GetPosition()
 local initialRot = OBJECT_TO_MOVE:GetRotation()
 
+local moveEvent = nil
 local resetTask = nil
 local resetEvent = nil
 
@@ -36,8 +37,10 @@ function resetObject()
       moveLoopSfx:Play()
     end
 
-    OBJECT_TO_MOVE:MoveTo(initialPos, MOVE_TIME, true)
-    OBJECT_TO_MOVE:RotateTo(initialRot, MOVE_TIME, true)
+    if Object.IsValid(OBJECT_TO_MOVE) then
+      OBJECT_TO_MOVE:MoveTo(initialPos, MOVE_TIME, true)
+      OBJECT_TO_MOVE:RotateTo(initialRot, MOVE_TIME, true)
+    end
 
     Task.Wait(MOVE_TIME)
 
@@ -49,9 +52,12 @@ end
 function startMove(thisTrigger, other)
   if not other:IsA("Player") then return end
 
-  if (OBJECT_TO_MOVE:GetPosition() ~= MOVED_POSITION or OBJECT_TO_MOVE:GetRotation() ~= MOVED_ROTATION) and Object.IsValid(moveLoopSfx) then
-    moveLoopSfx:Play()
-    moveLoopSfx:MoveTo(MOVED_POSITION, MOVE_TIME, true)
+  if (OBJECT_TO_MOVE:GetPosition() ~= MOVED_POSITION or OBJECT_TO_MOVE:GetRotation() ~= MOVED_ROTATION) then
+    if Object.IsValid(moveLoopSfx) then
+      moveLoopSfx:Play()
+      moveLoopSfx:MoveTo(MOVED_POSITION, MOVE_TIME, true)
+
+    end
 
     Task.Spawn(function()
       if Object.IsValid(moveLoopSfx) then moveLoopSfx:Stop() end
@@ -80,11 +86,35 @@ function startMove(thisTrigger, other)
         resetObject()
       end
     end)
+  else
+    if moveEvent then
+      moveEvent:Disconnect()
+    end
+
+    if TRIGGER.isNetworked or TRIGGER.isClientOnly then
+      TRIGGER.collision = Collision.FORCE_OFF
+    end
+  end
+end
+
+function onDestroyed()
+  if moveEvent then
+    moveEvent:Disconnect()
+  end
+
+  if resetTask then
+    resetTask:Cancel()
+  end
+
+  if resetEvent then
+    resetEvent:Disconnect()
   end
 end
 
 if TRIGGER.isInteractable then
-  TRIGGER.interactedEvent:Connect(startMove)
+  moveEvent = TRIGGER.interactedEvent:Connect(startMove)
 else
-  TRIGGER.beginOverlapEvent:Connect(startMove)
+  moveEvent = TRIGGER.beginOverlapEvent:Connect(startMove)
 end
+
+TRIGGER.destroyEvent:Connect(onDestroyed)

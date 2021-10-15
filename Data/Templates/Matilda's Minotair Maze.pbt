@@ -7,7 +7,7 @@ Assets {
       RootId: 1914034136466776069
       Objects {
         Id: 1914034136466776069
-        Name: "Lillie.RedRoom.MinotaurMaze"
+        Name: "Matilda\'s Minotair Maze"
         Transform {
           Scale {
             X: 1
@@ -157,147 +157,6 @@ Assets {
         ChildIds: 17661176341630582965
         ChildIds: 4265250408547303102
         ChildIds: 7516780147136469439
-        ChildIds: 11493604019384027519
-        ChildIds: 8503126076786379896
-        ChildIds: 5085770390544472094
-        ChildIds: 6639904991112352908
-        ChildIds: 10178895298253635558
-        ChildIds: 8605491853120015237
-        ChildIds: 8109751723162811344
-        ChildIds: 4778021489643432749
-        ChildIds: 1140389228334258390
-        ChildIds: 10250622430444514969
-        ChildIds: 9163785066614100629
-        ChildIds: 10078648149248592208
-        ChildIds: 12158410614691878114
-        ChildIds: 16054538700547696154
-        ChildIds: 15575528833321621224
-        ChildIds: 13095788117693390983
-        ChildIds: 4305481817666491154
-        ChildIds: 13342832184086304960
-        ChildIds: 17721756465260128211
-        ChildIds: 7867748397258283272
-        ChildIds: 16460737551936952425
-        ChildIds: 4257671916741984004
-        ChildIds: 6027571825245400036
-        ChildIds: 14573347437212365054
-        ChildIds: 3700983395124243637
-        ChildIds: 8427459068067020292
-        ChildIds: 14031911511857940486
-        ChildIds: 1747521632381535854
-        ChildIds: 9105624689444120981
-        ChildIds: 15465756309559684897
-        ChildIds: 4862839989053044578
-        ChildIds: 18089778299309319622
-        ChildIds: 7131380956953081887
-        ChildIds: 5476280563510947907
-        ChildIds: 15437614936195170897
-        ChildIds: 341355881877887406
-        ChildIds: 13631741464608112197
-        ChildIds: 4772046747210824846
-        ChildIds: 989333506403655524
-        ChildIds: 17286526039974373307
-        ChildIds: 6514288357701711751
-        ChildIds: 5684861381432024383
-        ChildIds: 5199425338616502801
-        ChildIds: 5813538059207989400
-        ChildIds: 2624874857808168579
-        ChildIds: 10602229798919915343
-        ChildIds: 10016578209005259331
-        ChildIds: 10517532273750743272
-        ChildIds: 5744530807543384668
-        ChildIds: 1138825411824798801
-        ChildIds: 3588788789425128048
-        ChildIds: 9023602866768006434
-        ChildIds: 918841790064263551
-        ChildIds: 11964689697574906801
-        ChildIds: 16096188403136020389
-        ChildIds: 17316194642041220217
-        ChildIds: 6579627728478384218
-        ChildIds: 121929402932875694
-        ChildIds: 14808833565779866767
-        ChildIds: 16574351413873875105
-        ChildIds: 16404088332877867681
-        ChildIds: 16686918391947568674
-        ChildIds: 8307746412785107871
-        ChildIds: 2800673946130087727
-        ChildIds: 2301390592284726513
-        ChildIds: 11171034300986179482
-        ChildIds: 12762795970304877238
-        ChildIds: 4936461135987874803
-        ChildIds: 2082848541581816602
-        ChildIds: 15189008974689083825
-        ChildIds: 13223250729966709298
-        ChildIds: 13484548235107798970
-        ChildIds: 17207840193126050743
-        ChildIds: 11209007413521822212
-        ChildIds: 15749200954003199395
-        ChildIds: 13263105302536828981
-        ChildIds: 17999701253457059127
-        ChildIds: 5617454175767876173
-        ChildIds: 2597874681000000379
-        ChildIds: 4209765773194228488
-        ChildIds: 17526559436986856109
-        ChildIds: 9259251467393596178
-        ChildIds: 3128763493854824770
-        ChildIds: 12442872058022900567
-        ChildIds: 2949855217747218252
-        ChildIds: 9364406354774458434
-        ChildIds: 17379988394419423704
-        ChildIds: 12222051643202420290
-        ChildIds: 5214369887594863558
-        ChildIds: 10111224581175654745
-        ChildIds: 17235659601329644519
-        ChildIds: 11556663077997101593
-        ChildIds: 10721937892258998113
-        ChildIds: 17641000907380731122
-        ChildIds: 14643521438088316274
-        ChildIds: 5665921763315640827
-        ChildIds: 8612880030729070574
-        ChildIds: 18161617974360882021
-        ChildIds: 8667233557509171107
-        ChildIds: 1936853107707343127
-        ChildIds: 8594028914453120688
-        ChildIds: 8270133837833675980
-        ChildIds: 5909599374877409415
-        ChildIds: 16327567485939497128
-        ChildIds: 3113535677184998512
-        ChildIds: 1636716445350592524
-        ChildIds: 1057706224232528870
-        ChildIds: 13555389399354621246
-        ChildIds: 3694391130341908551
-        ChildIds: 4433457974341535767
-        ChildIds: 1698706257212125383
-        ChildIds: 1394933701450089493
-        ChildIds: 7066895645172538990
-        ChildIds: 13127886549867244737
-        ChildIds: 9479425837329906912
-        ChildIds: 9830619473542952517
-        ChildIds: 17559704308676602130
-        ChildIds: 12519245857398257932
-        ChildIds: 15037377706768932225
-        ChildIds: 10108725719173368119
-        ChildIds: 2005851311209908681
-        ChildIds: 9224968022359971723
-        ChildIds: 5814625659629252397
-        ChildIds: 5188251952034480428
-        ChildIds: 9452671619509966484
-        ChildIds: 3954673592755182436
-        ChildIds: 6116513613387181124
-        ChildIds: 15869389303155631199
-        ChildIds: 13696034382231973138
-        ChildIds: 7820396926152702080
-        ChildIds: 9224407866691946451
-        ChildIds: 11412496009978246200
-        ChildIds: 11651547272021429560
-        ChildIds: 17798117119963088475
-        ChildIds: 13184219937897409936
-        ChildIds: 14395013840317051443
-        ChildIds: 2520237728412880864
-        ChildIds: 18345551969825354338
-        ChildIds: 3127488165936375727
-        ChildIds: 4463186192551149654
-        ChildIds: 1462240253612744044
         ChildIds: 18252662086239630496
         ChildIds: 13251191891231454569
         ChildIds: 3506995151749638045
@@ -308,147 +167,6 @@ Assets {
         ChildIds: 10586762141430664645
         ChildIds: 815615087505796603
         ChildIds: 393876821715029565
-        ChildIds: 13292274124804601542
-        ChildIds: 12381031886073219413
-        ChildIds: 4761595630463032947
-        ChildIds: 8911560966085980244
-        ChildIds: 12056783692682680968
-        ChildIds: 3766461532122769858
-        ChildIds: 665737318354691815
-        ChildIds: 9466002849074096032
-        ChildIds: 3713507135796881586
-        ChildIds: 16286646800732887159
-        ChildIds: 1007524020233560669
-        ChildIds: 10586007459811919313
-        ChildIds: 15111338000341859346
-        ChildIds: 44665573974936437
-        ChildIds: 13070250535257469446
-        ChildIds: 11260692778869822403
-        ChildIds: 17778703524773081350
-        ChildIds: 7303793845224582407
-        ChildIds: 13797627950374152164
-        ChildIds: 1384173635849950172
-        ChildIds: 17335932010314058214
-        ChildIds: 8630752893349041891
-        ChildIds: 8850185779163260027
-        ChildIds: 2864861449091685834
-        ChildIds: 6566462419797665992
-        ChildIds: 18156138014572954162
-        ChildIds: 529157285311198896
-        ChildIds: 14381873831567366583
-        ChildIds: 15083341232885393208
-        ChildIds: 7632594439094855961
-        ChildIds: 9978327017249823938
-        ChildIds: 5507487075532127038
-        ChildIds: 15964006969390539252
-        ChildIds: 8304105727172930646
-        ChildIds: 12497751954260872968
-        ChildIds: 17804902057033283015
-        ChildIds: 13870991309994814534
-        ChildIds: 13188736275333605919
-        ChildIds: 18133208622811064330
-        ChildIds: 10167651047465571352
-        ChildIds: 15520759755267879756
-        ChildIds: 11105497651760261630
-        ChildIds: 1125168035184251655
-        ChildIds: 6935715335577597940
-        ChildIds: 11841691828226234064
-        ChildIds: 2629001796166315170
-        ChildIds: 15588560543206734253
-        ChildIds: 10180647981742859088
-        ChildIds: 15071181073090181536
-        ChildIds: 2225248127663611473
-        ChildIds: 8886261253937909038
-        ChildIds: 16866301054864362744
-        ChildIds: 246982296954762097
-        ChildIds: 6752822606768105511
-        ChildIds: 3615980471811971522
-        ChildIds: 11369967206203450257
-        ChildIds: 5903258367749843169
-        ChildIds: 913418947247443962
-        ChildIds: 15898222672441128962
-        ChildIds: 7415794263580881318
-        ChildIds: 12909985505073964651
-        ChildIds: 15233215512032413210
-        ChildIds: 17466002273833715108
-        ChildIds: 9156056315598157731
-        ChildIds: 10018957805721369946
-        ChildIds: 579562755851851404
-        ChildIds: 8663686130799134224
-        ChildIds: 18195857792460870418
-        ChildIds: 9356847670329791399
-        ChildIds: 7817654475792152178
-        ChildIds: 15734583281477574356
-        ChildIds: 12288040296807118316
-        ChildIds: 1363069407409488037
-        ChildIds: 12280967841804084377
-        ChildIds: 5706145933040231650
-        ChildIds: 6150311963778211141
-        ChildIds: 7103055160438466812
-        ChildIds: 8954157665857812326
-        ChildIds: 8431973849538973903
-        ChildIds: 3068612118582421202
-        ChildIds: 11881194395467463331
-        ChildIds: 4466516729598625800
-        ChildIds: 2481183711692678808
-        ChildIds: 18088043815834852840
-        ChildIds: 12947012498201958309
-        ChildIds: 1618818707336862631
-        ChildIds: 16472108912016468068
-        ChildIds: 7284698451776213126
-        ChildIds: 12127668126824852912
-        ChildIds: 18037109538910993229
-        ChildIds: 15618110458032887887
-        ChildIds: 3195767953474930596
-        ChildIds: 6529116682304642630
-        ChildIds: 15306817410195697973
-        ChildIds: 15993916463850003306
-        ChildIds: 7421800489985990600
-        ChildIds: 6564236414481243739
-        ChildIds: 1192954904639183655
-        ChildIds: 132269095079787540
-        ChildIds: 17870050904998658223
-        ChildIds: 9290301097441490675
-        ChildIds: 11933671477781966737
-        ChildIds: 7394239127497592925
-        ChildIds: 9862903308750980740
-        ChildIds: 13675314262584880765
-        ChildIds: 15371318856684848287
-        ChildIds: 2717718870122114284
-        ChildIds: 12213222773856828383
-        ChildIds: 7988386171531915176
-        ChildIds: 17999241751439034486
-        ChildIds: 12058961436919995621
-        ChildIds: 12077001904250806825
-        ChildIds: 6247003578668321274
-        ChildIds: 1948050938398349113
-        ChildIds: 15489486465492044999
-        ChildIds: 2260897550289236377
-        ChildIds: 5771997720020921241
-        ChildIds: 491638901276765591
-        ChildIds: 15587431770340169668
-        ChildIds: 1280398622645601253
-        ChildIds: 503289958883556908
-        ChildIds: 4054671866562183555
-        ChildIds: 14826028522582256842
-        ChildIds: 5546264368898285315
-        ChildIds: 7010771083547790140
-        ChildIds: 6330893851628537198
-        ChildIds: 10821399847689288715
-        ChildIds: 6192249767915637058
-        ChildIds: 7808309233622386625
-        ChildIds: 5080448231114696434
-        ChildIds: 4405117926273325372
-        ChildIds: 556307399793157335
-        ChildIds: 3879286041906618338
-        ChildIds: 17875640808545051206
-        ChildIds: 245568867280176972
-        ChildIds: 15263678460982196784
-        ChildIds: 1449632471804674481
-        ChildIds: 9358709681322931263
-        ChildIds: 2011194509784870433
-        ChildIds: 8163924486478024633
-        ChildIds: 8226734815879689955
         ChildIds: 17271569878017350578
         ChildIds: 9403413466052254597
         ChildIds: 13908127206113866619
@@ -1073,9 +791,12 @@ Assets {
         }
         ParentId: 2799277338684475450
         ChildIds: 8243861247520334255
-        ChildIds: 17585820654488266019
-        ChildIds: 16808596396512988530
-        ChildIds: 1497681909998591317
+        ChildIds: 18253997848916613556
+        ChildIds: 13749464972629174950
+        ChildIds: 4952104777977924032
+        ChildIds: 1866097933239829339
+        ChildIds: 9068879676756122733
+        ChildIds: 7362023972376079198
         ChildIds: 663413116170674425
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1098,8 +819,9 @@ Assets {
         Name: "Fantasy Castle Wall 01 - Doorway 02"
         Transform {
           Location {
-            X: 1
-            Y: -0.999999642
+            X: 0.999999881
+            Y: -1
+            Z: 1
           }
           Rotation {
           }
@@ -1208,51 +930,16 @@ Assets {
         }
       }
       Objects {
-        Id: 17585820654488266019
-        Name: "Skull Sconce"
-        Transform {
-          Location {
-            X: 699.999878
-            Y: 39.999939
-            Z: 230
-          }
-          Rotation {
-            Yaw: -89.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17661176341630582965
-        ChildIds: 18253997848916613556
-        ChildIds: 13749464972629174950
-        ChildIds: 4952104777977924032
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 18253997848916613556
         Name: "Sconce 01"
         Transform {
           Location {
+            X: 699.999451
+            Y: 39.999939
+            Z: 230
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 4.09811328e-05
           }
           Scale {
             X: 0.8
@@ -1260,7 +947,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17585820654488266019
+        ParentId: 17661176341630582965
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:id"
@@ -1303,14 +990,14 @@ Assets {
         Name: "Bone Human Skull 01"
         Transform {
           Location {
-            X: -37.4520264
-            Y: 1.92895508
-            Z: 33.2257385
+            X: 701.928162
+            Y: 77.4520874
+            Z: 263.22583
           }
           Rotation {
             Pitch: 6.19320536
-            Yaw: 89.2132797
-            Roll: -21.3093739
+            Yaw: -0.786666811
+            Roll: -21.3093624
           }
           Scale {
             X: 1
@@ -1318,7 +1005,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17585820654488266019
+        ParentId: 17661176341630582965
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1354,14 +1041,14 @@ Assets {
         Name: "Candle 03"
         Transform {
           Location {
-            X: -41.6760864
-            Y: 1.65924072
-            Z: 52.2035217
+            X: 701.65863
+            Y: 81.6757202
+            Z: 282.203613
           }
           Rotation {
             Pitch: -5.38253689
-            Yaw: 135.254684
-            Roll: -5.40664911
+            Yaw: 45.254734
+            Roll: -5.4066515
           }
           Scale {
             X: 0.936208844
@@ -1369,7 +1056,7 @@ Assets {
             Z: 0.728162289
           }
         }
-        ParentId: 17585820654488266019
+        ParentId: 17661176341630582965
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1412,51 +1099,16 @@ Assets {
         }
       }
       Objects {
-        Id: 16808596396512988530
-        Name: "Skull Sconce"
-        Transform {
-          Location {
-            X: 100
-            Y: 39.9999962
-            Z: 230
-          }
-          Rotation {
-            Yaw: -89.9999542
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17661176341630582965
-        ChildIds: 1866097933239829339
-        ChildIds: 9068879676756122733
-        ChildIds: 7362023972376079198
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 1866097933239829339
         Name: "Sconce 01"
         Transform {
           Location {
+            X: 100
+            Y: 39.9999847
+            Z: 230
           }
           Rotation {
-            Yaw: 89.9999924
+            Yaw: 4.09811328e-05
           }
           Scale {
             X: 0.8
@@ -1464,7 +1116,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16808596396512988530
+        ParentId: 17661176341630582965
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Detail2:id"
@@ -1507,14 +1159,14 @@ Assets {
         Name: "Bone Human Skull 01"
         Transform {
           Location {
-            X: -37.4520264
-            Y: 1.92895508
-            Z: 33.2257385
+            X: 101.92897
+            Y: 77.4521332
+            Z: 263.22583
           }
           Rotation {
             Pitch: 6.19320536
-            Yaw: 89.2132797
-            Roll: -21.3093739
+            Yaw: -0.786666811
+            Roll: -21.3093624
           }
           Scale {
             X: 1
@@ -1522,7 +1174,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16808596396512988530
+        ParentId: 17661176341630582965
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1558,14 +1210,14 @@ Assets {
         Name: "Candle 03"
         Transform {
           Location {
-            X: -41.6760864
-            Y: 1.65924072
-            Z: 52.2035217
+            X: 101.659187
+            Y: 81.675766
+            Z: 282.203613
           }
           Rotation {
             Pitch: -5.38253689
-            Yaw: 135.254684
-            Roll: -5.40664911
+            Yaw: 45.254734
+            Roll: -5.4066515
           }
           Scale {
             X: 0.936208844
@@ -1573,7 +1225,7 @@ Assets {
             Z: 0.728162289
           }
         }
-        ParentId: 16808596396512988530
+        ParentId: 17661176341630582965
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -1616,72 +1268,13 @@ Assets {
         }
       }
       Objects {
-        Id: 1497681909998591317
-        Name: "Curtains Straight"
-        Transform {
-          Location {
-            X: 425.000031
-            Y: 54.9999847
-            Z: 310
-          }
-          Rotation {
-            Yaw: 6.83018879e-06
-          }
-          Scale {
-            X: 6.20000029
-            Y: -0.49999997
-            Z: 1
-          }
-        }
-        ParentId: 17661176341630582965
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 15089487538220634502
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 6
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10410624715350118267
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
         Id: 663413116170674425
         Name: "Fantasy Castle Wall 01 - Doorway 02"
         Transform {
           Location {
             X: -4799.96094
             Y: 8799.78613
+            Z: 1
           }
           Rotation {
             Yaw: 180
@@ -1792,7 +1385,7 @@ Assets {
       }
       Objects {
         Id: 4265250408547303102
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3600
@@ -1864,7 +1457,7 @@ Assets {
       }
       Objects {
         Id: 7516780147136469439
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3600
@@ -1873,8 +1466,8 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 0.5
-            Y: 0.5
+            X: 7.5
+            Y: 7.5
             Z: 1
           }
         }
@@ -1904,10146 +1497,13 @@ Assets {
               A: 1
             }
           }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11493604019384027519
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8503126076786379896
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5085770390544472094
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6639904991112352908
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 2400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10178895298253635558
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8605491853120015237
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8109751723162811344
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4778021489643432749
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1140389228334258390
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10250622430444514969
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9163785066614100629
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10078648149248592208
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12158410614691878114
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16054538700547696154
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15575528833321621224
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13095788117693390983
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4305481817666491154
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13342832184086304960
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17721756465260128211
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 2400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7867748397258283272
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16460737551936952425
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4257671916741984004
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6027571825245400036
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14573347437212365054
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3700983395124243637
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8427459068067020292
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14031911511857940486
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1747521632381535854
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9105624689444120981
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15465756309559684897
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4862839989053044578
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18089778299309319622
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7131380956953081887
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5476280563510947907
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15437614936195170897
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 341355881877887406
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13631741464608112197
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4772046747210824846
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 989333506403655524
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17286526039974373307
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6514288357701711751
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5684861381432024383
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5199425338616502801
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5813538059207989400
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2624874857808168579
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10602229798919915343
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10016578209005259331
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10517532273750743272
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5744530807543384668
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 2400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1138825411824798801
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 2400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3588788789425128048
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9023602866768006434
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 918841790064263551
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11964689697574906801
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16096188403136020389
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17316194642041220217
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6579627728478384218
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 3200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 121929402932875694
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 3600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14808833565779866767
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 2400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16574351413873875105
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16404088332877867681
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16686918391947568674
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8307746412785107871
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2800673946130087727
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2301390592284726513
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11171034300986179482
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12762795970304877238
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4936461135987874803
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2082848541581816602
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 2800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15189008974689083825
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 2400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13223250729966709298
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13484548235107798970
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17207840193126050743
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11209007413521822212
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15749200954003199395
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13263105302536828981
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17999701253457059127
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5617454175767876173
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2597874681000000379
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4209765773194228488
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17526559436986856109
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9259251467393596178
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3128763493854824770
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12442872058022900567
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2949855217747218252
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9364406354774458434
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17379988394419423704
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12222051643202420290
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5214369887594863558
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10111224581175654745
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17235659601329644519
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11556663077997101593
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10721937892258998113
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17641000907380731122
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14643521438088316274
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5665921763315640827
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8612880030729070574
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18161617974360882021
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8667233557509171107
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1936853107707343127
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8594028914453120688
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8270133837833675980
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5909599374877409415
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16327567485939497128
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3113535677184998512
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1636716445350592524
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1057706224232528870
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13555389399354621246
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3694391130341908551
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4433457974341535767
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1698706257212125383
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1394933701450089493
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7066895645172538990
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13127886549867244737
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9479425837329906912
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9830619473542952517
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17559704308676602130
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12519245857398257932
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15037377706768932225
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10108725719173368119
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2005851311209908681
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9224968022359971723
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5814625659629252397
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5188251952034480428
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9452671619509966484
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3954673592755182436
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -2000
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6116513613387181124
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15869389303155631199
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13696034382231973138
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7820396926152702080
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9224407866691946451
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11412496009978246200
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11651547272021429560
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17798117119963088475
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13184219937897409936
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -1600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14395013840317051443
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2520237728412880864
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18345551969825354338
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3127488165936375727
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4463186192551149654
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 800
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1462240253612744044
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: -400
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 9919644819108266555
-            }
-          }
           Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
+            Name: "ma:Building_Floor:utile"
+            Float: 15
           }
           Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
+            Name: "ma:Building_Floor:vtile"
+            Float: 15
           }
         }
         Collidable_v2 {
@@ -12077,7 +1537,7 @@ Assets {
       }
       Objects {
         Id: 18252662086239630496
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: 2000
@@ -12149,7 +1609,7 @@ Assets {
       }
       Objects {
         Id: 13251191891231454569
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: 1800
@@ -12242,7 +1702,7 @@ Assets {
       }
       Objects {
         Id: 3506995151749638045
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: 1800
@@ -12335,7 +1795,7 @@ Assets {
       }
       Objects {
         Id: 6087356296302424016
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: 1800
@@ -12428,7 +1888,7 @@ Assets {
       }
       Objects {
         Id: 13672728775423129499
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3200
@@ -12501,7 +1961,7 @@ Assets {
       }
       Objects {
         Id: 199796239624676195
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3000
@@ -12595,7 +2055,7 @@ Assets {
       }
       Objects {
         Id: 9099261708215422555
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3000
@@ -12689,7 +2149,7 @@ Assets {
       }
       Objects {
         Id: 10586762141430664645
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3000
@@ -12783,7 +2243,7 @@ Assets {
       }
       Objects {
         Id: 815615087505796603
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3600
@@ -12876,7 +2336,7 @@ Assets {
       }
       Objects {
         Id: 393876821715029565
-        Name: "Cobblestone Floor - Basic"
+        Name: "Whitebox Floor 01 8m x 8m"
         Transform {
           Location {
             X: -3600
@@ -12886,8 +2346,8 @@ Assets {
           Rotation {
           }
           Scale {
-            X: 0.5
-            Y: 0.5
+            X: 7.5
+            Y: 7.5
             Z: 1
           }
         }
@@ -12937,13107 +2397,13 @@ Assets {
             Name: "ma:Building_Ceiling:vtile"
             Float: 2
           }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13292274124804601542
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12381031886073219413
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4761595630463032947
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8911560966085980244
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 2400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12056783692682680968
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3766461532122769858
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 665737318354691815
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9466002849074096032
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3713507135796881586
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16286646800732887159
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1007524020233560669
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10586007459811919313
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15111338000341859346
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 44665573974936437
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13070250535257469446
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11260692778869822403
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17778703524773081350
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7303793845224582407
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13797627950374152164
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 2400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1384173635849950172
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17335932010314058214
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8630752893349041891
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8850185779163260027
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2864861449091685834
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6566462419797665992
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18156138014572954162
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 529157285311198896
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14381873831567366583
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15083341232885393208
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7632594439094855961
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9978327017249823938
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5507487075532127038
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15964006969390539252
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8304105727172930646
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12497751954260872968
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17804902057033283015
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13870991309994814534
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13188736275333605919
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18133208622811064330
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10167651047465571352
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15520759755267879756
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11105497651760261630
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1125168035184251655
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6935715335577597940
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11841691828226234064
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2629001796166315170
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15588560543206734253
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10180647981742859088
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15071181073090181536
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 2400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2225248127663611473
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 2400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8886261253937909038
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16866301054864362744
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 246982296954762097
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6752822606768105511
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3615980471811971522
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11369967206203450257
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5903258367749843169
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 3200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 913418947247443962
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 3600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15898222672441128962
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 2400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7415794263580881318
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12909985505073964651
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15233215512032413210
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17466002273833715108
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9156056315598157731
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10018957805721369946
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 579562755851851404
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8663686130799134224
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18195857792460870418
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9356847670329791399
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 2800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7817654475792152178
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 2400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15734583281477574356
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12288040296807118316
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1363069407409488037
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12280967841804084377
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5706145933040231650
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6150311963778211141
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7103055160438466812
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8954157665857812326
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8431973849538973903
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3068612118582421202
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11881194395467463331
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4466516729598625800
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2481183711692678808
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3600
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18088043815834852840
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -3200
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12947012498201958309
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2800
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1618818707336862631
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2400
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 16472108912016468068
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7284698451776213126
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -2000
-            Y: -1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12127668126824852912
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 18037109538910993229
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15618110458032887887
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3195767953474930596
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6529116682304642630
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15306817410195697973
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15993916463850003306
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7421800489985990600
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6564236414481243739
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -1600
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1192954904639183655
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 132269095079787540
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17870050904998658223
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9290301097441490675
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 11933671477781966737
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7394239127497592925
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9862903308750980740
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 13675314262584880765
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15371318856684848287
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2717718870122114284
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12213222773856828383
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7988386171531915176
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17999241751439034486
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12058961436919995621
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 12077001904250806825
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6247003578668321274
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1948050938398349113
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -400
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15489486465492044999
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: -800
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2260897550289236377
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5771997720020921241
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 491638901276765591
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15587431770340169668
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1280398622645601253
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 503289958883556908
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4054671866562183555
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 14826028522582256842
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5546264368898285315
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7010771083547790140
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6330893851628537198
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 2000
-            Y: -2000
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 10821399847689288715
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 6192249767915637058
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7808309233622386625
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5080448231114696434
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 4405117926273325372
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 556307399793157335
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 400
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3879286041906618338
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 800
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 17875640808545051206
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 245568867280176972
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -1600
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 15263678460982196784
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 1449632471804674481
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 9358709681322931263
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2011194509784870433
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8163924486478024633
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1200
-            Y: 800
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
           Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 7207757223016895409
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 8226734815879689955
-        Name: "Cobblestone Floor - Basic"
-        Transform {
-          Location {
-            X: 1600
-            Y: -400
-            Z: 600
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.5
-            Y: 0.5
-            Z: 1
-          }
-        }
-        ParentId: 2799277338684475450
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Building_Floor:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:id"
-            AssetReference {
-              Id: 4940465360098048295
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:id"
-            AssetReference {
-              Id: 11564448295315603049
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Floor:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:color"
-            Color {
-              R: 0.909999967
-              G: 4.33921798e-07
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Building_Ceiling:utile"
-            Float: 2
+            Name: "ma:Building_Floor:utile"
+            Float: 15
           }
           Overrides {
-            Name: "ma:Building_Ceiling:vtile"
-            Float: 2
+            Name: "ma:Building_Floor:vtile"
+            Float: 15
           }
         }
         Collidable_v2 {
@@ -26071,7 +2437,7 @@ Assets {
       }
       Objects {
         Id: 17271569878017350578
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199
@@ -26216,7 +2582,7 @@ Assets {
       }
       Objects {
         Id: 9403413466052254597
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00024
@@ -26361,7 +2727,7 @@ Assets {
       }
       Objects {
         Id: 13908127206113866619
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00049
@@ -26506,7 +2872,7 @@ Assets {
       }
       Objects {
         Id: 708805342155614125
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00049
@@ -26651,7 +3017,7 @@ Assets {
       }
       Objects {
         Id: 15489740719574619855
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00049
@@ -26796,7 +3162,7 @@ Assets {
       }
       Objects {
         Id: 16616993793736451652
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00122
@@ -26941,7 +3307,7 @@ Assets {
       }
       Objects {
         Id: 13492126825017000508
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00122
@@ -27086,7 +3452,7 @@ Assets {
       }
       Objects {
         Id: 2839129675982753003
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00195
@@ -27231,7 +3597,7 @@ Assets {
       }
       Objects {
         Id: 9196796596580684769
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00122
@@ -27376,7 +3742,7 @@ Assets {
       }
       Objects {
         Id: 2961212862586389948
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.00146
@@ -27521,7 +3887,7 @@ Assets {
       }
       Objects {
         Id: 12327157442223906490
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00732
@@ -27666,7 +4032,7 @@ Assets {
       }
       Objects {
         Id: 7180597225554196044
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00586
@@ -27811,7 +4177,7 @@ Assets {
       }
       Objects {
         Id: 7552555114612276566
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00195
@@ -27956,7 +4322,7 @@ Assets {
       }
       Objects {
         Id: 11133653378880528248
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00708
@@ -28101,7 +4467,7 @@ Assets {
       }
       Objects {
         Id: 14770666818573096360
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00537
@@ -28246,7 +4612,7 @@ Assets {
       }
       Objects {
         Id: 6042738341488809575
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00122
@@ -28391,7 +4757,7 @@ Assets {
       }
       Objects {
         Id: 3049710030830196538
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00635
@@ -28536,7 +4902,7 @@ Assets {
       }
       Objects {
         Id: 5848306054922397270
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00488
@@ -28681,7 +5047,7 @@ Assets {
       }
       Objects {
         Id: 2572616060547202848
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00049
@@ -28826,7 +5192,7 @@ Assets {
       }
       Objects {
         Id: 17990170363063621973
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00586
@@ -28971,7 +5337,7 @@ Assets {
       }
       Objects {
         Id: 18283957228029680176
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00415
@@ -29116,7 +5482,7 @@ Assets {
       }
       Objects {
         Id: 1208655141208382439
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00024
@@ -29261,7 +5627,7 @@ Assets {
       }
       Objects {
         Id: 18138338226540360281
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00562
@@ -29406,7 +5772,7 @@ Assets {
       }
       Objects {
         Id: 3323409753846218498
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600
@@ -29551,7 +5917,7 @@ Assets {
       }
       Objects {
         Id: 3897347373504382731
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.0061
@@ -29696,7 +6062,7 @@ Assets {
       }
       Objects {
         Id: 16730008233334783651
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00024
@@ -29841,7 +6207,7 @@ Assets {
       }
       Objects {
         Id: 724480801803169483
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00635
@@ -29986,7 +6352,7 @@ Assets {
       }
       Objects {
         Id: 4782933801324059948
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00049
@@ -30131,7 +6497,7 @@ Assets {
       }
       Objects {
         Id: 8193024338172505103
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00122
@@ -30276,7 +6642,7 @@ Assets {
       }
       Objects {
         Id: 7988374467231340161
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00146
@@ -30421,7 +6787,7 @@ Assets {
       }
       Objects {
         Id: 16390035373873624147
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00146
@@ -30566,7 +6932,7 @@ Assets {
       }
       Objects {
         Id: 3737180668997052429
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00537
@@ -30711,7 +7077,7 @@ Assets {
       }
       Objects {
         Id: 15086496737277192654
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00195
@@ -30856,7 +7222,7 @@ Assets {
       }
       Objects {
         Id: 2858147308732149715
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00195
@@ -31001,7 +7367,7 @@ Assets {
       }
       Objects {
         Id: 14775400746261942657
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00195
@@ -31146,7 +7512,7 @@ Assets {
       }
       Objects {
         Id: 18274719462958577361
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00146
@@ -31291,7 +7657,7 @@ Assets {
       }
       Objects {
         Id: 2698340458624312295
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00195
@@ -31436,7 +7802,7 @@ Assets {
       }
       Objects {
         Id: 3178257365158149230
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00195
@@ -31581,7 +7947,7 @@ Assets {
       }
       Objects {
         Id: 1216731366464861161
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.997559
@@ -31726,7 +8092,7 @@ Assets {
       }
       Objects {
         Id: 9254424868774616258
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.998047
@@ -31871,7 +8237,7 @@ Assets {
       }
       Objects {
         Id: 1864870263583503788
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.008301
@@ -32016,7 +8382,7 @@ Assets {
       }
       Objects {
         Id: 9330761988045548930
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.99707
@@ -32161,7 +8527,7 @@ Assets {
       }
       Objects {
         Id: 1891179055456557271
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.00293
@@ -32306,7 +8672,7 @@ Assets {
       }
       Objects {
         Id: 11371227105684171972
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.015137
@@ -32451,7 +8817,7 @@ Assets {
       }
       Objects {
         Id: 2339018729396059822
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.98352
@@ -32596,7 +8962,7 @@ Assets {
       }
       Objects {
         Id: 14472599989453910440
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.98926
@@ -32741,7 +9107,7 @@ Assets {
       }
       Objects {
         Id: 17178554452320902228
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00134
@@ -32886,7 +9252,7 @@ Assets {
       }
       Objects {
         Id: 15661860185319778742
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.98315
@@ -33031,7 +9397,7 @@ Assets {
       }
       Objects {
         Id: 3993227599839403325
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.98926
@@ -33176,7 +9542,7 @@ Assets {
       }
       Objects {
         Id: 7994990708504444477
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00171
@@ -33321,7 +9687,7 @@ Assets {
       }
       Objects {
         Id: 13855120320931538600
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.9834
@@ -33466,7 +9832,7 @@ Assets {
       }
       Objects {
         Id: 18174289741352807681
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.98291
@@ -33611,7 +9977,7 @@ Assets {
       }
       Objects {
         Id: 5288894586692466791
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.98877
@@ -33756,7 +10122,7 @@ Assets {
       }
       Objects {
         Id: 12744133409051536637
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00073
@@ -33901,7 +10267,7 @@ Assets {
       }
       Objects {
         Id: 3279849028984731558
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.98254
@@ -34046,7 +10412,7 @@ Assets {
       }
       Objects {
         Id: 15405444794907963049
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.98853
@@ -34191,7 +10557,7 @@ Assets {
       }
       Objects {
         Id: 12779269666775010321
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00061
@@ -34336,7 +10702,7 @@ Assets {
       }
       Objects {
         Id: 3667396366753529292
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.996826
@@ -34481,7 +10847,7 @@ Assets {
       }
       Objects {
         Id: 4444947701433447679
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.003174
@@ -34626,7 +10992,7 @@ Assets {
       }
       Objects {
         Id: 4706310458427955848
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.996582
@@ -34771,7 +11137,7 @@ Assets {
       }
       Objects {
         Id: 15810959807168029474
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.004639
@@ -34916,7 +11282,7 @@ Assets {
       }
       Objects {
         Id: 8474718394441256535
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.00708
@@ -35061,7 +11427,7 @@ Assets {
       }
       Objects {
         Id: 15837837879768799834
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.999268
@@ -35206,7 +11572,7 @@ Assets {
       }
       Objects {
         Id: 17884676263782674007
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.006592
@@ -35351,7 +11717,7 @@ Assets {
       }
       Objects {
         Id: 13704923489764550385
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.999512
@@ -35496,7 +11862,7 @@ Assets {
       }
       Objects {
         Id: 14157872660670078848
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.004883
@@ -35641,7 +12007,7 @@ Assets {
       }
       Objects {
         Id: 3308486884703645433
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.999023
@@ -35786,7 +12152,7 @@ Assets {
       }
       Objects {
         Id: 186553864850709967
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.998535
@@ -35931,7 +12297,7 @@ Assets {
       }
       Objects {
         Id: 6905991042714027528
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.996094
@@ -36076,7 +12442,7 @@ Assets {
       }
       Objects {
         Id: 10880636894924424601
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.987549
@@ -36221,7 +12587,7 @@ Assets {
       }
       Objects {
         Id: 1571121535467833033
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.99414
@@ -36366,7 +12732,7 @@ Assets {
       }
       Objects {
         Id: 2096972807091511508
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.98975
@@ -36511,7 +12877,7 @@ Assets {
       }
       Objects {
         Id: 13753390779203634159
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.98438
@@ -36656,7 +13022,7 @@ Assets {
       }
       Objects {
         Id: 17554284114965754413
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.97852
@@ -36801,7 +13167,7 @@ Assets {
       }
       Objects {
         Id: 3163918224898918244
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.97852
@@ -36946,7 +13312,7 @@ Assets {
       }
       Objects {
         Id: 4259177321590079535
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.97852
@@ -37091,7 +13457,7 @@ Assets {
       }
       Objects {
         Id: 4560291459398455933
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.97949
@@ -37236,7 +13602,7 @@ Assets {
       }
       Objects {
         Id: 11752174406792837568
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.979
@@ -37381,7 +13747,7 @@ Assets {
       }
       Objects {
         Id: 5512873505787872003
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.97949
@@ -37526,7 +13892,7 @@ Assets {
       }
       Objects {
         Id: 11926470154448274440
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.97949
@@ -37671,7 +14037,7 @@ Assets {
       }
       Objects {
         Id: 13385292246140876103
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.98
@@ -37816,7 +14182,7 @@ Assets {
       }
       Objects {
         Id: 48696286423715365
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97949
@@ -37961,7 +14327,7 @@ Assets {
       }
       Objects {
         Id: 2459711770781564585
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97949
@@ -38106,7 +14472,7 @@ Assets {
       }
       Objects {
         Id: 16597115351139619831
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97949
@@ -38251,7 +14617,7 @@ Assets {
       }
       Objects {
         Id: 10647902576085736714
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.93848
@@ -38396,7 +14762,7 @@ Assets {
       }
       Objects {
         Id: 14190968215559305765
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.94141
@@ -38541,7 +14907,7 @@ Assets {
       }
       Objects {
         Id: 8909727371564435676
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.93799
@@ -38686,7 +15052,7 @@ Assets {
       }
       Objects {
         Id: 12129163489244055786
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.91602
@@ -38831,7 +15197,7 @@ Assets {
       }
       Objects {
         Id: 8727967087180826855
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.91016
@@ -38976,7 +15342,7 @@ Assets {
       }
       Objects {
         Id: 110503069203157354
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.88428
@@ -39121,7 +15487,7 @@ Assets {
       }
       Objects {
         Id: 16452310311279891180
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.87646
@@ -39266,7 +15632,7 @@ Assets {
       }
       Objects {
         Id: 5182966161870178120
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.90771
@@ -39411,7 +15777,7 @@ Assets {
       }
       Objects {
         Id: 12659931524092141536
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92285
@@ -39556,7 +15922,7 @@ Assets {
       }
       Objects {
         Id: 1790275850176512109
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91113
@@ -39701,7 +16067,7 @@ Assets {
       }
       Objects {
         Id: 13729431690909945223
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92725
@@ -39846,7 +16212,7 @@ Assets {
       }
       Objects {
         Id: 13953509630059823653
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91406
@@ -39991,7 +16357,7 @@ Assets {
       }
       Objects {
         Id: 1286538875101922632
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92188
@@ -40136,7 +16502,7 @@ Assets {
       }
       Objects {
         Id: 8622819325393051715
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92383
@@ -40281,7 +16647,7 @@ Assets {
       }
       Objects {
         Id: 9756437995471073868
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91602
@@ -40426,7 +16792,7 @@ Assets {
       }
       Objects {
         Id: 9435557543913970908
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.8877
@@ -40571,7 +16937,7 @@ Assets {
       }
       Objects {
         Id: 14584775946782408110
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92676
@@ -40716,7 +17082,7 @@ Assets {
       }
       Objects {
         Id: 325356590238016804
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92139
@@ -40861,7 +17227,7 @@ Assets {
       }
       Objects {
         Id: 17260366479365285084
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.9248
@@ -41006,7 +17372,7 @@ Assets {
       }
       Objects {
         Id: 11171521819542760056
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91748
@@ -41151,7 +17517,7 @@ Assets {
       }
       Objects {
         Id: 16174288164900907959
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.94238
@@ -41296,7 +17662,7 @@ Assets {
       }
       Objects {
         Id: 6653459046237903971
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.87549
@@ -41441,7 +17807,7 @@ Assets {
       }
       Objects {
         Id: 7705631052531838160
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.9292
@@ -41586,7 +17952,7 @@ Assets {
       }
       Objects {
         Id: 3284215928037928962
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.94336
@@ -41731,7 +18097,7 @@ Assets {
       }
       Objects {
         Id: 10733202978690123432
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.98047
@@ -41876,7 +18242,7 @@ Assets {
       }
       Objects {
         Id: 4766602901026443042
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.89355
@@ -42021,7 +18387,7 @@ Assets {
       }
       Objects {
         Id: 9344991137080081755
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.90576
@@ -42166,7 +18532,7 @@ Assets {
       }
       Objects {
         Id: 3868134417508869576
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.94873
@@ -42311,7 +18677,7 @@ Assets {
       }
       Objects {
         Id: 12207147019684849263
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.87598
@@ -42456,7 +18822,7 @@ Assets {
       }
       Objects {
         Id: 15581612122872230560
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.8877
@@ -42601,7 +18967,7 @@ Assets {
       }
       Objects {
         Id: 10145150066942853543
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.92969
@@ -42746,7 +19112,7 @@ Assets {
       }
       Objects {
         Id: 123590892917207954
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.85547
@@ -42891,7 +19257,7 @@ Assets {
       }
       Objects {
         Id: 11459449555975712309
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.86475
@@ -43036,7 +19402,7 @@ Assets {
       }
       Objects {
         Id: 8137049113660226822
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.995117
@@ -43181,7 +19547,7 @@ Assets {
       }
       Objects {
         Id: 7581397022990335619
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.995117
@@ -43326,7 +19692,7 @@ Assets {
       }
       Objects {
         Id: 6450688041557708109
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.995117
@@ -43471,7 +19837,7 @@ Assets {
       }
       Objects {
         Id: 11234895705651592133
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.994141
@@ -43616,7 +19982,7 @@ Assets {
       }
       Objects {
         Id: 17735105072119926251
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.994385
@@ -43761,7 +20127,7 @@ Assets {
       }
       Objects {
         Id: 13680023018931050910
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.994385
@@ -43906,7 +20272,7 @@ Assets {
       }
       Objects {
         Id: 10451685250182858891
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.990234
@@ -44051,7 +20417,7 @@ Assets {
       }
       Objects {
         Id: 6515821954730713688
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.990967
@@ -44196,7 +20562,7 @@ Assets {
       }
       Objects {
         Id: 11514898364747746559
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.994385
@@ -44341,7 +20707,7 @@ Assets {
       }
       Objects {
         Id: 11362972293949847339
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00170898438
@@ -44486,7 +20852,7 @@ Assets {
       }
       Objects {
         Id: 414240784593165463
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00146484375
@@ -44631,7 +20997,7 @@ Assets {
       }
       Objects {
         Id: 15386871689793436151
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00146484375
@@ -44776,7 +21142,7 @@ Assets {
       }
       Objects {
         Id: 4490831868645241981
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00122070312
@@ -44921,7 +21287,7 @@ Assets {
       }
       Objects {
         Id: 7556130034348484030
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00146484375
@@ -45066,7 +21432,7 @@ Assets {
       }
       Objects {
         Id: 17367061734548949487
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00146484375
@@ -45211,7 +21577,7 @@ Assets {
       }
       Objects {
         Id: 17803247583595760298
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00122070312
@@ -45356,7 +21722,7 @@ Assets {
       }
       Objects {
         Id: 11350396833177636729
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00048828125
@@ -45501,7 +21867,7 @@ Assets {
       }
       Objects {
         Id: 5548400572061164967
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.0009765625
@@ -45646,7 +22012,7 @@ Assets {
       }
       Objects {
         Id: 11102173781615078834
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00048828125
@@ -45791,7 +22157,7 @@ Assets {
       }
       Objects {
         Id: 8053744929910803256
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.000732
@@ -45936,7 +22302,7 @@ Assets {
       }
       Objects {
         Id: 6923721054621546342
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.000732
@@ -46081,7 +22447,7 @@ Assets {
       }
       Objects {
         Id: 7494009584025946514
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.000488
@@ -46226,7 +22592,7 @@ Assets {
       }
       Objects {
         Id: 4412898260905387095
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.001465
@@ -46371,7 +22737,7 @@ Assets {
       }
       Objects {
         Id: 18423068392931438855
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.000732
@@ -46516,7 +22882,7 @@ Assets {
       }
       Objects {
         Id: 10310380822277364468
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.001221
@@ -46661,7 +23027,7 @@ Assets {
       }
       Objects {
         Id: 8059375738715521940
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.012939
@@ -46806,7 +23172,7 @@ Assets {
       }
       Objects {
         Id: 14835544283730967823
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.009521
@@ -46951,7 +23317,7 @@ Assets {
       }
       Objects {
         Id: 1510348243558054946
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.007568
@@ -47096,7 +23462,7 @@ Assets {
       }
       Objects {
         Id: 5888328042395159513
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.013428
@@ -47241,7 +23607,7 @@ Assets {
       }
       Objects {
         Id: 13059789648858137374
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.01709
@@ -47386,7 +23752,7 @@ Assets {
       }
       Objects {
         Id: 9577179629325371063
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00537
@@ -47531,7 +23897,7 @@ Assets {
       }
       Objects {
         Id: 5767035308553185921
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00391
@@ -47676,7 +24042,7 @@ Assets {
       }
       Objects {
         Id: 6520609982415836039
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00195
@@ -47821,7 +24187,7 @@ Assets {
       }
       Objects {
         Id: 8885903459924702931
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00537
@@ -47966,7 +24332,7 @@ Assets {
       }
       Objects {
         Id: 15814070946993371835
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00317
@@ -48111,7 +24477,7 @@ Assets {
       }
       Objects {
         Id: 16269815570016206309
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00134
@@ -48256,7 +24622,7 @@ Assets {
       }
       Objects {
         Id: 7675147168758408548
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00464
@@ -48401,7 +24767,7 @@ Assets {
       }
       Objects {
         Id: 17065069053220190436
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.0022
@@ -48546,7 +24912,7 @@ Assets {
       }
       Objects {
         Id: 5356692216848616958
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00061
@@ -48691,7 +25057,7 @@ Assets {
       }
       Objects {
         Id: 6323111648927517896
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00488
@@ -48836,7 +25202,7 @@ Assets {
       }
       Objects {
         Id: 2990485825191463817
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.0022
@@ -48981,7 +25347,7 @@ Assets {
       }
       Objects {
         Id: 18375393908932780887
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00024
@@ -49126,7 +25492,7 @@ Assets {
       }
       Objects {
         Id: 998110311562891518
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00464
@@ -49271,7 +25637,7 @@ Assets {
       }
       Objects {
         Id: 15719255680509802789
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00513
@@ -49416,7 +25782,7 @@ Assets {
       }
       Objects {
         Id: 5468942193312113455
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00586
@@ -49561,7 +25927,7 @@ Assets {
       }
       Objects {
         Id: 8143467774057709801
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00537
@@ -49706,7 +26072,7 @@ Assets {
       }
       Objects {
         Id: 5838650333156507719
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00195
@@ -49851,7 +26217,7 @@ Assets {
       }
       Objects {
         Id: 14950210265845117719
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.80273
@@ -49996,7 +26362,7 @@ Assets {
       }
       Objects {
         Id: 17000791755459752818
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.10352
@@ -50141,7 +26507,7 @@ Assets {
       }
       Objects {
         Id: 17375990450066385267
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.0293
@@ -50286,7 +26652,7 @@ Assets {
       }
       Objects {
         Id: 13746248263568007735
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.07666
@@ -50431,7 +26797,7 @@ Assets {
       }
       Objects {
         Id: 2346667265877431164
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.05762
@@ -50576,7 +26942,7 @@ Assets {
       }
       Objects {
         Id: 817999102857759899
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.01758
@@ -50721,7 +27087,7 @@ Assets {
       }
       Objects {
         Id: 10985017894226533048
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.062
@@ -50866,7 +27232,7 @@ Assets {
       }
       Objects {
         Id: 16087527142206514242
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.107910156
@@ -51011,7 +27377,7 @@ Assets {
       }
       Objects {
         Id: 17264122088524650808
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.76416
@@ -51156,7 +27522,7 @@ Assets {
       }
       Objects {
         Id: 13961798055471421100
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.892334
@@ -51301,7 +27667,7 @@ Assets {
       }
       Objects {
         Id: 15894107520755764261
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.83105
@@ -51446,7 +27812,7 @@ Assets {
       }
       Objects {
         Id: 11033084536074904058
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.859375
@@ -51591,7 +27957,7 @@ Assets {
       }
       Objects {
         Id: 15471485862965813217
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.030029
@@ -51736,7 +28102,7 @@ Assets {
       }
       Objects {
         Id: 5618407486060107749
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.01367
@@ -51881,7 +28247,7 @@ Assets {
       }
       Objects {
         Id: 5105946457573771928
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.994629
@@ -52026,7 +28392,7 @@ Assets {
       }
       Objects {
         Id: 6751787164904599890
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.79248
@@ -52171,7 +28537,7 @@ Assets {
       }
       Objects {
         Id: 15486957189809153047
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.99316
@@ -52316,7 +28682,7 @@ Assets {
       }
       Objects {
         Id: 18170751020796616965
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.0139160156
@@ -52461,7 +28827,7 @@ Assets {
       }
       Objects {
         Id: 17669507346799284985
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.002197
@@ -52606,7 +28972,7 @@ Assets {
       }
       Objects {
         Id: 1588407919382185853
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00146
@@ -52751,7 +29117,7 @@ Assets {
       }
       Objects {
         Id: 3592062078428221748
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.00146
@@ -52896,7 +29262,7 @@ Assets {
       }
       Objects {
         Id: 5130232342821442824
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.10352
@@ -53041,7 +29407,7 @@ Assets {
       }
       Objects {
         Id: 16706923279484731407
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.01709
@@ -53186,7 +29552,7 @@ Assets {
       }
       Objects {
         Id: 126608321787903670
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.98584
@@ -53331,7 +29697,7 @@ Assets {
       }
       Objects {
         Id: 10483303811975269706
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.08691
@@ -53476,7 +29842,7 @@ Assets {
       }
       Objects {
         Id: 5087279529964569829
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00146
@@ -53621,7 +29987,7 @@ Assets {
       }
       Objects {
         Id: 7598488963479301200
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00073
@@ -53766,7 +30132,7 @@ Assets {
       }
       Objects {
         Id: 4222362926852580459
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.00122070312
@@ -53911,7 +30277,7 @@ Assets {
       }
       Objects {
         Id: 14953365425940934828
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.998291
@@ -54056,7 +30422,7 @@ Assets {
       }
       Objects {
         Id: 14654199085420515710
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.99561
@@ -54201,7 +30567,7 @@ Assets {
       }
       Objects {
         Id: 704680681718686753
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.99316
@@ -54346,7 +30712,7 @@ Assets {
       }
       Objects {
         Id: 13252141391088886367
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.96729
@@ -54491,7 +30857,7 @@ Assets {
       }
       Objects {
         Id: 672853719902865996
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.994873
@@ -54636,7 +31002,7 @@ Assets {
       }
       Objects {
         Id: 15993778234610614590
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.999268
@@ -54781,7 +31147,7 @@ Assets {
       }
       Objects {
         Id: 5585648140872988311
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.000732421875
@@ -54926,7 +31292,7 @@ Assets {
       }
       Objects {
         Id: 13926242468691110612
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.000977
@@ -55071,7 +31437,7 @@ Assets {
       }
       Objects {
         Id: 17219622313866334250
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.000488
@@ -55216,7 +31582,7 @@ Assets {
       }
       Objects {
         Id: 1553486791972352846
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.999512
@@ -55361,7 +31727,7 @@ Assets {
       }
       Objects {
         Id: 6586231935565499045
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00024
@@ -55506,7 +31872,7 @@ Assets {
       }
       Objects {
         Id: 12831828923344288041
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200
@@ -55651,7 +32017,7 @@ Assets {
       }
       Objects {
         Id: 16462096019388718293
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00049
@@ -55796,7 +32162,7 @@ Assets {
       }
       Objects {
         Id: 18207150117782177287
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00049
@@ -55941,7 +32307,7 @@ Assets {
       }
       Objects {
         Id: 13287819106277513726
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00049
@@ -56086,7 +32452,7 @@ Assets {
       }
       Objects {
         Id: 6587126138839092105
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.00049
@@ -56231,7 +32597,7 @@ Assets {
       }
       Objects {
         Id: 16850698865637102599
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00061
@@ -56376,7 +32742,7 @@ Assets {
       }
       Objects {
         Id: 8018451224595286237
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00085
@@ -56521,7 +32887,7 @@ Assets {
       }
       Objects {
         Id: 14758990284581633168
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.001
@@ -56666,7 +33032,7 @@ Assets {
       }
       Objects {
         Id: 2265707394800127168
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.000977
@@ -56811,7 +33177,7 @@ Assets {
       }
       Objects {
         Id: 11436649997190207218
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.000732421875
@@ -56956,7 +33322,7 @@ Assets {
       }
       Objects {
         Id: 2469008218994670317
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.000244140625
@@ -57101,7 +33467,7 @@ Assets {
       }
       Objects {
         Id: 3680869345910368390
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.000488
@@ -57246,7 +33612,7 @@ Assets {
       }
       Objects {
         Id: 3941854262470351358
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00012
@@ -57391,7 +33757,7 @@ Assets {
       }
       Objects {
         Id: 15525094569623495806
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00024
@@ -57536,7 +33902,7 @@ Assets {
       }
       Objects {
         Id: 4628312153724908964
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.000244
@@ -57681,7 +34047,7 @@ Assets {
       }
       Objects {
         Id: 10526603873697959755
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.999512
@@ -57826,7 +34192,7 @@ Assets {
       }
       Objects {
         Id: 4632330178011129862
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.99561
@@ -57971,7 +34337,7 @@ Assets {
       }
       Objects {
         Id: 14691106305332718735
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.99268
@@ -58116,7 +34482,7 @@ Assets {
       }
       Objects {
         Id: 11181704833485228849
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.95898
@@ -58261,7 +34627,7 @@ Assets {
       }
       Objects {
         Id: 2218699764381123064
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.99316
@@ -58406,7 +34772,7 @@ Assets {
       }
       Objects {
         Id: 1546360060476975586
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.9873
@@ -58551,7 +34917,7 @@ Assets {
       }
       Objects {
         Id: 1411951438121894161
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97559
@@ -58696,7 +35062,7 @@ Assets {
       }
       Objects {
         Id: 8330363800670939363
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.99072
@@ -58841,7 +35207,7 @@ Assets {
       }
       Objects {
         Id: 8820887138937202922
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.998535
@@ -58986,7 +35352,7 @@ Assets {
       }
       Objects {
         Id: 1050074435864011064
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.999023
@@ -59131,7 +35497,7 @@ Assets {
       }
       Objects {
         Id: 9700446388290724415
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00085
@@ -59276,7 +35642,7 @@ Assets {
       }
       Objects {
         Id: 7133297142097154990
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00073
@@ -59421,7 +35787,7 @@ Assets {
       }
       Objects {
         Id: 3298562278302055143
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.00085
@@ -59566,7 +35932,7 @@ Assets {
       }
       Objects {
         Id: 7361852172928252398
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00073
@@ -59711,7 +36077,7 @@ Assets {
       }
       Objects {
         Id: 18124442936760734832
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00049
@@ -59856,7 +36222,7 @@ Assets {
       }
       Objects {
         Id: 835086062859808027
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00049
@@ -60001,7 +36367,7 @@ Assets {
       }
       Objects {
         Id: 13798726860158360908
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00122
@@ -60146,7 +36512,7 @@ Assets {
       }
       Objects {
         Id: 18052301135841344973
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00134
@@ -60291,7 +36657,7 @@ Assets {
       }
       Objects {
         Id: 3170373455919116062
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800
@@ -60436,7 +36802,7 @@ Assets {
       }
       Objects {
         Id: 862961440136865304
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400
@@ -60581,7 +36947,7 @@ Assets {
       }
       Objects {
         Id: 10296112949698582969
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.999756
@@ -60726,7 +37092,7 @@ Assets {
       }
       Objects {
         Id: 16925894339489315256
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00037
@@ -60871,7 +37237,7 @@ Assets {
       }
       Objects {
         Id: 1583173405391413948
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.97461
@@ -61016,7 +37382,7 @@ Assets {
       }
       Objects {
         Id: 2373014666540936986
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97852
@@ -61161,7 +37527,7 @@ Assets {
       }
       Objects {
         Id: 3085505730378361296
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.98975
@@ -61306,7 +37672,7 @@ Assets {
       }
       Objects {
         Id: 4587505638780728218
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.99
@@ -61451,7 +37817,7 @@ Assets {
       }
       Objects {
         Id: 8578432580043269433
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.003174
@@ -61596,7 +37962,7 @@ Assets {
       }
       Objects {
         Id: 14003602994772099209
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00122
@@ -61741,7 +38107,7 @@ Assets {
       }
       Objects {
         Id: 9314946754211168415
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00171
@@ -61886,7 +38252,7 @@ Assets {
       }
       Objects {
         Id: 4468792513913437969
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00146
@@ -62031,7 +38397,7 @@ Assets {
       }
       Objects {
         Id: 11706311121628079422
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00098
@@ -62176,7 +38542,7 @@ Assets {
       }
       Objects {
         Id: 4648686918655259500
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.00391
@@ -62321,7 +38687,7 @@ Assets {
       }
       Objects {
         Id: 15557423723155247340
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00098
@@ -62466,7 +38832,7 @@ Assets {
       }
       Objects {
         Id: 669626622739438934
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.005859
@@ -62611,7 +38977,7 @@ Assets {
       }
       Objects {
         Id: 9350597448988692337
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.998291
@@ -62756,7 +39122,7 @@ Assets {
       }
       Objects {
         Id: 13226157119833492781
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.997803
@@ -62901,7 +39267,7 @@ Assets {
       }
       Objects {
         Id: 17619410531305056090
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00146
@@ -63046,7 +39412,7 @@ Assets {
       }
       Objects {
         Id: 16306756615034206357
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2400.00146
@@ -63191,7 +39557,7 @@ Assets {
       }
       Objects {
         Id: 11355853808066145261
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.00146
@@ -63336,7 +39702,7 @@ Assets {
       }
       Objects {
         Id: 1706664396215232708
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.00146
@@ -63481,7 +39847,7 @@ Assets {
       }
       Objects {
         Id: 10484540445786626969
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.98779
@@ -63626,7 +39992,7 @@ Assets {
       }
       Objects {
         Id: 10677226618318816432
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.99951
@@ -63772,7 +40138,7 @@ Assets {
       }
       Objects {
         Id: 9505886425607537221
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97485
@@ -63918,7 +40284,7 @@ Assets {
       }
       Objects {
         Id: 11572120495443637608
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.9751
@@ -64064,7 +40430,7 @@ Assets {
       }
       Objects {
         Id: 5516943627574693111
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.9751
@@ -64210,7 +40576,7 @@ Assets {
       }
       Objects {
         Id: 628354003411301639
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97559
@@ -64356,7 +40722,7 @@ Assets {
       }
       Objects {
         Id: 17053122468282438650
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97559
@@ -64502,7 +40868,7 @@ Assets {
       }
       Objects {
         Id: 7281044119702367649
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97583
@@ -64648,7 +41014,7 @@ Assets {
       }
       Objects {
         Id: 5196417733212388367
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97632
@@ -64794,7 +41160,7 @@ Assets {
       }
       Objects {
         Id: 8750223512024213647
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97607
@@ -64940,7 +41306,7 @@ Assets {
       }
       Objects {
         Id: 5010867218198554310
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97607
@@ -65086,7 +41452,7 @@ Assets {
       }
       Objects {
         Id: 365218264937580137
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98193
@@ -65232,7 +41598,7 @@ Assets {
       }
       Objects {
         Id: 14326911965245931314
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98022
@@ -65378,7 +41744,7 @@ Assets {
       }
       Objects {
         Id: 17043545956314439776
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97607
@@ -65524,7 +41890,7 @@ Assets {
       }
       Objects {
         Id: 8835683174332968142
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98145
@@ -65670,7 +42036,7 @@ Assets {
       }
       Objects {
         Id: 4768844730303725187
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97974
@@ -65816,7 +42182,7 @@ Assets {
       }
       Objects {
         Id: 14532553349286331699
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97559
@@ -65962,7 +42328,7 @@ Assets {
       }
       Objects {
         Id: 12982930409183419848
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98096
@@ -66108,7 +42474,7 @@ Assets {
       }
       Objects {
         Id: 6989481980515917067
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97925
@@ -66254,7 +42620,7 @@ Assets {
       }
       Objects {
         Id: 3534068387281566808
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97534
@@ -66400,7 +42766,7 @@ Assets {
       }
       Objects {
         Id: 7192151849239349083
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98047
@@ -66546,7 +42912,7 @@ Assets {
       }
       Objects {
         Id: 2825264286661564612
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.979
@@ -66692,7 +43058,7 @@ Assets {
       }
       Objects {
         Id: 4900999845516441516
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97485
@@ -66838,7 +43204,7 @@ Assets {
       }
       Objects {
         Id: 7735581195131966595
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98022
@@ -66984,7 +43350,7 @@ Assets {
       }
       Objects {
         Id: 2270459160903260392
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97461
@@ -67130,7 +43496,7 @@ Assets {
       }
       Objects {
         Id: 13917279478602512873
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.98071
@@ -67276,7 +43642,7 @@ Assets {
       }
       Objects {
         Id: 4264310613763305535
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97485
@@ -67422,7 +43788,7 @@ Assets {
       }
       Objects {
         Id: 12508782193782730513
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.9812
@@ -67568,7 +43934,7 @@ Assets {
       }
       Objects {
         Id: 13968510154208046501
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97559
@@ -67714,7 +44080,7 @@ Assets {
       }
       Objects {
         Id: 2398341288456333856
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97559
@@ -67860,7 +44226,7 @@ Assets {
       }
       Objects {
         Id: 5587826896698944133
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97632
@@ -68006,7 +44372,7 @@ Assets {
       }
       Objects {
         Id: 3569792347721015743
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97607
@@ -68152,7 +44518,7 @@ Assets {
       }
       Objects {
         Id: 1082518474861507593
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.98047
@@ -68298,7 +44664,7 @@ Assets {
       }
       Objects {
         Id: 442652145747069434
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97656
@@ -68444,7 +44810,7 @@ Assets {
       }
       Objects {
         Id: 2116655828211452886
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97644
@@ -68590,7 +44956,7 @@ Assets {
       }
       Objects {
         Id: 17825912566896012761
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97632
@@ -68736,7 +45102,7 @@ Assets {
       }
       Objects {
         Id: 8710481137117501524
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97632
@@ -68882,7 +45248,7 @@ Assets {
       }
       Objects {
         Id: 2762654210015770078
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97644
@@ -69028,7 +45394,7 @@ Assets {
       }
       Objects {
         Id: 9191070102222490103
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.98047
@@ -69174,7 +45540,7 @@ Assets {
       }
       Objects {
         Id: 12539654330843226909
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.972412
@@ -69320,7 +45686,7 @@ Assets {
       }
       Objects {
         Id: 16668347455425490815
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.972656
@@ -69466,7 +45832,7 @@ Assets {
       }
       Objects {
         Id: 8698634975008573336
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.984619
@@ -69612,7 +45978,7 @@ Assets {
       }
       Objects {
         Id: 14438325620494581916
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.971924
@@ -69758,7 +46124,7 @@ Assets {
       }
       Objects {
         Id: 17164194669295563227
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.978027
@@ -69904,7 +46270,7 @@ Assets {
       }
       Objects {
         Id: 15246881160136123735
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.989746
@@ -70050,7 +46416,7 @@ Assets {
       }
       Objects {
         Id: 11317947107021673353
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.95813
@@ -70196,7 +46562,7 @@ Assets {
       }
       Objects {
         Id: 14967840486199203447
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.96411
@@ -70342,7 +46708,7 @@ Assets {
       }
       Objects {
         Id: 1174166233997352346
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97607
@@ -70488,7 +46854,7 @@ Assets {
       }
       Objects {
         Id: 5724825845291498362
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.95813
@@ -70634,7 +47000,7 @@ Assets {
       }
       Objects {
         Id: 17941081168222108120
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.96387
@@ -70780,7 +47146,7 @@ Assets {
       }
       Objects {
         Id: 384287696208858425
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97607
@@ -70926,7 +47292,7 @@ Assets {
       }
       Objects {
         Id: 9249248211353567475
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.95789
@@ -71072,7 +47438,7 @@ Assets {
       }
       Objects {
         Id: 4637456391319336587
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.95728
@@ -71218,7 +47584,7 @@ Assets {
       }
       Objects {
         Id: 10236330315774008021
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.96326
@@ -71364,7 +47730,7 @@ Assets {
       }
       Objects {
         Id: 1000076053883466070
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97522
@@ -71510,7 +47876,7 @@ Assets {
       }
       Objects {
         Id: 1303016798951984790
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.95715
@@ -71656,7 +48022,7 @@ Assets {
       }
       Objects {
         Id: 888222581266502729
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.96313
@@ -71802,7 +48168,7 @@ Assets {
       }
       Objects {
         Id: 13223112794309421400
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97522
@@ -71948,7 +48314,7 @@ Assets {
       }
       Objects {
         Id: 7874323332868518310
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.97168
@@ -72094,7 +48460,7 @@ Assets {
       }
       Objects {
         Id: 17324827322701317058
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.977783
@@ -72240,7 +48606,7 @@ Assets {
       }
       Objects {
         Id: 7186017446577645101
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.971191
@@ -72386,7 +48752,7 @@ Assets {
       }
       Objects {
         Id: 13001271215266879872
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.979
@@ -72532,7 +48898,7 @@ Assets {
       }
       Objects {
         Id: 14972121240829418305
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.032959
@@ -72678,7 +49044,7 @@ Assets {
       }
       Objects {
         Id: 11416146916700532125
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.024902
@@ -72824,7 +49190,7 @@ Assets {
       }
       Objects {
         Id: 6272352510919727362
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.032471
@@ -72970,7 +49336,7 @@ Assets {
       }
       Objects {
         Id: 15506169357698239351
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.024658
@@ -73116,7 +49482,7 @@ Assets {
       }
       Objects {
         Id: 8787686941832762447
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.030029
@@ -73262,7 +49628,7 @@ Assets {
       }
       Objects {
         Id: 14095852775440678594
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.023926
@@ -73408,7 +49774,7 @@ Assets {
       }
       Objects {
         Id: 14386631671297880771
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.023926
@@ -73554,7 +49920,7 @@ Assets {
       }
       Objects {
         Id: 4428336767342957567
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.019775
@@ -73700,7 +50066,7 @@ Assets {
       }
       Objects {
         Id: 2176083547979913582
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.011719
@@ -73846,7 +50212,7 @@ Assets {
       }
       Objects {
         Id: 1003249988870909464
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00928
@@ -73992,7 +50358,7 @@ Assets {
       }
       Objects {
         Id: 15548788290888765249
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00342
@@ -74138,7 +50504,7 @@ Assets {
       }
       Objects {
         Id: 1471040811064338022
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.99219
@@ -74284,7 +50650,7 @@ Assets {
       }
       Objects {
         Id: 7011203807284423244
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00391
@@ -74430,7 +50796,7 @@ Assets {
       }
       Objects {
         Id: 226803792380004060
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00439
@@ -74576,7 +50942,7 @@ Assets {
       }
       Objects {
         Id: 4890390336904945199
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00391
@@ -74722,7 +51088,7 @@ Assets {
       }
       Objects {
         Id: 10785320022952957998
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00488
@@ -74868,7 +51234,7 @@ Assets {
       }
       Objects {
         Id: 2441113700998526757
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00439
@@ -75014,7 +51380,7 @@ Assets {
       }
       Objects {
         Id: 9022857187782203783
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00488
@@ -75160,7 +51526,7 @@ Assets {
       }
       Objects {
         Id: 17213293105045961707
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00488
@@ -75306,7 +51672,7 @@ Assets {
       }
       Objects {
         Id: 10006058685762638338
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00537
@@ -75452,7 +51818,7 @@ Assets {
       }
       Objects {
         Id: 10351280608783024734
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97852
@@ -75598,7 +51964,7 @@ Assets {
       }
       Objects {
         Id: 6313052532181526310
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97852
@@ -75744,7 +52110,7 @@ Assets {
       }
       Objects {
         Id: 18209163869754412136
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97852
@@ -75890,7 +52256,7 @@ Assets {
       }
       Objects {
         Id: 4379520988508286295
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.95117
@@ -76036,7 +52402,7 @@ Assets {
       }
       Objects {
         Id: 11596357263439792663
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.95264
@@ -76182,7 +52548,7 @@ Assets {
       }
       Objects {
         Id: 16002201601638595704
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.94678
@@ -76328,7 +52694,7 @@ Assets {
       }
       Objects {
         Id: 15366505832635961197
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.91357
@@ -76474,7 +52840,7 @@ Assets {
       }
       Objects {
         Id: 8605069394483390214
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.90918
@@ -76620,7 +52986,7 @@ Assets {
       }
       Objects {
         Id: 13555293084573961538
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.8833
@@ -76766,7 +53132,7 @@ Assets {
       }
       Objects {
         Id: 10661118254999127029
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.87354
@@ -76912,7 +53278,7 @@ Assets {
       }
       Objects {
         Id: 366045662493527209
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91748
@@ -77058,7 +53424,7 @@ Assets {
       }
       Objects {
         Id: 18008268506233231933
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92236
@@ -77204,7 +53570,7 @@ Assets {
       }
       Objects {
         Id: 13860388152671579345
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.9082
@@ -77350,7 +53716,7 @@ Assets {
       }
       Objects {
         Id: 14617966198988130737
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92334
@@ -77496,7 +53862,7 @@ Assets {
       }
       Objects {
         Id: 7398939646624821023
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91016
@@ -77642,7 +54008,7 @@ Assets {
       }
       Objects {
         Id: 4577943673099617487
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92188
@@ -77788,7 +54154,7 @@ Assets {
       }
       Objects {
         Id: 18021253749053292736
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.9209
@@ -77934,7 +54300,7 @@ Assets {
       }
       Objects {
         Id: 15981940144609534244
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91162
@@ -78080,7 +54446,7 @@ Assets {
       }
       Objects {
         Id: 9491322364308499433
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.89795
@@ -78226,7 +54592,7 @@ Assets {
       }
       Objects {
         Id: 7509928140171579260
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.93896
@@ -78372,7 +54738,7 @@ Assets {
       }
       Objects {
         Id: 10811084544702443189
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.91895
@@ -78518,7 +54884,7 @@ Assets {
       }
       Objects {
         Id: 995407111618306702
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.93555
@@ -78664,7 +55030,7 @@ Assets {
       }
       Objects {
         Id: 5492973182580226390
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.92725
@@ -78810,7 +55176,7 @@ Assets {
       }
       Objects {
         Id: 6338159391629958141
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.94141
@@ -78956,7 +55322,7 @@ Assets {
       }
       Objects {
         Id: 11383226925324905178
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.88574
@@ -79102,7 +55468,7 @@ Assets {
       }
       Objects {
         Id: 8222717042379331184
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.93896
@@ -79248,7 +55614,7 @@ Assets {
       }
       Objects {
         Id: 12364458910775211632
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.95264
@@ -79394,7 +55760,7 @@ Assets {
       }
       Objects {
         Id: 5247391559445190525
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.99365
@@ -79540,7 +55906,7 @@ Assets {
       }
       Objects {
         Id: 2213488575228831293
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.89355
@@ -79686,7 +56052,7 @@ Assets {
       }
       Objects {
         Id: 16555402190798798842
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.90137
@@ -79832,7 +56198,7 @@ Assets {
       }
       Objects {
         Id: 11388059706062041645
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.94678
@@ -79978,7 +56344,7 @@ Assets {
       }
       Objects {
         Id: 2689152971164471906
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.87646
@@ -80124,7 +56490,7 @@ Assets {
       }
       Objects {
         Id: 14511448745577192777
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.88672
@@ -80270,7 +56636,7 @@ Assets {
       }
       Objects {
         Id: 4496447025870126762
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.92773
@@ -80416,7 +56782,7 @@ Assets {
       }
       Objects {
         Id: 2188248069212304347
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.85352
@@ -80562,7 +56928,7 @@ Assets {
       }
       Objects {
         Id: 698034019003873533
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.86182
@@ -80708,7 +57074,7 @@ Assets {
       }
       Objects {
         Id: 12762902892182589495
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.021
@@ -80854,7 +57220,7 @@ Assets {
       }
       Objects {
         Id: 3208447284624963777
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.020752
@@ -81000,7 +57366,7 @@ Assets {
       }
       Objects {
         Id: 15698083978938255276
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.020752
@@ -81146,7 +57512,7 @@ Assets {
       }
       Objects {
         Id: 7744129370909789496
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.019775
@@ -81292,7 +57658,7 @@ Assets {
       }
       Objects {
         Id: 5861700730316731812
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.02
@@ -81438,7 +57804,7 @@ Assets {
       }
       Objects {
         Id: 9757749500317893981
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.02
@@ -81584,7 +57950,7 @@ Assets {
       }
       Objects {
         Id: 5208814030625877163
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.015137
@@ -81730,7 +58096,7 @@ Assets {
       }
       Objects {
         Id: 2374764785454607217
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.015869
@@ -81876,7 +58242,7 @@ Assets {
       }
       Objects {
         Id: 9503623476231652561
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.019531
@@ -82022,7 +58388,7 @@ Assets {
       }
       Objects {
         Id: 4246089366258694306
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0234375
@@ -82168,7 +58534,7 @@ Assets {
       }
       Objects {
         Id: 8729644521929109521
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0231933594
@@ -82314,7 +58680,7 @@ Assets {
       }
       Objects {
         Id: 6544892205083360729
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0231933594
@@ -82460,7 +58826,7 @@ Assets {
       }
       Objects {
         Id: 9326736241085156920
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0236816406
@@ -82606,7 +58972,7 @@ Assets {
       }
       Objects {
         Id: 2382362010862229830
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0239257812
@@ -82752,7 +59118,7 @@ Assets {
       }
       Objects {
         Id: 6264103287863159157
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0239257812
@@ -82898,7 +59264,7 @@ Assets {
       }
       Objects {
         Id: 13038688413537517434
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0241699219
@@ -83044,7 +59410,7 @@ Assets {
       }
       Objects {
         Id: 4934344709357260873
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0249023438
@@ -83190,7 +59556,7 @@ Assets {
       }
       Objects {
         Id: 4496249016975343384
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0244140625
@@ -83336,7 +59702,7 @@ Assets {
       }
       Objects {
         Id: 7637985133185354683
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0249023438
@@ -83482,7 +59848,7 @@ Assets {
       }
       Objects {
         Id: 839211628093303580
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.975342
@@ -83628,7 +59994,7 @@ Assets {
       }
       Objects {
         Id: 10034333385957839115
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.975342
@@ -83774,7 +60140,7 @@ Assets {
       }
       Objects {
         Id: 15478387488986603333
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.975098
@@ -83920,7 +60286,7 @@ Assets {
       }
       Objects {
         Id: 193425207736662943
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.976074
@@ -84066,7 +60432,7 @@ Assets {
       }
       Objects {
         Id: 14763584370782787592
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.97583
@@ -84212,7 +60578,7 @@ Assets {
       }
       Objects {
         Id: 18377208965212189997
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.97583
@@ -84358,7 +60724,7 @@ Assets {
       }
       Objects {
         Id: 11573986804656278582
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.988281
@@ -84504,7 +60870,7 @@ Assets {
       }
       Objects {
         Id: 7433363360248036752
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.984131
@@ -84650,7 +61016,7 @@ Assets {
       }
       Objects {
         Id: 6488313418607263615
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.981934
@@ -84796,7 +61162,7 @@ Assets {
       }
       Objects {
         Id: 6570806723145377731
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.988525
@@ -84942,7 +61308,7 @@ Assets {
       }
       Objects {
         Id: 5143221291597060539
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.992432
@@ -85088,7 +61454,7 @@ Assets {
       }
       Objects {
         Id: 7580582759405267799
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.98059
@@ -85234,7 +61600,7 @@ Assets {
       }
       Objects {
         Id: 6177071598013138691
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97839
@@ -85380,7 +61746,7 @@ Assets {
       }
       Objects {
         Id: 3594003838566396238
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97656
@@ -85526,7 +61892,7 @@ Assets {
       }
       Objects {
         Id: 11967023684434080097
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.9801
@@ -85672,7 +62038,7 @@ Assets {
       }
       Objects {
         Id: 11210087724015198269
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97778
@@ -85818,7 +62184,7 @@ Assets {
       }
       Objects {
         Id: 11629198897233326835
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97607
@@ -85964,7 +62330,7 @@ Assets {
       }
       Objects {
         Id: 12985428415872790527
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97925
@@ -86110,7 +62476,7 @@ Assets {
       }
       Objects {
         Id: 6340006474654549857
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97693
@@ -86256,7 +62622,7 @@ Assets {
       }
       Objects {
         Id: 15060713756368964081
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97522
@@ -86402,7 +62768,7 @@ Assets {
       }
       Objects {
         Id: 13037745022751262131
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97949
@@ -86548,7 +62914,7 @@ Assets {
       }
       Objects {
         Id: 17931372207175858518
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97681
@@ -86694,7 +63060,7 @@ Assets {
       }
       Objects {
         Id: 3826205164610679759
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.9751
@@ -86840,7 +63206,7 @@ Assets {
       }
       Objects {
         Id: 15899384965760223614
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97949
@@ -86986,7 +63352,7 @@ Assets {
       }
       Objects {
         Id: 7117272256496657155
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97974
@@ -87132,7 +63498,7 @@ Assets {
       }
       Objects {
         Id: 15912218828364339136
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.98022
@@ -87278,7 +63644,7 @@ Assets {
       }
       Objects {
         Id: 3439600860166195976
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.98047
@@ -87424,7 +63790,7 @@ Assets {
       }
       Objects {
         Id: 3061096697203853124
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97681
@@ -87570,7 +63936,7 @@ Assets {
       }
       Objects {
         Id: 7397862052365291806
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.81201
@@ -87716,7 +64082,7 @@ Assets {
       }
       Objects {
         Id: 2352214610501735282
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.07837
@@ -87862,7 +64228,7 @@ Assets {
       }
       Objects {
         Id: 18024527282374219763
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2000.00427
@@ -88008,7 +64374,7 @@ Assets {
       }
       Objects {
         Id: 14139153362143919989
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1200.05115
@@ -88154,7 +64520,7 @@ Assets {
       }
       Objects {
         Id: 7250317313377773865
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1600.03162
@@ -88300,7 +64666,7 @@ Assets {
       }
       Objects {
         Id: 10687427375958454002
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.99243
@@ -88446,7 +64812,7 @@ Assets {
       }
       Objects {
         Id: 5206138448907716916
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -800.039551
@@ -88592,7 +64958,7 @@ Assets {
       }
       Objects {
         Id: 5877304421187591231
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -0.0825195312
@@ -88738,7 +65104,7 @@ Assets {
       }
       Objects {
         Id: 5187754313172679720
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 399.91748
@@ -88884,7 +65250,7 @@ Assets {
       }
       Objects {
         Id: 12878495958168786124
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1199.84912
@@ -89030,7 +65396,7 @@ Assets {
       }
       Objects {
         Id: 1005991890064916057
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 799.882568
@@ -89176,7 +65542,7 @@ Assets {
       }
       Objects {
         Id: 16540418285897016619
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -400.008301
@@ -89322,7 +65688,7 @@ Assets {
       }
       Objects {
         Id: 1957711215455541292
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.98853
@@ -89468,7 +65834,7 @@ Assets {
       }
       Objects {
         Id: 11088000389313505628
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.019287
@@ -89614,7 +65980,7 @@ Assets {
       }
       Objects {
         Id: 2579451296542481354
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.80615
@@ -89760,7 +66126,7 @@ Assets {
       }
       Objects {
         Id: 18437118516591929478
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1600.00391
@@ -89906,7 +66272,7 @@ Assets {
       }
       Objects {
         Id: 17362924737852786432
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0119628906
@@ -90052,7 +66418,7 @@ Assets {
       }
       Objects {
         Id: 17896833837711837960
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.976318
@@ -90198,7 +66564,7 @@ Assets {
       }
       Objects {
         Id: 11055333960051645803
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97632
@@ -90344,7 +66710,7 @@ Assets {
       }
       Objects {
         Id: 265195370596934936
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.97656
@@ -90490,7 +66856,7 @@ Assets {
       }
       Objects {
         Id: 10317272455256370762
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.07812
@@ -90636,7 +67002,7 @@ Assets {
       }
       Objects {
         Id: 15036137048268253874
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.99219
@@ -90782,7 +67148,7 @@ Assets {
       }
       Objects {
         Id: 12643115199197620975
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.96021
@@ -90928,7 +67294,7 @@ Assets {
       }
       Objects {
         Id: 14344185187745902483
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2800.06177
@@ -91074,7 +67440,7 @@ Assets {
       }
       Objects {
         Id: 14168348583056189787
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97607
@@ -91220,7 +67586,7 @@ Assets {
       }
       Objects {
         Id: 10599309175723134483
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97571
@@ -91366,7 +67732,7 @@ Assets {
       }
       Objects {
         Id: 119314392008797650
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0241699219
@@ -91512,7 +67878,7 @@ Assets {
       }
       Objects {
         Id: 5419613799604861792
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.02417
@@ -91658,7 +68024,7 @@ Assets {
       }
       Objects {
         Id: 15712805267341475623
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.99365
@@ -91804,7 +68170,7 @@ Assets {
       }
       Objects {
         Id: 15787703448056468734
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.9917
@@ -91950,7 +68316,7 @@ Assets {
       }
       Objects {
         Id: 1388630892254731271
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.9668
@@ -92096,7 +68462,7 @@ Assets {
       }
       Objects {
         Id: 16088879384160353441
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.020508
@@ -92242,7 +68608,7 @@ Assets {
       }
       Objects {
         Id: 2822184403414436199
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.024414
@@ -92388,7 +68754,7 @@ Assets {
       }
       Objects {
         Id: 10510771780734949581
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0246582031
@@ -92534,7 +68900,7 @@ Assets {
       }
       Objects {
         Id: 11577072027880093700
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.975342
@@ -92680,7 +69046,7 @@ Assets {
       }
       Objects {
         Id: 17277662618843722743
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.975098
@@ -92826,7 +69192,7 @@ Assets {
       }
       Objects {
         Id: 6883584156636349761
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.024902
@@ -92972,7 +69338,7 @@ Assets {
       }
       Objects {
         Id: 11104587171284542708
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97485
@@ -93118,7 +69484,7 @@ Assets {
       }
       Objects {
         Id: 16554188790195693581
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.97485
@@ -93264,7 +69630,7 @@ Assets {
       }
       Objects {
         Id: 10062012550311296948
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.9751
@@ -93410,7 +69776,7 @@ Assets {
       }
       Objects {
         Id: 8039692363195675716
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.9751
@@ -93556,7 +69922,7 @@ Assets {
       }
       Objects {
         Id: 11079270477866811706
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97534
@@ -93702,7 +70068,7 @@ Assets {
       }
       Objects {
         Id: 14932925739209724969
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.97534
@@ -93848,7 +70214,7 @@ Assets {
       }
       Objects {
         Id: 17407957047165096990
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97546
@@ -93994,7 +70360,7 @@ Assets {
       }
       Objects {
         Id: 4012251952749021944
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97546
@@ -94140,7 +70506,7 @@ Assets {
       }
       Objects {
         Id: 2147543376591003646
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.975586
@@ -94286,7 +70652,7 @@ Assets {
       }
       Objects {
         Id: 5159474020434643700
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.975342
@@ -94432,7 +70798,7 @@ Assets {
       }
       Objects {
         Id: 4391656873179659610
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0246582031
@@ -94578,7 +70944,7 @@ Assets {
       }
       Objects {
         Id: 16342679580110535902
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 0.0251464844
@@ -94724,7 +71090,7 @@ Assets {
       }
       Objects {
         Id: 1241317781488480571
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.974854
@@ -94870,7 +71236,7 @@ Assets {
       }
       Objects {
         Id: 13458499897535919898
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97473
@@ -95016,7 +71382,7 @@ Assets {
       }
       Objects {
         Id: 7400714535621688183
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97473
@@ -95162,7 +71528,7 @@ Assets {
       }
       Objects {
         Id: 16718437042961942573
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -799.974854
@@ -95308,7 +71674,7 @@ Assets {
       }
       Objects {
         Id: 11635261905420656087
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.025146
@@ -95454,7 +71820,7 @@ Assets {
       }
       Objects {
         Id: 10548512142189647476
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.021
@@ -95600,7 +71966,7 @@ Assets {
       }
       Objects {
         Id: 14550352402017433889
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1599.99072
@@ -95746,7 +72112,7 @@ Assets {
       }
       Objects {
         Id: 17540626334963637857
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.95557
@@ -95892,7 +72258,7 @@ Assets {
       }
       Objects {
         Id: 18371885130451979089
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.99023
@@ -96038,7 +72404,7 @@ Assets {
       }
       Objects {
         Id: 17189391506321876474
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.0127
@@ -96184,7 +72550,7 @@ Assets {
       }
       Objects {
         Id: 16597406879838430878
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97607
@@ -96330,7 +72696,7 @@ Assets {
       }
       Objects {
         Id: 10425893021816100989
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.01611
@@ -96476,7 +72842,7 @@ Assets {
       }
       Objects {
         Id: 17687375304112373231
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.02417
@@ -96622,7 +72988,7 @@ Assets {
       }
       Objects {
         Id: 8876086777864864263
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.02417
@@ -96768,7 +73134,7 @@ Assets {
       }
       Objects {
         Id: 9760507982123901030
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97534
@@ -96914,7 +73280,7 @@ Assets {
       }
       Objects {
         Id: 17724986983656395907
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97559
@@ -97060,7 +73426,7 @@ Assets {
       }
       Objects {
         Id: 2178688595584659775
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1599.97559
@@ -97206,7 +73572,7 @@ Assets {
       }
       Objects {
         Id: 12059865776576911494
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97534
@@ -97352,7 +73718,7 @@ Assets {
       }
       Objects {
         Id: 16687009051274680548
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.9751
@@ -97498,7 +73864,7 @@ Assets {
       }
       Objects {
         Id: 12198665672850436485
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.9751
@@ -97644,7 +74010,7 @@ Assets {
       }
       Objects {
         Id: 17907339890189983621
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97583
@@ -97790,7 +74156,7 @@ Assets {
       }
       Objects {
         Id: 5559273664688799477
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97583
@@ -97936,7 +74302,7 @@ Assets {
       }
       Objects {
         Id: 13228210615097676239
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97461
@@ -98082,7 +74448,7 @@ Assets {
       }
       Objects {
         Id: 7189332239355579503
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97461
@@ -98228,7 +74594,7 @@ Assets {
       }
       Objects {
         Id: 4933455201134164611
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.024902
@@ -98374,7 +74740,7 @@ Assets {
       }
       Objects {
         Id: 8044174842110084659
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97498
@@ -98520,7 +74886,7 @@ Assets {
       }
       Objects {
         Id: 9849351414201938613
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.97021
@@ -98666,7 +75032,7 @@ Assets {
       }
       Objects {
         Id: 10692553740588857817
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.97754
@@ -98812,7 +75178,7 @@ Assets {
       }
       Objects {
         Id: 1478302512764729098
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1200.00928
@@ -98958,7 +75324,7 @@ Assets {
       }
       Objects {
         Id: 3861385691102647181
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.015869
@@ -99104,7 +75470,7 @@ Assets {
       }
       Objects {
         Id: 9185964811545895647
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.978271
@@ -99250,7 +75616,7 @@ Assets {
       }
       Objects {
         Id: 11477246633791768825
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.9762
@@ -99396,7 +75762,7 @@ Assets {
       }
       Objects {
         Id: 1109795474921556314
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.9762
@@ -99542,7 +75908,7 @@ Assets {
       }
       Objects {
         Id: 17859823001297187485
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97607
@@ -99688,7 +76054,7 @@ Assets {
       }
       Objects {
         Id: 10881265557530296148
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97632
@@ -99834,7 +76200,7 @@ Assets {
       }
       Objects {
         Id: 8954457454815643736
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1199.97864
@@ -99980,7 +76346,7 @@ Assets {
       }
       Objects {
         Id: 848078763233099633
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97632
@@ -100126,7 +76492,7 @@ Assets {
       }
       Objects {
         Id: 659341918745931091
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -399.980713
@@ -100272,7 +76638,7 @@ Assets {
       }
       Objects {
         Id: 13294019440965085590
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 400.023193
@@ -100418,7 +76784,7 @@ Assets {
       }
       Objects {
         Id: 16768858394854320496
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 800.023193
@@ -100564,7 +76930,7 @@ Assets {
       }
       Objects {
         Id: 10077757571926680584
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -1999.97668
@@ -100710,7 +77076,7 @@ Assets {
       }
       Objects {
         Id: 13421939604404957005
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2399.97656
@@ -100856,7 +77222,7 @@ Assets {
       }
       Objects {
         Id: 9280165639259491826
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2799.97656
@@ -101002,7 +77368,7 @@ Assets {
       }
       Objects {
         Id: 4327855655708045986
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.97656
@@ -101148,7 +77514,7 @@ Assets {
       }
       Objects {
         Id: 13376633221152424900
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3198.97461
@@ -101294,7 +77660,7 @@ Assets {
       }
       Objects {
         Id: 9935658923875842946
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2000.02441
@@ -101440,7 +77806,7 @@ Assets {
       }
       Objects {
         Id: 9901426325504411413
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2599.92529
@@ -101586,7 +77952,7 @@ Assets {
       }
       Objects {
         Id: 6105152652512555981
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1799.95898
@@ -101732,7 +78098,7 @@ Assets {
       }
       Objects {
         Id: 1055805514660578867
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.98682
@@ -101878,7 +78244,7 @@ Assets {
       }
       Objects {
         Id: 15745928417590819756
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 3199.96631
@@ -102024,7 +78390,7 @@ Assets {
       }
       Objects {
         Id: 6447372348932718473
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2399.98047
@@ -102170,7 +78536,7 @@ Assets {
       }
       Objects {
         Id: 14390759017498961120
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 1999.96387
@@ -102316,7 +78682,7 @@ Assets {
       }
       Objects {
         Id: 2048153942274632339
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: 2599.99072
@@ -102462,7 +78828,7 @@ Assets {
       }
       Objects {
         Id: 9847315483143816387
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -2999.94897
@@ -102608,7 +78974,7 @@ Assets {
       }
       Objects {
         Id: 5406096271179454064
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.84546
@@ -102753,7 +79119,7 @@ Assets {
       }
       Objects {
         Id: 2437133548224467215
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.74976
@@ -102898,7 +79264,7 @@ Assets {
       }
       Objects {
         Id: 8554139602445044706
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.96851
@@ -103043,7 +79409,7 @@ Assets {
       }
       Objects {
         Id: 10433353015683359780
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.16
@@ -103189,7 +79555,7 @@ Assets {
       }
       Objects {
         Id: 11104152716074138218
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3600.03882
@@ -103335,7 +79701,7 @@ Assets {
       }
       Objects {
         Id: 4259964157227507504
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3200.18335
@@ -103481,7 +79847,7 @@ Assets {
       }
       Objects {
         Id: 7932460104016225781
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3799.90186
@@ -103627,7 +79993,7 @@ Assets {
       }
       Objects {
         Id: 6542505210867185850
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.96851
@@ -103773,7 +80139,7 @@ Assets {
       }
       Objects {
         Id: 17971543690427295473
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -4399.93701
@@ -103919,7 +80285,7 @@ Assets {
       }
       Objects {
         Id: 10551782705104393281
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3599.95874
@@ -104065,7 +80431,7 @@ Assets {
       }
       Objects {
         Id: 9161008214231850266
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3199.95898
@@ -104211,7 +80577,7 @@ Assets {
       }
       Objects {
         Id: 6996067074294071430
-        Name: "Fantasy Castle Wall 01"
+        Name: "Japanese Temple Wall 01 "
         Transform {
           Location {
             X: -3800.00195
@@ -106854,7 +83220,6 @@ Assets {
           }
         }
         ParentId: 1914034136466776069
-        ChildIds: 2454653559700553927
         ChildIds: 7296737649549806511
         ChildIds: 9563963854489784284
         ChildIds: 11933862759006519052
@@ -106873,52 +83238,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 2454653559700553927
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 12725255952625626421
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -106991,6 +83310,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -107081,7 +83406,6 @@ Assets {
         ParentId: 12725255952625626421
         ChildIds: 16306110781391237954
         ChildIds: 12721112588280256096
-        ChildIds: 12204594982397085698
         ChildIds: 5498187517646661820
         ChildIds: 293283753098502723
         ChildIds: 8050640199266230004
@@ -107185,53 +83509,6 @@ Assets {
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 12204594982397085698
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 11933862759006519052
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7296737649549806511
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -113154,7 +89431,6 @@ Assets {
           }
         }
         ParentId: 1914034136466776069
-        ChildIds: 1115981696473998937
         ChildIds: 18097306374931760521
         ChildIds: 14321526077941989679
         ChildIds: 2082990171510535055
@@ -113173,52 +89449,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 1115981696473998937
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 14655638321072770436
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -113291,6 +89521,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -113381,7 +89617,6 @@ Assets {
         ParentId: 14655638321072770436
         ChildIds: 3863762802684965602
         ChildIds: 883504919748670243
-        ChildIds: 12870142637493607973
         ChildIds: 2402975181763060889
         ChildIds: 15724448230462807903
         ChildIds: 15791130935111620369
@@ -113485,53 +89720,6 @@ Assets {
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 12870142637493607973
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2082990171510535055
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 18097306374931760521
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -119454,7 +95642,6 @@ Assets {
           }
         }
         ParentId: 1914034136466776069
-        ChildIds: 12372490646849572003
         ChildIds: 7558001306860237661
         ChildIds: 1646732018232963592
         ChildIds: 14606384693014202661
@@ -119473,52 +95660,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 12372490646849572003
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 10649047744700633442
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -119591,6 +95732,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -119681,7 +95828,6 @@ Assets {
         ParentId: 10649047744700633442
         ChildIds: 10742837171390503522
         ChildIds: 1034795101615969261
-        ChildIds: 6256766012576285869
         ChildIds: 3530588620323984618
         ChildIds: 16139840267363879826
         ChildIds: 1907888191757103740
@@ -119785,53 +95931,6 @@ Assets {
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 6256766012576285869
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14606384693014202661
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7558001306860237661
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -125754,7 +101853,6 @@ Assets {
           }
         }
         ParentId: 1914034136466776069
-        ChildIds: 5518600772054512290
         ChildIds: 1349865962965202003
         ChildIds: 3648550183973933410
         ChildIds: 6831677745576846119
@@ -125773,52 +101871,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 5518600772054512290
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 6084607283561913570
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -125891,6 +101943,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -125981,7 +102039,6 @@ Assets {
         ParentId: 6084607283561913570
         ChildIds: 6781471803259752030
         ChildIds: 3362133753560999088
-        ChildIds: 13765960505342193314
         ChildIds: 9461418941817841324
         ChildIds: 18065884370526524996
         ChildIds: 10566422772890007954
@@ -126085,53 +102142,6 @@ Assets {
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 13765960505342193314
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6831677745576846119
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 1349865962965202003
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -132054,7 +108064,6 @@ Assets {
           }
         }
         ParentId: 1914034136466776069
-        ChildIds: 16619125345964096226
         ChildIds: 16717908776454066016
         ChildIds: 14786616180736986692
         ChildIds: 2666731304406382370
@@ -132073,52 +108082,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 16619125345964096226
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 8930367066694991897
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -132191,6 +108154,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -132281,7 +108250,6 @@ Assets {
         ParentId: 8930367066694991897
         ChildIds: 14628258495791064539
         ChildIds: 16099821522867590692
-        ChildIds: 11121954187484215030
         ChildIds: 4807691481563361627
         ChildIds: 10432474808733835683
         ChildIds: 1288575634398455996
@@ -132385,53 +108353,6 @@ Assets {
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 11121954187484215030
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2666731304406382370
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16717908776454066016
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -138354,7 +114275,6 @@ Assets {
           }
         }
         ParentId: 1914034136466776069
-        ChildIds: 6919054832207975815
         ChildIds: 11340582955523542475
         ChildIds: 12653245926462478076
         ChildIds: 5127847016615035272
@@ -138373,52 +114293,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 6919054832207975815
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 16006328112710162465
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -138491,6 +114365,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -138581,7 +114461,6 @@ Assets {
         ParentId: 16006328112710162465
         ChildIds: 10163339853805859994
         ChildIds: 16721592353339339789
-        ChildIds: 7872834074056293240
         ChildIds: 13114640195212472846
         ChildIds: 15188775672925063367
         ChildIds: 9291770511167424571
@@ -138685,53 +114564,6 @@ Assets {
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 7872834074056293240
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5127847016615035272
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 11340582955523542475
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -146338,24 +122170,6 @@ Assets {
       }
     }
     Assets {
-      Id: 10410624715350118267
-      Name: "Curtains Straight"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_curtain_02"
-      }
-    }
-    Assets {
-      Id: 15089487538220634502
-      Name: "Jungle Vine (end)"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_liana-vine_end_001_uv"
-      }
-    }
-    Assets {
       Id: 7207757223016895409
       Name: "Whitebox Floor 01 8m x 8m"
       PlatformAssetType: 1
@@ -146443,15 +122257,6 @@ Assets {
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "fxsm_candleflame"
-      }
-    }
-    Assets {
-      Id: 5944393796542654307
-      Name: "Capsule"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_capsule_001"
       }
     }
     Assets {

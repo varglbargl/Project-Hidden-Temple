@@ -10,6 +10,10 @@ Assets {
           Id: 4546426645344071837
         }
       }
+      Overrides {
+        Name: "cs:FlyUpFont:category"
+        String: "Required"
+      }
     }
     Assets {
       Id: 4546426645344071837

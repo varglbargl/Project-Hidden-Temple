@@ -16,13 +16,10 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 9863148465075623721
+        ChildIds: 12530618833175316133
         ChildIds: 14223709272629410730
         ChildIds: 7913356562966027295
-        ChildIds: 3284584709830527672
-        ChildIds: 14176576391194824549
         ChildIds: 12761907513620077199
-        ChildIds: 344013838139896774
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -37,6 +34,40 @@ Assets {
         }
         Folder {
           IsGroup: true
+        }
+      }
+      Objects {
+        Id: 12530618833175316133
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8855604877023104061
+        ChildIds: 9863148465075623721
+        ChildIds: 3284584709830527672
+        ChildIds: 14176576391194824549
+        ChildIds: 344013838139896774
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
         }
       }
       Objects {
@@ -57,7 +88,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 8855604877023104061
+        ParentId: 12530618833175316133
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -99,8 +130,185 @@ Assets {
         }
       }
       Objects {
+        Id: 3284584709830527672
+        Name: "Gibs Explosion VFX"
+        Transform {
+          Location {
+            X: 400
+            Y: -400
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 7
+            Y: 7
+            Z: 1
+          }
+        }
+        ParentId: 12530618833175316133
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Volume Type"
+            Enum {
+              Value: "mc:evfxvolumetype:3"
+            }
+          }
+          Overrides {
+            Name: "bp:Looping"
+            Bool: true
+          }
+          Overrides {
+            Name: "bp:Loop Duration"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 20
+              G: 0.333333015
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Particle Scale Multiplier"
+            Float: 1
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 10190673120971646998
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
+        Id: 14176576391194824549
+        Name: "Ambience Lava Flow Bubbling Loop 01 SFX"
+        Transform {
+          Location {
+            X: 400
+            Y: -400
+            Z: -50
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12530618833175316133
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        AudioInstance {
+          AudioAsset {
+            Id: 14279988104318590801
+          }
+          AutoPlay: true
+          Pitch: -800
+          Volume: 0.1
+          Falloff: 1000
+          Radius: -1
+          IsSpatializationEnabled: true
+          IsAttenuationEnabled: true
+        }
+      }
+      Objects {
+        Id: 344013838139896774
+        Name: "Dust Motes Volume VFX"
+        Transform {
+          Location {
+            X: 400
+            Y: -400
+            Z: -300
+          }
+          Rotation {
+          }
+          Scale {
+            X: 8
+            Y: 8
+            Z: 5
+          }
+        }
+        ParentId: 12530618833175316133
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:Color"
+            Color {
+              R: 1
+              G: 0.233333349
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 50
+          }
+          Overrides {
+            Name: "bp:Gravity"
+            Float: 0.01
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 1565420669897413203
+          }
+          TeamSettings {
+          }
+          Vfx {
+            AutoPlay: true
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:medium"
+        }
+      }
+      Objects {
         Id: 14223709272629410730
-        Name: "Cube"
+        Name: "Plane 1m - Two Sided"
         Transform {
           Location {
             X: 400
@@ -184,7 +392,6 @@ Assets {
         }
         ParentId: 8855604877023104061
         ChildIds: 6265644487289422031
-        ChildIds: 4940193050730245386
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -233,6 +440,12 @@ Assets {
               Id: 2040044343117508018
             }
           }
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 9751660794289768919
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -250,162 +463,6 @@ Assets {
           ScriptAsset {
             Id: 1088534770586260933
           }
-        }
-      }
-      Objects {
-        Id: 4940193050730245386
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.125
-            Y: 0.125
-            Z: 0.2
-          }
-        }
-        ParentId: 7913356562966027295
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
-        Id: 3284584709830527672
-        Name: "Gibs Explosion VFX"
-        Transform {
-          Location {
-            X: 400
-            Y: -400
-            Z: -100
-          }
-          Rotation {
-          }
-          Scale {
-            X: 7
-            Y: 7
-            Z: 1
-          }
-        }
-        ParentId: 8855604877023104061
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Volume Type"
-            Enum {
-              Value: "mc:evfxvolumetype:3"
-            }
-          }
-          Overrides {
-            Name: "bp:Looping"
-            Bool: true
-          }
-          Overrides {
-            Name: "bp:Loop Duration"
-            Float: 0.5
-          }
-          Overrides {
-            Name: "bp:Color"
-            Color {
-              R: 20
-              G: 0.333333015
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Particle Scale Multiplier"
-            Float: 1
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 10190673120971646998
-          }
-          TeamSettings {
-          }
-          Vfx {
-            AutoPlay: true
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
-      }
-      Objects {
-        Id: 14176576391194824549
-        Name: "Ambience Lava Flow Bubbling Loop 01 SFX"
-        Transform {
-          Location {
-            X: 400
-            Y: -400
-            Z: -50
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8855604877023104061
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        AudioInstance {
-          AudioAsset {
-            Id: 14279988104318590801
-          }
-          AutoPlay: true
-          Pitch: -800
-          Volume: 0.1
-          Falloff: 1000
-          Radius: -1
-          IsSpatializationEnabled: true
-          IsAttenuationEnabled: true
         }
       }
       Objects {
@@ -491,67 +548,32 @@ Assets {
           }
         }
       }
-      Objects {
-        Id: 344013838139896774
-        Name: "Dust Motes Volume VFX"
-        Transform {
-          Location {
-            X: 400
-            Y: -400
-            Z: -300
-          }
-          Rotation {
-          }
-          Scale {
-            X: 8
-            Y: 8
-            Z: 5
-          }
-        }
-        ParentId: 8855604877023104061
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Color"
-            Color {
-              R: 1
-              G: 0.233333349
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Emissive Boost"
-            Float: 50
-          }
-          Overrides {
-            Name: "bp:Gravity"
-            Float: 0.01
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 1565420669897413203
-          }
-          TeamSettings {
-          }
-          Vfx {
-            AutoPlay: true
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:medium"
-        }
+    }
+    Assets {
+      Id: 10190673120971646998
+      Name: "Gibs Explosion VFX"
+      PlatformAssetType: 8
+      PrimaryAsset {
+        AssetType: "VfxBlueprintAssetRef"
+        AssetId: "fxbp_bloody_explosion"
+      }
+    }
+    Assets {
+      Id: 14279988104318590801
+      Name: "Ambience Lava Flow Bubbling Loop 01 SFX"
+      PlatformAssetType: 7
+      PrimaryAsset {
+        AssetType: "AudioAssetRef"
+        AssetId: "sfx_ambience_lava_flow_bubbling_loop_01_Cue_ref"
+      }
+    }
+    Assets {
+      Id: 1565420669897413203
+      Name: "Dust Motes Volume VFX"
+      PlatformAssetType: 8
+      PrimaryAsset {
+        AssetType: "VfxBlueprintAssetRef"
+        AssetId: "fxbp_dust_motes"
       }
     }
     Assets {
@@ -582,24 +604,6 @@ Assets {
       }
     }
     Assets {
-      Id: 10190673120971646998
-      Name: "Gibs Explosion VFX"
-      PlatformAssetType: 8
-      PrimaryAsset {
-        AssetType: "VfxBlueprintAssetRef"
-        AssetId: "fxbp_bloody_explosion"
-      }
-    }
-    Assets {
-      Id: 14279988104318590801
-      Name: "Ambience Lava Flow Bubbling Loop 01 SFX"
-      PlatformAssetType: 7
-      PrimaryAsset {
-        AssetType: "AudioAssetRef"
-        AssetId: "sfx_ambience_lava_flow_bubbling_loop_01_Cue_ref"
-      }
-    }
-    Assets {
       Id: 6654293907903954463
       Name: "Underwater Post Process"
       PlatformAssetType: 20
@@ -608,20 +612,12 @@ Assets {
         AssetId: "fxbp_post_process_water"
       }
     }
-    Assets {
-      Id: 1565420669897413203
-      Name: "Dust Motes Volume VFX"
-      PlatformAssetType: 8
-      PrimaryAsset {
-        AssetType: "VfxBlueprintAssetRef"
-        AssetId: "fxbp_dust_motes"
-      }
-    }
     PrimaryAssetId {
       AssetType: "None"
       AssetId: "None"
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

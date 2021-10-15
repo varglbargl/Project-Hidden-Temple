@@ -40,7 +40,7 @@ Assets {
         Name: "Simple Moving Platform"
         Transform {
           Location {
-            Y: -815
+            Y: -800
           }
           Rotation {
           }
@@ -96,13 +96,13 @@ Assets {
         Name: "Decal Sci-fi Details 01"
         Transform {
           Location {
-            X: -1.29199219
-            Z: -4
+            X: -4
+            Z: 1.29199171
           }
           Rotation {
-            Pitch: 6.83018879e-06
-            Yaw: 89.9999619
-            Roll: 89.9999619
+            Pitch: -3.05175781e-05
+            Yaw: 89.9999847
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 6.1
@@ -156,7 +156,7 @@ Assets {
         Name: "Spike Log"
         Transform {
           Location {
-            Y: 815
+            Y: 800
           }
           Rotation {
           }
@@ -191,7 +191,7 @@ Assets {
         Name: "Trigger"
         Transform {
           Location {
-            X: -24.9999981
+            Z: 34.9999886
           }
           Rotation {
           }
@@ -255,6 +255,12 @@ Assets {
             Name: "cs:CauseOfDeath"
             String: "was mulched by a spiky log trap"
           }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 3727130094760294579
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -280,7 +286,7 @@ Assets {
         Name: "ClientContext"
         Transform {
           Location {
-            X: 14.9999981
+            Z: 10
           }
           Rotation {
           }
@@ -291,7 +297,6 @@ Assets {
           }
         }
         ParentId: 944853056617301024
-        ChildIds: 10212003985135443713
         ChildIds: 7494219085851071270
         ChildIds: 9382153577223083658
         ChildIds: 13720747580182866025
@@ -314,62 +319,17 @@ Assets {
         }
       }
       Objects {
-        Id: 10212003985135443713
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8986584370576817521
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 3554706945084840276
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 3727130094760294579
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 7494219085851071270
         Name: "Basic Sparks"
         Transform {
           Location {
-            X: -18.6523438
-            Z: -24.1469727
+            X: -24.1469727
+            Z: 3.6523428
           }
           Rotation {
-            Pitch: 177.021652
+            Pitch: 87.0211105
+            Yaw: -0.000274658203
+            Roll: -0.000244140625
           }
           Scale {
             X: 0.225541309
@@ -415,8 +375,10 @@ Assets {
         Name: "Mechanical Steam Gear Grinding Metal Engine Loop 01 SFX"
         Transform {
           Location {
+            Z: -14.9999933
           }
           Rotation {
+            Pitch: -90
           }
           Scale {
             X: 1
@@ -458,10 +420,10 @@ Assets {
           Location {
             X: -0.00048828125
             Y: 150
-            Z: -0.00048828125
+            Z: -14.999505
           }
           Rotation {
-            Pitch: 90
+            Yaw: 1.15148321e-12
           }
           Scale {
             X: 0.3
@@ -527,10 +489,10 @@ Assets {
           Location {
             X: -0.00048828125
             Y: -150
-            Z: -0.00048828125
+            Z: -14.999505
           }
           Rotation {
-            Pitch: 90
+            Yaw: 1.15148321e-12
           }
           Scale {
             X: 0.3
@@ -594,9 +556,10 @@ Assets {
         Name: "Rotation Axis"
         Transform {
           Location {
-            X: -30
+            Z: 14.9999952
           }
           Rotation {
+            Pitch: -90
           }
           Scale {
             X: 1
@@ -1884,5 +1847,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

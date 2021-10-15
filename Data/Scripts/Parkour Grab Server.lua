@@ -8,6 +8,15 @@ function letGo(player)
   player.isMovementEnabled = true
   player:SetVelocity(Vector3.UP * 1000)
   player:DisableRagdoll()
+  Task.Wait()
+  if Object.IsValid(player) and not player.isDead and not player.serverUserData["Climbing"] then
+    -- I mean all the lines immediatly before this run just fine.
+    -- I don't get why DisableRagdoll sometimes isn't.
+    -- So let's just make double sure.
+    -- I guess.
+    -- idk
+    player:DisableRagdoll()
+  end
 end
 
 function grabLedge(player)

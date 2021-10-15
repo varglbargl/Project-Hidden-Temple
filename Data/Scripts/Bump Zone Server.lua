@@ -1,6 +1,8 @@
 local Utils = require(script:GetCustomProperty("Utils"))
 
 local FORCE = script:GetCustomProperty("Force")
+
+local BUMP_VFX = script:GetCustomProperty("BumpVFX")
 local PHYSICS_BUMPER = script:GetCustomProperty("PhysicsBumper")
 local KILL_PLAYER = script:GetCustomProperty("KillPlayer")
 
@@ -16,19 +18,33 @@ end
 local trigger = script.parent
 
 function onBeginOverlap(whichTrigger, other)
-	if other:IsA("Player") then
+	if other:IsA("Player") and not other.isDead then
 
     local bumpVector = (other:GetWorldPosition() - script:GetWorldPosition()):GetNormalized()
+    local bumpForce = FORCE
 
-    if Object.IsValid(physicsBumper) and physicsBumper:GetVelocity().size < FORCE / 2 then
-      return
+    if Object.IsValid(physicsBumper)then
+      local bumperVelocity = physicsBumper:GetVelocity().size
+
+      if bumperVelocity > FORCE / 2 then
+        bumpForce = bumperVelocity
+      else
+        return
+      end
     end
 
-    Events.Broadcast("StopClimbing", other)
+    if other.serverUserData["Climbing"] then
+      Events.Broadcast("StopClimbing", other)
+      Task.Wait()
+    end
 
-    Task.Wait()
+    other:SetVelocity(bumpVector * bumpForce + Vector3.UP * 250)
 
-    other:SetVelocity(bumpVector * FORCE + Vector3.UP * 250)
+    if BUMP_VFX then
+      local vfx = World.SpawnAsset(BUMP_VFX, {position = other:GetWorldPosition()})
+
+      if vfx.lifeSpan == 0 then vfx.lifeSpan = 10 end
+    end
 
     if KILL_PLAYER then
       Task.Wait(0.05)
@@ -36,7 +52,7 @@ function onBeginOverlap(whichTrigger, other)
       if Object.IsValid(other) and not other.isDead then
         other:Die()
 
-        Utils.throttleToAllPlayers("PlayerDied", other, CAUSE_OF_DEATH, KILL_FEED_ICON)
+        Utils.throttleToAllPlayers("ActivityFeed", other.name, CAUSE_OF_DEATH, KILL_FEED_ICON)
       end
     end
 	end

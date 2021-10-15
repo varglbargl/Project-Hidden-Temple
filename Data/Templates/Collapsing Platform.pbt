@@ -65,6 +65,12 @@ Assets {
               SubObjectId: 9189972578875899864
             }
           }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 9189972578875899864
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -138,7 +144,7 @@ Assets {
         }
         ParentId: 10417107432456251555
         ChildIds: 1893889451450195615
-        ChildIds: 2987223668040680943
+        ChildIds: 14272144699420914348
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -173,7 +179,7 @@ Assets {
           Overrides {
             Name: "cs:PhysicsBits"
             ObjectReference {
-              SubObjectId: 2987223668040680943
+              SubObjectId: 14272144699420914348
             }
           }
           Overrides {
@@ -192,6 +198,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 9189972578875899864
             }
           }
         }
@@ -214,7 +226,7 @@ Assets {
         }
       }
       Objects {
-        Id: 2987223668040680943
+        Id: 14272144699420914348
         Name: "Physics Bits"
         Transform {
           Location {
@@ -249,7 +261,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -258,18 +270,18 @@ Assets {
         Transform {
           Location {
             X: 59.8353271
-            Y: 77.3888931
+            Y: 77.3888855
             Z: 25
           }
           Rotation {
           }
           Scale {
-            X: 0.766982913
+            X: 0.789878964
             Y: 0.808656931
             Z: 1.49086463
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -310,12 +322,12 @@ Assets {
         Name: "Stone Block Small"
         Transform {
           Location {
-            X: -31.6292725
+            X: -30.5072575
             Y: 80
             Z: 25
           }
           Rotation {
-            Roll: -176.289902
+            Roll: -176.289886
           }
           Scale {
             X: 1.98199129
@@ -323,7 +335,7 @@ Assets {
             Z: 1.58559442
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -369,19 +381,19 @@ Assets {
         Transform {
           Location {
             X: -62.7099609
-            Y: 28.0545311
+            Y: 28.0545349
             Z: 25
           }
           Rotation {
-            Yaw: 0.983535349
+            Yaw: 0.983535469
           }
           Scale {
-            X: 0.904768288
+            X: 0.931777596
             Y: 1.1891942
             Z: 1.58559442
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -423,11 +435,11 @@ Assets {
         Transform {
           Location {
             X: 30
-            Y: 26.8546257
+            Y: 26.8546143
             Z: 25
           }
           Rotation {
-            Roll: -90
+            Roll: -89.9999924
           }
           Scale {
             X: 1.98199129
@@ -435,7 +447,7 @@ Assets {
             Z: 1.30913234
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -492,7 +504,7 @@ Assets {
             Z: 1.58559442
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -538,7 +550,7 @@ Assets {
         Transform {
           Location {
             X: 61.4633789
-            Y: -26.905735
+            Y: -26.9057312
             Z: 25
           }
           Rotation {
@@ -547,12 +559,12 @@ Assets {
             Roll: 179.803299
           }
           Scale {
-            X: 0.766982913
+            X: 0.789878964
             Y: 0.808656931
             Z: 1.49086463
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -594,13 +606,13 @@ Assets {
         Transform {
           Location {
             X: -32.1730957
-            Y: -22.7477894
+            Y: -22.742157
             Z: 25
           }
           Rotation {
-            Pitch: 0.187119856
-            Yaw: 178.556
-            Roll: 7.38249588
+            Pitch: 0.127553776
+            Yaw: 179.330612
+            Roll: 5.02568388
           }
           Scale {
             X: 1.98199129
@@ -608,7 +620,7 @@ Assets {
             Z: 1.58559442
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -654,18 +666,18 @@ Assets {
         Transform {
           Location {
             X: -63.5699463
-            Y: -77.4341049
+            Y: -77.4341125
             Z: 25
           }
           Rotation {
           }
           Scale {
-            X: 0.766982913
+            X: 0.789878964
             Y: 0.808656931
             Z: 1.49086463
           }
         }
-        ParentId: 2987223668040680943
+        ParentId: 14272144699420914348
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -812,5 +824,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

@@ -70,7 +70,6 @@ Assets {
           }
         }
         ParentId: 8281616850372229012
-        ChildIds: 10286948765479497967
         ChildIds: 15510178017812287363
         ChildIds: 5087348999836560733
         ChildIds: 3708580711479754355
@@ -97,56 +96,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 10286948765479497967
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: -700
-            Y: 1000
-            Z: 225
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6234959682301148345
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16981965868166550929
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -5012,6 +4961,12 @@ Assets {
               Id: 10320015854653614954
             }
           }
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 626669519439235650
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -5088,7 +5043,6 @@ Assets {
         }
         ParentId: 5527010000523588185
         ChildIds: 1418530827941578139
-        ChildIds: 17727564506137424600
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -5467,53 +5421,6 @@ Assets {
         }
       }
       Objects {
-        Id: 17727564506137424600
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15896987675278794185
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 440672528215141814
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 440672528215141814
         Name: "Trigger"
         Transform {
@@ -5577,6 +5484,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -5653,7 +5566,6 @@ Assets {
         }
         ParentId: 9437184154336222522
         ChildIds: 6078621716402215635
-        ChildIds: 15907107915177048708
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -6032,53 +5944,6 @@ Assets {
         }
       }
       Objects {
-        Id: 15907107915177048708
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15689789481848377969
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 3991858130848431086
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 3991858130848431086
         Name: "Trigger"
         Transform {
@@ -6142,6 +6007,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -6219,7 +6090,6 @@ Assets {
         }
         ParentId: 3815413914060036258
         ChildIds: 7680433354430887552
-        ChildIds: 9853564839305741033
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -6598,53 +6468,6 @@ Assets {
         }
       }
       Objects {
-        Id: 9853564839305741033
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5102736365373207205
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 15880521115494240840
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 15880521115494240840
         Name: "Trigger"
         Transform {
@@ -6708,6 +6531,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -6784,7 +6613,6 @@ Assets {
         }
         ParentId: 16014531289437055675
         ChildIds: 7823144640197462399
-        ChildIds: 18392283414828434002
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -7163,53 +6991,6 @@ Assets {
         }
       }
       Objects {
-        Id: 18392283414828434002
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16581037170993052540
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16542334782293162730
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 16542334782293162730
         Name: "Trigger"
         Transform {
@@ -7273,6 +7054,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -7350,7 +7137,6 @@ Assets {
         }
         ParentId: 5981855859352820736
         ChildIds: 14982592274834659155
-        ChildIds: 6115776249924068120
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -7729,53 +7515,6 @@ Assets {
         }
       }
       Objects {
-        Id: 6115776249924068120
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7054848133363858740
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 10890343334253752848
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 10890343334253752848
         Name: "Trigger"
         Transform {
@@ -7839,6 +7578,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -7915,7 +7660,6 @@ Assets {
         }
         ParentId: 3706412278634354062
         ChildIds: 13343554143259088770
-        ChildIds: 6044958449551087932
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -8294,53 +8038,6 @@ Assets {
         }
       }
       Objects {
-        Id: 6044958449551087932
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14812364614576979387
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 6802536455481985145
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 6802536455481985145
         Name: "Trigger"
         Transform {
@@ -8404,6 +8101,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -8481,7 +8184,6 @@ Assets {
         }
         ParentId: 649209600963941455
         ChildIds: 4404095450643326034
-        ChildIds: 13573211511701130643
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -8860,53 +8562,6 @@ Assets {
         }
       }
       Objects {
-        Id: 13573211511701130643
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3886698370854815974
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7878518038851890957
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 7878518038851890957
         Name: "Trigger"
         Transform {
@@ -8970,6 +8625,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -9046,7 +8707,6 @@ Assets {
         }
         ParentId: 4757201830155936036
         ChildIds: 15441152718985719449
-        ChildIds: 16706712541079580121
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -9425,53 +9085,6 @@ Assets {
         }
       }
       Objects {
-        Id: 16706712541079580121
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1246154127927153615
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 8233404948144232352
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 8233404948144232352
         Name: "Trigger"
         Transform {
@@ -9535,6 +9148,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -9611,7 +9230,6 @@ Assets {
         }
         ParentId: 15020773050397802315
         ChildIds: 12713106524741168469
-        ChildIds: 18060420319596522422
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -9990,53 +9608,6 @@ Assets {
         }
       }
       Objects {
-        Id: 18060420319596522422
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17450806040124348393
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 11343260699525642963
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 11343260699525642963
         Name: "Trigger"
         Transform {
@@ -10100,6 +9671,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -10177,7 +9754,6 @@ Assets {
         }
         ParentId: 14053287195831755351
         ChildIds: 5272855478497985023
-        ChildIds: 11607712856894640748
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -10556,53 +10132,6 @@ Assets {
         }
       }
       Objects {
-        Id: 11607712856894640748
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8385231683045965927
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 3785784876457748149
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 3785784876457748149
         Name: "Trigger"
         Transform {
@@ -10666,6 +10195,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -10742,7 +10277,6 @@ Assets {
         }
         ParentId: 1463742116862903377
         ChildIds: 10860889189029795461
-        ChildIds: 6491331586416614934
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -11121,53 +10655,6 @@ Assets {
         }
       }
       Objects {
-        Id: 6491331586416614934
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15316890242918559602
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 5601884413343396269
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 5601884413343396269
         Name: "Trigger"
         Transform {
@@ -11231,6 +10718,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -11308,7 +10801,6 @@ Assets {
         }
         ParentId: 15281291009048313656
         ChildIds: 16729195020062447105
-        ChildIds: 5236209145153673389
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -11687,53 +11179,6 @@ Assets {
         }
       }
       Objects {
-        Id: 5236209145153673389
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1592575018937330722
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 12661504379288373297
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 12661504379288373297
         Name: "Trigger"
         Transform {
@@ -11797,6 +11242,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -11874,7 +11325,6 @@ Assets {
         }
         ParentId: 5712325167806917251
         ChildIds: 13331930191884392350
-        ChildIds: 2359522151630077715
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -12253,53 +11703,6 @@ Assets {
         }
       }
       Objects {
-        Id: 2359522151630077715
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8463138874538059596
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16918743677594120998
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 16918743677594120998
         Name: "Trigger"
         Transform {
@@ -12363,6 +11766,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -12438,7 +11847,6 @@ Assets {
         }
         ParentId: 6476396556917495620
         ChildIds: 3091850161779891828
-        ChildIds: 851427798185962729
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -12815,53 +12223,6 @@ Assets {
         }
       }
       Objects {
-        Id: 851427798185962729
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 2847255968342583348
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 8871867539489323827
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 8871867539489323827
         Name: "Trigger"
         Transform {
@@ -12925,6 +12286,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true

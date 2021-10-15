@@ -146,6 +146,8 @@ Assets {
         ChildIds: 16291910359074843633
         ChildIds: 7817850944323581483
         ChildIds: 4374505087061432899
+        ChildIds: 5596809833222573725
+        ChildIds: 7943725507998992467
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -599,6 +601,118 @@ Assets {
         }
       }
       Objects {
+        Id: 5596809833222573725
+        Name: "Point Light"
+        Transform {
+          Location {
+            X: 3763.99805
+            Y: 0.00143909128
+            Z: 250
+          }
+          Rotation {
+            Yaw: -179.999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7979997321026195649
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Light {
+          Intensity: 2
+          Color {
+            G: 1
+            B: 0.566667318
+            A: 1
+          }
+          TeamSettings {
+          }
+          Light {
+            Temperature: 6500
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+                UseFallOffExponent: true
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+        }
+      }
+      Objects {
+        Id: 7943725507998992467
+        Name: "Point Light"
+        Transform {
+          Location {
+            X: 8352.59
+            Y: 0.000344702974
+            Z: 250
+          }
+          Rotation {
+            Yaw: -179.999924
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7979997321026195649
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Light {
+          Intensity: 2
+          Color {
+            G: 1
+            B: 0.566667318
+            A: 1
+          }
+          TeamSettings {
+          }
+          Light {
+            Temperature: 6500
+            LocalLight {
+              AttenuationRadius: 1000
+              PointLight {
+                SourceRadius: 20
+                SoftSourceRadius: 20
+                FallOffExponent: 8
+                UseFallOffExponent: true
+              }
+            }
+            MaxDrawDistance: 5000
+            MaxDistanceFadeRange: 1000
+          }
+        }
+      }
+      Objects {
         Id: 8776116749946442899
         Name: "StaticContext"
         Transform {
@@ -692,7 +806,7 @@ Assets {
         Name: "Stone Arch 3m"
         Transform {
           Location {
-            X: 8380.33398
+            X: 8373
             Y: -238.819824
             Z: 250
           }
@@ -709,7 +823,6 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 1.6
               G: 1.33365333
               B: 0.8736
               A: 1
@@ -718,6 +831,12 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
             Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 17042918944552201643
+            }
           }
         }
         Collidable_v2 {
@@ -754,7 +873,7 @@ Assets {
         Name: "Stone Arch 3m"
         Transform {
           Location {
-            X: 8380.33398
+            X: 8373
             Y: 238.819824
             Z: 250
           }
@@ -772,7 +891,6 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 1.6
               G: 1.33365333
               B: 0.8736
               A: 1
@@ -781,6 +899,12 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
             Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 17042918944552201643
+            }
           }
         }
         Collidable_v2 {
@@ -882,16 +1006,16 @@ Assets {
         Name: "Pipe - Thin"
         Transform {
           Location {
-            X: 3800
+            X: 3799.99609
             Z: 250
           }
           Rotation {
             Pitch: -90
           }
           Scale {
-            X: 7.30000067
-            Y: 7.30000067
-            Z: 1.4
+            X: 7.3
+            Y: 7.3
+            Z: 1.34651339
           }
         }
         ParentId: 8776116749946442899
@@ -5642,6 +5766,7 @@ Assets {
         ChildIds: 7665011864322052196
         ChildIds: 11471066617871557217
         ChildIds: 16857756984702784766
+        ChildIds: 2548556226342439726
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -5669,9 +5794,9 @@ Assets {
             Pitch: -90
           }
           Scale {
-            X: 22
-            Y: 22
-            Z: 30
+            X: 33.3333244
+            Y: 33.3332977
+            Z: 30.0000038
           }
         }
         ParentId: 7681275199140058488
@@ -5718,12 +5843,13 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11771602665684224710
+            Id: 17620484908430633470
           }
           Teams {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           StaticMesh {
             Physics {
               Mass: 100
@@ -9046,15 +9172,15 @@ Assets {
         Name: "Cube - Bottom-Aligned"
         Transform {
           Location {
-            X: 2015
-            Y: 605
+            X: 2299.9939
+            Y: 604.992126
             Z: -1060
           }
           Rotation {
           }
           Scale {
-            X: 6.5
-            Y: 7.40000057
+            X: 12.2
+            Y: 7.4
             Z: 7
           }
         }
@@ -9619,7 +9745,6 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 1.6
               G: 1.33365333
               B: 0.8736
               A: 1
@@ -9628,6 +9753,12 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
             Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 17042918944552201643
+            }
           }
         }
         Collidable_v2 {
@@ -9681,7 +9812,6 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 1.6
               G: 1.33365333
               B: 0.8736
               A: 1
@@ -9690,6 +9820,12 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
             Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 17042918944552201643
+            }
           }
         }
         Collidable_v2 {
@@ -27997,6 +28133,74 @@ Assets {
         }
       }
       Objects {
+        Id: 2548556226342439726
+        Name: "Cube - Bottom-Aligned"
+        Transform {
+          Location {
+            X: 2099.9939
+            Y: 1218.66138
+            Z: -361.638916
+          }
+          Rotation {
+          }
+          Scale {
+            X: 4.8
+            Y: 7.4
+            Z: 6.9
+          }
+        }
+        ParentId: 7681275199140058488
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 17393423550230459008
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.25
+              G: 1.08331251
+              B: 0.773749948
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 13571313298713186772
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 6709323632870943261
         Name: "Group"
         Transform {
@@ -28015,7 +28219,6 @@ Assets {
         ParentId: 343656040563480818
         ChildIds: 7807067655941397280
         ChildIds: 9312364660709752365
-        ChildIds: 8466724739135494183
         ChildIds: 7823176204200286900
         ChildIds: 1842486476240904849
         ChildIds: 8734670771969995005
@@ -28070,9 +28273,7 @@ Assets {
           }
           Overrides {
             Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: -90
-            }
+            Float: -90
           }
         }
         WantsNetworking: true
@@ -28216,6 +28417,7 @@ Assets {
         ChildIds: 494583030732081188
         ChildIds: 17461371241492063907
         ChildIds: 15380113902048043165
+        ChildIds: 13122364811375763866
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -28243,9 +28445,9 @@ Assets {
             Pitch: -90
           }
           Scale {
-            X: 32.9999962
-            Y: 32.9999962
-            Z: 44.9999962
+            X: 50
+            Y: 50
+            Z: 45
           }
         }
         ParentId: 16175877872902877203
@@ -28292,12 +28494,13 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11771602665684224710
+            Id: 17620484908430633470
           }
           Teams {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           StaticMesh {
             Physics {
               Mass: 100
@@ -93734,838 +93937,53 @@ Assets {
         }
       }
       Objects {
-        Id: 8466724739135494183
-        Name: "Collapsing Platform"
-        Transform {
-          Location {
-            X: 4170
-            Y: 10
-            Z: -189.998047
-          }
-          Rotation {
-            Roll: -179.999969
-          }
-          Scale {
-            X: 2.00000024
-            Y: 2.00000024
-            Z: 2.00000024
-          }
-        }
-        ParentId: 6709323632870943261
-        ChildIds: 8009524354112565294
-        ChildIds: 12448879990677331902
-        ChildIds: 3265508087891068468
-        ChildIds: 3970738270998616351
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 8009524354112565294
-        Name: "Collapsing Platform Server"
-        Transform {
-          Location {
-            X: -5
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.4
-            Y: 1.4
-            Z: 0.3
-          }
-        }
-        ParentId: 8466724739135494183
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PlatformCollision"
-            ObjectReference {
-              SubObjectId: 3970738270998616351
-            }
-          }
-          Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 12448879990677331902
-            }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1.5
-          }
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 15476520486203317070
-          }
-        }
-      }
-      Objects {
-        Id: 12448879990677331902
-        Name: "Trigger"
-        Transform {
-          Location {
-            Z: 27.7777767
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.5
-            Y: 1.5
-            Z: 1.4
-          }
-        }
-        ParentId: 8466724739135494183
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:box"
-          }
-        }
-      }
-      Objects {
-        Id: 3265508087891068468
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8466724739135494183
-        ChildIds: 2931624199596189783
-        ChildIds: 15910788620007364509
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 2931624199596189783
-        Name: "Collapsing Platform Client"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3265508087891068468
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PhysicsBits"
-            ObjectReference {
-              SubObjectId: 15910788620007364509
-            }
-          }
-          Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 12448879990677331902
-            }
-          }
-          Overrides {
-            Name: "cs:CollapseVFX"
-            AssetReference {
-              Id: 1150507085165330217
-            }
-          }
-          Overrides {
-            Name: "cs:ReassembleVFX"
-            AssetReference {
-              Id: 15554380137645418361
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 13977952500475693498
-          }
-        }
-      }
-      Objects {
-        Id: 15910788620007364509
-        Name: "Physics Bits"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3265508087891068468
-        ChildIds: 14579735102822665595
-        ChildIds: 5833297685363808225
-        ChildIds: 48207443481752315
-        ChildIds: 7786210422213092372
-        ChildIds: 5581256405366748265
-        ChildIds: 186201825846139928
-        ChildIds: 2219571172885508213
-        ChildIds: 5919673484238693727
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsFilePartition: true
-          FilePartitionName: "Physics Bits_7"
-        }
-      }
-      Objects {
-        Id: 14579735102822665595
-        Name: "Stone Block Standard"
-        Transform {
-          Location {
-            X: 59.8353271
-            Y: 77.3888931
-            Z: 25
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.766982913
-            Y: 0.808656931
-            Z: 1.49086463
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9505772752897726232
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5833297685363808225
-        Name: "Stone Block Small"
-        Transform {
-          Location {
-            X: -31.6292725
-            Y: 80
-            Z: 25
-          }
-          Rotation {
-            Roll: -176.289902
-          }
-          Scale {
-            X: 1.98199129
-            Y: 1.18919408
-            Z: 1.58559442
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17578145129539297290
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 48207443481752315
-        Name: "Stone Block Small"
-        Transform {
-          Location {
-            X: -62.7099609
-            Y: 28.0545311
-            Z: 25
-          }
-          Rotation {
-            Yaw: 0.983535349
-          }
-          Scale {
-            X: 0.904768288
-            Y: 1.1891942
-            Z: 1.58559442
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17578145129539297290
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 7786210422213092372
-        Name: "Stone Block Small"
-        Transform {
-          Location {
-            X: 30
-            Y: 26.8546257
-            Z: 25
-          }
-          Rotation {
-            Roll: -90
-          }
-          Scale {
-            X: 1.98199129
-            Y: 1.3127985
-            Z: 1.30913234
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17578145129539297290
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5581256405366748265
-        Name: "Stone Block Small"
-        Transform {
-          Location {
-            X: 30
-            Y: -77.6864
-            Z: 25
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.98199129
-            Y: 1.18919408
-            Z: 1.58559442
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17578145129539297290
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 186201825846139928
-        Name: "Stone Block Standard"
-        Transform {
-          Location {
-            X: 61.4633789
-            Y: -26.905735
-            Z: 25
-          }
-          Rotation {
-            Pitch: 3.95635271
-            Yaw: 179.536
-            Roll: 179.803299
-          }
-          Scale {
-            X: 0.766982913
-            Y: 0.808656931
-            Z: 1.49086463
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9505772752897726232
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 2219571172885508213
-        Name: "Stone Block Small"
-        Transform {
-          Location {
-            X: -32.1730957
-            Y: -22.7477894
-            Z: 25
-          }
-          Rotation {
-            Pitch: 0.187119856
-            Yaw: 178.556
-            Roll: 7.38249588
-          }
-          Scale {
-            X: 1.98199129
-            Y: 1.18919408
-            Z: 1.58559442
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17578145129539297290
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 5919673484238693727
-        Name: "Stone Block Standard"
-        Transform {
-          Location {
-            X: -63.5699463
-            Y: -77.4341049
-            Z: 25
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.766982913
-            Y: 0.808656931
-            Z: 1.49086463
-          }
-        }
-        ParentId: 15910788620007364509
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 2.5
-              G: 2.08383346
-              B: 1.365
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9505772752897726232
-          }
-          Teams {
-            TeamInt: 3
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
-        }
-      }
-      Objects {
-        Id: 3970738270998616351
-        Name: "Platform Collision"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8466724739135494183
-        ChildIds: 12893341201847454752
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        NetworkContext {
-          Type: RuntimeStatic
-        }
-      }
-      Objects {
-        Id: 12893341201847454752
+        Id: 13122364811375763866
         Name: "Cube - Bottom-Aligned"
         Transform {
           Location {
+            X: 4274.96875
+            Y: -4.99817753
+            Z: 176.999329
           }
           Rotation {
+            Roll: 4.78113034e-05
           }
           Scale {
-            X: 1.99999988
-            Y: 1.99999988
-            Z: 0.5
+            X: 3.9
+            Y: 3.9
+            Z: 2.29999971
           }
         }
-        ParentId: 3970738270998616351
+        ParentId: 16175877872902877203
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 17393423550230459008
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1.25
+              G: 1.08331251
+              B: 0.773749948
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.75
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -94659,14 +94077,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 3
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 10359873173675276411
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -94783,12 +94201,6 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 10359873173675276411
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
@@ -94798,6 +94210,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 12448879990677331902
             }
           }
         }
@@ -95521,14 +94939,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 1
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 4722126331581553362
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -95645,12 +95063,6 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 4722126331581553362
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
@@ -95660,6 +95072,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 10359873173675276411
             }
           }
         }
@@ -96383,14 +95801,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 1
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 2106367794334756017
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -96522,6 +95940,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 4722126331581553362
             }
           }
         }
@@ -97245,14 +96669,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 1
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 2505388924940780171
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -97369,12 +96793,6 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 2505388924940780171
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
@@ -97384,6 +96802,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 2106367794334756017
             }
           }
         }
@@ -98109,14 +97533,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 1
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 17599547543161513907
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -98233,12 +97657,6 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 17599547543161513907
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
@@ -98248,6 +97666,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 2505388924940780171
             }
           }
         }
@@ -98973,14 +98397,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 1
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 15838429635547070304
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -99097,12 +98521,6 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 15838429635547070304
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
@@ -99112,6 +98530,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 15838429635547070304
             }
           }
         }
@@ -99837,14 +99261,14 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
+            Name: "cs:CollapseTime"
+            Float: 1
+          }
+          Overrides {
+            Name: "cs:Trigger"
             ObjectReference {
               SubObjectId: 9237096818306500136
             }
-          }
-          Overrides {
-            Name: "cs:CollapseTime"
-            Float: 1
           }
         }
         WantsNetworking: true
@@ -99961,12 +99385,6 @@ Assets {
             }
           }
           Overrides {
-            Name: "cs:CollapseTrigger"
-            ObjectReference {
-              SubObjectId: 9237096818306500136
-            }
-          }
-          Overrides {
             Name: "cs:CollapseVFX"
             AssetReference {
               Id: 1150507085165330217
@@ -99976,6 +99394,12 @@ Assets {
             Name: "cs:ReassembleVFX"
             AssetReference {
               Id: 15554380137645418361
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 9237096818306500136
             }
           }
         }
@@ -100655,6 +100079,15 @@ Assets {
       }
     }
     Assets {
+      Id: 17042918944552201643
+      Name: "Frosted Glass No Distortion"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "fxma_frosted_glass_nodistortion"
+      }
+    }
+    Assets {
       Id: 6000681835192046231
       Name: "Pipe - Thick"
       PlatformAssetType: 1
@@ -100898,12 +100331,12 @@ Assets {
       }
     }
     Assets {
-      Id: 11771602665684224710
-      Name: "Pipe - 4-Sided Thin"
+      Id: 17620484908430633470
+      Name: "Pipe - 4-Sided Thick"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_pipe_4_sided_thin_001"
+        AssetId: "sm_pipe_4_sided_thick_001"
       }
     }
     Assets {

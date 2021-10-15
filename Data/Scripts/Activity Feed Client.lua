@@ -17,7 +17,7 @@ function removeActivity(activities)
   end
 end
 
-function addActivityToFeed(player, description, icon)
+function addActivityToFeed(playerName, description, icon)
   local activities = FEED_PANEL:GetChildren()
 
   if #activities >= 5 then
@@ -40,13 +40,13 @@ function addActivityToFeed(player, description, icon)
     end
   end)
 
-  entryDescription.text = player.name.." "..description.."!"
+  entryDescription.text = playerName.." "..description.."!"
   entryIcon:SetImage(icon)
 end
 
-function onPlayerGotTreasure(player, treasureName)
-  addActivityToFeed(player, "plundered "..treasureName, PLUNDER_ICON)
+function onPlayerGotTreasure(playerName, treasureName)
+  addActivityToFeed(playerName, "plundered "..treasureName, PLUNDER_ICON)
 end
 
-Events.Connect("PlayerDied", addActivityToFeed)
+Events.Connect("ActivityFeed", addActivityToFeed)
 Events.Connect("GotTreasure", onPlayerGotTreasure)

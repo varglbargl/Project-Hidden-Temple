@@ -16,7 +16,6 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 17225304629971066940
         ChildIds: 14251683739447202196
         ChildIds: 17651901195191197268
         ChildIds: 3452792924922583782
@@ -35,52 +34,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 17225304629971066940
-        Name: "Collision"
-        Transform {
-          Location {
-            Z: 135
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1.25
-          }
-        }
-        ParentId: 1276559960087338130
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 5944393796542654307
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          StaticMesh {
-            Physics {
-              Mass: 100
-              LinearDamping: 0.01
-            }
-            BoundsScale: 1
-          }
         }
       }
       Objects {
@@ -129,14 +82,14 @@ Assets {
         Name: "Bump Zone Server"
         Transform {
           Location {
-            Z: -52.0833359
+            Z: -50
           }
           Rotation {
           }
           Scale {
             X: 1
             Y: 1
-            Z: 1.04166675
+            Z: 1
           }
         }
         ParentId: 14251683739447202196
@@ -153,6 +106,16 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 16737201788430173059
+            }
+          }
+          Overrides {
+            Name: "cs:Force"
+            Float: 1000
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 2789473858702598162
             }
           }
         }
@@ -194,15 +157,14 @@ Assets {
         ParentId: 1276559960087338130
         UnregisteredParameters {
           Overrides {
-            Name: "cs:PatrolNodes"
-            ObjectReference {
-            }
-          }
-          Overrides {
             Name: "cs:ChargeSFX"
             AssetReference {
               Id: 18083464528892412846
             }
+          }
+          Overrides {
+            Name: "cs:LoopPatrol"
+            Bool: false
           }
         }
         WantsNetworking: true
@@ -242,7 +204,6 @@ Assets {
         ParentId: 1276559960087338130
         ChildIds: 15369236390616067043
         ChildIds: 10684025121623514143
-        ChildIds: 11411972256541445039
         ChildIds: 5466742049443851899
         ChildIds: 6259054713370417999
         ChildIds: 13091094133307389076
@@ -307,7 +268,7 @@ Assets {
       }
       Objects {
         Id: 10684025121623514143
-        Name: "Domestic Windchimes Loop 01 SFX"
+        Name: "Cowbell"
         Transform {
           Location {
             X: 6.9
@@ -340,59 +301,12 @@ Assets {
           }
           AutoPlay: true
           Repeat: true
-          Pitch: -1200
+          Pitch: -2000
           Volume: 0.25
           Falloff: 500
           Radius: 100
           IsSpatializationEnabled: true
           IsAttenuationEnabled: true
-        }
-      }
-      Objects {
-        Id: 11411972256541445039
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3452792924922583782
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 14251683739447202196
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -674,8 +588,8 @@ Assets {
         ChildIds: 13121255681435061602
         ChildIds: 14845862375535136079
         ChildIds: 3219421511116619288
-        ChildIds: 9510739392234470938
         ChildIds: 4637266020189609960
+        ChildIds: 6011911197748496200
         ChildIds: 14457398612740323366
         ChildIds: 11980685796688856570
         ChildIds: 7114452903318770499
@@ -856,9 +770,9 @@ Assets {
         Name: "Ring - Thick"
         Transform {
           Location {
-            X: 17.7427597
-            Y: -0.936034858
-            Z: -4.56565523
+            X: 18.6059132
+            Y: -0.936041951
+            Z: -4.41446781
           }
           Rotation {
             Pitch: 9.93498802
@@ -866,9 +780,9 @@ Assets {
             Roll: -179.999985
           }
           Scale {
-            X: 0.145410404
-            Y: 0.121698514
-            Z: 0.0861834958
+            X: 0.125230297
+            Y: 0.119125
+            Z: 0.0861834884
           }
         }
         ParentId: 1288986731006123265
@@ -1070,7 +984,7 @@ Assets {
         Transform {
           Location {
             X: 17.6967907
-            Y: -0.936035097
+            Y: -0.936028957
             Z: -2.93478656
           }
           Rotation {
@@ -1079,7 +993,7 @@ Assets {
             Roll: -179.999969
           }
           Scale {
-            X: 0.165239722
+            X: 0.158961371
             Y: 0.138294324
             Z: 0.0979361907
           }
@@ -1141,7 +1055,7 @@ Assets {
         Transform {
           Location {
             X: 19.0844765
-            Y: -0.936036229
+            Y: -0.93603009
             Z: -4.63284349
           }
           Rotation {
@@ -1149,8 +1063,8 @@ Assets {
             Roll: -90.5299072
           }
           Scale {
-            X: 0.124999411
-            Y: 0.0414882451
+            X: 0.127186328
+            Y: 0.0414882489
             Z: 0.0838456452
           }
         }
@@ -1281,7 +1195,7 @@ Assets {
         Transform {
           Location {
             X: 19.0844765
-            Y: -0.936036229
+            Y: -0.93603009
             Z: -4.63284349
           }
           Rotation {
@@ -1289,8 +1203,8 @@ Assets {
             Roll: -90.5298462
           }
           Scale {
-            X: 0.124999397
-            Y: 0.0414883308
+            X: 0.127186313
+            Y: 0.0414883345
             Z: 0.10582564
           }
         }
@@ -1346,23 +1260,23 @@ Assets {
         }
       }
       Objects {
-        Id: 9510739392234470938
-        Name: "Japanese Temple Roof Ornament 03"
+        Id: 4637266020189609960
+        Name: "Clay Form 07"
         Transform {
           Location {
-            X: -3.51186943
-            Y: 13.0537634
-            Z: 3.62125
+            X: -1.9999994
+            Y: -12
+            Z: 2.99999928
           }
           Rotation {
-            Pitch: -30.287323
-            Yaw: 100.061096
-            Roll: 3.66886663
+            Pitch: 35.3108025
+            Yaw: -40.6157227
+            Roll: 42.0290871
           }
           Scale {
-            X: 0.0257890169
-            Y: 0.00460229814
-            Z: 0.0357574336
+            X: 0.0752656832
+            Y: 0.0925915763
+            Z: 0.146450028
           }
         }
         ParentId: 1288986731006123265
@@ -1409,7 +1323,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1322574808403135676
+            Id: 909511182391512915
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1425,23 +1339,23 @@ Assets {
         }
       }
       Objects {
-        Id: 4637266020189609960
-        Name: "Japanese Temple Roof Ornament 03"
+        Id: 6011911197748496200
+        Name: "Clay Form 07"
         Transform {
           Location {
-            X: -3.51189876
-            Y: -14.9257908
-            Z: 3.62124443
+            X: -1.99998093
+            Y: 11
+            Z: 3.00001526
           }
           Rotation {
-            Pitch: -30.2873535
-            Yaw: -100.061279
-            Roll: -3.66885376
+            Pitch: 35.3107758
+            Yaw: 40.6157188
+            Roll: -42.0291138
           }
           Scale {
-            X: 0.0257890169
-            Y: 0.00469647348
-            Z: 0.0357574336
+            X: 0.0752656832
+            Y: -0.0925915763
+            Z: 0.146450028
           }
         }
         ParentId: 1288986731006123265
@@ -1488,7 +1402,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1322574808403135676
+            Id: 909511182391512915
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2664,7 +2578,7 @@ Assets {
       }
       Objects {
         Id: 2162989632661891495
-        Name: "Ring - Extra Thick"
+        Name: "Ring - Beveled Thick"
         Transform {
           Location {
             X: 25.0029888
@@ -2725,7 +2639,7 @@ Assets {
       }
       Objects {
         Id: 2680433071708342721
-        Name: "Ring - Extra Thick"
+        Name: "Sphere"
         Transform {
           Location {
             X: 28.1834545
@@ -2787,17 +2701,17 @@ Assets {
       }
       Objects {
         Id: 11804105831782796286
-        Name: "Ring - Extra Thick"
+        Name: "Ring - Beveled Thick"
         Transform {
           Location {
-            X: -3.94418144
-            Y: -15.9605865
-            Z: 1.20577753
+            X: -2.36393547
+            Y: -12.7588348
+            Z: -1.8517828
           }
           Rotation {
-            Pitch: -88.04776
-            Yaw: -15.7687073
-            Roll: -86.1971436
+            Pitch: -67.0933228
+            Yaw: 106.31321
+            Roll: 176.100784
           }
           Scale {
             X: 0.0623819642
@@ -2849,17 +2763,17 @@ Assets {
       }
       Objects {
         Id: 12715351515802439731
-        Name: "Ring - Extra Thick"
+        Name: "Ring - Beveled Thick"
         Transform {
           Location {
-            X: -4.5357852
-            Y: -18.6577225
-            Z: 1.77868068
+            X: -1.76926219
+            Y: -15.4600191
+            Z: -2.40220046
           }
           Rotation {
-            Pitch: -73.5933838
-            Yaw: -95.334137
-            Roll: -6.90930176
+            Pitch: -96.8630676
+            Yaw: -64.5561523
+            Roll: -12.8129883
           }
           Scale {
             X: 0.0461631157
@@ -6298,15 +6212,6 @@ Assets {
       }
     }
     Assets {
-      Id: 5944393796542654307
-      Name: "Capsule"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_capsule_001"
-      }
-    }
-    Assets {
       Id: 16737201788430173059
       Name: "Destroy"
       PlatformAssetType: 9
@@ -6424,12 +6329,12 @@ Assets {
       }
     }
     Assets {
-      Id: 1322574808403135676
-      Name: "Japanese Temple Roof Ornament 03"
+      Id: 909511182391512915
+      Name: "Clay Form 07"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_ts_jpn_tem_roof_001_orn_03_ref"
+        AssetId: "sm_prim_org_clayform_007_ref"
       }
     }
     Assets {
@@ -6699,5 +6604,6 @@ Assets {
     }
   }
   SerializationVersion: 100
-  VirtualFolderPath: "NPCs"
+  DirectlyPublished: true
+  VirtualFolderPath: "Game Components"
 }

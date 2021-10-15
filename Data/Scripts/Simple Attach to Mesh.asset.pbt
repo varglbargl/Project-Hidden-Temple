@@ -14,10 +14,23 @@ Assets {
         ObjectReference {
         }
       }
+      Overrides {
+        Name: "cs:Mesh:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:Parts:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:Mesh:tooltip"
+        String: "The Animated Mesh to attach the parts to."
+      }
+      Overrides {
+        Name: "cs:Parts:tooltip"
+        String: "A group or folder of other groups or folders, each named with the exact socket name they will be attached to. Based on the Mannequin by Sobchack but for animated meshes."
+      }
     }
-  }
-  Marketplace {
-    Description: "I like these scripts! Keepin this private tho. This one\'s just for Vanessa.\r\n\r\nBetter to just keep them here than to write them over again a million times because I forgot what project they were in."
   }
   SerializationVersion: 100
   DirectlyPublished: true

@@ -676,6 +676,5 @@ Assets {
   }
   SerializationVersion: 100
   DirectlyPublished: true
-  VirtualFolderPath: "Rooms"
   VirtualFolderPath: "Props"
 }
