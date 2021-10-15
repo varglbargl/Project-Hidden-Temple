@@ -14,10 +14,23 @@ Assets {
         Name: "cs:IsLocal"
         Bool: false
       }
+      Overrides {
+        Name: "cs:Speed:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:IsLocal:category"
+        String: "Optional"
+      }
+      Overrides {
+        Name: "cs:Speed:tooltip"
+        String: "The speed and axis to rotate the parent object. Can rotate along multiple axes."
+      }
+      Overrides {
+        Name: "cs:IsLocal:tooltip"
+        String: "If checked, the parent object will rotate in local space. If unchecked, it will rotate in world space."
+      }
     }
-  }
-  Marketplace {
-    Description: "I like these scripts! Keepin this private tho. This one\'s just for Vanessa.\r\n\r\nBetter to just keep them here than to write them over again a million times because I forgot what project they were in."
   }
   SerializationVersion: 100
   DirectlyPublished: true

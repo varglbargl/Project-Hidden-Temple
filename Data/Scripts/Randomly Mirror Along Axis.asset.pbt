@@ -24,4 +24,5 @@ Assets {
     }
   }
   SerializationVersion: 100
+  VirtualFolderPath: "Utilities"
 }

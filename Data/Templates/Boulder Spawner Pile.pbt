@@ -1,6 +1,6 @@
 Assets {
   Id: 11496772335090490983
-  Name: "Bolder Spawner Pile"
+  Name: "Boulder Spawner Pile"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

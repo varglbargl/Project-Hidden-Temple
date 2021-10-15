@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 878478805099823948
+        ParentId: 4781671109827199097
         ChildIds: 3156193308102756181
         ChildIds: 10559837277770586848
         ChildIds: 12990015193217896851
@@ -11424,7 +11424,6 @@ Assets {
         ChildIds: 304091804124552367
         ChildIds: 9391289212342825331
         ChildIds: 9376548446636234717
-        ChildIds: 3658871065783208925
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -12190,55 +12189,6 @@ Assets {
         }
       }
       Objects {
-        Id: 3658871065783208925
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            Y: -1200
-            Z: -1500
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3.00000024
-            Y: 3.00000024
-            Z: 3.00000024
-          }
-        }
-        ParentId: 10559837277770586848
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 7935634271896718771
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 12990015193217896851
         Name: "Spawn Point Setter"
         Transform {
@@ -12457,12 +12407,6 @@ Assets {
               Id: 12044346928300228689
             }
           }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: -90
-            }
-          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -12646,12 +12590,6 @@ Assets {
               Id: 12044346928300228689
             }
           }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: 90
-            }
-          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -12831,12 +12769,6 @@ Assets {
             Name: "cs:RotateSFX"
             AssetReference {
               Id: 12044346928300228689
-            }
-          }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: -90
             }
           }
         }
@@ -13019,12 +12951,6 @@ Assets {
             Name: "cs:RotateSFX"
             AssetReference {
               Id: 12044346928300228689
-            }
-          }
-          Overrides {
-            Name: "cs:DegreesPerTurn"
-            Rotator {
-              Roll: 45
             }
           }
         }
@@ -13317,6 +13243,12 @@ Assets {
             Name: "cs:KillFeedIcon"
             AssetReference {
               Id: 2040044343117508018
+            }
+          }
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 9751660794289768919
             }
           }
         }

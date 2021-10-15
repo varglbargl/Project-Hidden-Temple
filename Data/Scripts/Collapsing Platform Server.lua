@@ -1,8 +1,8 @@
 local Utils = require(script:GetCustomProperty("Utils"))
 
-local COLLAPSE_TIME = script:GetCustomProperty("CollapseTime")
+local TRIGGER = script:GetCustomProperty("Trigger"):WaitForObject()
 local PLATFORM_COLLISION = script:GetCustomProperty("PlatformCollision"):WaitForObject()
-local COLLAPSE_TRIGGER = script:GetCustomProperty("CollapseTrigger"):WaitForObject()
+local COLLAPSE_TIME = script:GetCustomProperty("CollapseTime")
 
 local collapsed = false
 
@@ -10,7 +10,7 @@ function startCollapsing(thisTrigger, other)
   if collapsed or not Object.IsValid(other) or not other:IsA("Player") then return end
 
   collapsed = true
-  Utils.throttleToAllPlayers("CollapsePlatform", COLLAPSE_TRIGGER.id, COLLAPSE_TIME)
+  Utils.throttleToAllPlayers("CollapsePlatform", TRIGGER.id, COLLAPSE_TIME)
 
   Task.Wait(COLLAPSE_TIME)
 
@@ -22,9 +22,9 @@ function startCollapsing(thisTrigger, other)
     Task.Wait(1)
   end
 
-  Utils.throttleToAllPlayers("RassemblePlatform", COLLAPSE_TRIGGER.id)
+  Utils.throttleToAllPlayers("RassemblePlatform", TRIGGER.id)
   PLATFORM_COLLISION.collision = Collision.INHERIT
   collapsed = false
 end
 
-COLLAPSE_TRIGGER.beginOverlapEvent:Connect(startCollapsing)
+TRIGGER.beginOverlapEvent:Connect(startCollapsing)

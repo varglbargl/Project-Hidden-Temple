@@ -6,12 +6,17 @@ Assets {
     CustomParameters {
       Overrides {
         Name: "cs:Secs"
-        Float: 0
+        Float: 3
+      }
+      Overrides {
+        Name: "cs:Secs:category"
+        String: "Required"
+      }
+      Overrides {
+        Name: "cs:Secs:tooltip"
+        String: "The number of seconds to wait before this script calls the Stop() method of its parent object. Parent must be something with a Stop() method like an Audio, SmartAudio, or Vfx object."
       }
     }
-  }
-  Marketplace {
-    Description: "I like these scripts! Keepin this private tho. This one\'s just for Vanessa.\r\n\r\nBetter to just keep them here than to write them over again a million times because I forgot what project they were in."
   }
   SerializationVersion: 100
   DirectlyPublished: true

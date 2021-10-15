@@ -64,10 +64,6 @@ Assets {
       PlatformAssetType: 5
     }
     Folders {
-      VirtualFolderPath: "NPCs"
-      PlatformAssetType: 5
-    }
-    Folders {
       VirtualFolderPath: "Rooms"
       PlatformAssetType: 5
     }
@@ -104,11 +100,6 @@ Assets {
     }
     Folders {
       VirtualFolderPath: "Rooms"
-      VirtualFolderPath: "Props"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Rooms"
       VirtualFolderPath: "Room Slots"
       PlatformAssetType: 5
     }
@@ -124,6 +115,10 @@ Assets {
     Folders {
       VirtualFolderPath: "UI Templates"
       PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Game Components"
+      PlatformAssetType: 3
     }
   }
 }

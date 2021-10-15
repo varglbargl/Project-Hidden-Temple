@@ -81,6 +81,8 @@ Assets {
         ChildIds: 7669501547479507080
         ChildIds: 13517488490191434285
         ChildIds: 6994246704733821874
+        ChildIds: 389648503499117525
+        ChildIds: 10485892933685563375
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -908,14 +910,14 @@ Assets {
         Transform {
           Location {
             X: 1150
-            Y: 600
-            Z: 400
+            Y: 808
+            Z: 491
           }
           Rotation {
             Yaw: 89.9999847
           }
           Scale {
-            X: 8
+            X: 3.90000057
             Y: 1
             Z: 4
           }
@@ -976,14 +978,14 @@ Assets {
         Transform {
           Location {
             X: 1050
-            Y: 600
-            Z: 200
+            Y: 808
+            Z: 291
           }
           Rotation {
             Yaw: 89.9999619
           }
           Scale {
-            X: 8
+            X: 3.90000057
             Y: 1
             Z: 4
           }
@@ -2576,6 +2578,142 @@ Assets {
         }
       }
       Objects {
+        Id: 389648503499117525
+        Name: "Cube"
+        Transform {
+          Location {
+            X: 1050
+            Y: 419
+            Z: 169
+          }
+          Rotation {
+            Yaw: 89.9999542
+          }
+          Scale {
+            X: 3.90000057
+            Y: 1
+            Z: 4
+          }
+        }
+        ParentId: 6645284277712677419
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5357777918645578075
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.666
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.666
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12095835209017042614
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
+        Id: 10485892933685563375
+        Name: "Cube"
+        Transform {
+          Location {
+            X: 1150
+            Y: 419
+            Z: 369
+          }
+          Rotation {
+            Yaw: 89.9999619
+          }
+          Scale {
+            X: 3.90000057
+            Y: 1
+            Z: 4
+          }
+        }
+        ParentId: 6645284277712677419
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5357777918645578075
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.666
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.666
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12095835209017042614
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+      }
+      Objects {
         Id: 15717926570276414785
         Name: "ClientContext"
         Transform {
@@ -2592,7 +2730,6 @@ Assets {
           }
         }
         ParentId: 6242288870872220220
-        ChildIds: 6023293396896110138
         ChildIds: 5582668520976463283
         ChildIds: 13557275824532996669
         ChildIds: 10249560929108940189
@@ -2620,56 +2757,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 6023293396896110138
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: 400
-            Y: -800
-            Z: -550
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3.93749928
-            Y: 3.74999928
-            Z: 1.49999976
-          }
-        }
-        ParentId: 15717926570276414785
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 16800995812187717706
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -3494,6 +3581,12 @@ Assets {
               Id: 2040044343117508018
             }
           }
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 9751660794289768919
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -3521,7 +3614,7 @@ Assets {
           Location {
             X: 600
             Y: 400
-            Z: -600
+            Z: -500
           }
           Rotation {
           }
@@ -3547,11 +3640,11 @@ Assets {
           }
           Overrides {
             Name: "cs:TravelTime"
-            Float: 1
+            Float: 1.5
           }
           Overrides {
             Name: "cs:WaitTime"
-            Float: 0.5
+            Float: 1
           }
         }
         WantsNetworking: true
@@ -3606,11 +3699,11 @@ Assets {
           }
           Overrides {
             Name: "cs:TravelTime"
-            Float: 1
+            Float: 1.5
           }
           Overrides {
             Name: "cs:WaitTime"
-            Float: 0.5
+            Float: 1
           }
         }
         WantsNetworking: true
@@ -5705,7 +5798,7 @@ Assets {
           Location {
             X: 2200
             Y: 1600
-            Z: -600
+            Z: -500
           }
           Rotation {
           }

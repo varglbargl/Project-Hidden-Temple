@@ -58,7 +58,6 @@ Assets {
           }
         }
         ParentId: 12733150707632719427
-        ChildIds: 8244077720899054739
         ChildIds: 406938469429762024
         ChildIds: 1563085959957115122
         ChildIds: 3557044129516478783
@@ -81,56 +80,6 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 8244077720899054739
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-            X: 2000
-            Y: 800
-            Z: -920
-          }
-          Rotation {
-          }
-          Scale {
-            X: 4.875
-            Y: 4.875
-            Z: 1
-          }
-        }
-        ParentId: 8695912166264700913
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 2789473858702598162
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 4566077793216921661
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
         }
       }
       Objects {
@@ -21218,6 +21167,14 @@ Assets {
           }
         }
         ParentId: 4566077793216921661
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 9751660794289768919
+            }
+          }
+        }
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

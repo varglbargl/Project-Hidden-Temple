@@ -18,8 +18,8 @@ Assets {
         ParentId: 4781671109827199097
         ChildIds: 16274366633834145559
         ChildIds: 5378009338483427821
-        ChildIds: 17031366904862647153
-        ChildIds: 13871811119976331616
+        ChildIds: 14461813297150675664
+        ChildIds: 15419259570389426663
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -5391,7 +5391,7 @@ Assets {
           }
         }
         ParentId: 15136977327027696209
-        ChildIds: 4569425492333533302
+        ChildIds: 6526544020967332168
         ChildIds: 16108427515518220391
         ChildIds: 4979979741650173390
         ChildIds: 4256562000004445997
@@ -5417,7 +5417,7 @@ Assets {
         }
       }
       Objects {
-        Id: 4569425492333533302
+        Id: 6526544020967332168
         Name: "Invisiwalls"
         Transform {
           Location {
@@ -5456,7 +5456,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -5474,7 +5474,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 15617928310795695172
         UnregisteredParameters {
           Overrides {
@@ -5622,7 +5622,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 5821379034851852081
         UnregisteredParameters {
           Overrides {
@@ -5766,7 +5766,7 @@ Assets {
             Y: -200
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -5774,7 +5774,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 13195502455351433319
         UnregisteredParameters {
           Overrides {
@@ -5927,7 +5927,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 3493740007679290126
         UnregisteredParameters {
           Overrides {
@@ -6079,7 +6079,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 1891227292564383774
         UnregisteredParameters {
           Overrides {
@@ -6223,7 +6223,7 @@ Assets {
             Y: -599.999939
           }
           Rotation {
-            Yaw: 89.9999771
+            Yaw: 89.9999619
           }
           Scale {
             X: 1
@@ -6231,7 +6231,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 2857654115381855476
         UnregisteredParameters {
           Overrides {
@@ -6384,7 +6384,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 2012159460225472736
         UnregisteredParameters {
           Overrides {
@@ -6529,7 +6529,7 @@ Assets {
             Y: 200
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -6537,7 +6537,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 15591474748267904356
         UnregisteredParameters {
           Overrides {
@@ -6682,7 +6682,7 @@ Assets {
             Y: -200
           }
           Rotation {
-            Yaw: 89.9999619
+            Yaw: 89.9999542
           }
           Scale {
             X: 1
@@ -6690,7 +6690,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 7394708665905624426
         UnregisteredParameters {
           Overrides {
@@ -6836,7 +6836,7 @@ Assets {
             Z: -50
           }
           Rotation {
-            Yaw: -179.999969
+            Yaw: -179.999954
           }
           Scale {
             X: 1
@@ -6844,7 +6844,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 17605031753063019834
         UnregisteredParameters {
           Overrides {
@@ -6996,7 +6996,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 7214065019259510100
         UnregisteredParameters {
           Overrides {
@@ -7140,7 +7140,7 @@ Assets {
             Y: -600
           }
           Rotation {
-            Yaw: 89.9999847
+            Yaw: 89.9999771
           }
           Scale {
             X: 1
@@ -7148,7 +7148,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4569425492333533302
+        ParentId: 6526544020967332168
         ChildIds: 6968537136850287204
         UnregisteredParameters {
           Overrides {
@@ -7720,46 +7720,12 @@ Assets {
         }
       }
       Objects {
-        Id: 17031366904862647153
+        Id: 14461813297150675664
         Name: "Spawn Point Setter"
         Transform {
           Location {
             X: 150
-            Z: 25
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15136977327027696209
-        ChildIds: 14461813297150675664
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 14461813297150675664
-        Name: "Trigger"
-        Transform {
-          Location {
-            Z: 150
+            Z: 175
           }
           Rotation {
           }
@@ -7769,7 +7735,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 17031366904862647153
+        ParentId: 15136977327027696209
         ChildIds: 8902493929864617787
         WantsNetworking: true
         Collidable_v2 {
@@ -7831,46 +7797,12 @@ Assets {
         }
       }
       Objects {
-        Id: 13871811119976331616
+        Id: 15419259570389426663
         Name: "Spawn Point Setter"
         Transform {
           Location {
             X: 2250
-            Z: 25
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15136977327027696209
-        ChildIds: 15419259570389426663
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 15419259570389426663
-        Name: "Trigger"
-        Transform {
-          Location {
-            Z: 150
+            Z: 175
           }
           Rotation {
           }
@@ -7880,7 +7812,7 @@ Assets {
             Z: 3
           }
         }
-        ParentId: 13871811119976331616
+        ParentId: 15136977327027696209
         ChildIds: 13099638209964406151
         WantsNetworking: true
         Collidable_v2 {

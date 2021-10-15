@@ -35,15 +35,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16910278292812118833
-  Name: "Sun Light"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_SunLight"
-  }
-}
-Assets {
   Id: 16363114587132434638
   Name: "Nature Thunder Clap Boom Set 01 SFX"
   PlatformAssetType: 10

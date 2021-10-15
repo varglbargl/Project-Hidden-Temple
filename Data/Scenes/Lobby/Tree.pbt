@@ -6819,7 +6819,6 @@ Objects {
   ParentId: 13861527379455086910
   ChildIds: 7248433229328776768
   ChildIds: 16094139846234610926
-  ChildIds: 16034017428469252496
   ChildIds: 15803586926014946489
   ChildIds: 7828818656359272071
   ChildIds: 10068082225879519788
@@ -7135,108 +7134,6 @@ Objects {
       Id: 8258029249780464074
     }
     TeamSettings {
-    }
-  }
-}
-Objects {
-  Id: 16034017428469252496
-  Name: "Sun Light"
-  Transform {
-    Location {
-    }
-    Rotation {
-      Pitch: -45.8452454
-      Yaw: 33.9371338
-      Roll: 8.92731857
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9831649856632002841
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Use Temperature"
-      Bool: false
-    }
-    Overrides {
-      Name: "bp:Light Color"
-      Color {
-        R: 1
-        G: 0.955973327
-        B: 0.73791039
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Shape"
-      Int: 1
-    }
-    Overrides {
-      Name: "bp:Size"
-      Float: 5
-    }
-    Overrides {
-      Name: "bp:Light Shaft Bloom"
-      Bool: true
-    }
-    Overrides {
-      Name: "bp:Cast Volumetric Shadows"
-      Bool: false
-    }
-    Overrides {
-      Name: "bp:Light Shaft Mask Darkness"
-      Float: 0.5
-    }
-    Overrides {
-      Name: "bp:Intensity"
-      Float: 3.5
-    }
-    Overrides {
-      Name: "bp:Sun Disc Color"
-      Color {
-        R: 3
-        G: 3
-        B: 3
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Light Shaft Bloom Scale"
-      Float: 0.2
-    }
-    Overrides {
-      Name: "bp:Light Shaft Bloom Threshold"
-      Float: 0.05
-    }
-    Overrides {
-      Name: "bp:Light Shaft Occlusion"
-      Bool: true
-    }
-    Overrides {
-      Name: "bp:Light Shaft Bloom Tint"
-      Color {
-        R: 1
-        G: 0.998476863
-        B: 0.77
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 16910278292812118833
     }
   }
 }

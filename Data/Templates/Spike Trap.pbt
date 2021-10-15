@@ -16,11 +16,8 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 2886845850800544687
         ChildIds: 17696841723217526311
-        ChildIds: 10098650456386296327
-        ChildIds: 7278244529070839137
-        ChildIds: 11924228750217137029
+        ChildIds: 131329135148294996
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -35,57 +32,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 2886845850800544687
-        Name: "Spike Trap Server"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12625577865504664883
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 17696841723217526311
-            }
-          }
-          Overrides {
-            Name: "cs:Spikes"
-            ObjectReference {
-              SubObjectId: 11924228750217137029
-            }
-          }
-          Overrides {
-            Name: "cs:CauseOfDeath"
-            String: "was impaled on some spikes"
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 14750261777064081499
-          }
         }
       }
       Objects {
@@ -104,6 +50,7 @@ Assets {
           }
         }
         ParentId: 12625577865504664883
+        ChildIds: 4543204285833234502
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -127,6 +74,146 @@ Assets {
         }
       }
       Objects {
+        Id: 4543204285833234502
+        Name: "Kill Zone Server"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.363636374
+            Y: 0.571428597
+            Z: 0.571428597
+          }
+        }
+        ParentId: 17696841723217526311
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:CauseOfDeath"
+            String: "set off a spike trap"
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 1088534770586260933
+          }
+        }
+      }
+      Objects {
+        Id: 131329135148294996
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12625577865504664883
+        ChildIds: 7009048206516449073
+        ChildIds: 10098650456386296327
+        ChildIds: 7278244529070839137
+        ChildIds: 9912349212527536490
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 7009048206516449073
+        Name: "Move Object Trigger"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 131329135148294996
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:StopMoveSFX"
+            AssetReference {
+              Id: 8077597153885795662
+            }
+          }
+          Overrides {
+            Name: "cs:MoveTime"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "cs:MovedPosition"
+            Vector {
+              Z: 225
+            }
+          }
+          Overrides {
+            Name: "cs:ObjectToMove"
+            ObjectReference {
+              SubObjectId: 9912349212527536490
+            }
+          }
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SubObjectId: 17696841723217526311
+            }
+          }
+          Overrides {
+            Name: "cs:HoldTime"
+            Float: 1.5
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Script {
+          ScriptAsset {
+            Id: 13898552050113150847
+          }
+        }
+      }
+      Objects {
         Id: 10098650456386296327
         Name: "Decal Sci-fi Details 01"
         Transform {
@@ -136,7 +223,7 @@ Assets {
             Z: 12.5
           }
           Rotation {
-            Yaw: -30
+            Yaw: -30.0000057
           }
           Scale {
             X: 1
@@ -144,7 +231,7 @@ Assets {
             Z: 0.2
           }
         }
-        ParentId: 12625577865504664883
+        ParentId: 131329135148294996
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -195,7 +282,7 @@ Assets {
             Z: 12.5
           }
           Rotation {
-            Yaw: 149.999985
+            Yaw: 149.999969
           }
           Scale {
             X: 1
@@ -203,7 +290,7 @@ Assets {
             Z: 0.2
           }
         }
-        ParentId: 12625577865504664883
+        ParentId: 131329135148294996
         UnregisteredParameters {
           Overrides {
             Name: "bp:Shape Index"
@@ -245,7 +332,7 @@ Assets {
         }
       }
       Objects {
-        Id: 11924228750217137029
+        Id: 9912349212527536490
         Name: "Spikes"
         Transform {
           Location {
@@ -258,7 +345,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 12625577865504664883
+        ParentId: 131329135148294996
         ChildIds: 9147832953283247994
         ChildIds: 15173590586266876198
         ChildIds: 5014841911758539855
@@ -273,9 +360,8 @@ Assets {
         ChildIds: 4796115652162600406
         ChildIds: 9469184871355936168
         ChildIds: 688030486963459545
-        WantsNetworking: true
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -286,7 +372,8 @@ Assets {
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
-        NetworkContext {
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
@@ -299,8 +386,8 @@ Assets {
           }
           Rotation {
             Pitch: 2.57424355
-            Yaw: 6.7881093
-            Roll: -4.33731079
+            Yaw: 6.78811502
+            Roll: -4.33731174
           }
           Scale {
             X: 0.199999854
@@ -308,7 +395,7 @@ Assets {
             Z: 2.26047373
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -377,8 +464,8 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -4.02102661
-            Yaw: 14.2759924
+            Pitch: -4.02102089
+            Yaw: 14.2760124
             Roll: 2.6722517
           }
           Scale {
@@ -387,7 +474,7 @@ Assets {
             Z: 1.89751339
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -456,9 +543,9 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -1.40032959
-            Yaw: -21.8995361
-            Roll: -3.47897339
+            Pitch: -1.4003253
+            Yaw: -21.8995228
+            Roll: -3.47897387
           }
           Scale {
             X: 0.2
@@ -466,7 +553,7 @@ Assets {
             Z: 2.5475657
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -535,8 +622,8 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -2.36221313
-            Yaw: -27.7884216
+            Pitch: -2.36220717
+            Yaw: -27.7884102
           }
           Scale {
             X: 0.199999928
@@ -544,7 +631,7 @@ Assets {
             Z: 1.76887262
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -614,7 +701,7 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Yaw: -32.7823486
+            Yaw: -32.7823639
             Roll: -2.01052856
           }
           Scale {
@@ -623,7 +710,7 @@ Assets {
             Z: 2.16529584
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -694,8 +781,8 @@ Assets {
           }
           Rotation {
             Pitch: 4.1516552
-            Yaw: -0.281463623
-            Roll: -3.88253784
+            Yaw: -0.281463534
+            Roll: -3.8825388
           }
           Scale {
             X: 0.199999809
@@ -703,7 +790,7 @@ Assets {
             Z: 1.48622704
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -773,9 +860,9 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -1.44454956
-            Yaw: -30.3497314
-            Roll: 2.66889071e-08
+            Pitch: -1.44454396
+            Yaw: -30.3497353
+            Roll: 5.33778142e-08
           }
           Scale {
             X: 0.199999914
@@ -783,7 +870,7 @@ Assets {
             Z: 1.71632314
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -854,8 +941,8 @@ Assets {
           }
           Rotation {
             Pitch: 1.71808612
-            Yaw: -22.1610718
-            Roll: 0.980044484
+            Yaw: -22.1610565
+            Roll: 0.980044365
           }
           Scale {
             X: 0.200000152
@@ -863,7 +950,7 @@ Assets {
             Z: 2.31880665
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -933,9 +1020,9 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -2.96923828
-            Yaw: 0.214824513
-            Roll: -4.14004517
+            Pitch: -2.96923327
+            Yaw: 0.214824468
+            Roll: -4.1400466
           }
           Scale {
             X: 0.199999958
@@ -943,7 +1030,7 @@ Assets {
             Z: 1.68383026
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1014,7 +1101,8 @@ Assets {
           }
           Rotation {
             Pitch: 4.01925182
-            Yaw: -179.999969
+            Yaw: -179.999954
+            Roll: 1.02028676e-13
           }
           Scale {
             X: 0.200000226
@@ -1022,7 +1110,7 @@ Assets {
             Z: 2.47523
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1092,9 +1180,9 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -3.61785889
+            Pitch: -3.61785531
             Yaw: 118.693275
-            Roll: -2.36663818
+            Roll: -2.36663771
           }
           Scale {
             X: 0.200000286
@@ -1102,7 +1190,7 @@ Assets {
             Z: 1.697909
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1172,9 +1260,9 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -4.1468811
+            Pitch: -4.14688063
             Yaw: 159.319748
-            Roll: 5.14794493
+            Roll: 5.14794636
           }
           Scale {
             X: 0.199999884
@@ -1182,7 +1270,7 @@ Assets {
             Z: 1.84469724
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1252,9 +1340,9 @@ Assets {
             Z: -256.544464
           }
           Rotation {
-            Pitch: -5.37823486
+            Pitch: -5.37823391
             Yaw: -158.125977
-            Roll: 2.14387214e-07
+            Roll: 3.21580814e-07
           }
           Scale {
             X: 0.200000927
@@ -1262,7 +1350,7 @@ Assets {
             Z: 2.25371575
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1333,8 +1421,8 @@ Assets {
           }
           Rotation {
             Pitch: 2.84124231
-            Yaw: -179.999969
-            Roll: -4.08544922
+            Yaw: -179.999954
+            Roll: -4.08545
           }
           Scale {
             X: 0.199999884
@@ -1342,7 +1430,7 @@ Assets {
             Z: 2.1756618
           }
         }
-        ParentId: 11924228750217137029
+        ParentId: 9912349212527536490
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1404,6 +1492,15 @@ Assets {
       }
     }
     Assets {
+      Id: 8077597153885795662
+      Name: "Creature Claws Blade Scrape Slice 01 SFX"
+      PlatformAssetType: 7
+      PrimaryAsset {
+        AssetType: "AudioAssetRef"
+        AssetId: "sfx_creature_claws_blade_scrape_slice_01a_Cue_ref"
+      }
+    }
+    Assets {
       Id: 14525364215432239736
       Name: "Decal Sci-fi Details 01"
       PlatformAssetType: 14
@@ -1436,5 +1533,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

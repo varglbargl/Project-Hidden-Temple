@@ -4,9 +4,9 @@ Assets {
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 2814604066906555613
+      RootId: 2732950052353928519
       Objects {
-        Id: 2814604066906555613
+        Id: 2732950052353928519
         Name: "Two-Way Telepoter"
         Transform {
           Scale {
@@ -32,7 +32,7 @@ Assets {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
         }
         Folder {
-          IsFilePartition: true
+          IsGroup: true
         }
       }
       Objects {
@@ -49,7 +49,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2814604066906555613
+        ParentId: 2732950052353928519
         UnregisteredParameters {
           Overrides {
             Name: "cs:TriggerA"
@@ -88,7 +88,6 @@ Assets {
         Transform {
           Location {
             Y: -200
-            Z: 20
           }
           Rotation {
           }
@@ -98,7 +97,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2814604066906555613
+        ParentId: 2732950052353928519
         ChildIds: 4634521197991385724
         ChildIds: 4489215918209221982
         ChildIds: 1937678515565409632
@@ -327,7 +326,6 @@ Assets {
         Transform {
           Location {
             Y: 200
-            Z: 20
           }
           Rotation {
           }
@@ -337,7 +335,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 2814604066906555613
+        ParentId: 2732950052353928519
         ChildIds: 5490305362595810904
         ChildIds: 4575474737137653251
         ChildIds: 15036634871829701685
@@ -585,5 +583,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

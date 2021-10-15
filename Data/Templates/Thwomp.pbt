@@ -1,6 +1,6 @@
 Assets {
   Id: 4819992250009052936
-  Name: "Thwomp (Working!)"
+  Name: "Thwomp"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

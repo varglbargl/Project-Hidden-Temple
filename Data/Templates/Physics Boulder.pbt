@@ -26,7 +26,7 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         EditorIndicatorVisibility {
           Value: "mc:eindicatorvisibility:visiblewhenselected"
@@ -113,6 +113,12 @@ Assets {
               SubObjectId: 13163809873437216585
             }
           }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4402666491527902022
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -149,7 +155,6 @@ Assets {
         }
         ParentId: 13163809873437216585
         ChildIds: 3909163106828420172
-        ChildIds: 6158558230267057229
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -232,53 +237,6 @@ Assets {
           }
         }
       }
-      Objects {
-        Id: 6158558230267057229
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15615404836124629172
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 11371463562932333791
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4402666491527902022
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
     }
     Assets {
       Id: 13710161915374590549
@@ -304,5 +262,6 @@ Assets {
     }
   }
   SerializationVersion: 100
+  DirectlyPublished: true
   VirtualFolderPath: "Game Components"
 }

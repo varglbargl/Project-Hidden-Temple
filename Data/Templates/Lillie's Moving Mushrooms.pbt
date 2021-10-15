@@ -3454,6 +3454,12 @@ Assets {
               Id: 10320015854653614954
             }
           }
+          Overrides {
+            Name: "cs:KillVFX"
+            AssetReference {
+              Id: 626669519439235650
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -3528,7 +3534,6 @@ Assets {
         }
         ParentId: 383392887937069429
         ChildIds: 7266193457279063854
-        ChildIds: 4768721758626772016
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -3901,53 +3906,6 @@ Assets {
         }
       }
       Objects {
-        Id: 4768721758626772016
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3857673856335876983
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 15987521498449829377
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 15987521498449829377
         Name: "Trigger"
         Transform {
@@ -4011,6 +3969,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true
@@ -4144,7 +4108,6 @@ Assets {
         }
         ParentId: 15282703263673317025
         ChildIds: 12710260009217046537
-        ChildIds: 11149875337613767997
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -4517,53 +4480,6 @@ Assets {
         }
       }
       Objects {
-        Id: 11149875337613767997
-        Name: "Simple VFX Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5072417912904263194
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 17973327552564270480
-            }
-          }
-          Overrides {
-            Name: "cs:VFXTemplate"
-            AssetReference {
-              Id: 4243895573009973615
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 17592175945540610035
-          }
-        }
-      }
-      Objects {
         Id: 17973327552564270480
         Name: "Trigger"
         Transform {
@@ -4627,6 +4543,12 @@ Assets {
           Overrides {
             Name: "cs:Force"
             Float: 1500
+          }
+          Overrides {
+            Name: "cs:BumpVFX"
+            AssetReference {
+              Id: 4243895573009973615
+            }
           }
         }
         WantsNetworking: true

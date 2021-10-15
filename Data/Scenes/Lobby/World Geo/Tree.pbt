@@ -27,6 +27,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 1046139413007622136
+      value {
+        Overrides {
+          Name: "KeyBinding"
+          Enum {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 5729178633839147222
       value {
         Overrides {
@@ -6151,6 +6162,17 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 12191634451684359596
+      value {
+        Overrides {
+          Name: "cs:BumpVFX"
+          AssetReference {
+            Id: 4243895573009973615
+          }
+        }
+      }
+    }
     TemplateAsset {
       Id: 14917342582873736582
     }
@@ -6438,6 +6460,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 1046139413007622136
+      value {
+        Overrides {
+          Name: "KeyBinding"
+          Enum {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 5729178633839147222
       value {
         Overrides {
@@ -6499,6 +6532,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 1046139413007622136
+      value {
+        Overrides {
+          Name: "KeyBinding"
+          Enum {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 5729178633839147222
       value {
         Overrides {
@@ -6552,6 +6596,17 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 1046139413007622136
+      value {
+        Overrides {
+          Name: "KeyBinding"
+          Enum {
+            Value: "mc:egameaction:extraaction_43"
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 5729178633839147222
       value {
@@ -16849,6 +16904,7 @@ Objects {
     }
   }
   ParentId: 8086099663106653810
+  ChildIds: 9883814809357630927
   ChildIds: 13233745584287258729
   UnregisteredParameters {
     Overrides {
@@ -17056,21 +17112,22 @@ Objects {
     }
   }
   ParentId: 14234929399496980848
-  ChildIds: 291196284445707741
-  ChildIds: 16793599535533484255
-  ChildIds: 3032971610285479967
-  ChildIds: 13520015532667821972
-  ChildIds: 7301460849943193240
-  ChildIds: 700137502147260166
-  ChildIds: 2302064844390612278
-  ChildIds: 10307573965348149863
-  ChildIds: 8378468267278275146
-  ChildIds: 2928004745609636383
-  ChildIds: 18115780421690904510
   UnregisteredParameters {
     Overrides {
       Name: "cs:AnimationStance"
       String: "unarmed_bind_pose"
+    }
+    Overrides {
+      Name: "cs:Mesh"
+      ObjectReference {
+        SelfId: 14234929399496980848
+      }
+    }
+    Overrides {
+      Name: "cs:Parts"
+      ObjectReference {
+        SelfId: 9883814809357630927
+      }
     }
   }
   Collidable_v2 {
@@ -17087,23 +17144,18 @@ Objects {
   }
   Script {
     ScriptAsset {
-      Id: 14822898899899907295
+      Id: 13924186888309160458
     }
   }
 }
 Objects {
-  Id: 18115780421690904510
-  Name: "right_knee"
+  Id: 9883814809357630927
+  Name: "Parts"
   Transform {
     Location {
-      X: -1.51171875
-      Y: 16.8808594
-      Z: -48.3017578
+      Z: -50
     }
     Rotation {
-      Pitch: -3.90996885
-      Yaw: 3.6291163
-      Roll: -4.2834897
     }
     Scale {
       X: 1
@@ -17111,7 +17163,55 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 14234929399496980848
+  ChildIds: 291196284445707741
+  ChildIds: 16793599535533484255
+  ChildIds: 3032971610285479967
+  ChildIds: 13520015532667821972
+  ChildIds: 7301460849943193240
+  ChildIds: 700137502147260166
+  ChildIds: 2302064844390612278
+  ChildIds: 10307573965348149863
+  ChildIds: 8378468267278275146
+  ChildIds: 2928004745609636383
+  ChildIds: 18115780421690904510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 18115780421690904510
+  Name: "right_knee"
+  Transform {
+    Location {
+      X: -1.51177084
+      Y: 16.880846
+      Z: 1.69823277
+    }
+    Rotation {
+      Pitch: -3.90996218
+      Yaw: 3.62911844
+      Roll: -4.28349209
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9883814809357630927
   ChildIds: 9724611436245225838
   UnregisteredParameters {
   }
@@ -17203,14 +17303,14 @@ Objects {
   Name: "left_knee"
   Transform {
     Location {
-      X: -1.51171875
-      Y: -16.8808594
-      Z: -48.3017578
+      X: -1.51165068
+      Y: -16.880846
+      Z: 1.69823277
     }
     Rotation {
       Pitch: -3.90987325
-      Yaw: -3.62918377
-      Roll: 4.28336239
+      Yaw: -3.62918591
+      Roll: 4.2833643
     }
     Scale {
       X: 1
@@ -17218,7 +17318,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 12314818036266766732
   UnregisteredParameters {
   }
@@ -17310,12 +17410,14 @@ Objects {
   Name: "pelvis"
   Transform {
     Location {
-      X: -0.509765625
-      Z: 15.0649414
+      X: -0.509661734
+      Y: -4.8669749e-06
+      Z: 65.0649338
     }
     Rotation {
       Pitch: 7.51320767e-05
-      Yaw: 7.17169532e-05
+      Yaw: 7.17169823e-05
+      Roll: -9.31803078e-18
     }
     Scale {
       X: 1
@@ -17323,7 +17425,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 10173862932227554267
   UnregisteredParameters {
   }
@@ -17402,12 +17504,14 @@ Objects {
   Name: "upper_spine"
   Transform {
     Location {
-      X: -0.509765625
-      Z: 57.6254883
+      X: -0.509661734
+      Y: -4.8669749e-06
+      Z: 107.625473
     }
     Rotation {
       Pitch: 7.51320767e-05
-      Yaw: 7.17169532e-05
+      Yaw: 7.17169823e-05
+      Roll: -9.31803078e-18
     }
     Scale {
       X: 1
@@ -17415,7 +17519,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 11275657593049287868
   ChildIds: 3047757237396494655
   ChildIds: 11498320662213400616
@@ -17709,14 +17813,14 @@ Objects {
   Name: "right_wrist"
   Transform {
     Location {
-      X: 2.60839844
-      Y: 47.9921875
-      Z: 14.3320312
+      X: 2.60838842
+      Y: 47.9921722
+      Z: 64.3320236
     }
     Rotation {
-      Pitch: 13.9379902
-      Yaw: -10.196991
-      Roll: -27.3249817
+      Pitch: 13.9379768
+      Yaw: -10.1970205
+      Roll: -27.3249378
     }
     Scale {
       X: 1
@@ -17724,7 +17828,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 16346002027468384837
   UnregisteredParameters {
   }
@@ -17816,14 +17920,14 @@ Objects {
   Name: "right_elbow"
   Transform {
     Location {
-      X: -7.6328125
+      X: -7.6328845
       Y: 34.9140625
-      Z: 34.7661133
+      Z: 84.7661133
     }
     Rotation {
       Pitch: 19.3176117
-      Yaw: -6.82479858
-      Roll: -28.7649536
+      Yaw: -6.82480812
+      Roll: -28.7649441
     }
     Scale {
       X: 1
@@ -17831,7 +17935,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 15373642430013105707
   UnregisteredParameters {
   }
@@ -17944,14 +18048,14 @@ Objects {
   Name: "right_clavicle"
   Transform {
     Location {
-      X: -3.12304688
-      Y: 4.72265625
-      Z: 64.3330078
+      X: -3.1230793
+      Y: 4.72265577
+      Z: 114.332985
     }
     Rotation {
       Pitch: 6.83018879e-06
-      Yaw: 8.82601738
-      Roll: -79.6859665
+      Yaw: 8.82604122
+      Roll: -79.6859436
     }
     Scale {
       X: 0.8
@@ -17959,7 +18063,7 @@ Objects {
       Z: 0.8
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 9733789189857427898
   ChildIds: 8377246226056783136
   ChildIds: 12158776304271276404
@@ -18667,14 +18771,14 @@ Objects {
   Name: "left_wrist"
   Transform {
     Location {
-      X: 3.09082031
-      Y: -47.6777344
-      Z: 14.5307617
+      X: 3.09073138
+      Y: -47.6777267
+      Z: 64.5307541
     }
     Rotation {
       Pitch: 13.9379902
-      Yaw: 10.1970139
-      Roll: 27.3249855
+      Yaw: 10.1970415
+      Roll: 27.324955
     }
     Scale {
       X: 1
@@ -18682,7 +18786,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 6109593701001533415
   UnregisteredParameters {
   }
@@ -18774,14 +18878,14 @@ Objects {
   Name: "left_elbow"
   Transform {
     Location {
-      X: -7.50976562
-      Y: -33.9492188
-      Z: 35.3349609
+      X: -7.50973463
+      Y: -33.9492149
+      Z: 85.3349533
     }
     Rotation {
-      Pitch: 18.4200077
-      Yaw: 9.02802086
-      Roll: 31.9080296
+      Pitch: 18.4199886
+      Yaw: 9.02804279
+      Roll: 31.9080563
     }
     Scale {
       X: 1
@@ -18789,7 +18893,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 751499906037111727
   UnregisteredParameters {
   }
@@ -18901,13 +19005,13 @@ Objects {
   Name: "left_clavicle"
   Transform {
     Location {
-      X: -3.12304688
-      Y: -4.72265625
-      Z: 64.3330078
+      X: -3.12310529
+      Y: -4.72265768
+      Z: 114.332985
     }
     Rotation {
-      Yaw: -8.82603359
-      Roll: 79.6859512
+      Yaw: -8.82605457
+      Roll: 79.6859207
     }
     Scale {
       X: 1
@@ -18915,7 +19019,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   ChildIds: 3767188309737213187
   ChildIds: 1159040719613780260
   ChildIds: 16071062323674348712
@@ -19623,13 +19727,14 @@ Objects {
   Name: "head"
   Transform {
     Location {
-      X: -3.14118385
-      Y: 0.0625
-      Z: 82.0175781
+      X: -3.14124465
+      Y: 0.0625099
+      Z: 132.017563
     }
     Rotation {
-      Pitch: -9.93499756
-      Yaw: 0.000120403849
+      Pitch: -9.93498802
+      Yaw: 0.000120407509
+      Roll: -7.86113563e-10
     }
     Scale {
       X: 1
@@ -19637,7 +19742,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13233745584287258729
+  ParentId: 9883814809357630927
   UnregisteredParameters {
   }
   Collidable_v2 {
